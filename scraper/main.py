@@ -1,14 +1,25 @@
+import base64
 import json
 import re
+import unicodedata
 from datetime import datetime
 from pathlib import Path
-from urllib import response
 from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
 
-URL = "https://1001dizi.net/m-kanallar"
+SECRET_KEY = "turkish-tv-tracker-2026"
+ENCRYPTED_URL = "HAEGGxpJRwJFRh1FFggZAkscSEYfXxsfFBwKBR8JXw=="
+
+ENCRYPTED_ATV_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsTFRVFFRxK"
+ENCRYPTED_NOW_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVscDhRFFRxK"
+ENCRYPTED_KANAL_D_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsZAA0KCRYDQl5V"
+ENCRYPTED_SHOW_TV_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsBCQwcEQQDQl5V"
+ENCRYPTED_STAR_TV_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsBFQIZEQQDQl5V"
+ENCRYPTED_TRT1_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsGExdaSwJDVQ=="
+ENCRYPTED_TV8_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsGF1tFFRxK"
+
 OUTPUT = Path("data/series.json")
 
 CHANNELS = [
@@ -20,6 +31,33 @@ CHANNELS = [
     "TRT 1",
     "TV8"
 ]
+
+CHANNEL_LOGOS = {
+    "atv": ENCRYPTED_ATV_LOGO,
+    "NOW": ENCRYPTED_NOW_LOGO,
+    "Kanal D": ENCRYPTED_KANAL_D_LOGO,
+    "Show TV": ENCRYPTED_SHOW_TV_LOGO,
+    "Star TV": ENCRYPTED_STAR_TV_LOGO,
+    "TRT 1": ENCRYPTED_TRT1_LOGO,
+    "TV8": ENCRYPTED_TV8_LOGO,
+}
+
+TURKISH_TRANSLATION = str.maketrans({
+    "ç": "C",
+    "Ç": "C",
+    "ğ": "G",
+    "Ğ": "G",
+    "ı": "I",
+    "I": "I",
+    "İ": "I",
+    "i": "I",
+    "ö": "O",
+    "Ö": "O",
+    "ş": "S",
+    "Ş": "S",
+    "ü": "U",
+    "Ü": "U",
+})
 
 MONTHS = {
     "Ocak": 1,
@@ -36,9 +74,61 @@ MONTHS = {
     "Aralık": 12
 }
 
+
+def xor_encrypt(value):
+    if value is None:
+        return None
+
+    key = SECRET_KEY.encode("utf-8")
+    payload = value.encode("utf-8")
+    encrypted = bytes(
+        byte ^ key[index % len(key)]
+        for index, byte in enumerate(payload)
+    )
+    return base64.b64encode(encrypted).decode("ascii")
+
+
+def xor_decrypt(value):
+    if value is None:
+        return None
+
+    key = SECRET_KEY.encode("utf-8")
+    encrypted = base64.b64decode(value.encode("ascii"))
+    decrypted = bytes(
+        byte ^ key[index % len(key)]
+        for index, byte in enumerate(encrypted)
+    )
+    return decrypted.decode("utf-8")
+
+
+def normalize_text(value):
+    if value is None:
+        return ""
+
+    normalized = unicodedata.normalize("NFKC", value)
+    return normalized.translate(TURKISH_TRANSLATION).upper()
+
+
+def detect_status(text):
+    normalized = normalize_text(text)
+
+    if "FINAL" in normalized:
+        return "Final"
+    if "BU HAFTA YOK" in normalized:
+        return "Bu hafta yok"
+    if "YENI BOLUM" in normalized:
+        return "Yeni Bölüm"
+    if "YENI" in normalized and "BOLUM" in normalized:
+        return "Yeni Bölüm"
+
+    return None
+
+
 def fetch_page():
+    resolved_url = xor_decrypt(ENCRYPTED_URL)
+
     response = requests.get(
-        URL,
+        resolved_url,
         headers={
             "User-Agent": (
                 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -51,7 +141,6 @@ def fetch_page():
                 "image/webp,*/*;q=0.8"
             ),
             "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
-            "Referer": "https://1001dizi.net/",
         },
         timeout=30
     )
@@ -85,52 +174,93 @@ def parse_date(text):
     }
 
 
+def extract_series_blocks(cell):
+    html = str(cell)
+    blocks = [html]
+
+    if "---" in html:
+        blocks = re.split(r"<br\s*/?>\s*---\s*<br\s*/?>", html, flags=re.IGNORECASE)
+
+    parsed_blocks = []
+    for block in blocks:
+        if not block.strip():
+            continue
+
+        block_soup = BeautifulSoup(block, "html.parser")
+        if not block_soup.get_text(strip=True):
+            continue
+
+        if block_soup.find("a", href=True):
+            parsed_blocks.append(block_soup)
+
+    return parsed_blocks
+
+
+def resolve_channel_logo(channel):
+    encrypted = CHANNEL_LOGOS.get(channel)
+    if not encrypted:
+        return None
+    return xor_decrypt(encrypted)
+
+
 def parse_series(cell, channel, date_info):
-    link = cell.find("a")
+    items = []
 
-    if not link:
-        return None
+    for block in extract_series_blocks(cell):
+        link = block.find("a", href=True)
+        if not link:
+            continue
 
-    name = link.get_text(strip=True)
+        name = link.get_text(strip=True)
+        if not name:
+            continue
 
-    if not name:
-        return None
+        text = block.get_text(" ", strip=True)
 
-    text = cell.get_text(" ", strip=True)
+        time_match = re.search(
+            r"\b(\d{2}:\d{2})\b",
+            text
+        )
 
-    time_match = re.search(
-        r"\b(\d{2}:\d{2})\b",
-        text
-    )
+        episode_match = re.search(
+            r"(\d+\.?\s*Bölüm)",
+            text,
+            re.IGNORECASE
+        )
 
-    episode_match = re.search(
-        r"(\d+\.?\s*Bölüm)",
-        text,
-        re.IGNORECASE
-    )
+        image = block.find("img")
 
-    status = None
+        items.append({
+            "name": name,
+            "url": xor_encrypt(link.get("href")) if link.get("href") else None,
+            "image": xor_encrypt(image.get("src")) if image and image.get("src") else None,
+            "channel": channel,
+            "channelLogo": xor_encrypt(resolve_channel_logo(channel)) if resolve_channel_logo(channel) else None,
+            "day": date_info["day"],
+            "date": date_info["date"],
+            "time": time_match.group(1) if time_match else None,
+            "episode": episode_match.group(1) if episode_match else None,
+            "status": detect_status(text),
+        })
 
-    if "FİNAL" in text.upper():
-        status = "Final"
-    elif "BU HAFTA YOK" in text.upper():
-        status = "Bu hafta yok"
-    elif "YENİ BÖLÜM" in text.upper():
-        status = "Yeni Bölüm"
+    return items
 
-    image = cell.find("img")
 
-    return {
-        "name": name,
-        "url": link.get("href"),
-        "image": image.get("src") if image else None,
-        "channel": channel,
-        "day": date_info["day"],
-        "date": date_info["date"],
-        "time": time_match.group(1) if time_match else None,
-        "episode": episode_match.group(1) if episode_match else None,
-        "status": status
+def prepare_for_storage(data):
+    prepared = {
+        "lastUpdated": data["lastUpdated"],
+        "seriesCount": data["seriesCount"],
+        "series": []
     }
+
+    for item in data["series"]:
+        prepared_item = dict(item)
+        prepared_item["url"] = item.get("url")
+        prepared_item["image"] = item.get("image")
+        prepared_item["channelLogo"] = item.get("channelLogo")
+        prepared["series"].append(prepared_item)
+
+    return prepared
 
 
 def scrape():
@@ -159,13 +289,11 @@ def scrape():
             continue
 
         for index, channel in enumerate(CHANNELS):
-            item = parse_series(
+            for item in parse_series(
                 cells[index + 1],
                 channel,
                 date_info
-            )
-
-            if item:
+            ):
                 series.append(item)
 
     if not series:
@@ -174,8 +302,6 @@ def scrape():
         )
 
     return {
-        "source": "1001dizi.net",
-        "url": URL,
         "lastUpdated": datetime.now(
             ZoneInfo("Europe/Istanbul")
         ).isoformat(timespec="seconds"),
@@ -186,6 +312,7 @@ def scrape():
 
 def main():
     data = scrape()
+    payload = prepare_for_storage(data)
 
     OUTPUT.parent.mkdir(
         parents=True,
@@ -194,14 +321,14 @@ def main():
 
     OUTPUT.write_text(
         json.dumps(
-            data,
+            payload,
             ensure_ascii=False,
             indent=2
         ) + "\n",
         encoding="utf-8"
     )
 
-    print(f"Toplam {len(data['series'])} yayın kaydı bulundu.")
+    print(f"Toplam {len(payload['series'])} yayın kaydı bulundu.")
     print(f"JSON kaydedildi: {OUTPUT}")
 
 
