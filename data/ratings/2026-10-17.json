@@ -1,0 +1,282 @@
+{
+    "date": "2026-10-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "20:59:55",
+                "end_time": "24:08:37",
+                "rating": 4.93,
+                "share": 14.36
+            },
+            {
+                "rank": 2,
+                "name": "BASKALARININ HAYATI",
+                "channel": "STAR TV",
+                "start_time": "20:59:55",
+                "end_time": "23:39:15",
+                "rating": 4.23,
+                "share": 11.9
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:59:52",
+                "end_time": "23:51:06",
+                "rating": 3.99,
+                "share": 11.41
+            },
+            {
+                "rank": 4,
+                "name": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:00",
+                "rating": 3.28,
+                "share": 10.41
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:33",
+                "end_time": "24:31:56",
+                "rating": 2.97,
+                "share": 9.08
+            },
+            {
+                "rank": 6,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "20:59:43",
+                "rating": 2.92,
+                "share": 8.41
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:56:10",
+                "rating": 2.42,
+                "share": 7.68
+            },
+            {
+                "rank": 8,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:08",
+                "end_time": "20:59:52",
+                "rating": 2.36,
+                "share": 6.8
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "20:33:28",
+                "rating": 2.33,
+                "share": 6.96
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:18",
+                "end_time": "20:00:05",
+                "rating": 2.33,
+                "share": 7.4
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "BASKALARININ HAYATI",
+                "channel": "STAR TV",
+                "start_time": "20:59:55",
+                "end_time": "23:39:15",
+                "rating": 4.09,
+                "share": 12.53
+            },
+            {
+                "rank": 2,
+                "name": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:00",
+                "rating": 3.2,
+                "share": 11.68
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:33",
+                "end_time": "24:31:56",
+                "rating": 3.09,
+                "share": 10.28
+            },
+            {
+                "rank": 4,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "20:59:55",
+                "end_time": "24:08:37",
+                "rating": 3.03,
+                "share": 9.6
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:59:52",
+                "end_time": "23:51:06",
+                "rating": 3.03,
+                "share": 9.38
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:33:28",
+                "end_time": "23:44:58",
+                "rating": 2.78,
+                "share": 8.61
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "20:33:28",
+                "rating": 2.46,
+                "share": 8.5
+            },
+            {
+                "rank": 8,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "20:59:43",
+                "rating": 1.73,
+                "share": 5.75
+            },
+            {
+                "rank": 9,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:08",
+                "end_time": "20:59:52",
+                "rating": 1.54,
+                "share": 5.11
+            },
+            {
+                "rank": 10,
+                "name": "BASKALARININ HAYATI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:33",
+                "end_time": "20:59:55",
+                "rating": 1.54,
+                "share": 5.1
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "BASKALARININ HAYATI",
+                "channel": "STAR TV",
+                "start_time": "20:59:55",
+                "end_time": "23:39:15",
+                "rating": 4.58,
+                "share": 12.91
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:59:52",
+                "end_time": "23:51:06",
+                "rating": 3.88,
+                "share": 11.05
+            },
+            {
+                "rank": 3,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "20:59:55",
+                "end_time": "24:08:37",
+                "rating": 3.78,
+                "share": 10.99
+            },
+            {
+                "rank": 4,
+                "name": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:00",
+                "rating": 3.5,
+                "share": 11.55
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:33",
+                "end_time": "24:31:56",
+                "rating": 3.25,
+                "share": 9.9
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:33:28",
+                "end_time": "23:44:58",
+                "rating": 2.72,
+                "share": 7.75
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "20:33:28",
+                "rating": 2.6,
+                "share": 8.02
+            },
+            {
+                "rank": 8,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "20:59:43",
+                "rating": 2.48,
+                "share": 7.35
+            },
+            {
+                "rank": 9,
+                "name": "BASKALARININ HAYATI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:33",
+                "end_time": "20:59:55",
+                "rating": 2.15,
+                "share": 6.39
+            },
+            {
+                "rank": 10,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:08",
+                "end_time": "20:59:52",
+                "rating": 2.1,
+                "share": 6.25
+            }
+        ]
+    }
+}

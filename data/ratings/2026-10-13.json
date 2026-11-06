@@ -1,0 +1,282 @@
+{
+    "date": "2026-10-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GALATASARAY-BARCELONA UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:48:17",
+                "end_time": "24:06:01",
+                "rating": 15.14,
+                "share": 42.98
+            },
+            {
+                "rank": 2,
+                "name": "TUZLU KAHVE",
+                "channel": "STAR TV",
+                "start_time": "20:00:37",
+                "end_time": "22:25:16",
+                "rating": 4.81,
+                "share": 13.07
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:09",
+                "end_time": "12:59:55",
+                "rating": 4.76,
+                "share": 36.2
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:13",
+                "end_time": "18:53:45",
+                "rating": 4.14,
+                "share": 20.21
+            },
+            {
+                "rank": 5,
+                "name": "HAYSIYET",
+                "channel": "KANAL D",
+                "start_time": "20:45:24",
+                "end_time": "23:29:55",
+                "rating": 4.07,
+                "share": 10.82
+            },
+            {
+                "rank": 6,
+                "name": "ANNE YARISI",
+                "channel": "NOW",
+                "start_time": "20:30:05",
+                "end_time": "23:46:19",
+                "rating": 3.81,
+                "share": 10.29
+            },
+            {
+                "rank": 7,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "19:59:53",
+                "end_time": "21:44:10",
+                "rating": 3.62,
+                "share": 9.95
+            },
+            {
+                "rank": 8,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:52",
+                "rating": 3.3,
+                "share": 11.01
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:56:47",
+                "rating": 3.03,
+                "share": 10.12
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:47",
+                "rating": 2.91,
+                "share": 9.8
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GALATASARAY-BARCELONA UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:48:17",
+                "end_time": "24:06:01",
+                "rating": 17.37,
+                "share": 50.73
+            },
+            {
+                "rank": 2,
+                "name": "TUZLU KAHVE",
+                "channel": "STAR TV",
+                "start_time": "20:00:37",
+                "end_time": "22:25:16",
+                "rating": 5.92,
+                "share": 16.79
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:09",
+                "end_time": "12:59:55",
+                "rating": 3.31,
+                "share": 30.0
+            },
+            {
+                "rank": 4,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "19:59:53",
+                "end_time": "21:44:10",
+                "rating": 3.19,
+                "share": 9.13
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:52",
+                "rating": 2.95,
+                "share": 11.21
+            },
+            {
+                "rank": 6,
+                "name": "HAYSIYET",
+                "channel": "KANAL D",
+                "start_time": "20:45:24",
+                "end_time": "23:29:55",
+                "rating": 2.84,
+                "share": 7.84
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:11",
+                "end_time": "24:24:13",
+                "rating": 2.66,
+                "share": 7.88
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:13",
+                "end_time": "18:53:45",
+                "rating": 2.55,
+                "share": 15.96
+            },
+            {
+                "rank": 9,
+                "name": "ANNE YARISI",
+                "channel": "NOW",
+                "start_time": "20:30:05",
+                "end_time": "23:46:19",
+                "rating": 2.54,
+                "share": 7.13
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:47",
+                "rating": 2.18,
+                "share": 8.42
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GALATASARAY-BARCELONA UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:48:17",
+                "end_time": "24:06:01",
+                "rating": 18.32,
+                "share": 48.02
+            },
+            {
+                "rank": 2,
+                "name": "TUZLU KAHVE",
+                "channel": "STAR TV",
+                "start_time": "20:00:37",
+                "end_time": "22:25:16",
+                "rating": 5.92,
+                "share": 15.56
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:09",
+                "end_time": "12:59:55",
+                "rating": 4.75,
+                "share": 35.72
+            },
+            {
+                "rank": 4,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "19:59:53",
+                "end_time": "21:44:10",
+                "rating": 3.87,
+                "share": 10.4
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:52",
+                "rating": 3.61,
+                "share": 12.71
+            },
+            {
+                "rank": 6,
+                "name": "ANNE YARISI",
+                "channel": "NOW",
+                "start_time": "20:30:05",
+                "end_time": "23:46:19",
+                "rating": 3.57,
+                "share": 9.11
+            },
+            {
+                "rank": 7,
+                "name": "HAYSIYET",
+                "channel": "KANAL D",
+                "start_time": "20:45:24",
+                "end_time": "23:29:55",
+                "rating": 3.52,
+                "share": 8.83
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:13",
+                "end_time": "18:53:45",
+                "rating": 3.44,
+                "share": 18.77
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:47",
+                "rating": 2.99,
+                "share": 10.66
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:11",
+                "end_time": "24:24:13",
+                "rating": 2.8,
+                "share": 7.46
+            }
+        ]
+    }
+}

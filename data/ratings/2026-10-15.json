@@ -1,0 +1,282 @@
+{
+    "date": "2026-10-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "HOFFENHEIM-BESIKTAS UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:54",
+                "end_time": "24:03:46",
+                "rating": 7.84,
+                "share": 23.16
+            },
+            {
+                "rank": 2,
+                "name": "KUPS KUOPIO-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:34:41",
+                "end_time": "21:47:39",
+                "rating": 5.89,
+                "share": 16.11
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:56",
+                "rating": 5.65,
+                "share": 35.49
+            },
+            {
+                "rank": 4,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:51:44",
+                "end_time": "24:17:20",
+                "rating": 4.93,
+                "share": 13.93
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:08",
+                "end_time": "18:54:27",
+                "rating": 4.73,
+                "share": 20.42
+            },
+            {
+                "rank": 6,
+                "name": "GUNESIN DOGDUGU YER",
+                "channel": "ATV",
+                "start_time": "20:47:16",
+                "end_time": "24:17:15",
+                "rating": 4.47,
+                "share": 12.5
+            },
+            {
+                "rank": 7,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:50:17",
+                "end_time": "23:56:47",
+                "rating": 3.99,
+                "share": 11.1
+            },
+            {
+                "rank": 8,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:44",
+                "rating": 3.87,
+                "share": 12.09
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:53",
+                "end_time": "19:52:52",
+                "rating": 3.83,
+                "share": 12.07
+            },
+            {
+                "rank": 10,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:53",
+                "end_time": "20:51:44",
+                "rating": 3.13,
+                "share": 8.54
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "HOFFENHEIM-BESIKTAS UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:54",
+                "end_time": "24:03:46",
+                "rating": 9.08,
+                "share": 28.19
+            },
+            {
+                "rank": 2,
+                "name": "KUPS KUOPIO-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:34:41",
+                "end_time": "21:47:39",
+                "rating": 6.11,
+                "share": 18.77
+            },
+            {
+                "rank": 3,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:51:44",
+                "end_time": "24:17:20",
+                "rating": 3.98,
+                "share": 12.03
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:56",
+                "rating": 3.8,
+                "share": 29.1
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:44",
+                "rating": 3.53,
+                "share": 13.72
+            },
+            {
+                "rank": 6,
+                "name": "GUNESIN DOGDUGU YER",
+                "channel": "ATV",
+                "start_time": "20:47:16",
+                "end_time": "24:17:15",
+                "rating": 3.28,
+                "share": 9.81
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:08",
+                "end_time": "18:54:27",
+                "rating": 2.93,
+                "share": 16.51
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:53",
+                "end_time": "19:52:52",
+                "rating": 2.82,
+                "share": 11.13
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:30",
+                "end_time": "24:25:36",
+                "rating": 2.79,
+                "share": 8.68
+            },
+            {
+                "rank": 10,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:50:17",
+                "end_time": "23:56:47",
+                "rating": 2.68,
+                "share": 7.94
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "HOFFENHEIM-BESIKTAS UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:54",
+                "end_time": "24:03:46",
+                "rating": 10.31,
+                "share": 28.84
+            },
+            {
+                "rank": 2,
+                "name": "KUPS KUOPIO-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:34:41",
+                "end_time": "21:47:39",
+                "rating": 7.19,
+                "share": 19.95
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:56",
+                "rating": 5.37,
+                "share": 36.12
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:44",
+                "rating": 4.55,
+                "share": 15.13
+            },
+            {
+                "rank": 5,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:51:44",
+                "end_time": "24:17:20",
+                "rating": 4.53,
+                "share": 12.35
+            },
+            {
+                "rank": 6,
+                "name": "GUNESIN DOGDUGU YER",
+                "channel": "ATV",
+                "start_time": "20:47:16",
+                "end_time": "24:17:15",
+                "rating": 3.96,
+                "share": 10.71
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:08",
+                "end_time": "18:54:27",
+                "rating": 3.75,
+                "share": 18.25
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:53",
+                "end_time": "19:52:52",
+                "rating": 3.31,
+                "share": 11.15
+            },
+            {
+                "rank": 9,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:50:17",
+                "end_time": "23:56:47",
+                "rating": 3.15,
+                "share": 8.46
+            },
+            {
+                "rank": 10,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:53",
+                "end_time": "20:51:44",
+                "rating": 3.06,
+                "share": 8.46
+            }
+        ]
+    }
+}

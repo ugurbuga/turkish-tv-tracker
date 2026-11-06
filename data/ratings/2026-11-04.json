@@ -1,0 +1,282 @@
+{
+    "date": "2026-11-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-LIVERPOOL UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:34:27",
+                "end_time": "22:50:13",
+                "rating": 14.72,
+                "share": 35.52
+            },
+            {
+                "rank": 2,
+                "name": "SEVDAN BIR ATES",
+                "channel": "SHOW TV",
+                "start_time": "20:46:16",
+                "end_time": "24:18:38",
+                "rating": 7.05,
+                "share": 18.63
+            },
+            {
+                "rank": 3,
+                "name": "YERALTI",
+                "channel": "NOW",
+                "start_time": "20:58:38",
+                "end_time": "23:50:57",
+                "rating": 6.62,
+                "share": 17.1
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "12:59:55",
+                "rating": 4.61,
+                "share": 32.7
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:54",
+                "end_time": "18:48:15",
+                "rating": 4.53,
+                "share": 18.64
+            },
+            {
+                "rank": 6,
+                "name": "YERALTI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:10",
+                "end_time": "20:58:23",
+                "rating": 4.27,
+                "share": 10.97
+            },
+            {
+                "rank": 7,
+                "name": "SEVDAN BIR ATES (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "20:46:16",
+                "rating": 4.17,
+                "share": 10.95
+            },
+            {
+                "rank": 8,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:00",
+                "rating": 4.14,
+                "share": 12.56
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:54",
+                "end_time": "19:55:47",
+                "rating": 3.37,
+                "share": 10.28
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:06",
+                "end_time": "20:00:08",
+                "rating": 2.76,
+                "share": 8.39
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-LIVERPOOL UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:34:27",
+                "end_time": "22:50:13",
+                "rating": 17.64,
+                "share": 46.84
+            },
+            {
+                "rank": 2,
+                "name": "SEVDAN BIR ATES",
+                "channel": "SHOW TV",
+                "start_time": "20:46:16",
+                "end_time": "24:18:38",
+                "rating": 5.55,
+                "share": 16.07
+            },
+            {
+                "rank": 3,
+                "name": "YERALTI",
+                "channel": "NOW",
+                "start_time": "20:58:38",
+                "end_time": "23:50:57",
+                "rating": 4.65,
+                "share": 13.11
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:00",
+                "rating": 3.47,
+                "share": 13.12
+            },
+            {
+                "rank": 5,
+                "name": "SEVDAN BIR ATES (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "20:46:16",
+                "rating": 3.47,
+                "share": 10.68
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "12:59:55",
+                "rating": 3.19,
+                "share": 28.08
+            },
+            {
+                "rank": 7,
+                "name": "UEFA SAMPIYONLAR LIGI MAC OZEL",
+                "channel": "TRT 1",
+                "start_time": "20:00:23",
+                "end_time": "20:25:57",
+                "rating": 2.84,
+                "share": 9.27
+            },
+            {
+                "rank": 8,
+                "name": "YERALTI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:10",
+                "end_time": "20:58:23",
+                "rating": 2.78,
+                "share": 8.3
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:54",
+                "end_time": "18:48:15",
+                "rating": 2.33,
+                "share": 12.82
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:57",
+                "rating": 2.0,
+                "share": 7.66
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-LIVERPOOL UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:34:27",
+                "end_time": "22:50:13",
+                "rating": 17.94,
+                "share": 42.45
+            },
+            {
+                "rank": 2,
+                "name": "SEVDAN BIR ATES",
+                "channel": "SHOW TV",
+                "start_time": "20:46:16",
+                "end_time": "24:18:38",
+                "rating": 6.79,
+                "share": 17.32
+            },
+            {
+                "rank": 3,
+                "name": "YERALTI",
+                "channel": "NOW",
+                "start_time": "20:58:38",
+                "end_time": "23:50:57",
+                "rating": 6.59,
+                "share": 16.37
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "12:59:55",
+                "rating": 4.45,
+                "share": 33.5
+            },
+            {
+                "rank": 5,
+                "name": "SEVDAN BIR ATES (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "20:46:16",
+                "rating": 4.32,
+                "share": 11.81
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:00",
+                "rating": 4.31,
+                "share": 14.16
+            },
+            {
+                "rank": 7,
+                "name": "YERALTI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:10",
+                "end_time": "20:58:23",
+                "rating": 4.16,
+                "share": 11.03
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:54",
+                "end_time": "18:48:15",
+                "rating": 3.44,
+                "share": 16.87
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:54",
+                "end_time": "19:55:47",
+                "rating": 2.84,
+                "share": 9.39
+            },
+            {
+                "rank": 10,
+                "name": "UEFA SAMPIYONLAR LIGI MAC OZEL",
+                "channel": "TRT 1",
+                "start_time": "20:00:23",
+                "end_time": "20:25:57",
+                "rating": 2.7,
+                "share": 7.8
+            }
+        ]
+    }
+}
