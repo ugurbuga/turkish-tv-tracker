@@ -310,6 +310,7 @@ def scrape():
     }
 
 
+
 def main():
     data = scrape()
     payload = prepare_for_storage(data)
@@ -318,6 +319,19 @@ def main():
         parents=True,
         exist_ok=True
     )
+
+    if OUTPUT.exists():
+        existing = json.loads(
+            OUTPUT.read_text(encoding="utf-8")
+        )
+
+        if (
+            existing.get("seriesCount") == payload["seriesCount"]
+            and existing.get("series") == payload["series"]
+        ):
+            print(f"Toplam {len(payload['series'])} yayın kaydı bulundu.")
+            print("Veriler değişmedi, JSON güncellenmedi.")
+            return
 
     OUTPUT.write_text(
         json.dumps(
