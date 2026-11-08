@@ -1,0 +1,282 @@
+{
+    "date": "2026-09-20",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:59:10",
+                "end_time": "24:16:29",
+                "rating": 7.05,
+                "share": 23.5
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:01",
+                "end_time": "20:58:59",
+                "rating": 4.28,
+                "share": 13.97
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:44",
+                "end_time": "23:56:37",
+                "rating": 3.95,
+                "share": 12.88
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:59",
+                "end_time": "21:00:44",
+                "rating": 2.46,
+                "share": 7.96
+            },
+            {
+                "rank": 5,
+                "name": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 2.36,
+                "share": 9.63
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:17",
+                "end_time": "24:27:40",
+                "rating": 2.28,
+                "share": 7.94
+            },
+            {
+                "rank": 7,
+                "name": "CIRKIN",
+                "channel": "STAR TV",
+                "start_time": "20:58:13",
+                "end_time": "24:19:28",
+                "rating": 2.11,
+                "share": 7.05
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:04",
+                "rating": 2.0,
+                "share": 8.18
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:17",
+                "rating": 1.9,
+                "share": 7.62
+            },
+            {
+                "rank": 10,
+                "name": "BESIKTAS BASKANI SERDAL ADALI ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "22:31:52",
+                "end_time": "22:36:56",
+                "rating": 1.67,
+                "share": 5.23
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:59:10",
+                "end_time": "24:16:29",
+                "rating": 6.0,
+                "share": 20.63
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:44",
+                "end_time": "23:56:37",
+                "rating": 3.53,
+                "share": 11.85
+            },
+            {
+                "rank": 3,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:01",
+                "end_time": "20:58:59",
+                "rating": 3.29,
+                "share": 11.2
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:17",
+                "end_time": "24:27:40",
+                "rating": 2.71,
+                "share": 9.69
+            },
+            {
+                "rank": 5,
+                "name": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 2.36,
+                "share": 10.43
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:59",
+                "end_time": "21:00:44",
+                "rating": 2.3,
+                "share": 7.77
+            },
+            {
+                "rank": 7,
+                "name": "CIRKIN",
+                "channel": "STAR TV",
+                "start_time": "20:58:13",
+                "end_time": "24:19:28",
+                "rating": 1.89,
+                "share": 6.51
+            },
+            {
+                "rank": 8,
+                "name": "CIRKIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:18",
+                "end_time": "20:58:13",
+                "rating": 1.51,
+                "share": 5.08
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:17",
+                "rating": 1.5,
+                "share": 6.52
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:04",
+                "rating": 1.43,
+                "share": 6.32
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:59:10",
+                "end_time": "24:16:29",
+                "rating": 6.86,
+                "share": 21.71
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:44",
+                "end_time": "23:56:37",
+                "rating": 3.78,
+                "share": 11.74
+            },
+            {
+                "rank": 3,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:01",
+                "end_time": "20:58:59",
+                "rating": 3.49,
+                "share": 11.27
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:17",
+                "end_time": "24:27:40",
+                "rating": 2.76,
+                "share": 9.13
+            },
+            {
+                "rank": 5,
+                "name": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 2.55,
+                "share": 10.72
+            },
+            {
+                "rank": 6,
+                "name": "CIRKIN",
+                "channel": "STAR TV",
+                "start_time": "20:58:13",
+                "end_time": "24:19:28",
+                "rating": 2.31,
+                "share": 7.33
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:59",
+                "end_time": "21:00:44",
+                "rating": 2.27,
+                "share": 7.26
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:04",
+                "rating": 1.81,
+                "share": 7.62
+            },
+            {
+                "rank": 9,
+                "name": "BESIKTAS BASKANI SERDAL ADALI ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "22:31:52",
+                "end_time": "22:36:56",
+                "rating": 1.68,
+                "share": 4.97
+            },
+            {
+                "rank": 10,
+                "name": "CIRKIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:18",
+                "end_time": "20:58:13",
+                "rating": 1.62,
+                "share": 5.18
+            }
+        ]
+    }
+}

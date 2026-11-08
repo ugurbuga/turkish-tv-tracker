@@ -1,0 +1,282 @@
+{
+    "date": "2026-09-18",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "21:01:25",
+                "end_time": "24:18:55",
+                "rating": 5.86,
+                "share": 20.83
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:58",
+                "rating": 4.24,
+                "share": 34.38
+            },
+            {
+                "rank": 3,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:01:25",
+                "rating": 3.89,
+                "share": 13.46
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:17",
+                "end_time": "18:45:28",
+                "rating": 3.35,
+                "share": 19.08
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:37",
+                "end_time": "24:35:25",
+                "rating": 2.84,
+                "share": 10.75
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:50:17",
+                "rating": 2.6,
+                "share": 11.0
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 2.51,
+                "share": 10.61
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "20:00:03",
+                "rating": 2.24,
+                "share": 9.49
+            },
+            {
+                "rank": 9,
+                "name": "ORTA DIREK SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:54",
+                "end_time": "21:54:48",
+                "rating": 2.18,
+                "share": 7.22
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:16",
+                "end_time": "20:00:20",
+                "rating": 1.93,
+                "share": 8.1
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "21:01:25",
+                "end_time": "24:18:55",
+                "rating": 5.47,
+                "share": 20.42
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:37",
+                "end_time": "24:35:25",
+                "rating": 3.91,
+                "share": 15.53
+            },
+            {
+                "rank": 3,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:01:25",
+                "rating": 3.57,
+                "share": 13.59
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:58",
+                "rating": 3.02,
+                "share": 27.22
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 2.55,
+                "share": 12.41
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:17",
+                "end_time": "18:45:28",
+                "rating": 2.11,
+                "share": 13.94
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:50:17",
+                "rating": 1.86,
+                "share": 9.06
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "20:00:03",
+                "rating": 1.6,
+                "share": 7.81
+            },
+            {
+                "rank": 9,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:59:46",
+                "end_time": "19:00:06",
+                "rating": 1.55,
+                "share": 10.35
+            },
+            {
+                "rank": 10,
+                "name": "ORTA DIREK SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:54",
+                "end_time": "21:54:48",
+                "rating": 1.48,
+                "share": 5.37
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "21:01:25",
+                "end_time": "24:18:55",
+                "rating": 6.31,
+                "share": 22.29
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:58",
+                "rating": 4.27,
+                "share": 33.72
+            },
+            {
+                "rank": 3,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:01:25",
+                "rating": 4.11,
+                "share": 15.05
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:37",
+                "end_time": "24:35:25",
+                "rating": 3.5,
+                "share": 13.12
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 2.73,
+                "share": 13.01
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:17",
+                "end_time": "18:45:28",
+                "rating": 2.72,
+                "share": 17.12
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:50:17",
+                "rating": 1.88,
+                "share": 8.93
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "20:00:03",
+                "rating": 1.86,
+                "share": 8.85
+            },
+            {
+                "rank": 9,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:59:46",
+                "end_time": "19:00:06",
+                "rating": 1.67,
+                "share": 10.56
+            },
+            {
+                "rank": 10,
+                "name": "ORTA DIREK SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:54",
+                "end_time": "21:54:48",
+                "rating": 1.53,
+                "share": 5.31
+            }
+        ]
+    }
+}
