@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-29",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:16",
+                "end_time": "24:33:34",
+                "rating": 3.37,
+                "share": 15.13
+            },
+            {
+                "rank": 2,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:51",
+                "rating": 1.66,
+                "share": 8.79
+            },
+            {
+                "rank": 3,
+                "name": "ORMAN COCUGU (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:10",
+                "end_time": "22:16:53",
+                "rating": 1.49,
+                "share": 6.49
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 1.41,
+                "share": 7.45
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:20",
+                "end_time": "19:59:55",
+                "rating": 1.37,
+                "share": 7.23
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "24:17:37",
+                "rating": 1.28,
+                "share": 5.54
+            },
+            {
+                "rank": 7,
+                "name": "YUZUKLERIN EFENDISI KRALIN DONUSU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:46",
+                "end_time": "23:46:15",
+                "rating": 1.24,
+                "share": 5.25
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:43:14",
+                "end_time": "20:59:16",
+                "rating": 1.19,
+                "share": 5.87
+            },
+            {
+                "rank": 9,
+                "name": "METRO HOLDING KAYSERISPOR-BURSASPOR TRENDYOL 1. LIG KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "18:52:05",
+                "end_time": "21:03:44",
+                "rating": 1.14,
+                "share": 5.56
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:54:19",
+                "rating": 1.08,
+                "share": 5.74
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:16",
+                "end_time": "24:33:34",
+                "rating": 3.86,
+                "share": 18.2
+            },
+            {
+                "rank": 2,
+                "name": "YUZUKLERIN EFENDISI KRALIN DONUSU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:46",
+                "end_time": "23:46:15",
+                "rating": 1.46,
+                "share": 6.73
+            },
+            {
+                "rank": 3,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:51",
+                "rating": 1.36,
+                "share": 8.55
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "24:17:37",
+                "rating": 1.33,
+                "share": 6.22
+            },
+            {
+                "rank": 5,
+                "name": "MINYONLAR 2 GRU'NUN YUKSELISI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:45",
+                "end_time": "21:46:52",
+                "rating": 1.32,
+                "share": 6.7
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:43:14",
+                "end_time": "20:59:16",
+                "rating": 1.32,
+                "share": 7.72
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 0.99,
+                "share": 6.18
+            },
+            {
+                "rank": 8,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "23:34:18",
+                "end_time": "25:01:05",
+                "rating": 0.97,
+                "share": 6.59
+            },
+            {
+                "rank": 9,
+                "name": "BABAMIN GOLGESI",
+                "channel": "TRT COCUK",
+                "start_time": "15:14:50",
+                "end_time": "15:27:50",
+                "rating": 0.94,
+                "share": 8.18
+            },
+            {
+                "rank": 10,
+                "name": "ATATURK 1881-1919 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:05",
+                "end_time": "22:49:52",
+                "rating": 0.93,
+                "share": 4.3
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:16",
+                "end_time": "24:33:34",
+                "rating": 3.99,
+                "share": 17.5
+            },
+            {
+                "rank": 2,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:51",
+                "rating": 1.38,
+                "share": 8.23
+            },
+            {
+                "rank": 3,
+                "name": "ORMAN COCUGU (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:10",
+                "end_time": "22:16:53",
+                "rating": 1.34,
+                "share": 6.18
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 1.3,
+                "share": 7.74
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "24:17:37",
+                "rating": 1.25,
+                "share": 5.45
+            },
+            {
+                "rank": 6,
+                "name": "YUZUKLERIN EFENDISI KRALIN DONUSU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:46",
+                "end_time": "23:46:15",
+                "rating": 1.24,
+                "share": 5.31
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:43:14",
+                "end_time": "20:59:16",
+                "rating": 1.19,
+                "share": 6.55
+            },
+            {
+                "rank": 8,
+                "name": "ATATURK 1881-1919 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:05",
+                "end_time": "22:49:52",
+                "rating": 1.16,
+                "share": 5.02
+            },
+            {
+                "rank": 9,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "23:34:18",
+                "end_time": "25:01:05",
+                "rating": 1.02,
+                "share": 6.31
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:20",
+                "end_time": "19:59:55",
+                "rating": 1.01,
+                "share": 6.01
+            }
+        ]
+    }
+}

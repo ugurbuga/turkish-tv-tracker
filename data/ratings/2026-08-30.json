@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-30",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:59:53",
+                "end_time": "24:16:38",
+                "rating": 6.89,
+                "share": 27.29
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "20:59:42",
+                "rating": 3.6,
+                "share": 15.71
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:48:49",
+                "end_time": "24:30:02",
+                "rating": 2.39,
+                "share": 9.96
+            },
+            {
+                "rank": 4,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:11",
+                "end_time": "21:44:17",
+                "rating": 1.62,
+                "share": 6.91
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "20:00:00",
+                "rating": 1.62,
+                "share": 8.54
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:21",
+                "rating": 1.5,
+                "share": 7.83
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:17",
+                "end_time": "20:00:07",
+                "rating": 1.29,
+                "share": 6.78
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:42:16",
+                "end_time": "20:48:49",
+                "rating": 1.01,
+                "share": 5.05
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:54:23",
+                "rating": 0.99,
+                "share": 5.23
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:53:11",
+                "end_time": "24:17:33",
+                "rating": 0.97,
+                "share": 3.82
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:59:53",
+                "end_time": "24:16:38",
+                "rating": 5.2,
+                "share": 22.57
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "20:59:42",
+                "rating": 3.37,
+                "share": 15.94
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:48:49",
+                "end_time": "24:30:02",
+                "rating": 2.4,
+                "share": 11.04
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:21",
+                "rating": 1.3,
+                "share": 7.37
+            },
+            {
+                "rank": 5,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "24:18:24",
+                "end_time": "25:44:23",
+                "rating": 1.26,
+                "share": 14.47
+            },
+            {
+                "rank": 6,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:11",
+                "end_time": "21:44:17",
+                "rating": 1.25,
+                "share": 5.8
+            },
+            {
+                "rank": 7,
+                "name": "ATATURK 2 1881-1919 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:41",
+                "end_time": "23:00:59",
+                "rating": 1.21,
+                "share": 5.24
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:17",
+                "end_time": "20:00:07",
+                "rating": 1.03,
+                "share": 5.85
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:04",
+                "end_time": "20:53:11",
+                "rating": 0.89,
+                "share": 4.22
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:42:16",
+                "end_time": "20:48:49",
+                "rating": 0.82,
+                "share": 4.43
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:59:53",
+                "end_time": "24:16:38",
+                "rating": 6.48,
+                "share": 25.6
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "20:59:42",
+                "rating": 3.43,
+                "share": 15.33
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:48:49",
+                "end_time": "24:30:02",
+                "rating": 2.51,
+                "share": 10.43
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "20:00:00",
+                "rating": 1.64,
+                "share": 8.71
+            },
+            {
+                "rank": 5,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:11",
+                "end_time": "21:44:17",
+                "rating": 1.63,
+                "share": 7.12
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:21",
+                "rating": 1.61,
+                "share": 8.5
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:17",
+                "end_time": "20:00:07",
+                "rating": 1.19,
+                "share": 6.31
+            },
+            {
+                "rank": 8,
+                "name": "ATATURK 2 1881-1919 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:41",
+                "end_time": "23:00:59",
+                "rating": 1.12,
+                "share": 4.52
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:53:11",
+                "end_time": "24:17:33",
+                "rating": 1.09,
+                "share": 4.33
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:54:23",
+                "rating": 0.98,
+                "share": 5.22
+            }
+        ]
+    }
+}
