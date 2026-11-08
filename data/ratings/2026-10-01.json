@@ -1,0 +1,282 @@
+{
+    "date": "2026-10-01",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:52",
+                "end_time": "23:51:01",
+                "rating": 4.98,
+                "share": 15.35
+            },
+            {
+                "rank": 2,
+                "name": "GUNESIN DOGDUGU YER",
+                "channel": "ATV",
+                "start_time": "20:41:02",
+                "end_time": "23:32:21",
+                "rating": 4.78,
+                "share": 14.28
+            },
+            {
+                "rank": 3,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:58:52",
+                "end_time": "24:01:26",
+                "rating": 4.73,
+                "share": 14.9
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:42",
+                "rating": 4.17,
+                "share": 32.16
+            },
+            {
+                "rank": 5,
+                "name": "YERALTI ON IZLEME",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "20:04:16",
+                "rating": 3.89,
+                "share": 12.37
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:17",
+                "end_time": "18:46:07",
+                "rating": 3.76,
+                "share": 19.24
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:58",
+                "rating": 3.57,
+                "share": 12.54
+            },
+            {
+                "rank": 8,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:04:21",
+                "end_time": "20:58:47",
+                "rating": 3.24,
+                "share": 9.75
+            },
+            {
+                "rank": 9,
+                "name": "GUNESIN DOGDUGU YER (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:00",
+                "end_time": "20:41:02",
+                "rating": 3.23,
+                "share": 10.03
+            },
+            {
+                "rank": 10,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:28",
+                "end_time": "20:59:52",
+                "rating": 3.12,
+                "share": 9.44
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GUNESIN DOGDUGU YER",
+                "channel": "ATV",
+                "start_time": "20:41:02",
+                "end_time": "23:32:21",
+                "rating": 4.32,
+                "share": 14.22
+            },
+            {
+                "rank": 2,
+                "name": "YERALTI ON IZLEME",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "20:04:16",
+                "rating": 3.99,
+                "share": 13.99
+            },
+            {
+                "rank": 3,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:52",
+                "end_time": "23:51:01",
+                "rating": 3.53,
+                "share": 11.98
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:58",
+                "rating": 3.35,
+                "share": 13.34
+            },
+            {
+                "rank": 5,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:58:52",
+                "end_time": "24:01:26",
+                "rating": 3.32,
+                "share": 11.57
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:42",
+                "rating": 3.26,
+                "share": 32.27
+            },
+            {
+                "rank": 7,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:04:21",
+                "end_time": "20:58:47",
+                "rating": 2.61,
+                "share": 8.68
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:27",
+                "end_time": "24:36:17",
+                "rating": 2.54,
+                "share": 9.64
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:48:29",
+                "rating": 2.34,
+                "share": 9.48
+            },
+            {
+                "rank": 10,
+                "name": "GUNESIN DOGDUGU YER (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:00",
+                "end_time": "20:41:02",
+                "rating": 2.29,
+                "share": 7.87
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GUNESIN DOGDUGU YER",
+                "channel": "ATV",
+                "start_time": "20:41:02",
+                "end_time": "23:32:21",
+                "rating": 4.92,
+                "share": 14.14
+            },
+            {
+                "rank": 2,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:52",
+                "end_time": "23:51:01",
+                "rating": 4.62,
+                "share": 13.68
+            },
+            {
+                "rank": 3,
+                "name": "YERALTI ON IZLEME",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "20:04:16",
+                "rating": 4.41,
+                "share": 14.21
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:42",
+                "rating": 4.41,
+                "share": 34.87
+            },
+            {
+                "rank": 5,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:58:52",
+                "end_time": "24:01:26",
+                "rating": 3.83,
+                "share": 11.59
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:58",
+                "rating": 3.75,
+                "share": 13.71
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:27",
+                "end_time": "24:36:17",
+                "rating": 3.04,
+                "share": 9.96
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:17",
+                "end_time": "18:46:07",
+                "rating": 2.96,
+                "share": 16.34
+            },
+            {
+                "rank": 9,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:28",
+                "end_time": "20:59:52",
+                "rating": 2.92,
+                "share": 8.75
+            },
+            {
+                "rank": 10,
+                "name": "GUNESIN DOGDUGU YER (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:00",
+                "end_time": "20:41:02",
+                "rating": 2.88,
+                "share": 8.93
+            }
+        ]
+    }
+}
