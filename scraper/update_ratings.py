@@ -44,7 +44,7 @@ def main():
             continue
         
     if existing_dates:
-        start_date = min(existing_dates) - timedelta(days=1)
+        start_date = min(existing_dates) - timedelta(days=5)
     else:
         start_date = yesterday
 
