@@ -1,0 +1,282 @@
+{
+    "date": "2026-09-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:55",
+                "rating": 3.62,
+                "share": 28.59
+            },
+            {
+                "rank": 2,
+                "name": "MUHTEMEL ASK",
+                "channel": "SHOW TV",
+                "start_time": "20:59:30",
+                "end_time": "24:17:32",
+                "rating": 3.5,
+                "share": 14.45
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:47",
+                "end_time": "24:36:50",
+                "rating": 3.18,
+                "share": 13.99
+            },
+            {
+                "rank": 4,
+                "name": "ALMANYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:57:35",
+                "end_time": "21:22:51",
+                "rating": 3.04,
+                "share": 13.39
+            },
+            {
+                "rank": 5,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:44:04",
+                "end_time": "23:41:45",
+                "rating": 2.66,
+                "share": 10.56
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:05",
+                "end_time": "18:46:17",
+                "rating": 2.65,
+                "share": 17.42
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:52:31",
+                "rating": 2.18,
+                "share": 10.95
+            },
+            {
+                "rank": 8,
+                "name": "VAR MISIN YOK MUSUN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "20:44:04",
+                "rating": 2.09,
+                "share": 8.76
+            },
+            {
+                "rank": 9,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:05",
+                "end_time": "13:59:33",
+                "rating": 1.86,
+                "share": 14.33
+            },
+            {
+                "rank": 10,
+                "name": "MUHTEMEL ASK (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "20:59:30",
+                "rating": 1.69,
+                "share": 6.92
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "ALMANYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:57:35",
+                "end_time": "21:22:51",
+                "rating": 4.23,
+                "share": 21.45
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:47",
+                "end_time": "24:36:50",
+                "rating": 3.4,
+                "share": 16.13
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:55",
+                "rating": 2.77,
+                "share": 23.51
+            },
+            {
+                "rank": 4,
+                "name": "MUHTEMEL ASK",
+                "channel": "SHOW TV",
+                "start_time": "20:59:30",
+                "end_time": "24:17:32",
+                "rating": 2.61,
+                "share": 11.6
+            },
+            {
+                "rank": 5,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:44:04",
+                "end_time": "23:41:45",
+                "rating": 1.7,
+                "share": 7.27
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:05",
+                "end_time": "18:46:17",
+                "rating": 1.56,
+                "share": 13.27
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:52:31",
+                "rating": 1.53,
+                "share": 9.07
+            },
+            {
+                "rank": 8,
+                "name": "VAR MISIN YOK MUSUN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "20:44:04",
+                "rating": 1.52,
+                "share": 7.22
+            },
+            {
+                "rank": 9,
+                "name": "TUZLU KAHVE (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:04",
+                "end_time": "22:47:20",
+                "rating": 1.24,
+                "share": 5.36
+            },
+            {
+                "rank": 10,
+                "name": "MUHTEMEL ASK (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "20:59:30",
+                "rating": 1.21,
+                "share": 5.57
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "ALMANYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:57:35",
+                "end_time": "21:22:51",
+                "rating": 4.32,
+                "share": 19.66
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:47",
+                "end_time": "24:36:50",
+                "rating": 3.44,
+                "share": 15.04
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:55",
+                "rating": 3.42,
+                "share": 28.96
+            },
+            {
+                "rank": 4,
+                "name": "MUHTEMEL ASK",
+                "channel": "SHOW TV",
+                "start_time": "20:59:30",
+                "end_time": "24:17:32",
+                "rating": 3.11,
+                "share": 12.81
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:05",
+                "end_time": "18:46:17",
+                "rating": 2.14,
+                "share": 16.2
+            },
+            {
+                "rank": 6,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:44:04",
+                "end_time": "23:41:45",
+                "rating": 2.05,
+                "share": 8.14
+            },
+            {
+                "rank": 7,
+                "name": "VAR MISIN YOK MUSUN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "20:44:04",
+                "rating": 1.74,
+                "share": 7.52
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:52:31",
+                "rating": 1.73,
+                "share": 9.13
+            },
+            {
+                "rank": 9,
+                "name": "MUHTEMEL ASK (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "20:59:30",
+                "rating": 1.45,
+                "share": 6.07
+            },
+            {
+                "rank": 10,
+                "name": "TUZLU KAHVE (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:04",
+                "end_time": "22:47:20",
+                "rating": 1.31,
+                "share": 5.21
+            }
+        ]
+    }
+}
