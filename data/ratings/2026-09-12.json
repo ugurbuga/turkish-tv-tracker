@@ -1,0 +1,282 @@
+{
+    "date": "2026-09-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:00",
+                "end_time": "24:18:18",
+                "rating": 3.68,
+                "share": 13.94
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:09",
+                "end_time": "23:52:03",
+                "rating": 3.1,
+                "share": 11.45
+            },
+            {
+                "rank": 3,
+                "name": "MERCAN KOSK",
+                "channel": "ATV",
+                "start_time": "20:41:45",
+                "end_time": "23:18:10",
+                "rating": 3.0,
+                "share": 10.9
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:52",
+                "end_time": "24:29:22",
+                "rating": 2.89,
+                "share": 11.45
+            },
+            {
+                "rank": 5,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:58",
+                "end_time": "20:59:49",
+                "rating": 2.35,
+                "share": 9.28
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:00",
+                "rating": 1.87,
+                "share": 9.56
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:56",
+                "rating": 1.71,
+                "share": 8.78
+            },
+            {
+                "rank": 8,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:32",
+                "end_time": "21:00:09",
+                "rating": 1.69,
+                "share": 6.67
+            },
+            {
+                "rank": 9,
+                "name": "MERCAN KOSK (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "20:41:45",
+                "rating": 1.68,
+                "share": 6.77
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "20:00:14",
+                "rating": 1.56,
+                "share": 7.84
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:52",
+                "end_time": "24:29:22",
+                "rating": 3.87,
+                "share": 16.67
+            },
+            {
+                "rank": 2,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:00",
+                "end_time": "24:18:18",
+                "rating": 2.31,
+                "share": 9.53
+            },
+            {
+                "rank": 3,
+                "name": "MERCAN KOSK",
+                "channel": "ATV",
+                "start_time": "20:41:45",
+                "end_time": "23:18:10",
+                "rating": 1.95,
+                "share": 7.7
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:09",
+                "end_time": "23:52:03",
+                "rating": 1.87,
+                "share": 7.53
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:00",
+                "rating": 1.6,
+                "share": 9.39
+            },
+            {
+                "rank": 6,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:58",
+                "end_time": "20:59:49",
+                "rating": 1.51,
+                "share": 6.99
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "20:00:14",
+                "rating": 1.23,
+                "share": 7.13
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:56",
+                "rating": 1.23,
+                "share": 7.2
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:41:31",
+                "end_time": "20:44:52",
+                "rating": 1.22,
+                "share": 6.73
+            },
+            {
+                "rank": 10,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:32",
+                "end_time": "21:00:09",
+                "rating": 1.15,
+                "share": 5.31
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:52",
+                "end_time": "24:29:22",
+                "rating": 3.35,
+                "share": 13.37
+            },
+            {
+                "rank": 2,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:00",
+                "end_time": "24:18:18",
+                "rating": 3.27,
+                "share": 12.51
+            },
+            {
+                "rank": 3,
+                "name": "MERCAN KOSK",
+                "channel": "ATV",
+                "start_time": "20:41:45",
+                "end_time": "23:18:10",
+                "rating": 2.51,
+                "share": 9.31
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:09",
+                "end_time": "23:52:03",
+                "rating": 2.36,
+                "share": 8.81
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:00",
+                "rating": 2.19,
+                "share": 12.14
+            },
+            {
+                "rank": 6,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:58",
+                "end_time": "20:59:49",
+                "rating": 1.85,
+                "share": 8.06
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:56",
+                "rating": 1.47,
+                "share": 8.17
+            },
+            {
+                "rank": 8,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:32",
+                "end_time": "21:00:09",
+                "rating": 1.43,
+                "share": 6.23
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "20:00:14",
+                "rating": 1.34,
+                "share": 7.36
+            },
+            {
+                "rank": 10,
+                "name": "MERCAN KOSK (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "20:41:45",
+                "rating": 1.25,
+                "share": 5.6
+            }
+        ]
+    }
+}

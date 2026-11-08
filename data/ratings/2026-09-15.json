@@ -1,0 +1,282 @@
+{
+    "date": "2026-09-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TUZLU KAHVE",
+                "channel": "STAR TV",
+                "start_time": "21:00:07",
+                "end_time": "23:41:25",
+                "rating": 5.03,
+                "share": 16.88
+            },
+            {
+                "rank": 2,
+                "name": "HAYSIYET",
+                "channel": "KANAL D",
+                "start_time": "20:40:37",
+                "end_time": "23:23:09",
+                "rating": 4.24,
+                "share": 13.97
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:58",
+                "rating": 3.89,
+                "share": 32.4
+            },
+            {
+                "rank": 4,
+                "name": "TUZLU KAHVE (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:42",
+                "end_time": "21:00:07",
+                "rating": 3.51,
+                "share": 12.33
+            },
+            {
+                "rank": 5,
+                "name": "A.B.I.",
+                "channel": "ATV",
+                "start_time": "20:57:52",
+                "end_time": "24:16:04",
+                "rating": 3.07,
+                "share": 10.8
+            },
+            {
+                "rank": 6,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:59:53",
+                "end_time": "23:57:41",
+                "rating": 2.84,
+                "share": 9.77
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:54",
+                "end_time": "18:45:37",
+                "rating": 2.81,
+                "share": 17.42
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:04:17",
+                "end_time": "24:40:55",
+                "rating": 2.6,
+                "share": 10.26
+            },
+            {
+                "rank": 9,
+                "name": "HAYSIYET (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:10",
+                "end_time": "20:40:26",
+                "rating": 2.52,
+                "share": 9.03
+            },
+            {
+                "rank": 10,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:02",
+                "rating": 2.51,
+                "share": 10.82
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TUZLU KAHVE",
+                "channel": "STAR TV",
+                "start_time": "21:00:07",
+                "end_time": "23:41:25",
+                "rating": 6.22,
+                "share": 21.77
+            },
+            {
+                "rank": 2,
+                "name": "TUZLU KAHVE (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:42",
+                "end_time": "21:00:07",
+                "rating": 4.18,
+                "share": 15.32
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:04:17",
+                "end_time": "24:40:55",
+                "rating": 3.37,
+                "share": 13.9
+            },
+            {
+                "rank": 4,
+                "name": "HAYSIYET",
+                "channel": "KANAL D",
+                "start_time": "20:40:37",
+                "end_time": "23:23:09",
+                "rating": 3.08,
+                "share": 10.59
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:58",
+                "rating": 2.88,
+                "share": 30.44
+            },
+            {
+                "rank": 6,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:59:53",
+                "end_time": "23:57:41",
+                "rating": 2.65,
+                "share": 9.52
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:02",
+                "rating": 2.44,
+                "share": 11.68
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:54",
+                "end_time": "18:45:37",
+                "rating": 2.41,
+                "share": 16.99
+            },
+            {
+                "rank": 9,
+                "name": "A.B.I.",
+                "channel": "ATV",
+                "start_time": "20:57:52",
+                "end_time": "24:16:04",
+                "rating": 2.23,
+                "share": 8.18
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:55:10",
+                "end_time": "21:04:17",
+                "rating": 1.87,
+                "share": 7.68
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TUZLU KAHVE",
+                "channel": "STAR TV",
+                "start_time": "21:00:07",
+                "end_time": "23:41:25",
+                "rating": 6.53,
+                "share": 20.69
+            },
+            {
+                "rank": 2,
+                "name": "TUZLU KAHVE (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:42",
+                "end_time": "21:00:07",
+                "rating": 4.54,
+                "share": 15.41
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:58",
+                "rating": 3.88,
+                "share": 32.64
+            },
+            {
+                "rank": 4,
+                "name": "HAYSIYET",
+                "channel": "KANAL D",
+                "start_time": "20:40:37",
+                "end_time": "23:23:09",
+                "rating": 3.81,
+                "share": 11.9
+            },
+            {
+                "rank": 5,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:59:53",
+                "end_time": "23:57:41",
+                "rating": 3.21,
+                "share": 10.4
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:02",
+                "rating": 3.1,
+                "share": 13.72
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:04:17",
+                "end_time": "24:40:55",
+                "rating": 3.04,
+                "share": 11.29
+            },
+            {
+                "rank": 8,
+                "name": "A.B.I.",
+                "channel": "ATV",
+                "start_time": "20:57:52",
+                "end_time": "24:16:04",
+                "rating": 2.69,
+                "share": 8.91
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:54",
+                "end_time": "18:45:37",
+                "rating": 2.56,
+                "share": 16.69
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:50:41",
+                "rating": 2.23,
+                "share": 9.88
+            }
+        ]
+    }
+}
