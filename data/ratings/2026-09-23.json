@@ -1,0 +1,282 @@
+{
+    "date": "2026-09-23",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SEVDAN BIR ATES",
+                "channel": "SHOW TV",
+                "start_time": "20:59:47",
+                "end_time": "23:45:59",
+                "rating": 8.85,
+                "share": 29.98
+            },
+            {
+                "rank": 2,
+                "name": "SEVDAN BIR ATES (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:51",
+                "end_time": "20:59:47",
+                "rating": 4.63,
+                "share": 15.21
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:41",
+                "rating": 4.17,
+                "share": 33.33
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:09",
+                "end_time": "18:54:01",
+                "rating": 3.68,
+                "share": 19.9
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:56",
+                "rating": 2.98,
+                "share": 11.66
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:39:06",
+                "end_time": "24:31:40",
+                "rating": 2.83,
+                "share": 10.56
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:50:43",
+                "rating": 2.7,
+                "share": 10.7
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:40",
+                "rating": 2.23,
+                "share": 8.84
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "20:00:07",
+                "rating": 2.17,
+                "share": 8.45
+            },
+            {
+                "rank": 10,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "12:59:52",
+                "end_time": "13:59:47",
+                "rating": 1.99,
+                "share": 16.99
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SEVDAN BIR ATES",
+                "channel": "SHOW TV",
+                "start_time": "20:59:47",
+                "end_time": "23:45:59",
+                "rating": 8.4,
+                "share": 28.88
+            },
+            {
+                "rank": 2,
+                "name": "SEVDAN BIR ATES (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:51",
+                "end_time": "20:59:47",
+                "rating": 3.89,
+                "share": 13.68
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:39:06",
+                "end_time": "24:31:40",
+                "rating": 3.43,
+                "share": 13.12
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:41",
+                "rating": 3.28,
+                "share": 32.08
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:56",
+                "rating": 3.15,
+                "share": 13.21
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:09",
+                "end_time": "18:54:01",
+                "rating": 2.77,
+                "share": 16.8
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:50:43",
+                "rating": 2.43,
+                "share": 10.29
+            },
+            {
+                "rank": 8,
+                "name": "TUZLU KAHVE (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:31",
+                "end_time": "23:09:26",
+                "rating": 2.4,
+                "share": 8.16
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:01:08",
+                "end_time": "20:39:06",
+                "rating": 1.75,
+                "share": 6.96
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:40",
+                "rating": 1.58,
+                "share": 6.7
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SEVDAN BIR ATES",
+                "channel": "SHOW TV",
+                "start_time": "20:59:47",
+                "end_time": "23:45:59",
+                "rating": 9.51,
+                "share": 29.69
+            },
+            {
+                "rank": 2,
+                "name": "SEVDAN BIR ATES (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:51",
+                "end_time": "20:59:47",
+                "rating": 4.56,
+                "share": 15.03
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:41",
+                "rating": 4.53,
+                "share": 36.59
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:56",
+                "rating": 3.47,
+                "share": 14.07
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:39:06",
+                "end_time": "24:31:40",
+                "rating": 3.35,
+                "share": 11.65
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:09",
+                "end_time": "18:54:01",
+                "rating": 3.18,
+                "share": 17.84
+            },
+            {
+                "rank": 7,
+                "name": "TUZLU KAHVE (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:31",
+                "end_time": "23:09:26",
+                "rating": 2.46,
+                "share": 7.66
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:50:43",
+                "rating": 2.15,
+                "share": 8.81
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:40",
+                "rating": 1.86,
+                "share": 7.61
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "20:00:07",
+                "rating": 1.82,
+                "share": 7.38
+            }
+        ]
+    }
+}
