@@ -1,0 +1,282 @@
+{
+    "date": "2026-05-31",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:45:13",
+                "rating": 5.56,
+                "share": 18.85
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:59",
+                "end_time": "24:22:25",
+                "rating": 3.19,
+                "share": 11.58
+            },
+            {
+                "rank": 3,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "19:59:31",
+                "end_time": "22:36:36",
+                "rating": 3.19,
+                "share": 11.01
+            },
+            {
+                "rank": 4,
+                "name": "ATLA GEL SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:46:05",
+                "end_time": "23:34:45",
+                "rating": 2.52,
+                "share": 8.47
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.36,
+                "share": 11.25
+            },
+            {
+                "rank": 6,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:39:56",
+                "end_time": "21:16:42",
+                "rating": 2.24,
+                "share": 8.79
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:24",
+                "end_time": "21:00:05",
+                "rating": 2.06,
+                "share": 7.74
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:52",
+                "rating": 2.0,
+                "share": 9.66
+            },
+            {
+                "rank": 9,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "21:45:48",
+                "rating": 1.94,
+                "share": 7.05
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:27",
+                "end_time": "24:01:37",
+                "rating": 1.59,
+                "share": 5.64
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:45:13",
+                "rating": 4.0,
+                "share": 16.79
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:59",
+                "end_time": "24:22:25",
+                "rating": 2.37,
+                "share": 10.5
+            },
+            {
+                "rank": 3,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "19:59:31",
+                "end_time": "22:36:36",
+                "rating": 2.17,
+                "share": 9.2
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.14,
+                "share": 12.31
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:24",
+                "end_time": "21:00:05",
+                "rating": 1.82,
+                "share": 8.14
+            },
+            {
+                "rank": 6,
+                "name": "ATLA GEL SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:46:05",
+                "end_time": "23:34:45",
+                "rating": 1.61,
+                "share": 6.63
+            },
+            {
+                "rank": 7,
+                "name": "MUTLUYUZ (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:57",
+                "end_time": "21:59:04",
+                "rating": 1.56,
+                "share": 6.68
+            },
+            {
+                "rank": 8,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:39:56",
+                "end_time": "21:16:42",
+                "rating": 1.45,
+                "share": 6.81
+            },
+            {
+                "rank": 9,
+                "name": "3 TE 3",
+                "channel": "TRT 1",
+                "start_time": "23:45:26",
+                "end_time": "24:47:43",
+                "rating": 1.17,
+                "share": 8.29
+            },
+            {
+                "rank": 10,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "21:45:48",
+                "rating": 1.16,
+                "share": 5.13
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:45:13",
+                "rating": 5.31,
+                "share": 18.22
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "19:59:31",
+                "end_time": "22:36:36",
+                "rating": 3.02,
+                "share": 10.68
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:59",
+                "end_time": "24:22:25",
+                "rating": 2.73,
+                "share": 10.03
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.53,
+                "share": 12.79
+            },
+            {
+                "rank": 5,
+                "name": "ATLA GEL SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:46:05",
+                "end_time": "23:34:45",
+                "rating": 2.45,
+                "share": 8.29
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:24",
+                "end_time": "21:00:05",
+                "rating": 1.95,
+                "share": 7.52
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:52",
+                "rating": 1.84,
+                "share": 9.42
+            },
+            {
+                "rank": 8,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "21:45:48",
+                "rating": 1.83,
+                "share": 6.84
+            },
+            {
+                "rank": 9,
+                "name": "MUTLUYUZ (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:57",
+                "end_time": "21:59:04",
+                "rating": 1.7,
+                "share": 6.05
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:27",
+                "end_time": "24:01:37",
+                "rating": 1.53,
+                "share": 5.5
+            }
+        ]
+    }
+}
