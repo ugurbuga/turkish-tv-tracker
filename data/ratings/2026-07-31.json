@@ -1,0 +1,282 @@
+{
+    "date": "2026-07-31",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:07:27",
+                "end_time": "24:16:02",
+                "rating": 2.76,
+                "share": 13.34
+            },
+            {
+                "rank": 2,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:34:29",
+                "end_time": "22:11:36",
+                "rating": 2.17,
+                "share": 10.14
+            },
+            {
+                "rank": 3,
+                "name": "ASIRLIK GECE",
+                "channel": "TRT 1",
+                "start_time": "21:36:05",
+                "end_time": "23:20:01",
+                "rating": 1.75,
+                "share": 8.06
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 1.75,
+                "share": 10.95
+            },
+            {
+                "rank": 5,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "19:55:47",
+                "end_time": "22:50:09",
+                "rating": 1.46,
+                "share": 6.96
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:12:48",
+                "end_time": "23:34:53",
+                "rating": 1.29,
+                "share": 6.09
+            },
+            {
+                "rank": 7,
+                "name": "AILE SEREFI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:15",
+                "end_time": "21:52:59",
+                "rating": 1.25,
+                "share": 6.21
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:23",
+                "end_time": "20:00:09",
+                "rating": 1.25,
+                "share": 7.83
+            },
+            {
+                "rank": 9,
+                "name": "KURALSIZ SOKAKLAR OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "20:34:18",
+                "rating": 1.24,
+                "share": 6.89
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:49",
+                "rating": 1.16,
+                "share": 7.3
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:07:27",
+                "end_time": "24:16:02",
+                "rating": 2.46,
+                "share": 13.39
+            },
+            {
+                "rank": 2,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:34:29",
+                "end_time": "22:11:36",
+                "rating": 1.82,
+                "share": 9.87
+            },
+            {
+                "rank": 3,
+                "name": "ASIRLIK GECE",
+                "channel": "TRT 1",
+                "start_time": "21:36:05",
+                "end_time": "23:20:01",
+                "rating": 1.6,
+                "share": 8.22
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:23",
+                "end_time": "20:00:09",
+                "rating": 1.17,
+                "share": 9.07
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 1.12,
+                "share": 8.67
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:12:48",
+                "end_time": "23:34:53",
+                "rating": 0.9,
+                "share": 4.75
+            },
+            {
+                "rank": 7,
+                "name": "KURALSIZ SOKAKLAR OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "20:34:18",
+                "rating": 0.9,
+                "share": 6.31
+            },
+            {
+                "rank": 8,
+                "name": "ASIRLIK GECE (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:04:07",
+                "end_time": "21:36:05",
+                "rating": 0.77,
+                "share": 4.53
+            },
+            {
+                "rank": 9,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "19:55:47",
+                "end_time": "22:50:09",
+                "rating": 0.76,
+                "share": 4.22
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:49",
+                "rating": 0.76,
+                "share": 5.92
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:07:27",
+                "end_time": "24:16:02",
+                "rating": 2.6,
+                "share": 12.59
+            },
+            {
+                "rank": 2,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:34:29",
+                "end_time": "22:11:36",
+                "rating": 2.08,
+                "share": 10.42
+            },
+            {
+                "rank": 3,
+                "name": "ASIRLIK GECE",
+                "channel": "TRT 1",
+                "start_time": "21:36:05",
+                "end_time": "23:20:01",
+                "rating": 1.76,
+                "share": 8.0
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 1.68,
+                "share": 12.13
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:23",
+                "end_time": "20:00:09",
+                "rating": 1.42,
+                "share": 10.23
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:12:48",
+                "end_time": "23:34:53",
+                "rating": 1.25,
+                "share": 5.82
+            },
+            {
+                "rank": 7,
+                "name": "KURALSIZ SOKAKLAR OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "20:34:18",
+                "rating": 1.23,
+                "share": 7.75
+            },
+            {
+                "rank": 8,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "19:55:47",
+                "end_time": "22:50:09",
+                "rating": 1.17,
+                "share": 5.91
+            },
+            {
+                "rank": 9,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:09",
+                "end_time": "18:58:17",
+                "rating": 1.05,
+                "share": 8.52
+            },
+            {
+                "rank": 10,
+                "name": "ASIRLIK GECE (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:04:07",
+                "end_time": "21:36:05",
+                "rating": 1.01,
+                "share": 5.5
+            }
+        ]
+    }
+}

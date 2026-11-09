@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-01",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:44",
+                "end_time": "24:21:47",
+                "rating": 2.5,
+                "share": 12.49
+            },
+            {
+                "rank": 2,
+                "name": "GURBETCI SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:43",
+                "end_time": "21:53:19",
+                "rating": 1.69,
+                "share": 8.75
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:02",
+                "rating": 1.57,
+                "share": 10.32
+            },
+            {
+                "rank": 4,
+                "name": "DOGANIN KANUNU (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:32",
+                "end_time": "22:53:39",
+                "rating": 1.42,
+                "share": 7.06
+            },
+            {
+                "rank": 5,
+                "name": "GURBETCI SABAN (T.S) (TKR)",
+                "channel": "NOW",
+                "start_time": "21:53:34",
+                "end_time": "23:32:54",
+                "rating": 1.36,
+                "share": 6.61
+            },
+            {
+                "rank": 6,
+                "name": "SUC SEHRI 3 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:01:12",
+                "end_time": "22:01:35",
+                "rating": 1.32,
+                "share": 6.86
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:04",
+                "end_time": "23:42:41",
+                "rating": 1.31,
+                "share": 6.57
+            },
+            {
+                "rank": 8,
+                "name": "BUZ DEVRI 2 ERIME BASLIYOR (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:03",
+                "end_time": "21:52:46",
+                "rating": 1.31,
+                "share": 6.95
+            },
+            {
+                "rank": 9,
+                "name": "HIZLI VE OFKELI 6 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:53:07",
+                "end_time": "24:33:23",
+                "rating": 1.21,
+                "share": 6.27
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:53",
+                "rating": 1.2,
+                "share": 7.9
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:44",
+                "end_time": "24:21:47",
+                "rating": 2.07,
+                "share": 11.55
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:02",
+                "rating": 1.71,
+                "share": 12.43
+            },
+            {
+                "rank": 3,
+                "name": "GURBETCI SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:43",
+                "end_time": "21:53:19",
+                "rating": 1.29,
+                "share": 7.7
+            },
+            {
+                "rank": 4,
+                "name": "GURBETCI SABAN (T.S) (TKR)",
+                "channel": "NOW",
+                "start_time": "21:53:34",
+                "end_time": "23:32:54",
+                "rating": 1.09,
+                "share": 5.83
+            },
+            {
+                "rank": 5,
+                "name": "HOBBIT 2 SMAUG'UN CORAK TOPRAKLARI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:08:05",
+                "end_time": "22:47:42",
+                "rating": 1.07,
+                "share": 6.08
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:04",
+                "end_time": "23:42:41",
+                "rating": 1.07,
+                "share": 6.02
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:53",
+                "rating": 1.06,
+                "share": 7.73
+            },
+            {
+                "rank": 8,
+                "name": "HIZLI VE OFKELI 6 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:53:07",
+                "end_time": "24:33:23",
+                "rating": 0.94,
+                "share": 5.32
+            },
+            {
+                "rank": 9,
+                "name": "BUZ DEVRI 2 ERIME BASLIYOR (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:03",
+                "end_time": "21:52:46",
+                "rating": 0.91,
+                "share": 5.51
+            },
+            {
+                "rank": 10,
+                "name": "DOGANIN KANUNU (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:32",
+                "end_time": "22:53:39",
+                "rating": 0.88,
+                "share": 4.93
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:44",
+                "end_time": "24:21:47",
+                "rating": 2.46,
+                "share": 12.17
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:02",
+                "rating": 1.89,
+                "share": 12.55
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:04",
+                "end_time": "23:42:41",
+                "rating": 1.55,
+                "share": 7.71
+            },
+            {
+                "rank": 4,
+                "name": "DOGANIN KANUNU (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:32",
+                "end_time": "22:53:39",
+                "rating": 1.55,
+                "share": 7.68
+            },
+            {
+                "rank": 5,
+                "name": "GURBETCI SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:43",
+                "end_time": "21:53:19",
+                "rating": 1.5,
+                "share": 7.78
+            },
+            {
+                "rank": 6,
+                "name": "BUZ DEVRI 2 ERIME BASLIYOR (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:03",
+                "end_time": "21:52:46",
+                "rating": 1.21,
+                "share": 6.42
+            },
+            {
+                "rank": 7,
+                "name": "HOBBIT 2 SMAUG'UN CORAK TOPRAKLARI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:08:05",
+                "end_time": "22:47:42",
+                "rating": 1.15,
+                "share": 5.74
+            },
+            {
+                "rank": 8,
+                "name": "HIZLI VE OFKELI 6 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:53:07",
+                "end_time": "24:33:23",
+                "rating": 1.13,
+                "share": 5.77
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:53",
+                "rating": 1.11,
+                "share": 7.41
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:27",
+                "end_time": "20:00:23",
+                "rating": 1.04,
+                "share": 6.95
+            }
+        ]
+    }
+}
