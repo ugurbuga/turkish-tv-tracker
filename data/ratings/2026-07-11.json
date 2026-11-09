@@ -1,0 +1,282 @@
+{
+    "date": "2026-07-11",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "NORVEC-INGILTERE FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:49:57",
+                "end_time": "26:00:00",
+                "rating": 3.95,
+                "share": 32.89
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:45:55",
+                "end_time": "24:23:05",
+                "rating": 2.32,
+                "share": 11.93
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:45:43",
+                "end_time": "23:47:40",
+                "rating": 2.07,
+                "share": 10.37
+            },
+            {
+                "rank": 4,
+                "name": "DAYI BIR ADAMIN HIKAYESI (T.S)",
+                "channel": "ATV",
+                "start_time": "19:59:59",
+                "end_time": "22:34:35",
+                "rating": 1.46,
+                "share": 7.75
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:02",
+                "rating": 1.26,
+                "share": 8.8
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:49",
+                "rating": 1.19,
+                "share": 8.32
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:02",
+                "rating": 1.13,
+                "share": 7.85
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "20:45:43",
+                "rating": 1.07,
+                "share": 6.53
+            },
+            {
+                "rank": 9,
+                "name": "VENOM ZEHIRLI OFKE 2 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "22:22:42",
+                "end_time": "24:17:52",
+                "rating": 1.05,
+                "share": 5.51
+            },
+            {
+                "rank": 10,
+                "name": "PELE BIR EFSANENIN DOGUSU (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "22:22:19",
+                "rating": 1.0,
+                "share": 5.39
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "NORVEC-INGILTERE FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:49:57",
+                "end_time": "26:00:00",
+                "rating": 5.68,
+                "share": 42.83
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:45:43",
+                "end_time": "23:47:40",
+                "rating": 2.39,
+                "share": 13.66
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:45:55",
+                "end_time": "24:23:05",
+                "rating": 1.79,
+                "share": 10.41
+            },
+            {
+                "rank": 4,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:55:22",
+                "rating": 1.14,
+                "share": 8.92
+            },
+            {
+                "rank": 5,
+                "name": "JAPONYA-TURKIYE FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "13:05:08",
+                "end_time": "15:33:19",
+                "rating": 1.09,
+                "share": 7.93
+            },
+            {
+                "rank": 6,
+                "name": "DAYI BIR ADAMIN HIKAYESI (T.S)",
+                "channel": "ATV",
+                "start_time": "19:59:59",
+                "end_time": "22:34:35",
+                "rating": 1.0,
+                "share": 6.45
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:49",
+                "rating": 0.95,
+                "share": 7.45
+            },
+            {
+                "rank": 8,
+                "name": "VENOM ZEHIRLI OFKE 2 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "22:22:42",
+                "end_time": "24:17:52",
+                "rating": 0.93,
+                "share": 5.3
+            },
+            {
+                "rank": 9,
+                "name": "OZEL EKIP 2 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:35:54",
+                "end_time": "23:19:14",
+                "rating": 0.87,
+                "share": 4.82
+            },
+            {
+                "rank": 10,
+                "name": "TURKLER CILDIRMIS OLMALI 2 MAVI VATAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "23:47:56",
+                "end_time": "25:42:46",
+                "rating": 0.84,
+                "share": 6.1
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "NORVEC-INGILTERE FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:49:57",
+                "end_time": "26:00:00",
+                "rating": 5.06,
+                "share": 37.52
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:45:43",
+                "end_time": "23:47:40",
+                "rating": 2.59,
+                "share": 12.98
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:45:55",
+                "end_time": "24:23:05",
+                "rating": 2.45,
+                "share": 12.45
+            },
+            {
+                "rank": 4,
+                "name": "DAYI BIR ADAMIN HIKAYESI (T.S)",
+                "channel": "ATV",
+                "start_time": "19:59:59",
+                "end_time": "22:34:35",
+                "rating": 1.2,
+                "share": 6.69
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "20:45:43",
+                "rating": 1.19,
+                "share": 7.95
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:02",
+                "rating": 1.15,
+                "share": 8.35
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:49",
+                "rating": 1.14,
+                "share": 8.3
+            },
+            {
+                "rank": 8,
+                "name": "JAPONYA-TURKIYE FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "13:05:08",
+                "end_time": "15:33:19",
+                "rating": 1.1,
+                "share": 9.45
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:02",
+                "rating": 1.08,
+                "share": 7.8
+            },
+            {
+                "rank": 10,
+                "name": "VENOM ZEHIRLI OFKE 2 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "22:22:42",
+                "end_time": "24:17:52",
+                "rating": 0.88,
+                "share": 4.47
+            }
+        ]
+    }
+}

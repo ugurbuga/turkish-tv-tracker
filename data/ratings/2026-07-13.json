@@ -1,0 +1,282 @@
+{
+    "date": "2026-07-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "21:00:06",
+                "end_time": "24:16:00",
+                "rating": 5.96,
+                "share": 25.95
+            },
+            {
+                "rank": 2,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "21:00:06",
+                "rating": 2.31,
+                "share": 11.49
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:13",
+                "end_time": "24:20:45",
+                "rating": 1.91,
+                "share": 8.62
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:03",
+                "rating": 1.75,
+                "share": 10.63
+            },
+            {
+                "rank": 5,
+                "name": "HABABAM SINIFI UYANIYOR (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:03",
+                "end_time": "22:17:31",
+                "rating": 1.74,
+                "share": 8.06
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:00",
+                "rating": 1.39,
+                "share": 8.44
+            },
+            {
+                "rank": 7,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:50",
+                "end_time": "22:56:02",
+                "rating": 1.34,
+                "share": 5.99
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:44",
+                "rating": 1.32,
+                "share": 8.11
+            },
+            {
+                "rank": 9,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:10",
+                "end_time": "18:58:22",
+                "rating": 1.31,
+                "share": 8.75
+            },
+            {
+                "rank": 10,
+                "name": "BEN VE BABAM VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:17",
+                "end_time": "23:10:17",
+                "rating": 1.2,
+                "share": 5.34
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "21:00:06",
+                "end_time": "24:16:00",
+                "rating": 4.15,
+                "share": 20.0
+            },
+            {
+                "rank": 2,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "21:00:06",
+                "rating": 2.07,
+                "share": 12.03
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:13",
+                "end_time": "24:20:45",
+                "rating": 1.88,
+                "share": 9.37
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:03",
+                "rating": 1.42,
+                "share": 10.14
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D HABER GUN ARASI",
+                "channel": "KANAL D",
+                "start_time": "12:00:11",
+                "end_time": "12:59:16",
+                "rating": 1.41,
+                "share": 14.46
+            },
+            {
+                "rank": 6,
+                "name": "BEN VE BABAM VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:17",
+                "end_time": "23:10:17",
+                "rating": 1.3,
+                "share": 6.53
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:00",
+                "rating": 1.25,
+                "share": 8.98
+            },
+            {
+                "rank": 8,
+                "name": "HABABAM SINIFI UYANIYOR (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:03",
+                "end_time": "22:17:31",
+                "rating": 1.17,
+                "share": 6.17
+            },
+            {
+                "rank": 9,
+                "name": "YAPRAK DOKUMU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "09:31:25",
+                "end_time": "12:00:01",
+                "rating": 1.13,
+                "share": 14.41
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:10",
+                "end_time": "18:58:22",
+                "rating": 1.07,
+                "share": 10.02
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "21:00:06",
+                "end_time": "24:16:00",
+                "rating": 5.71,
+                "share": 23.61
+            },
+            {
+                "rank": 2,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "21:00:06",
+                "rating": 2.42,
+                "share": 12.53
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:13",
+                "end_time": "24:20:45",
+                "rating": 1.98,
+                "share": 8.5
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:03",
+                "rating": 1.76,
+                "share": 11.05
+            },
+            {
+                "rank": 5,
+                "name": "BEN VE BABAM VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:17",
+                "end_time": "23:10:17",
+                "rating": 1.6,
+                "share": 6.99
+            },
+            {
+                "rank": 6,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:10",
+                "end_time": "18:58:22",
+                "rating": 1.47,
+                "share": 11.38
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D HABER GUN ARASI",
+                "channel": "KANAL D",
+                "start_time": "12:00:11",
+                "end_time": "12:59:16",
+                "rating": 1.35,
+                "share": 12.51
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:00",
+                "rating": 1.29,
+                "share": 8.14
+            },
+            {
+                "rank": 9,
+                "name": "HABABAM SINIFI UYANIYOR (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:03",
+                "end_time": "22:17:31",
+                "rating": 1.29,
+                "share": 5.99
+            },
+            {
+                "rank": 10,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:44:49",
+                "end_time": "18:14:08",
+                "rating": 1.25,
+                "share": 12.21
+            }
+        ]
+    }
+}
