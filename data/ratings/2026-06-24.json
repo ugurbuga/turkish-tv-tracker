@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-24",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:04",
+                "end_time": "23:30:43",
+                "rating": 5.04,
+                "share": 19.44
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "13:00:06",
+                "rating": 3.89,
+                "share": 29.94
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:01",
+                "end_time": "18:45:17",
+                "rating": 3.69,
+                "share": 23.64
+            },
+            {
+                "rank": 4,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:51",
+                "end_time": "23:43:49",
+                "rating": 3.13,
+                "share": 12.09
+            },
+            {
+                "rank": 5,
+                "name": "ISVICRE-KANADA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:48",
+                "end_time": "24:07:11",
+                "rating": 2.67,
+                "share": 10.81
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:58",
+                "end_time": "19:55:11",
+                "rating": 2.06,
+                "share": 11.2
+            },
+            {
+                "rank": 7,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:16",
+                "end_time": "13:57:42",
+                "rating": 2.0,
+                "share": 15.78
+            },
+            {
+                "rank": 8,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "20:45:51",
+                "rating": 1.98,
+                "share": 9.37
+            },
+            {
+                "rank": 9,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:02",
+                "rating": 1.97,
+                "share": 10.67
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:34:34",
+                "end_time": "24:32:53",
+                "rating": 1.95,
+                "share": 8.26
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:04",
+                "end_time": "23:30:43",
+                "rating": 3.79,
+                "share": 17.33
+            },
+            {
+                "rank": 2,
+                "name": "ISVICRE-KANADA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:48",
+                "end_time": "24:07:11",
+                "rating": 3.32,
+                "share": 15.59
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "13:00:06",
+                "rating": 2.82,
+                "share": 25.51
+            },
+            {
+                "rank": 4,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:51",
+                "end_time": "23:43:49",
+                "rating": 1.97,
+                "share": 8.96
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:01",
+                "end_time": "18:45:17",
+                "rating": 1.93,
+                "share": 15.4
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:34:34",
+                "end_time": "24:32:53",
+                "rating": 1.78,
+                "share": 8.88
+            },
+            {
+                "rank": 7,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "19:59:59",
+                "end_time": "21:11:16",
+                "rating": 1.44,
+                "share": 8.14
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:02",
+                "rating": 1.43,
+                "share": 9.1
+            },
+            {
+                "rank": 9,
+                "name": "ISKOCYA-BREZILYA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "24:49:22",
+                "end_time": "25:53:11",
+                "rating": 1.4,
+                "share": 20.36
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:58",
+                "end_time": "19:55:11",
+                "rating": 1.38,
+                "share": 8.76
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:04",
+                "end_time": "23:30:43",
+                "rating": 5.1,
+                "share": 19.27
+            },
+            {
+                "rank": 2,
+                "name": "ISVICRE-KANADA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:48",
+                "end_time": "24:07:11",
+                "rating": 3.44,
+                "share": 13.32
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "13:00:06",
+                "rating": 3.37,
+                "share": 30.02
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:01",
+                "end_time": "18:45:17",
+                "rating": 2.87,
+                "share": 20.59
+            },
+            {
+                "rank": 5,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:51",
+                "end_time": "23:43:49",
+                "rating": 2.54,
+                "share": 9.56
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:34:34",
+                "end_time": "24:32:53",
+                "rating": 2.18,
+                "share": 9.02
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:02",
+                "rating": 2.06,
+                "share": 11.57
+            },
+            {
+                "rank": 8,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:40:01",
+                "end_time": "18:42:44",
+                "rating": 1.65,
+                "share": 11.97
+            },
+            {
+                "rank": 9,
+                "name": "DOGANIN KANUNU (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:50",
+                "end_time": "21:00:04",
+                "rating": 1.63,
+                "share": 7.83
+            },
+            {
+                "rank": 10,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "20:45:51",
+                "rating": 1.6,
+                "share": 8.05
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "21:00:05",
+                "end_time": "24:16:36",
+                "rating": 7.35,
+                "share": 29.87
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:46",
+                "end_time": "20:59:54",
+                "rating": 3.33,
+                "share": 16.42
+            },
+            {
+                "rank": 3,
+                "name": "GUNEY AFRIKA-KANADA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:10",
+                "end_time": "24:09:24",
+                "rating": 2.62,
+                "share": 10.77
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:45:13",
+                "end_time": "24:20:12",
+                "rating": 1.79,
+                "share": 7.45
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:35:52",
+                "end_time": "24:17:10",
+                "rating": 1.75,
+                "share": 7.14
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:53",
+                "rating": 1.57,
+                "share": 9.45
+            },
+            {
+                "rank": 7,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:14",
+                "end_time": "21:18:42",
+                "rating": 1.44,
+                "share": 6.81
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:02",
+                "rating": 1.37,
+                "share": 8.24
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:55",
+                "rating": 1.22,
+                "share": 7.36
+            },
+            {
+                "rank": 10,
+                "name": "MUKADDERAT (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:48",
+                "end_time": "22:16:29",
+                "rating": 1.13,
+                "share": 5.05
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "21:00:05",
+                "end_time": "24:16:36",
+                "rating": 5.59,
+                "share": 25.5
+            },
+            {
+                "rank": 2,
+                "name": "GUNEY AFRIKA-KANADA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:10",
+                "end_time": "24:09:24",
+                "rating": 3.75,
+                "share": 16.98
+            },
+            {
+                "rank": 3,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:46",
+                "end_time": "20:59:54",
+                "rating": 2.39,
+                "share": 12.59
+            },
+            {
+                "rank": 4,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:14",
+                "end_time": "21:18:42",
+                "rating": 2.34,
+                "share": 12.01
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:35:52",
+                "end_time": "24:17:10",
+                "rating": 1.79,
+                "share": 8.18
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:45:13",
+                "end_time": "24:20:12",
+                "rating": 1.51,
+                "share": 7.0
+            },
+            {
+                "rank": 7,
+                "name": "PAZAR GEZMESI",
+                "channel": "KANAL D",
+                "start_time": "12:41:17",
+                "end_time": "13:44:09",
+                "rating": 1.18,
+                "share": 9.36
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:02",
+                "rating": 1.13,
+                "share": 7.72
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "20:35:52",
+                "rating": 1.02,
+                "share": 5.75
+            },
+            {
+                "rank": 10,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:18:50",
+                "end_time": "21:39:12",
+                "rating": 1.0,
+                "share": 4.63
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "21:00:05",
+                "end_time": "24:16:36",
+                "rating": 6.12,
+                "share": 25.12
+            },
+            {
+                "rank": 2,
+                "name": "GUNEY AFRIKA-KANADA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:10",
+                "end_time": "24:09:24",
+                "rating": 3.29,
+                "share": 13.44
+            },
+            {
+                "rank": 3,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:46",
+                "end_time": "20:59:54",
+                "rating": 2.63,
+                "share": 13.11
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:45:13",
+                "end_time": "24:20:12",
+                "rating": 2.0,
+                "share": 8.4
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:35:52",
+                "end_time": "24:17:10",
+                "rating": 1.84,
+                "share": 7.6
+            },
+            {
+                "rank": 6,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:14",
+                "end_time": "21:18:42",
+                "rating": 1.81,
+                "share": 8.75
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:53",
+                "rating": 1.64,
+                "share": 10.45
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:02",
+                "rating": 1.08,
+                "share": 6.84
+            },
+            {
+                "rank": 9,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:18:50",
+                "end_time": "21:39:12",
+                "rating": 1.03,
+                "share": 4.36
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:55",
+                "rating": 1.0,
+                "share": 6.4
+            }
+        ]
+    }
+}
