@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TASACAK BU DENIZ",
+                "channel": "TRT 1",
+                "start_time": "20:54:06",
+                "end_time": "24:27:02",
+                "rating": 11.64,
+                "share": 38.27
+            },
+            {
+                "rank": 2,
+                "name": "TASACAK BU DENIZ (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:31",
+                "end_time": "20:54:06",
+                "rating": 4.38,
+                "share": 17.17
+            },
+            {
+                "rank": 3,
+                "name": "ARKA SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:00",
+                "end_time": "24:17:28",
+                "rating": 3.99,
+                "share": 12.74
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "13:00:02",
+                "rating": 3.35,
+                "share": 27.87
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:06",
+                "end_time": "18:45:55",
+                "rating": 3.18,
+                "share": 19.85
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:42",
+                "end_time": "24:17:45",
+                "rating": 2.74,
+                "share": 8.86
+            },
+            {
+                "rank": 7,
+                "name": "ARKA SOKAKLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:28",
+                "end_time": "20:59:00",
+                "rating": 2.37,
+                "share": 9.16
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:57",
+                "end_time": "19:51:17",
+                "rating": 2.19,
+                "share": 10.83
+            },
+            {
+                "rank": 9,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:38:40",
+                "end_time": "23:17:59",
+                "rating": 2.15,
+                "share": 6.69
+            },
+            {
+                "rank": 10,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:57",
+                "rating": 2.13,
+                "share": 10.41
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TASACAK BU DENIZ",
+                "channel": "TRT 1",
+                "start_time": "20:54:06",
+                "end_time": "24:27:02",
+                "rating": 10.22,
+                "share": 39.17
+            },
+            {
+                "rank": 2,
+                "name": "TASACAK BU DENIZ (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:31",
+                "end_time": "20:54:06",
+                "rating": 3.56,
+                "share": 17.61
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "13:00:02",
+                "rating": 2.04,
+                "share": 23.19
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:42",
+                "end_time": "24:17:45",
+                "rating": 1.85,
+                "share": 7.02
+            },
+            {
+                "rank": 5,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:38:40",
+                "end_time": "23:17:59",
+                "rating": 1.77,
+                "share": 6.51
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:57",
+                "rating": 1.74,
+                "share": 10.63
+            },
+            {
+                "rank": 7,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:59:19",
+                "end_time": "18:42:04",
+                "rating": 1.67,
+                "share": 13.24
+            },
+            {
+                "rank": 8,
+                "name": "ARKA SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:00",
+                "end_time": "24:17:28",
+                "rating": 1.51,
+                "share": 5.65
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:06",
+                "end_time": "18:45:55",
+                "rating": 1.4,
+                "share": 10.94
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:22",
+                "end_time": "19:59:44",
+                "rating": 1.31,
+                "share": 7.99
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TASACAK BU DENIZ",
+                "channel": "TRT 1",
+                "start_time": "20:54:06",
+                "end_time": "24:27:02",
+                "rating": 11.61,
+                "share": 39.5
+            },
+            {
+                "rank": 2,
+                "name": "TASACAK BU DENIZ (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:31",
+                "end_time": "20:54:06",
+                "rating": 4.21,
+                "share": 18.4
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "13:00:02",
+                "rating": 3.14,
+                "share": 28.51
+            },
+            {
+                "rank": 4,
+                "name": "ARKA SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:00",
+                "end_time": "24:17:28",
+                "rating": 2.62,
+                "share": 8.74
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:06",
+                "end_time": "18:45:55",
+                "rating": 2.31,
+                "share": 16.88
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:42",
+                "end_time": "24:17:45",
+                "rating": 2.12,
+                "share": 7.15
+            },
+            {
+                "rank": 7,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:38:40",
+                "end_time": "23:17:59",
+                "rating": 1.99,
+                "share": 6.57
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:57",
+                "rating": 1.83,
+                "share": 10.19
+            },
+            {
+                "rank": 9,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:59:19",
+                "end_time": "18:42:04",
+                "rating": 1.67,
+                "share": 12.41
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:57",
+                "end_time": "19:51:17",
+                "rating": 1.56,
+                "share": 8.77
+            }
+        ]
+    }
+}
