@@ -1,0 +1,282 @@
+{
+    "date": "2026-04-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:08",
+                "end_time": "23:46:05",
+                "rating": 6.49,
+                "share": 17.6
+            },
+            {
+                "rank": 2,
+                "name": "CIRKIN",
+                "channel": "STAR TV",
+                "start_time": "21:00:08",
+                "end_time": "23:31:44",
+                "rating": 5.89,
+                "share": 15.72
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:19:54",
+                "end_time": "24:23:19",
+                "rating": 3.85,
+                "share": 11.05
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:33",
+                "rating": 3.47,
+                "share": 11.55
+            },
+            {
+                "rank": 5,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:38:03",
+                "end_time": "21:16:45",
+                "rating": 2.64,
+                "share": 7.66
+            },
+            {
+                "rank": 6,
+                "name": "CIRKIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:34",
+                "end_time": "21:00:08",
+                "rating": 2.63,
+                "share": 7.47
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:06",
+                "end_time": "21:00:08",
+                "rating": 2.52,
+                "share": 7.07
+            },
+            {
+                "rank": 8,
+                "name": "DOKTOR BASKA HAYATTA",
+                "channel": "NOW",
+                "start_time": "20:59:08",
+                "end_time": "23:57:03",
+                "rating": 2.52,
+                "share": 6.95
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:46",
+                "rating": 2.2,
+                "share": 7.41
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "20:00:12",
+                "rating": 2.08,
+                "share": 6.96
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "CIRKIN",
+                "channel": "STAR TV",
+                "start_time": "21:00:08",
+                "end_time": "23:31:44",
+                "rating": 4.28,
+                "share": 13.01
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:08",
+                "end_time": "23:46:05",
+                "rating": 4.15,
+                "share": 12.81
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:19:54",
+                "end_time": "24:23:19",
+                "rating": 3.33,
+                "share": 10.9
+            },
+            {
+                "rank": 4,
+                "name": "DOKTOR BASKA HAYATTA",
+                "channel": "NOW",
+                "start_time": "20:59:08",
+                "end_time": "23:57:03",
+                "rating": 3.18,
+                "share": 9.99
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:33",
+                "rating": 2.2,
+                "share": 8.85
+            },
+            {
+                "rank": 6,
+                "name": "CIRKIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:34",
+                "end_time": "21:00:08",
+                "rating": 1.63,
+                "share": 5.42
+            },
+            {
+                "rank": 7,
+                "name": "DOKTOR BASKA HAYATTA (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:38",
+                "end_time": "20:59:03",
+                "rating": 1.6,
+                "share": 5.23
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:06",
+                "end_time": "21:00:08",
+                "rating": 1.52,
+                "share": 4.96
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:49:36",
+                "rating": 1.51,
+                "share": 6.1
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:46",
+                "rating": 1.49,
+                "share": 6.04
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:08",
+                "end_time": "23:46:05",
+                "rating": 5.73,
+                "share": 15.54
+            },
+            {
+                "rank": 2,
+                "name": "CIRKIN",
+                "channel": "STAR TV",
+                "start_time": "21:00:08",
+                "end_time": "23:31:44",
+                "rating": 5.24,
+                "share": 14.0
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:19:54",
+                "end_time": "24:23:19",
+                "rating": 3.56,
+                "share": 10.27
+            },
+            {
+                "rank": 4,
+                "name": "DOKTOR BASKA HAYATTA",
+                "channel": "NOW",
+                "start_time": "20:59:08",
+                "end_time": "23:57:03",
+                "rating": 2.97,
+                "share": 8.19
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:33",
+                "rating": 2.63,
+                "share": 9.46
+            },
+            {
+                "rank": 6,
+                "name": "CIRKIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:34",
+                "end_time": "21:00:08",
+                "rating": 2.28,
+                "share": 6.72
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:46",
+                "rating": 2.14,
+                "share": 7.8
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:06",
+                "end_time": "21:00:08",
+                "rating": 2.02,
+                "share": 5.84
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "20:00:12",
+                "rating": 1.84,
+                "share": 6.66
+            },
+            {
+                "rank": 10,
+                "name": "DOKTOR BASKA HAYATTA (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:38",
+                "end_time": "20:59:03",
+                "rating": 1.82,
+                "share": 5.29
+            }
+        ]
+    }
+}

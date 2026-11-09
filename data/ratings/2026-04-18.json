@@ -1,0 +1,282 @@
+{
+    "date": "2026-04-18",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:03",
+                "end_time": "23:51:25",
+                "rating": 8.61,
+                "share": 23.98
+            },
+            {
+                "rank": 2,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:43",
+                "end_time": "20:59:52",
+                "rating": 4.36,
+                "share": 12.33
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:44:25",
+                "end_time": "24:00:22",
+                "rating": 4.33,
+                "share": 12.22
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 3.64,
+                "share": 12.09
+            },
+            {
+                "rank": 5,
+                "name": "UMUDUMUZ SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:11:45",
+                "end_time": "21:36:25",
+                "rating": 2.39,
+                "share": 6.62
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:30",
+                "rating": 2.35,
+                "share": 7.85
+            },
+            {
+                "rank": 7,
+                "name": "BEBEK FIRARDA (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:04",
+                "end_time": "21:57:37",
+                "rating": 2.29,
+                "share": 6.36
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:36",
+                "end_time": "19:59:59",
+                "rating": 2.16,
+                "share": 7.19
+            },
+            {
+                "rank": 9,
+                "name": "FERDINAND (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:57",
+                "end_time": "21:56:52",
+                "rating": 1.89,
+                "share": 5.19
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:11",
+                "end_time": "18:58:31",
+                "rating": 1.84,
+                "share": 6.96
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:03",
+                "end_time": "23:51:25",
+                "rating": 6.55,
+                "share": 21.82
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:44:25",
+                "end_time": "24:00:22",
+                "rating": 3.2,
+                "share": 10.86
+            },
+            {
+                "rank": 3,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:43",
+                "end_time": "20:59:52",
+                "rating": 2.68,
+                "share": 9.97
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 2.1,
+                "share": 9.65
+            },
+            {
+                "rank": 5,
+                "name": "BEBEK FIRARDA (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:04",
+                "end_time": "21:57:37",
+                "rating": 1.67,
+                "share": 6.04
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:36",
+                "end_time": "19:59:59",
+                "rating": 1.48,
+                "share": 6.85
+            },
+            {
+                "rank": 7,
+                "name": "FERDINAND (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:57",
+                "end_time": "21:56:52",
+                "rating": 1.45,
+                "share": 5.14
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:30",
+                "rating": 1.38,
+                "share": 6.38
+            },
+            {
+                "rank": 9,
+                "name": "UMUDUMUZ SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:11:45",
+                "end_time": "21:36:25",
+                "rating": 1.23,
+                "share": 4.42
+            },
+            {
+                "rank": 10,
+                "name": "LOHUSA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:41",
+                "end_time": "22:28:22",
+                "rating": 1.19,
+                "share": 4.21
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:03",
+                "end_time": "23:51:25",
+                "rating": 7.36,
+                "share": 21.62
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:44:25",
+                "end_time": "24:00:22",
+                "rating": 3.48,
+                "share": 10.41
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 3.26,
+                "share": 12.41
+            },
+            {
+                "rank": 4,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:43",
+                "end_time": "20:59:52",
+                "rating": 3.16,
+                "share": 10.16
+            },
+            {
+                "rank": 5,
+                "name": "BEBEK FIRARDA (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:04",
+                "end_time": "21:57:37",
+                "rating": 2.03,
+                "share": 6.34
+            },
+            {
+                "rank": 6,
+                "name": "FERDINAND (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:57",
+                "end_time": "21:56:52",
+                "rating": 1.86,
+                "share": 5.71
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:30",
+                "rating": 1.8,
+                "share": 6.89
+            },
+            {
+                "rank": 8,
+                "name": "UMUDUMUZ SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:11:45",
+                "end_time": "21:36:25",
+                "rating": 1.76,
+                "share": 5.46
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:36",
+                "end_time": "19:59:59",
+                "rating": 1.68,
+                "share": 6.41
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:11",
+                "end_time": "18:58:31",
+                "rating": 1.54,
+                "share": 6.9
+            }
+        ]
+    }
+}
