@@ -1,0 +1,282 @@
+{
+    "date": "2026-05-24",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:57",
+                "end_time": "23:44:37",
+                "rating": 6.39,
+                "share": 19.12
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:42:44",
+                "end_time": "24:28:35",
+                "rating": 4.37,
+                "share": 13.92
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 2.78,
+                "share": 11.04
+            },
+            {
+                "rank": 4,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:35:11",
+                "end_time": "21:18:48",
+                "rating": 2.57,
+                "share": 8.78
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "24:17:44",
+                "rating": 2.32,
+                "share": 7.18
+            },
+            {
+                "rank": 6,
+                "name": "ESENLER EROKSPOR-ARCA CORUM FK TRENDYOL 1. LIG KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "18:51:46",
+                "end_time": "21:02:42",
+                "rating": 2.2,
+                "share": 8.0
+            },
+            {
+                "rank": 7,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "21:44:43",
+                "rating": 2.11,
+                "share": 6.8
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:13",
+                "end_time": "20:00:17",
+                "rating": 2.04,
+                "share": 8.07
+            },
+            {
+                "rank": 9,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:21",
+                "end_time": "20:58:57",
+                "rating": 1.93,
+                "share": 6.33
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:45",
+                "rating": 1.85,
+                "share": 7.36
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:57",
+                "end_time": "23:44:37",
+                "rating": 3.94,
+                "share": 14.86
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:42:44",
+                "end_time": "24:28:35",
+                "rating": 3.78,
+                "share": 15.08
+            },
+            {
+                "rank": 3,
+                "name": "ESENLER EROKSPOR-ARCA CORUM FK TRENDYOL 1. LIG KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "18:51:46",
+                "end_time": "21:02:42",
+                "rating": 2.01,
+                "share": 9.36
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "24:17:44",
+                "rating": 1.88,
+                "share": 7.36
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 1.86,
+                "share": 9.32
+            },
+            {
+                "rank": 6,
+                "name": "LA LIGA OZETLERI (TKR)",
+                "channel": "TRT SPOR",
+                "start_time": "19:54:30",
+                "end_time": "20:00:18",
+                "rating": 1.79,
+                "share": 8.34
+            },
+            {
+                "rank": 7,
+                "name": "BIR OMRUN SONBAHARI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:01:07",
+                "end_time": "21:58:47",
+                "rating": 1.7,
+                "share": 6.94
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:21",
+                "end_time": "20:58:57",
+                "rating": 1.45,
+                "share": 6.2
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:13",
+                "end_time": "20:00:17",
+                "rating": 1.29,
+                "share": 6.48
+            },
+            {
+                "rank": 10,
+                "name": "KIZILCIK SERBETI (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:59",
+                "end_time": "24:43:39",
+                "rating": 1.26,
+                "share": 5.4
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:57",
+                "end_time": "23:44:37",
+                "rating": 5.95,
+                "share": 18.78
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:42:44",
+                "end_time": "24:28:35",
+                "rating": 3.73,
+                "share": 12.53
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 2.68,
+                "share": 11.71
+            },
+            {
+                "rank": 4,
+                "name": "ESENLER EROKSPOR-ARCA CORUM FK TRENDYOL 1. LIG KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "18:51:46",
+                "end_time": "21:02:42",
+                "rating": 2.23,
+                "share": 9.0
+            },
+            {
+                "rank": 5,
+                "name": "LA LIGA OZETLERI (TKR)",
+                "channel": "TRT SPOR",
+                "start_time": "19:54:30",
+                "end_time": "20:00:18",
+                "rating": 2.15,
+                "share": 8.74
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "24:17:44",
+                "rating": 2.11,
+                "share": 7.0
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:13",
+                "end_time": "20:00:17",
+                "rating": 1.76,
+                "share": 7.68
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:21",
+                "end_time": "20:58:57",
+                "rating": 1.74,
+                "share": 6.37
+            },
+            {
+                "rank": 9,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "21:44:43",
+                "rating": 1.59,
+                "share": 5.64
+            },
+            {
+                "rank": 10,
+                "name": "BIR OMRUN SONBAHARI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:01:07",
+                "end_time": "21:58:47",
+                "rating": 1.58,
+                "share": 5.5
+            }
+        ]
+    }
+}

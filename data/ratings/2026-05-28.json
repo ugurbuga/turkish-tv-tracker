@@ -1,0 +1,282 @@
+{
+    "date": "2026-05-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:48:33",
+                "end_time": "24:20:09",
+                "rating": 3.46,
+                "share": 14.95
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "19:59:06",
+                "end_time": "22:16:50",
+                "rating": 2.29,
+                "share": 10.15
+            },
+            {
+                "rank": 3,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:34:00",
+                "end_time": "21:18:50",
+                "rating": 1.94,
+                "share": 9.42
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:09",
+                "end_time": "18:44:39",
+                "rating": 1.92,
+                "share": 13.78
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 1.88,
+                "share": 10.71
+            },
+            {
+                "rank": 6,
+                "name": "BEKCILER KRALI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:00",
+                "end_time": "21:48:58",
+                "rating": 1.79,
+                "share": 7.93
+            },
+            {
+                "rank": 7,
+                "name": "SEVDIGIM SENSIN (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:45",
+                "end_time": "22:53:16",
+                "rating": 1.68,
+                "share": 7.18
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:58:56",
+                "rating": 1.54,
+                "share": 8.72
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:20",
+                "end_time": "19:59:40",
+                "rating": 1.45,
+                "share": 8.26
+            },
+            {
+                "rank": 10,
+                "name": "VAR MISIN YOK MUSUN (TKR)",
+                "channel": "ATV",
+                "start_time": "22:17:11",
+                "end_time": "24:43:20",
+                "rating": 1.43,
+                "share": 6.57
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:48:33",
+                "end_time": "24:20:09",
+                "rating": 2.54,
+                "share": 14.12
+            },
+            {
+                "rank": 2,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:34:00",
+                "end_time": "21:18:50",
+                "rating": 1.49,
+                "share": 9.4
+            },
+            {
+                "rank": 3,
+                "name": "ORGANIZE ISLER 2 SAZAN SARMALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:51",
+                "end_time": "22:33:42",
+                "rating": 1.49,
+                "share": 8.44
+            },
+            {
+                "rank": 4,
+                "name": "VAR MISIN YOK MUSUN (TKR)",
+                "channel": "ATV",
+                "start_time": "22:17:11",
+                "end_time": "24:43:20",
+                "rating": 1.29,
+                "share": 7.51
+            },
+            {
+                "rank": 5,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "19:59:06",
+                "end_time": "22:16:50",
+                "rating": 1.22,
+                "share": 6.93
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 1.2,
+                "share": 10.03
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:20",
+                "end_time": "19:59:40",
+                "rating": 1.16,
+                "share": 9.8
+            },
+            {
+                "rank": 8,
+                "name": "BIR BAYRAM HIKAYESI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "22:17:46",
+                "rating": 0.94,
+                "share": 5.37
+            },
+            {
+                "rank": 9,
+                "name": "GONUL DAGI KURBAN 2 (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:09:30",
+                "end_time": "22:47:24",
+                "rating": 0.93,
+                "share": 5.15
+            },
+            {
+                "rank": 10,
+                "name": "SAKAR SAKIR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:33:58",
+                "end_time": "24:16:09",
+                "rating": 0.93,
+                "share": 5.18
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:48:33",
+                "end_time": "24:20:09",
+                "rating": 3.15,
+                "share": 14.91
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "19:59:06",
+                "end_time": "22:16:50",
+                "rating": 2.03,
+                "share": 10.12
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 1.8,
+                "share": 11.98
+            },
+            {
+                "rank": 4,
+                "name": "VAR MISIN YOK MUSUN (TKR)",
+                "channel": "ATV",
+                "start_time": "22:17:11",
+                "end_time": "24:43:20",
+                "rating": 1.52,
+                "share": 7.44
+            },
+            {
+                "rank": 5,
+                "name": "BEKCILER KRALI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:00",
+                "end_time": "21:48:58",
+                "rating": 1.4,
+                "share": 6.97
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:58:56",
+                "rating": 1.35,
+                "share": 8.93
+            },
+            {
+                "rank": 7,
+                "name": "SEVDIGIM SENSIN (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:45",
+                "end_time": "22:53:16",
+                "rating": 1.35,
+                "share": 6.53
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR OZET",
+                "channel": "TV8",
+                "start_time": "18:57:44",
+                "end_time": "20:48:33",
+                "rating": 1.22,
+                "share": 7.25
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:20",
+                "end_time": "19:59:40",
+                "rating": 1.14,
+                "share": 7.65
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:34:00",
+                "end_time": "21:18:50",
+                "rating": 1.12,
+                "share": 6.07
+            }
+        ]
+    }
+}
