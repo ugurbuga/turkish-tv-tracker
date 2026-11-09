@@ -1,0 +1,282 @@
+{
+    "date": "2026-07-16",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MUHTEMEL ASK",
+                "channel": "SHOW TV",
+                "start_time": "21:00:44",
+                "end_time": "24:17:30",
+                "rating": 4.05,
+                "share": 17.86
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:58",
+                "end_time": "23:35:26",
+                "rating": 2.85,
+                "share": 12.2
+            },
+            {
+                "rank": 3,
+                "name": "MUHTEMEL ASK (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "21:00:44",
+                "rating": 1.93,
+                "share": 9.91
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:39:03",
+                "end_time": "24:21:45",
+                "rating": 1.91,
+                "share": 8.79
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:01",
+                "rating": 1.6,
+                "share": 9.56
+            },
+            {
+                "rank": 6,
+                "name": "IKI DESTAN BIR VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:04",
+                "end_time": "22:53:11",
+                "rating": 1.55,
+                "share": 6.99
+            },
+            {
+                "rank": 7,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "20:45:58",
+                "rating": 1.28,
+                "share": 6.89
+            },
+            {
+                "rank": 8,
+                "name": "ORUMCEK ADAM (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "22:31:50",
+                "rating": 1.27,
+                "share": 5.92
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "19:59:52",
+                "rating": 1.23,
+                "share": 7.38
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:19",
+                "end_time": "20:00:04",
+                "rating": 1.19,
+                "share": 7.1
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MUHTEMEL ASK",
+                "channel": "SHOW TV",
+                "start_time": "21:00:44",
+                "end_time": "24:17:30",
+                "rating": 3.29,
+                "share": 15.7
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:58",
+                "end_time": "23:35:26",
+                "rating": 2.56,
+                "share": 11.87
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:39:03",
+                "end_time": "24:21:45",
+                "rating": 1.81,
+                "share": 9.01
+            },
+            {
+                "rank": 4,
+                "name": "IKI DESTAN BIR VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:04",
+                "end_time": "22:53:11",
+                "rating": 1.72,
+                "share": 8.46
+            },
+            {
+                "rank": 5,
+                "name": "MUHTEMEL ASK (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "21:00:44",
+                "rating": 1.6,
+                "share": 8.86
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:01",
+                "rating": 1.33,
+                "share": 8.85
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:19",
+                "end_time": "20:00:04",
+                "rating": 1.24,
+                "share": 8.31
+            },
+            {
+                "rank": 8,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:10",
+                "end_time": "18:58:13",
+                "rating": 1.17,
+                "share": 8.99
+            },
+            {
+                "rank": 9,
+                "name": "ORUMCEK ADAM (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "22:31:50",
+                "rating": 1.07,
+                "share": 5.39
+            },
+            {
+                "rank": 10,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "20:45:58",
+                "rating": 1.06,
+                "share": 6.17
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MUHTEMEL ASK",
+                "channel": "SHOW TV",
+                "start_time": "21:00:44",
+                "end_time": "24:17:30",
+                "rating": 3.86,
+                "share": 16.22
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:58",
+                "end_time": "23:35:26",
+                "rating": 2.37,
+                "share": 9.66
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:39:03",
+                "end_time": "24:21:45",
+                "rating": 2.01,
+                "share": 8.83
+            },
+            {
+                "rank": 4,
+                "name": "IKI DESTAN BIR VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:04",
+                "end_time": "22:53:11",
+                "rating": 1.83,
+                "share": 7.99
+            },
+            {
+                "rank": 5,
+                "name": "MUHTEMEL ASK (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "21:00:44",
+                "rating": 1.76,
+                "share": 8.87
+            },
+            {
+                "rank": 6,
+                "name": "ORUMCEK ADAM (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "22:31:50",
+                "rating": 1.57,
+                "share": 7.09
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:01",
+                "rating": 1.43,
+                "share": 8.9
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:19",
+                "end_time": "20:00:04",
+                "rating": 1.42,
+                "share": 8.78
+            },
+            {
+                "rank": 9,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:10",
+                "end_time": "18:58:13",
+                "rating": 1.25,
+                "share": 8.86
+            },
+            {
+                "rank": 10,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:46:16",
+                "end_time": "18:14:57",
+                "rating": 1.21,
+                "share": 10.61
+            }
+        ]
+    }
+}

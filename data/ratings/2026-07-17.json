@@ -1,0 +1,282 @@
+{
+    "date": "2026-07-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:45:39",
+                "end_time": "24:21:32",
+                "rating": 2.54,
+                "share": 12.59
+            },
+            {
+                "rank": 2,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:35:10",
+                "end_time": "22:15:40",
+                "rating": 1.74,
+                "share": 8.54
+            },
+            {
+                "rank": 3,
+                "name": "BUZ DEVRI 3 DINOZORLARIN SAFAGI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "21:50:25",
+                "rating": 1.48,
+                "share": 7.8
+            },
+            {
+                "rank": 4,
+                "name": "SALAKO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:54",
+                "end_time": "21:52:58",
+                "rating": 1.46,
+                "share": 7.64
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:27",
+                "rating": 1.44,
+                "share": 9.65
+            },
+            {
+                "rank": 6,
+                "name": "HIZLI VE OFKELI 7 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:50:46",
+                "end_time": "24:34:14",
+                "rating": 1.38,
+                "share": 7.04
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:24",
+                "end_time": "20:00:05",
+                "rating": 1.11,
+                "share": 7.47
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:28",
+                "end_time": "20:00:10",
+                "rating": 1.1,
+                "share": 7.44
+            },
+            {
+                "rank": 9,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:16:52",
+                "end_time": "23:42:31",
+                "rating": 1.08,
+                "share": 5.14
+            },
+            {
+                "rank": 10,
+                "name": "YAZ BIR SARKI OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:21",
+                "end_time": "20:30:57",
+                "rating": 1.01,
+                "share": 5.99
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:45:39",
+                "end_time": "24:21:32",
+                "rating": 1.94,
+                "share": 11.35
+            },
+            {
+                "rank": 2,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:35:10",
+                "end_time": "22:15:40",
+                "rating": 1.57,
+                "share": 9.51
+            },
+            {
+                "rank": 3,
+                "name": "HIZLI VE OFKELI 7 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:50:46",
+                "end_time": "24:34:14",
+                "rating": 1.49,
+                "share": 8.72
+            },
+            {
+                "rank": 4,
+                "name": "BUZ DEVRI 3 DINOZORLARIN SAFAGI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "21:50:25",
+                "rating": 1.29,
+                "share": 8.34
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:27",
+                "rating": 1.09,
+                "share": 8.73
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:16:52",
+                "end_time": "23:42:31",
+                "rating": 1.03,
+                "share": 5.69
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:28",
+                "end_time": "20:00:10",
+                "rating": 0.94,
+                "share": 7.62
+            },
+            {
+                "rank": 8,
+                "name": "ASIRLIK GECE (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:06:54",
+                "end_time": "22:37:25",
+                "rating": 0.84,
+                "share": 5.1
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:24",
+                "end_time": "20:00:05",
+                "rating": 0.8,
+                "share": 6.44
+            },
+            {
+                "rank": 10,
+                "name": "SALAKO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:54",
+                "end_time": "21:52:58",
+                "rating": 0.71,
+                "share": 4.54
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:45:39",
+                "end_time": "24:21:32",
+                "rating": 2.4,
+                "share": 12.28
+            },
+            {
+                "rank": 2,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:35:10",
+                "end_time": "22:15:40",
+                "rating": 1.71,
+                "share": 9.29
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:27",
+                "rating": 1.66,
+                "share": 12.45
+            },
+            {
+                "rank": 4,
+                "name": "HIZLI VE OFKELI 7 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:50:46",
+                "end_time": "24:34:14",
+                "rating": 1.49,
+                "share": 7.55
+            },
+            {
+                "rank": 5,
+                "name": "BUZ DEVRI 3 DINOZORLARIN SAFAGI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "21:50:25",
+                "rating": 1.32,
+                "share": 7.78
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:24",
+                "end_time": "20:00:05",
+                "rating": 1.16,
+                "share": 8.7
+            },
+            {
+                "rank": 7,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:16:52",
+                "end_time": "23:42:31",
+                "rating": 1.14,
+                "share": 5.42
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:28",
+                "end_time": "20:00:10",
+                "rating": 1.06,
+                "share": 8.03
+            },
+            {
+                "rank": 9,
+                "name": "ASIRLIK GECE (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:06:54",
+                "end_time": "22:37:25",
+                "rating": 0.98,
+                "share": 5.29
+            },
+            {
+                "rank": 10,
+                "name": "RAMBO 4 (Y.S)",
+                "channel": "BEYAZ TV",
+                "start_time": "21:47:55",
+                "end_time": "23:31:17",
+                "rating": 0.92,
+                "share": 4.37
+            }
+        ]
+    }
+}
