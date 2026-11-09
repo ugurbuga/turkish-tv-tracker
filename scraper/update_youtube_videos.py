@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CHANNELS_FILE = ROOT / "data" / "youtube_channels.json"
 OUTPUT_FILE = ROOT / "data" / "youtube_videos.json"
 
-MAX_RESULTS = 25
+MAX_RESULTS = 50
 
 
 def fetch_videos(channel):
