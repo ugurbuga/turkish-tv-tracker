@@ -1,0 +1,282 @@
+{
+    "date": "2026-05-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "CIRKIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:01",
+                "end_time": "24:17:25",
+                "rating": 6.28,
+                "share": 19.72
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:01",
+                "end_time": "23:49:56",
+                "rating": 5.82,
+                "share": 17.84
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:31:34",
+                "end_time": "24:20:05",
+                "rating": 3.03,
+                "share": 9.89
+            },
+            {
+                "rank": 4,
+                "name": "CIRKIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:49",
+                "end_time": "20:59:01",
+                "rating": 2.71,
+                "share": 8.94
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.6,
+                "share": 10.91
+            },
+            {
+                "rank": 6,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:38:37",
+                "end_time": "21:19:40",
+                "rating": 2.39,
+                "share": 8.28
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:46",
+                "end_time": "21:00:01",
+                "rating": 2.34,
+                "share": 7.71
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:03",
+                "rating": 2.23,
+                "share": 9.41
+            },
+            {
+                "rank": 9,
+                "name": "SAG SALIM 3 OLU YA DA DIRI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:57",
+                "end_time": "22:24:35",
+                "rating": 1.78,
+                "share": 5.5
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "20:00:14",
+                "rating": 1.74,
+                "share": 7.26
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "CIRKIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:01",
+                "end_time": "24:17:25",
+                "rating": 5.2,
+                "share": 19.12
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:01",
+                "end_time": "23:49:56",
+                "rating": 4.28,
+                "share": 15.4
+            },
+            {
+                "rank": 3,
+                "name": "CIRKIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:49",
+                "end_time": "20:59:01",
+                "rating": 2.18,
+                "share": 8.46
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:31:34",
+                "end_time": "24:20:05",
+                "rating": 2.16,
+                "share": 8.22
+            },
+            {
+                "rank": 5,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:38:37",
+                "end_time": "21:19:40",
+                "rating": 1.84,
+                "share": 7.57
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 1.83,
+                "share": 9.52
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:03",
+                "rating": 1.67,
+                "share": 8.73
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:46",
+                "end_time": "21:00:01",
+                "rating": 1.36,
+                "share": 5.27
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:09",
+                "end_time": "24:16:00",
+                "rating": 1.24,
+                "share": 4.53
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:06",
+                "end_time": "18:58:26",
+                "rating": 1.21,
+                "share": 7.75
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "CIRKIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:01",
+                "end_time": "24:17:25",
+                "rating": 6.27,
+                "share": 19.7
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:01",
+                "end_time": "23:49:56",
+                "rating": 5.09,
+                "share": 15.64
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:31:34",
+                "end_time": "24:20:05",
+                "rating": 2.82,
+                "share": 9.22
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.47,
+                "share": 11.18
+            },
+            {
+                "rank": 5,
+                "name": "CIRKIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:49",
+                "end_time": "20:59:01",
+                "rating": 2.43,
+                "share": 8.48
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:03",
+                "rating": 2.3,
+                "share": 10.56
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:46",
+                "end_time": "21:00:01",
+                "rating": 2.08,
+                "share": 7.25
+            },
+            {
+                "rank": 8,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:38:37",
+                "end_time": "21:19:40",
+                "rating": 1.61,
+                "share": 5.92
+            },
+            {
+                "rank": 9,
+                "name": "HUKUMET KADIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "22:19:32",
+                "rating": 1.54,
+                "share": 5.02
+            },
+            {
+                "rank": 10,
+                "name": "SAG SALIM 3 OLU YA DA DIRI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:57",
+                "end_time": "22:24:35",
+                "rating": 1.47,
+                "share": 4.72
+            }
+        ]
+    }
+}
