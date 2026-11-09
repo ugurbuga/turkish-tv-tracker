@@ -1,0 +1,282 @@
+{
+    "date": "2026-07-20",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "21:00:04",
+                "end_time": "24:18:06",
+                "rating": 6.3,
+                "share": 27.98
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:18",
+                "end_time": "24:21:26",
+                "rating": 2.44,
+                "share": 11.16
+            },
+            {
+                "rank": 3,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "21:00:04",
+                "rating": 2.27,
+                "share": 11.69
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:22",
+                "rating": 1.75,
+                "share": 10.98
+            },
+            {
+                "rank": 5,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:00",
+                "end_time": "22:56:58",
+                "rating": 1.23,
+                "share": 5.67
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "20:00:11",
+                "rating": 1.18,
+                "share": 7.38
+            },
+            {
+                "rank": 7,
+                "name": "HABABAM SINIFI DOKUZ DOGURUYOR (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:43",
+                "end_time": "21:54:34",
+                "rating": 1.17,
+                "share": 5.69
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:39",
+                "end_time": "24:16:54",
+                "rating": 1.13,
+                "share": 5.31
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:28",
+                "rating": 1.1,
+                "share": 6.96
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:55:47",
+                "end_time": "20:58:18",
+                "rating": 1.08,
+                "share": 6.18
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "21:00:04",
+                "end_time": "24:18:06",
+                "rating": 4.21,
+                "share": 22.21
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:18",
+                "end_time": "24:21:26",
+                "rating": 2.32,
+                "share": 12.72
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:22",
+                "rating": 1.41,
+                "share": 9.98
+            },
+            {
+                "rank": 4,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:00",
+                "end_time": "22:56:58",
+                "rating": 1.37,
+                "share": 7.62
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:39",
+                "end_time": "24:16:54",
+                "rating": 1.22,
+                "share": 6.91
+            },
+            {
+                "rank": 6,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "21:00:04",
+                "rating": 1.12,
+                "share": 7.22
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:28",
+                "rating": 1.05,
+                "share": 7.38
+            },
+            {
+                "rank": 8,
+                "name": "YAPRAK DOKUMU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "09:29:52",
+                "end_time": "12:00:00",
+                "rating": 0.91,
+                "share": 12.84
+            },
+            {
+                "rank": 9,
+                "name": "HABABAM SINIFI DOKUZ DOGURUYOR (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:43",
+                "end_time": "21:54:34",
+                "rating": 0.89,
+                "share": 5.4
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:55:47",
+                "end_time": "20:58:18",
+                "rating": 0.89,
+                "share": 6.01
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "21:00:04",
+                "end_time": "24:18:06",
+                "rating": 6.02,
+                "share": 26.41
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:18",
+                "end_time": "24:21:26",
+                "rating": 2.53,
+                "share": 11.41
+            },
+            {
+                "rank": 3,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "21:00:04",
+                "rating": 2.05,
+                "share": 11.03
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:22",
+                "rating": 1.76,
+                "share": 11.4
+            },
+            {
+                "rank": 5,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:00",
+                "end_time": "22:56:58",
+                "rating": 1.46,
+                "share": 6.86
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:39",
+                "end_time": "24:16:54",
+                "rating": 1.37,
+                "share": 6.43
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "20:00:11",
+                "rating": 1.26,
+                "share": 8.14
+            },
+            {
+                "rank": 8,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:11",
+                "end_time": "18:58:29",
+                "rating": 1.15,
+                "share": 8.26
+            },
+            {
+                "rank": 9,
+                "name": "YAPRAK DOKUMU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "09:29:52",
+                "end_time": "12:00:00",
+                "rating": 1.15,
+                "share": 13.28
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:55:47",
+                "end_time": "20:58:18",
+                "rating": 1.12,
+                "share": 6.65
+            }
+        ]
+    }
+}
