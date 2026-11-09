@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-23",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "21:00:02",
+                "end_time": "24:18:35",
+                "rating": 6.25,
+                "share": 27.4
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:02",
+                "end_time": "20:59:51",
+                "rating": 2.65,
+                "share": 12.94
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:46:50",
+                "end_time": "24:36:37",
+                "rating": 2.05,
+                "share": 9.59
+            },
+            {
+                "rank": 4,
+                "name": "SLOVENYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:39",
+                "end_time": "21:16:44",
+                "rating": 1.59,
+                "share": 8.73
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:11",
+                "rating": 1.18,
+                "share": 7.42
+            },
+            {
+                "rank": 6,
+                "name": "KARAYIP KORSANLARI GIZEMLI DENIZLERDE (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:16:57",
+                "end_time": "23:34:03",
+                "rating": 1.14,
+                "share": 4.8
+            },
+            {
+                "rank": 7,
+                "name": "GERZEK SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:48:46",
+                "rating": 1.13,
+                "share": 5.39
+            },
+            {
+                "rank": 8,
+                "name": "COPCULER KRALI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:23",
+                "end_time": "21:46:20",
+                "rating": 1.09,
+                "share": 5.19
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:56",
+                "rating": 0.97,
+                "share": 6.12
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:18",
+                "rating": 0.96,
+                "share": 6.02
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "21:00:02",
+                "end_time": "24:18:35",
+                "rating": 4.47,
+                "share": 21.68
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:46:50",
+                "end_time": "24:36:37",
+                "rating": 2.56,
+                "share": 13.19
+            },
+            {
+                "rank": 3,
+                "name": "SLOVENYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:39",
+                "end_time": "21:16:44",
+                "rating": 2.31,
+                "share": 13.36
+            },
+            {
+                "rank": 4,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:02",
+                "end_time": "20:59:51",
+                "rating": 2.21,
+                "share": 11.4
+            },
+            {
+                "rank": 5,
+                "name": "KARAYIP KORSANLARI GIZEMLI DENIZLERDE (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:16:57",
+                "end_time": "23:34:03",
+                "rating": 1.55,
+                "share": 7.19
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:40:39",
+                "end_time": "20:46:50",
+                "rating": 1.03,
+                "share": 6.31
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:11",
+                "rating": 1.0,
+                "share": 6.56
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:56",
+                "rating": 0.96,
+                "share": 6.32
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:56:31",
+                "end_time": "24:17:47",
+                "rating": 0.86,
+                "share": 4.12
+            },
+            {
+                "rank": 10,
+                "name": "GERZEK SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:48:46",
+                "rating": 0.74,
+                "share": 3.78
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "21:00:02",
+                "end_time": "24:18:35",
+                "rating": 5.41,
+                "share": 23.98
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:02",
+                "end_time": "20:59:51",
+                "rating": 2.52,
+                "share": 12.41
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:46:50",
+                "end_time": "24:36:37",
+                "rating": 2.15,
+                "share": 10.13
+            },
+            {
+                "rank": 4,
+                "name": "SLOVENYA-TURKIYE CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:39",
+                "end_time": "21:16:44",
+                "rating": 2.12,
+                "share": 11.69
+            },
+            {
+                "rank": 5,
+                "name": "KARAYIP KORSANLARI GIZEMLI DENIZLERDE (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:16:57",
+                "end_time": "23:34:03",
+                "rating": 1.42,
+                "share": 6.03
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:11",
+                "rating": 1.21,
+                "share": 7.59
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:18",
+                "rating": 1.04,
+                "share": 6.49
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:56",
+                "rating": 0.98,
+                "share": 6.18
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:56:31",
+                "end_time": "24:17:47",
+                "rating": 0.96,
+                "share": 4.21
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:13",
+                "end_time": "18:58:28",
+                "rating": 0.89,
+                "share": 6.0
+            }
+        ]
+    }
+}

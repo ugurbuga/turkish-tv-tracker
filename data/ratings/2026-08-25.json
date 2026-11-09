@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-25",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:00",
+                "end_time": "24:41:13",
+                "rating": 3.13,
+                "share": 15.59
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:35",
+                "end_time": "23:44:10",
+                "rating": 2.3,
+                "share": 10.24
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:11",
+                "rating": 1.59,
+                "share": 9.45
+            },
+            {
+                "rank": 4,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:05",
+                "end_time": "23:17:50",
+                "rating": 1.43,
+                "share": 6.49
+            },
+            {
+                "rank": 5,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "13:59:58",
+                "end_time": "16:44:00",
+                "rating": 1.4,
+                "share": 10.8
+            },
+            {
+                "rank": 6,
+                "name": "GELECEGIN SAVASI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:00",
+                "end_time": "22:33:39",
+                "rating": 1.31,
+                "share": 5.85
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "20:00:16",
+                "rating": 1.31,
+                "share": 7.75
+            },
+            {
+                "rank": 8,
+                "name": "HABABAM SINIFI DOKUZ DOGURUYOR (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:44",
+                "end_time": "21:55:59",
+                "rating": 1.29,
+                "share": 5.95
+            },
+            {
+                "rank": 9,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "20:45:35",
+                "rating": 1.24,
+                "share": 6.16
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:45:04",
+                "end_time": "20:44:00",
+                "rating": 1.16,
+                "share": 6.31
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:00",
+                "end_time": "24:41:13",
+                "rating": 3.13,
+                "share": 18.44
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:35",
+                "end_time": "23:44:10",
+                "rating": 1.67,
+                "share": 8.56
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:11",
+                "rating": 1.22,
+                "share": 9.13
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:45:04",
+                "end_time": "20:44:00",
+                "rating": 1.14,
+                "share": 7.63
+            },
+            {
+                "rank": 5,
+                "name": "GELECEGIN SAVASI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:00",
+                "end_time": "22:33:39",
+                "rating": 1.08,
+                "share": 5.62
+            },
+            {
+                "rank": 6,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:05",
+                "end_time": "23:17:50",
+                "rating": 1.04,
+                "share": 5.52
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "20:00:16",
+                "rating": 1.01,
+                "share": 7.51
+            },
+            {
+                "rank": 8,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "20:45:35",
+                "rating": 0.9,
+                "share": 5.41
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:36",
+                "rating": 0.88,
+                "share": 6.7
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:11",
+                "end_time": "18:58:25",
+                "rating": 0.73,
+                "share": 5.97
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:00",
+                "end_time": "24:41:13",
+                "rating": 3.21,
+                "share": 16.15
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:35",
+                "end_time": "23:44:10",
+                "rating": 2.02,
+                "share": 9.16
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:11",
+                "rating": 1.57,
+                "share": 10.28
+            },
+            {
+                "rank": 4,
+                "name": "GELECEGIN SAVASI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:00",
+                "end_time": "22:33:39",
+                "rating": 1.41,
+                "share": 6.53
+            },
+            {
+                "rank": 5,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:05",
+                "end_time": "23:17:50",
+                "rating": 1.4,
+                "share": 6.57
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:45:04",
+                "end_time": "20:44:00",
+                "rating": 1.29,
+                "share": 7.66
+            },
+            {
+                "rank": 7,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "20:45:35",
+                "rating": 1.28,
+                "share": 6.85
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "20:00:16",
+                "rating": 1.28,
+                "share": 8.33
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:36",
+                "rating": 1.13,
+                "share": 7.45
+            },
+            {
+                "rank": 10,
+                "name": "YAPRAK DOKUMU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "09:30:19",
+                "end_time": "12:00:02",
+                "rating": 1.0,
+                "share": 11.63
+            }
+        ]
+    }
+}

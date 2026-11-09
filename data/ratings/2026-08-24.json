@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-24",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "20:58:34",
+                "end_time": "24:17:28",
+                "rating": 6.06,
+                "share": 25.96
+            },
+            {
+                "rank": 2,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "20:58:34",
+                "rating": 2.66,
+                "share": 12.15
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:01",
+                "end_time": "24:34:42",
+                "rating": 2.59,
+                "share": 11.79
+            },
+            {
+                "rank": 4,
+                "name": "MEVLID GECESI",
+                "channel": "TRT 1",
+                "start_time": "20:20:09",
+                "end_time": "22:13:32",
+                "rating": 1.67,
+                "share": 7.05
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 1.67,
+                "share": 9.4
+            },
+            {
+                "rank": 6,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "14:00:01",
+                "end_time": "16:44:30",
+                "rating": 1.55,
+                "share": 12.52
+            },
+            {
+                "rank": 7,
+                "name": "TURKIYE-MACARISTAN CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "19:07:22",
+                "end_time": "21:00:29",
+                "rating": 1.39,
+                "share": 7.0
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:02:08",
+                "rating": 1.35,
+                "share": 7.57
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:29",
+                "end_time": "19:59:49",
+                "rating": 1.34,
+                "share": 7.59
+            },
+            {
+                "rank": 10,
+                "name": "MEVLID-I NEBI GECESI OZEL",
+                "channel": "KANAL D",
+                "start_time": "20:02:08",
+                "end_time": "21:26:07",
+                "rating": 1.27,
+                "share": 5.7
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:01",
+                "end_time": "24:34:42",
+                "rating": 3.17,
+                "share": 17.1
+            },
+            {
+                "rank": 2,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "20:58:34",
+                "end_time": "24:17:28",
+                "rating": 2.89,
+                "share": 14.73
+            },
+            {
+                "rank": 3,
+                "name": "TURKIYE-MACARISTAN CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "19:07:22",
+                "end_time": "21:00:29",
+                "rating": 2.13,
+                "share": 11.98
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:02:08",
+                "rating": 1.74,
+                "share": 11.04
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 1.54,
+                "share": 9.85
+            },
+            {
+                "rank": 6,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:11",
+                "end_time": "18:58:23",
+                "rating": 1.47,
+                "share": 10.84
+            },
+            {
+                "rank": 7,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "20:58:34",
+                "rating": 1.35,
+                "share": 6.76
+            },
+            {
+                "rank": 8,
+                "name": "MEVLID-I NEBI GECESI OZEL",
+                "channel": "KANAL D",
+                "start_time": "20:02:08",
+                "end_time": "21:26:07",
+                "rating": 1.17,
+                "share": 5.95
+            },
+            {
+                "rank": 9,
+                "name": "SET SAYISI",
+                "channel": "TRT SPOR",
+                "start_time": "21:03:38",
+                "end_time": "21:18:19",
+                "rating": 1.11,
+                "share": 5.52
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:29",
+                "end_time": "19:59:49",
+                "rating": 1.05,
+                "share": 6.74
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "20:58:34",
+                "end_time": "24:17:28",
+                "rating": 4.94,
+                "share": 21.7
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:01",
+                "end_time": "24:34:42",
+                "rating": 2.94,
+                "share": 13.72
+            },
+            {
+                "rank": 3,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "20:58:34",
+                "rating": 1.95,
+                "share": 9.35
+            },
+            {
+                "rank": 4,
+                "name": "TURKIYE-MACARISTAN CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "19:07:22",
+                "end_time": "21:00:29",
+                "rating": 1.7,
+                "share": 9.11
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 1.59,
+                "share": 9.65
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:02:08",
+                "rating": 1.57,
+                "share": 9.5
+            },
+            {
+                "rank": 7,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:11",
+                "end_time": "18:58:23",
+                "rating": 1.43,
+                "share": 9.95
+            },
+            {
+                "rank": 8,
+                "name": "MEVLID GECESI",
+                "channel": "TRT 1",
+                "start_time": "20:20:09",
+                "end_time": "22:13:32",
+                "rating": 1.42,
+                "share": 6.3
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:29",
+                "end_time": "19:59:49",
+                "rating": 1.29,
+                "share": 7.89
+            },
+            {
+                "rank": 10,
+                "name": "MEVLID-I NEBI GECESI OZEL",
+                "channel": "KANAL D",
+                "start_time": "20:02:08",
+                "end_time": "21:26:07",
+                "rating": 1.2,
+                "share": 5.66
+            }
+        ]
+    }
+}
