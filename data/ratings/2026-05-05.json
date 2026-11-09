@@ -1,0 +1,282 @@
+{
+    "date": "2026-05-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "BESIKTAS-TUMOSAN KONYASPOR ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:22:54",
+                "end_time": "22:46:18",
+                "rating": 7.48,
+                "share": 20.55
+            },
+            {
+                "rank": 2,
+                "name": "KISKANMAK",
+                "channel": "NOW",
+                "start_time": "21:00:14",
+                "end_time": "24:16:57",
+                "rating": 5.27,
+                "share": 15.41
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:07",
+                "end_time": "18:45:17",
+                "rating": 4.69,
+                "share": 22.92
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "13:00:01",
+                "rating": 4.63,
+                "share": 31.37
+            },
+            {
+                "rank": 5,
+                "name": "ARSENAL-ATLETICO MADRID UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:26",
+                "end_time": "24:02:57",
+                "rating": 4.36,
+                "share": 13.44
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:59",
+                "end_time": "19:45:14",
+                "rating": 3.67,
+                "share": 13.03
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:20:25",
+                "end_time": "24:21:23",
+                "rating": 3.62,
+                "share": 10.91
+            },
+            {
+                "rank": 8,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:00:21",
+                "end_time": "21:52:21",
+                "rating": 3.54,
+                "share": 9.96
+            },
+            {
+                "rank": 9,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:48",
+                "rating": 3.39,
+                "share": 11.97
+            },
+            {
+                "rank": 10,
+                "name": "KISKANMAK (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:58",
+                "end_time": "20:59:59",
+                "rating": 2.91,
+                "share": 8.42
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "BESIKTAS-TUMOSAN KONYASPOR ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:22:54",
+                "end_time": "22:46:18",
+                "rating": 6.3,
+                "share": 20.72
+            },
+            {
+                "rank": 2,
+                "name": "ARSENAL-ATLETICO MADRID UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:26",
+                "end_time": "24:02:57",
+                "rating": 5.52,
+                "share": 19.44
+            },
+            {
+                "rank": 3,
+                "name": "KISKANMAK",
+                "channel": "NOW",
+                "start_time": "21:00:14",
+                "end_time": "24:16:57",
+                "rating": 4.72,
+                "share": 16.04
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "13:00:01",
+                "rating": 3.39,
+                "share": 30.84
+            },
+            {
+                "rank": 5,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:00:21",
+                "end_time": "21:52:21",
+                "rating": 3.34,
+                "share": 11.39
+            },
+            {
+                "rank": 6,
+                "name": "KISKANMAK (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:58",
+                "end_time": "20:59:59",
+                "rating": 2.87,
+                "share": 10.16
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:48",
+                "rating": 2.43,
+                "share": 10.76
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:20:25",
+                "end_time": "24:21:23",
+                "rating": 2.28,
+                "share": 8.03
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:07",
+                "end_time": "18:45:17",
+                "rating": 1.96,
+                "share": 13.12
+            },
+            {
+                "rank": 10,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "16:00:23",
+                "end_time": "18:40:49",
+                "rating": 1.8,
+                "share": 12.27
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "BESIKTAS-TUMOSAN KONYASPOR ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:22:54",
+                "end_time": "22:46:18",
+                "rating": 7.66,
+                "share": 20.79
+            },
+            {
+                "rank": 2,
+                "name": "ARSENAL-ATLETICO MADRID UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:26",
+                "end_time": "24:02:57",
+                "rating": 5.54,
+                "share": 16.29
+            },
+            {
+                "rank": 3,
+                "name": "KISKANMAK",
+                "channel": "NOW",
+                "start_time": "21:00:14",
+                "end_time": "24:16:57",
+                "rating": 5.32,
+                "share": 15.01
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "13:00:01",
+                "rating": 4.43,
+                "share": 32.15
+            },
+            {
+                "rank": 5,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:00:21",
+                "end_time": "21:52:21",
+                "rating": 4.1,
+                "share": 11.66
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:07",
+                "end_time": "18:45:17",
+                "rating": 3.87,
+                "share": 21.54
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:48",
+                "rating": 3.47,
+                "share": 13.22
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:20:25",
+                "end_time": "24:21:23",
+                "rating": 3.26,
+                "share": 9.57
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:59",
+                "end_time": "19:45:14",
+                "rating": 3.21,
+                "share": 12.39
+            },
+            {
+                "rank": 10,
+                "name": "KISKANMAK (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:58",
+                "end_time": "20:59:59",
+                "rating": 2.92,
+                "share": 8.66
+            }
+        ]
+    }
+}
