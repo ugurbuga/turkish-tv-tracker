@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-21",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:36",
+                "end_time": "24:35:38",
+                "rating": 2.75,
+                "share": 13.76
+            },
+            {
+                "rank": 2,
+                "name": "TURKIYE-LETONYA CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:52:35",
+                "end_time": "20:33:49",
+                "rating": 1.62,
+                "share": 9.5
+            },
+            {
+                "rank": 3,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:36:20",
+                "end_time": "22:16:00",
+                "rating": 1.51,
+                "share": 7.0
+            },
+            {
+                "rank": 4,
+                "name": "ASIRLIK GECE",
+                "channel": "TRT 1",
+                "start_time": "21:00:07",
+                "end_time": "22:54:46",
+                "rating": 1.4,
+                "share": 6.25
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:58",
+                "rating": 1.39,
+                "share": 8.57
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:54",
+                "rating": 1.37,
+                "share": 8.45
+            },
+            {
+                "rank": 7,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "13:59:47",
+                "end_time": "16:46:00",
+                "rating": 1.31,
+                "share": 10.88
+            },
+            {
+                "rank": 8,
+                "name": "SON HESAPLASMA (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:43:23",
+                "end_time": "23:37:43",
+                "rating": 1.26,
+                "share": 5.72
+            },
+            {
+                "rank": 9,
+                "name": "POSTACI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:01",
+                "end_time": "21:49:50",
+                "rating": 1.19,
+                "share": 5.72
+            },
+            {
+                "rank": 10,
+                "name": "MADALYON (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:46",
+                "end_time": "21:43:07",
+                "rating": 1.18,
+                "share": 5.79
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:36",
+                "end_time": "24:35:38",
+                "rating": 2.75,
+                "share": 15.15
+            },
+            {
+                "rank": 2,
+                "name": "TURKIYE-LETONYA CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:52:35",
+                "end_time": "20:33:49",
+                "rating": 2.29,
+                "share": 16.43
+            },
+            {
+                "rank": 3,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:36:20",
+                "end_time": "22:16:00",
+                "rating": 1.64,
+                "share": 8.84
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:58",
+                "rating": 1.51,
+                "share": 11.67
+            },
+            {
+                "rank": 5,
+                "name": "BUZ DEVRI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "21:39:18",
+                "rating": 1.42,
+                "share": 8.3
+            },
+            {
+                "rank": 6,
+                "name": "ASIRLIK GECE",
+                "channel": "TRT 1",
+                "start_time": "21:00:07",
+                "end_time": "22:54:46",
+                "rating": 1.37,
+                "share": 6.81
+            },
+            {
+                "rank": 7,
+                "name": "SET SAYISI",
+                "channel": "TRT 1",
+                "start_time": "20:34:02",
+                "end_time": "20:50:08",
+                "rating": 1.27,
+                "share": 7.48
+            },
+            {
+                "rank": 8,
+                "name": "SON HESAPLASMA (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:43:23",
+                "end_time": "23:37:43",
+                "rating": 1.07,
+                "share": 5.29
+            },
+            {
+                "rank": 9,
+                "name": "ASIRLIK GECE (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:55:04",
+                "end_time": "24:40:27",
+                "rating": 0.98,
+                "share": 6.29
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:06",
+                "end_time": "18:58:25",
+                "rating": 0.97,
+                "share": 8.87
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:36",
+                "end_time": "24:35:38",
+                "rating": 2.81,
+                "share": 14.03
+            },
+            {
+                "rank": 2,
+                "name": "TURKIYE-LETONYA CEV TRENDYOL KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:52:35",
+                "end_time": "20:33:49",
+                "rating": 2.26,
+                "share": 14.54
+            },
+            {
+                "rank": 3,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:36:20",
+                "end_time": "22:16:00",
+                "rating": 1.63,
+                "share": 7.97
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:58",
+                "rating": 1.56,
+                "share": 10.6
+            },
+            {
+                "rank": 5,
+                "name": "ASIRLIK GECE",
+                "channel": "TRT 1",
+                "start_time": "21:00:07",
+                "end_time": "22:54:46",
+                "rating": 1.36,
+                "share": 6.24
+            },
+            {
+                "rank": 6,
+                "name": "SON HESAPLASMA (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:43:23",
+                "end_time": "23:37:43",
+                "rating": 1.34,
+                "share": 6.11
+            },
+            {
+                "rank": 7,
+                "name": "BUZ DEVRI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "21:39:18",
+                "rating": 1.28,
+                "share": 6.76
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:54",
+                "rating": 1.17,
+                "share": 7.92
+            },
+            {
+                "rank": 9,
+                "name": "POSTACI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:01",
+                "end_time": "21:49:50",
+                "rating": 1.15,
+                "share": 5.84
+            },
+            {
+                "rank": 10,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:46:24",
+                "end_time": "18:19:45",
+                "rating": 1.13,
+                "share": 10.64
+            }
+        ]
+    }
+}
