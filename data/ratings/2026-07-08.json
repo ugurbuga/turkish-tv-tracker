@@ -1,0 +1,282 @@
+{
+    "date": "2026-07-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:00",
+                "end_time": "23:44:57",
+                "rating": 5.03,
+                "share": 20.64
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:40",
+                "end_time": "23:42:04",
+                "rating": 2.79,
+                "share": 11.39
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:36:11",
+                "end_time": "24:20:32",
+                "rating": 2.08,
+                "share": 8.98
+            },
+            {
+                "rank": 4,
+                "name": "DOGANIN KANUNU (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:10",
+                "end_time": "21:00:00",
+                "rating": 1.91,
+                "share": 9.29
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:17",
+                "rating": 1.74,
+                "share": 10.32
+            },
+            {
+                "rank": 6,
+                "name": "RECEP IVEDIK 3 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:17:11",
+                "end_time": "22:13:21",
+                "rating": 1.48,
+                "share": 6.55
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "19:59:59",
+                "rating": 1.29,
+                "share": 7.67
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:35",
+                "end_time": "19:59:54",
+                "rating": 1.17,
+                "share": 6.93
+            },
+            {
+                "rank": 9,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "20:45:40",
+                "rating": 1.11,
+                "share": 5.63
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:36:14",
+                "end_time": "20:36:11",
+                "rating": 0.97,
+                "share": 5.47
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:00",
+                "end_time": "23:44:57",
+                "rating": 4.46,
+                "share": 20.01
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:40",
+                "end_time": "23:42:04",
+                "rating": 2.31,
+                "share": 10.4
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:17",
+                "rating": 1.8,
+                "share": 12.55
+            },
+            {
+                "rank": 4,
+                "name": "DOGANIN KANUNU (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:10",
+                "end_time": "21:00:00",
+                "rating": 1.73,
+                "share": 10.02
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:36:11",
+                "end_time": "24:20:32",
+                "rating": 1.55,
+                "share": 7.32
+            },
+            {
+                "rank": 6,
+                "name": "BITTIN SEN (T.S)",
+                "channel": "STAR TV",
+                "start_time": "23:45:20",
+                "end_time": "25:31:55",
+                "rating": 1.04,
+                "share": 9.0
+            },
+            {
+                "rank": 7,
+                "name": "ROBOT RON BIR SORUN VAR (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:44",
+                "end_time": "22:21:52",
+                "rating": 0.92,
+                "share": 4.79
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:35",
+                "end_time": "19:59:54",
+                "rating": 0.91,
+                "share": 6.42
+            },
+            {
+                "rank": 9,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "20:45:40",
+                "rating": 0.91,
+                "share": 5.4
+            },
+            {
+                "rank": 10,
+                "name": "STAR ANA HABER",
+                "channel": "STAR TV",
+                "start_time": "18:59:32",
+                "end_time": "19:59:35",
+                "rating": 0.82,
+                "share": 5.76
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:00",
+                "end_time": "23:44:57",
+                "rating": 4.94,
+                "share": 19.88
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:40",
+                "end_time": "23:42:04",
+                "rating": 2.61,
+                "share": 10.48
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:36:11",
+                "end_time": "24:20:32",
+                "rating": 2.3,
+                "share": 9.75
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:17",
+                "rating": 1.96,
+                "share": 12.15
+            },
+            {
+                "rank": 5,
+                "name": "DOGANIN KANUNU (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:10",
+                "end_time": "21:00:00",
+                "rating": 1.81,
+                "share": 9.24
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:35",
+                "end_time": "19:59:54",
+                "rating": 1.16,
+                "share": 7.2
+            },
+            {
+                "rank": 7,
+                "name": "RECEP IVEDIK 3 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:17:11",
+                "end_time": "22:13:21",
+                "rating": 1.14,
+                "share": 5.22
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "19:59:59",
+                "rating": 1.14,
+                "share": 7.04
+            },
+            {
+                "rank": 9,
+                "name": "BITTIN SEN (T.S)",
+                "channel": "STAR TV",
+                "start_time": "23:45:20",
+                "end_time": "25:31:55",
+                "rating": 1.05,
+                "share": 8.34
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:36:14",
+                "end_time": "20:36:11",
+                "rating": 1.01,
+                "share": 6.03
+            }
+        ]
+    }
+}
