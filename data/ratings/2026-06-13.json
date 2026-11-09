@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "20:49:17",
+                "end_time": "24:18:09",
+                "rating": 5.66,
+                "share": 20.14
+            },
+            {
+                "rank": 2,
+                "name": "KATAR-ISVICRE FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:41",
+                "end_time": "24:18:36",
+                "rating": 4.72,
+                "share": 17.47
+            },
+            {
+                "rank": 3,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "20:49:11",
+                "rating": 2.63,
+                "share": 10.14
+            },
+            {
+                "rank": 4,
+                "name": "BREZILYA-FAS FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "24:50:04",
+                "end_time": "25:53:49",
+                "rating": 2.27,
+                "share": 23.97
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:21:18",
+                "end_time": "24:35:14",
+                "rating": 2.27,
+                "share": 8.54
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 2.21,
+                "share": 10.17
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:59",
+                "rating": 1.93,
+                "share": 8.95
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:19",
+                "end_time": "20:00:04",
+                "rating": 1.89,
+                "share": 8.69
+            },
+            {
+                "rank": 9,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:14",
+                "end_time": "21:22:21",
+                "rating": 1.82,
+                "share": 6.77
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "21:05:04",
+                "end_time": "24:16:13",
+                "rating": 1.72,
+                "share": 6.12
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KATAR-ISVICRE FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:41",
+                "end_time": "24:18:36",
+                "rating": 6.9,
+                "share": 26.62
+            },
+            {
+                "rank": 2,
+                "name": "BREZILYA-FAS FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "24:50:04",
+                "end_time": "25:53:49",
+                "rating": 3.83,
+                "share": 36.69
+            },
+            {
+                "rank": 3,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "20:49:17",
+                "end_time": "24:18:09",
+                "rating": 3.73,
+                "share": 14.09
+            },
+            {
+                "rank": 4,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "24:18:44",
+                "end_time": "24:47:21",
+                "rating": 2.68,
+                "share": 17.41
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "21:05:04",
+                "end_time": "24:16:13",
+                "rating": 2.02,
+                "share": 7.62
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:21:18",
+                "end_time": "24:35:14",
+                "rating": 2.0,
+                "share": 8.04
+            },
+            {
+                "rank": 7,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:14",
+                "end_time": "21:22:21",
+                "rating": 1.84,
+                "share": 7.63
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:10",
+                "end_time": "21:05:04",
+                "rating": 1.79,
+                "share": 7.66
+            },
+            {
+                "rank": 9,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "20:49:11",
+                "rating": 1.7,
+                "share": 7.47
+            },
+            {
+                "rank": 10,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 1.44,
+                "share": 7.73
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KATAR-ISVICRE FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:41",
+                "end_time": "24:18:36",
+                "rating": 6.14,
+                "share": 22.18
+            },
+            {
+                "rank": 2,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "20:49:17",
+                "end_time": "24:18:09",
+                "rating": 4.7,
+                "share": 16.64
+            },
+            {
+                "rank": 3,
+                "name": "BREZILYA-FAS FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "24:50:04",
+                "end_time": "25:53:49",
+                "rating": 3.25,
+                "share": 29.43
+            },
+            {
+                "rank": 4,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "24:18:44",
+                "end_time": "24:47:21",
+                "rating": 2.39,
+                "share": 14.04
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:21:18",
+                "end_time": "24:35:14",
+                "rating": 2.3,
+                "share": 8.57
+            },
+            {
+                "rank": 6,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "20:49:11",
+                "rating": 2.18,
+                "share": 8.67
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 2.13,
+                "share": 10.48
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "21:05:04",
+                "end_time": "24:16:13",
+                "rating": 2.08,
+                "share": 7.36
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:10",
+                "end_time": "21:05:04",
+                "rating": 1.9,
+                "share": 7.45
+            },
+            {
+                "rank": 10,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:14",
+                "end_time": "21:22:21",
+                "rating": 1.85,
+                "share": 7.1
+            }
+        ]
+    }
+}
