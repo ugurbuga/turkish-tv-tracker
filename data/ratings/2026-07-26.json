@@ -1,0 +1,282 @@
+{
+    "date": "2026-07-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "21:00:29",
+                "end_time": "24:15:32",
+                "rating": 7.65,
+                "share": 32.32
+            },
+            {
+                "rank": 2,
+                "name": "TURKIYE-BREZILYA FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "14:15:22",
+                "end_time": "17:07:09",
+                "rating": 3.32,
+                "share": 22.86
+            },
+            {
+                "rank": 3,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:45",
+                "end_time": "21:00:18",
+                "rating": 3.09,
+                "share": 15.78
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:02:00",
+                "end_time": "24:26:31",
+                "rating": 2.37,
+                "share": 10.39
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:24",
+                "rating": 1.73,
+                "share": 10.73
+            },
+            {
+                "rank": 6,
+                "name": "SET SAYISI",
+                "channel": "TRT 1",
+                "start_time": "17:07:09",
+                "end_time": "17:40:22",
+                "rating": 1.55,
+                "share": 10.91
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER (TKR)",
+                "channel": "ATV",
+                "start_time": "20:00:00",
+                "end_time": "24:16:53",
+                "rating": 1.12,
+                "share": 4.97
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:14",
+                "end_time": "20:00:01",
+                "rating": 1.1,
+                "share": 6.82
+            },
+            {
+                "rank": 9,
+                "name": "ATLA GEL SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:59",
+                "end_time": "21:47:16",
+                "rating": 1.08,
+                "share": 5.26
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "24:17:03",
+                "end_time": "25:42:01",
+                "rating": 1.07,
+                "share": 11.48
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "21:00:29",
+                "end_time": "24:15:32",
+                "rating": 6.32,
+                "share": 29.54
+            },
+            {
+                "rank": 2,
+                "name": "TURKIYE-BREZILYA FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "14:15:22",
+                "end_time": "17:07:09",
+                "rating": 5.31,
+                "share": 36.73
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:02:00",
+                "end_time": "24:26:31",
+                "rating": 2.76,
+                "share": 13.33
+            },
+            {
+                "rank": 4,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:45",
+                "end_time": "21:00:18",
+                "rating": 2.54,
+                "share": 14.27
+            },
+            {
+                "rank": 5,
+                "name": "SET SAYISI",
+                "channel": "TRT 1",
+                "start_time": "17:07:09",
+                "end_time": "17:40:22",
+                "rating": 2.44,
+                "share": 16.67
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:39:29",
+                "end_time": "21:02:00",
+                "rating": 1.07,
+                "share": 6.59
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:24",
+                "rating": 1.04,
+                "share": 6.72
+            },
+            {
+                "rank": 8,
+                "name": "EMEKLILIK PLANI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:18",
+                "end_time": "21:54:03",
+                "rating": 0.98,
+                "share": 5.01
+            },
+            {
+                "rank": 9,
+                "name": "STAR HABER",
+                "channel": "STAR TV",
+                "start_time": "18:44:42",
+                "end_time": "18:59:27",
+                "rating": 0.95,
+                "share": 6.55
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "24:17:03",
+                "end_time": "25:42:01",
+                "rating": 0.94,
+                "share": 11.46
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "21:00:29",
+                "end_time": "24:15:32",
+                "rating": 6.74,
+                "share": 28.05
+            },
+            {
+                "rank": 2,
+                "name": "TURKIYE-BREZILYA FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "14:15:22",
+                "end_time": "17:07:09",
+                "rating": 4.9,
+                "share": 33.12
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:02:00",
+                "end_time": "24:26:31",
+                "rating": 2.8,
+                "share": 12.07
+            },
+            {
+                "rank": 4,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:45",
+                "end_time": "21:00:18",
+                "rating": 2.67,
+                "share": 14.22
+            },
+            {
+                "rank": 5,
+                "name": "SET SAYISI",
+                "channel": "TRT 1",
+                "start_time": "17:07:09",
+                "end_time": "17:40:22",
+                "rating": 2.32,
+                "share": 16.23
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:24",
+                "rating": 1.36,
+                "share": 8.7
+            },
+            {
+                "rank": 7,
+                "name": "ATLA GEL SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:59",
+                "end_time": "21:47:16",
+                "rating": 1.17,
+                "share": 5.89
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER (TKR)",
+                "channel": "ATV",
+                "start_time": "20:00:00",
+                "end_time": "24:16:53",
+                "rating": 1.07,
+                "share": 4.72
+            },
+            {
+                "rank": 9,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "24:17:03",
+                "end_time": "25:42:01",
+                "rating": 1.01,
+                "share": 10.62
+            },
+            {
+                "rank": 10,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "15:56:01",
+                "end_time": "18:48:50",
+                "rating": 1.0,
+                "share": 6.82
+            }
+        ]
+    }
+}

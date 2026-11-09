@@ -1,0 +1,282 @@
+{
+    "date": "2026-07-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:46",
+                "end_time": "23:44:11",
+                "rating": 3.2,
+                "share": 14.44
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:07:33",
+                "end_time": "24:21:57",
+                "rating": 2.93,
+                "share": 13.97
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:57",
+                "rating": 2.09,
+                "share": 13.26
+            },
+            {
+                "rank": 4,
+                "name": "ARICI OLUM KOVANI (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:58:43",
+                "rating": 1.82,
+                "share": 8.77
+            },
+            {
+                "rank": 5,
+                "name": "VAR MISIN YOK MUSUN OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "20:45:46",
+                "rating": 1.58,
+                "share": 8.42
+            },
+            {
+                "rank": 6,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "22:52:46",
+                "rating": 1.58,
+                "share": 7.35
+            },
+            {
+                "rank": 7,
+                "name": "KAPIMDAKI CASUS (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:58:59",
+                "end_time": "23:44:17",
+                "rating": 1.36,
+                "share": 6.3
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:29",
+                "end_time": "19:59:55",
+                "rating": 1.29,
+                "share": 8.22
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:13",
+                "end_time": "20:00:05",
+                "rating": 1.18,
+                "share": 7.48
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:52:08",
+                "rating": 1.1,
+                "share": 7.09
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:07:33",
+                "end_time": "24:21:57",
+                "rating": 2.79,
+                "share": 14.51
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:46",
+                "end_time": "23:44:11",
+                "rating": 2.01,
+                "share": 9.97
+            },
+            {
+                "rank": 3,
+                "name": "ARICI OLUM KOVANI (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:58:43",
+                "rating": 1.85,
+                "share": 10.34
+            },
+            {
+                "rank": 4,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "22:52:46",
+                "rating": 1.18,
+                "share": 6.26
+            },
+            {
+                "rank": 5,
+                "name": "ARICI OLUM KOVANI (Y.S) (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "23:44:33",
+                "end_time": "25:34:50",
+                "rating": 1.14,
+                "share": 10.4
+            },
+            {
+                "rank": 6,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:11",
+                "end_time": "18:58:08",
+                "rating": 1.09,
+                "share": 8.6
+            },
+            {
+                "rank": 7,
+                "name": "TOLGSHOW YILDIZLAR",
+                "channel": "STAR TV",
+                "start_time": "20:55:20",
+                "end_time": "22:48:41",
+                "rating": 1.08,
+                "share": 5.3
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:57",
+                "rating": 1.02,
+                "share": 7.87
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:29",
+                "end_time": "19:59:55",
+                "rating": 0.95,
+                "share": 7.34
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:13",
+                "end_time": "20:00:05",
+                "rating": 0.91,
+                "share": 7.02
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:07:33",
+                "end_time": "24:21:57",
+                "rating": 3.15,
+                "share": 14.76
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:46",
+                "end_time": "23:44:11",
+                "rating": 2.5,
+                "share": 11.12
+            },
+            {
+                "rank": 3,
+                "name": "ARICI OLUM KOVANI (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:58:43",
+                "rating": 2.28,
+                "share": 11.29
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:57",
+                "rating": 1.83,
+                "share": 12.51
+            },
+            {
+                "rank": 5,
+                "name": "KAPIMDAKI CASUS (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:58:59",
+                "end_time": "23:44:17",
+                "rating": 1.35,
+                "share": 6.12
+            },
+            {
+                "rank": 6,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:45:36",
+                "end_time": "18:21:15",
+                "rating": 1.32,
+                "share": 12.77
+            },
+            {
+                "rank": 7,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "22:52:46",
+                "rating": 1.29,
+                "share": 6.08
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:13",
+                "end_time": "20:00:05",
+                "rating": 1.26,
+                "share": 8.61
+            },
+            {
+                "rank": 9,
+                "name": "TOLGSHOW YILDIZLAR",
+                "channel": "STAR TV",
+                "start_time": "20:55:20",
+                "end_time": "22:48:41",
+                "rating": 1.1,
+                "share": 4.8
+            },
+            {
+                "rank": 10,
+                "name": "ARICI OLUM KOVANI (Y.S) (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "23:44:33",
+                "end_time": "25:34:50",
+                "rating": 1.07,
+                "share": 8.99
+            }
+        ]
+    }
+}
