@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-29",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "20:41:38",
+                "end_time": "23:25:48",
+                "rating": 6.7,
+                "share": 25.15
+            },
+            {
+                "rank": 2,
+                "name": "BREZILYA-JAPONYA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:49:45",
+                "end_time": "22:16:42",
+                "rating": 4.0,
+                "share": 16.51
+            },
+            {
+                "rank": 3,
+                "name": "ALMANYA-PARAGUAY FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:19:53",
+                "end_time": "26:00:00",
+                "rating": 2.86,
+                "share": 20.97
+            },
+            {
+                "rank": 4,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:00",
+                "end_time": "20:41:38",
+                "rating": 2.33,
+                "share": 10.92
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:23",
+                "end_time": "24:18:08",
+                "rating": 2.13,
+                "share": 8.52
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:00",
+                "rating": 1.87,
+                "share": 10.46
+            },
+            {
+                "rank": 7,
+                "name": "FIFA 2026 DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:16:50",
+                "end_time": "22:21:01",
+                "rating": 1.83,
+                "share": 6.73
+            },
+            {
+                "rank": 8,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "23:26:53",
+                "end_time": "26:00:00",
+                "rating": 1.68,
+                "share": 12.29
+            },
+            {
+                "rank": 9,
+                "name": "HABABAM SINIFI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:32",
+                "end_time": "21:54:39",
+                "rating": 1.59,
+                "share": 6.62
+            },
+            {
+                "rank": 10,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "13:59:59",
+                "end_time": "16:43:33",
+                "rating": 1.55,
+                "share": 11.81
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "BREZILYA-JAPONYA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:49:45",
+                "end_time": "22:16:42",
+                "rating": 4.88,
+                "share": 23.63
+            },
+            {
+                "rank": 2,
+                "name": "ALMANYA-PARAGUAY FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:19:53",
+                "end_time": "26:00:00",
+                "rating": 4.7,
+                "share": 34.1
+            },
+            {
+                "rank": 3,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "20:41:38",
+                "end_time": "23:25:48",
+                "rating": 3.86,
+                "share": 17.39
+            },
+            {
+                "rank": 4,
+                "name": "FIFA 2026 DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:16:50",
+                "end_time": "22:21:01",
+                "rating": 2.39,
+                "share": 10.98
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:23",
+                "end_time": "24:18:08",
+                "rating": 1.83,
+                "share": 8.6
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:00",
+                "rating": 1.71,
+                "share": 10.59
+            },
+            {
+                "rank": 7,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "22:21:40",
+                "end_time": "23:09:15",
+                "rating": 1.49,
+                "share": 6.89
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:19",
+                "end_time": "20:00:00",
+                "rating": 1.18,
+                "share": 7.29
+            },
+            {
+                "rank": 9,
+                "name": "DUSUS (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "22:24:32",
+                "rating": 1.1,
+                "share": 5.3
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D HABER GUN ARASI",
+                "channel": "KANAL D",
+                "start_time": "12:00:12",
+                "end_time": "12:59:14",
+                "rating": 1.1,
+                "share": 9.83
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "20:41:38",
+                "end_time": "23:25:48",
+                "rating": 5.63,
+                "share": 21.43
+            },
+            {
+                "rank": 2,
+                "name": "BREZILYA-JAPONYA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:49:45",
+                "end_time": "22:16:42",
+                "rating": 5.05,
+                "share": 21.1
+            },
+            {
+                "rank": 3,
+                "name": "ALMANYA-PARAGUAY FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:19:53",
+                "end_time": "26:00:00",
+                "rating": 3.89,
+                "share": 27.45
+            },
+            {
+                "rank": 4,
+                "name": "FIFA 2026 DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:16:50",
+                "end_time": "22:21:01",
+                "rating": 2.52,
+                "share": 9.58
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:23",
+                "end_time": "24:18:08",
+                "rating": 2.33,
+                "share": 9.41
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:00",
+                "rating": 1.96,
+                "share": 11.43
+            },
+            {
+                "rank": 7,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:00",
+                "end_time": "20:41:38",
+                "rating": 1.59,
+                "share": 7.56
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:19",
+                "end_time": "20:00:00",
+                "rating": 1.49,
+                "share": 8.69
+            },
+            {
+                "rank": 9,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "22:21:40",
+                "end_time": "23:09:15",
+                "rating": 1.43,
+                "share": 5.5
+            },
+            {
+                "rank": 10,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "23:26:53",
+                "end_time": "26:00:00",
+                "rating": 1.41,
+                "share": 9.87
+            }
+        ]
+    }
+}

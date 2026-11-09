@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-30",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "FILDISI SAHILI-NORVEC FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:49:44",
+                "end_time": "22:11:18",
+                "rating": 3.97,
+                "share": 17.28
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:06",
+                "end_time": "23:37:10",
+                "rating": 3.46,
+                "share": 13.68
+            },
+            {
+                "rank": 3,
+                "name": "FRANSA-ISVEC FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:49:07",
+                "end_time": "25:54:27",
+                "rating": 2.62,
+                "share": 21.88
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:39:27",
+                "end_time": "24:17:54",
+                "rating": 2.19,
+                "share": 9.15
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:04",
+                "rating": 1.92,
+                "share": 11.07
+            },
+            {
+                "rank": 6,
+                "name": "ALMANYA-PARAGUAY FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "02:00:00",
+                "end_time": "02:41:56",
+                "rating": 1.87,
+                "share": 30.87
+            },
+            {
+                "rank": 7,
+                "name": "MARNALI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:11:26",
+                "end_time": "23:08:25",
+                "rating": 1.8,
+                "share": 7.22
+            },
+            {
+                "rank": 8,
+                "name": "RECEP IVEDIK 5 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:40",
+                "end_time": "22:26:47",
+                "rating": 1.74,
+                "share": 7.36
+            },
+            {
+                "rank": 9,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "14:01:03",
+                "end_time": "16:45:03",
+                "rating": 1.59,
+                "share": 11.51
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:54",
+                "rating": 1.54,
+                "share": 8.92
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "FILDISI SAHILI-NORVEC FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:49:44",
+                "end_time": "22:11:18",
+                "rating": 4.6,
+                "share": 22.17
+            },
+            {
+                "rank": 2,
+                "name": "FRANSA-ISVEC FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:49:07",
+                "end_time": "25:54:27",
+                "rating": 3.98,
+                "share": 31.42
+            },
+            {
+                "rank": 3,
+                "name": "ALMANYA-PARAGUAY FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "02:00:00",
+                "end_time": "02:41:56",
+                "rating": 2.94,
+                "share": 42.62
+            },
+            {
+                "rank": 4,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:06",
+                "end_time": "23:37:10",
+                "rating": 2.49,
+                "share": 11.23
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:39:27",
+                "end_time": "24:17:54",
+                "rating": 1.98,
+                "share": 9.23
+            },
+            {
+                "rank": 6,
+                "name": "MARNALI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:11:26",
+                "end_time": "23:08:25",
+                "rating": 1.96,
+                "share": 8.9
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:04",
+                "rating": 1.6,
+                "share": 10.36
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "24:17:04",
+                "rating": 1.5,
+                "share": 7.13
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "19:59:58",
+                "rating": 1.36,
+                "share": 8.77
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:54",
+                "rating": 1.36,
+                "share": 8.88
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "FILDISI SAHILI-NORVEC FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:49:44",
+                "end_time": "22:11:18",
+                "rating": 4.51,
+                "share": 20.55
+            },
+            {
+                "rank": 2,
+                "name": "FRANSA-ISVEC FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:49:07",
+                "end_time": "25:54:27",
+                "rating": 3.59,
+                "share": 27.89
+            },
+            {
+                "rank": 3,
+                "name": "ALMANYA-PARAGUAY FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "02:00:00",
+                "end_time": "02:41:56",
+                "rating": 2.64,
+                "share": 42.22
+            },
+            {
+                "rank": 4,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:06",
+                "end_time": "23:37:10",
+                "rating": 2.51,
+                "share": 10.24
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:39:27",
+                "end_time": "24:17:54",
+                "rating": 2.26,
+                "share": 9.67
+            },
+            {
+                "rank": 6,
+                "name": "MARNALI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:11:26",
+                "end_time": "23:08:25",
+                "rating": 1.98,
+                "share": 8.15
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:04",
+                "rating": 1.97,
+                "share": 12.01
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "24:17:04",
+                "rating": 1.68,
+                "share": 7.46
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:54",
+                "rating": 1.4,
+                "share": 8.56
+            },
+            {
+                "rank": 10,
+                "name": "UNCHARTED KAYIP MIRAS (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:25:46",
+                "end_time": "24:34:42",
+                "rating": 1.29,
+                "share": 6.11
+            }
+        ]
+    }
+}
