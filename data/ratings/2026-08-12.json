@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:41",
+                "end_time": "24:16:15",
+                "rating": 3.41,
+                "share": 16.07
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:21",
+                "end_time": "24:40:17",
+                "rating": 2.46,
+                "share": 12.35
+            },
+            {
+                "rank": 3,
+                "name": "PARIS SAINT GERMAIN-ASTON VILLA UEFA SUPER KUPA KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:03",
+                "end_time": "23:58:53",
+                "rating": 2.28,
+                "share": 10.96
+            },
+            {
+                "rank": 4,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:46",
+                "end_time": "23:40:55",
+                "rating": 2.27,
+                "share": 10.33
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:10",
+                "rating": 1.73,
+                "share": 10.99
+            },
+            {
+                "rank": 6,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:53:54",
+                "end_time": "22:58:41",
+                "rating": 1.58,
+                "share": 7.55
+            },
+            {
+                "rank": 7,
+                "name": "DOGANIN KANUNU (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:07",
+                "end_time": "21:00:41",
+                "rating": 1.56,
+                "share": 7.74
+            },
+            {
+                "rank": 8,
+                "name": "VAR MISIN YOK MUSUN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:55",
+                "end_time": "20:45:46",
+                "rating": 1.47,
+                "share": 7.72
+            },
+            {
+                "rank": 9,
+                "name": "RECEP IVEDIK (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:30",
+                "end_time": "22:12:22",
+                "rating": 1.43,
+                "share": 6.75
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "19:59:57",
+                "rating": 1.29,
+                "share": 8.16
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:21",
+                "end_time": "24:40:17",
+                "rating": 3.09,
+                "share": 16.19
+            },
+            {
+                "rank": 2,
+                "name": "PARIS SAINT GERMAIN-ASTON VILLA UEFA SUPER KUPA KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:03",
+                "end_time": "23:58:53",
+                "rating": 2.73,
+                "share": 13.75
+            },
+            {
+                "rank": 3,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:41",
+                "end_time": "24:16:15",
+                "rating": 2.64,
+                "share": 13.02
+            },
+            {
+                "rank": 4,
+                "name": "UEFA SUPER KUPA KUPA TORENI",
+                "channel": "TRT 1",
+                "start_time": "23:59:01",
+                "end_time": "24:10:52",
+                "rating": 1.69,
+                "share": 11.92
+            },
+            {
+                "rank": 5,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:53:54",
+                "end_time": "22:58:41",
+                "rating": 1.58,
+                "share": 7.89
+            },
+            {
+                "rank": 6,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:46",
+                "end_time": "23:40:55",
+                "rating": 1.49,
+                "share": 7.12
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:10",
+                "rating": 1.46,
+                "share": 9.8
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "19:59:57",
+                "rating": 1.39,
+                "share": 9.18
+            },
+            {
+                "rank": 9,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:46",
+                "end_time": "21:41:09",
+                "rating": 1.28,
+                "share": 6.6
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:43:48",
+                "end_time": "20:54:21",
+                "rating": 1.25,
+                "share": 7.54
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:41",
+                "end_time": "24:16:15",
+                "rating": 3.18,
+                "share": 14.25
+            },
+            {
+                "rank": 2,
+                "name": "PARIS SAINT GERMAIN-ASTON VILLA UEFA SUPER KUPA KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:03",
+                "end_time": "23:58:53",
+                "rating": 2.83,
+                "share": 13.01
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:21",
+                "end_time": "24:40:17",
+                "rating": 2.6,
+                "share": 12.44
+            },
+            {
+                "rank": 4,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:46",
+                "end_time": "23:40:55",
+                "rating": 1.84,
+                "share": 8.01
+            },
+            {
+                "rank": 5,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:53:54",
+                "end_time": "22:58:41",
+                "rating": 1.81,
+                "share": 8.12
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:10",
+                "rating": 1.78,
+                "share": 11.16
+            },
+            {
+                "rank": 7,
+                "name": "DOGANIN KANUNU (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:07",
+                "end_time": "21:00:41",
+                "rating": 1.5,
+                "share": 7.28
+            },
+            {
+                "rank": 8,
+                "name": "RECEP IVEDIK (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:30",
+                "end_time": "22:12:22",
+                "rating": 1.49,
+                "share": 6.79
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "19:59:57",
+                "rating": 1.42,
+                "share": 8.81
+            },
+            {
+                "rank": 10,
+                "name": "UEFA SUPER KUPA KUPA TORENI",
+                "channel": "TRT 1",
+                "start_time": "23:59:01",
+                "end_time": "24:10:52",
+                "rating": 1.32,
+                "share": 8.47
+            }
+        ]
+    }
+}

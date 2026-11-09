@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-10",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "20:58:55",
+                "end_time": "24:17:46",
+                "rating": 7.08,
+                "share": 30.09
+            },
+            {
+                "rank": 2,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "20:58:55",
+                "rating": 3.28,
+                "share": 15.28
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:03",
+                "end_time": "24:37:22",
+                "rating": 2.5,
+                "share": 11.42
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:07",
+                "rating": 1.66,
+                "share": 9.68
+            },
+            {
+                "rank": 5,
+                "name": "KARANLIK SULAR (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:41",
+                "end_time": "21:43:10",
+                "rating": 1.58,
+                "share": 7.11
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:40",
+                "rating": 1.39,
+                "share": 8.05
+            },
+            {
+                "rank": 7,
+                "name": "SALAKO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:07",
+                "end_time": "21:53:47",
+                "rating": 1.26,
+                "share": 5.54
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:51:29",
+                "rating": 1.21,
+                "share": 7.14
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:52",
+                "rating": 1.18,
+                "share": 6.88
+            },
+            {
+                "rank": 10,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "14:00:36",
+                "end_time": "16:43:08",
+                "rating": 1.05,
+                "share": 8.81
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "20:58:55",
+                "end_time": "24:17:46",
+                "rating": 4.52,
+                "share": 22.57
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:03",
+                "end_time": "24:37:22",
+                "rating": 2.39,
+                "share": 12.72
+            },
+            {
+                "rank": 3,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "20:58:55",
+                "rating": 2.37,
+                "share": 13.35
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:07",
+                "rating": 1.4,
+                "share": 8.91
+            },
+            {
+                "rank": 5,
+                "name": "KARANLIK SULAR (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:41",
+                "end_time": "21:43:10",
+                "rating": 1.31,
+                "share": 7.09
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:52",
+                "rating": 1.26,
+                "share": 7.96
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:51:29",
+                "rating": 1.21,
+                "share": 7.73
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:40",
+                "rating": 1.13,
+                "share": 7.16
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:51",
+                "end_time": "24:17:10",
+                "rating": 0.91,
+                "share": 4.77
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:05",
+                "end_time": "18:58:25",
+                "rating": 0.76,
+                "share": 6.11
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "20:58:55",
+                "end_time": "24:17:46",
+                "rating": 6.5,
+                "share": 27.76
+            },
+            {
+                "rank": 2,
+                "name": "ALTI USTU ISTANBUL (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "20:58:55",
+                "rating": 3.09,
+                "share": 15.03
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:03",
+                "end_time": "24:37:22",
+                "rating": 2.67,
+                "share": 12.23
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:07",
+                "rating": 1.84,
+                "share": 10.79
+            },
+            {
+                "rank": 5,
+                "name": "KARANLIK SULAR (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:41",
+                "end_time": "21:43:10",
+                "rating": 1.59,
+                "share": 7.47
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:52",
+                "rating": 1.41,
+                "share": 8.21
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:40",
+                "rating": 1.41,
+                "share": 8.19
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:51:29",
+                "rating": 1.28,
+                "share": 7.56
+            },
+            {
+                "rank": 9,
+                "name": "SALAKO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:07",
+                "end_time": "21:53:47",
+                "rating": 1.14,
+                "share": 5.23
+            },
+            {
+                "rank": 10,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:43:31",
+                "end_time": "18:17:31",
+                "rating": 1.11,
+                "share": 10.16
+            }
+        ]
+    }
+}
