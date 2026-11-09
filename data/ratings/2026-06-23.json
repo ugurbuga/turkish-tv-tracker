@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-23",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "13:00:02",
+                "rating": 3.83,
+                "share": 29.99
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:11",
+                "end_time": "18:45:01",
+                "rating": 3.46,
+                "share": 22.1
+            },
+            {
+                "rank": 3,
+                "name": "PORTEKIZ-OZBEKISTAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:49:37",
+                "end_time": "22:12:16",
+                "rating": 3.36,
+                "share": 13.8
+            },
+            {
+                "rank": 4,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:43",
+                "end_time": "23:42:20",
+                "rating": 3.19,
+                "share": 12.26
+            },
+            {
+                "rank": 5,
+                "name": "INGILTERE-GANA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:50:13",
+                "end_time": "25:11:24",
+                "rating": 2.62,
+                "share": 14.65
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:35:48",
+                "end_time": "24:32:50",
+                "rating": 2.56,
+                "share": 10.81
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:56",
+                "end_time": "19:54:52",
+                "rating": 2.25,
+                "share": 12.04
+            },
+            {
+                "rank": 8,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:12",
+                "end_time": "13:58:00",
+                "rating": 2.13,
+                "share": 16.76
+            },
+            {
+                "rank": 9,
+                "name": "VAR MISIN YOK MUSUN OZET",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "20:45:43",
+                "rating": 1.84,
+                "share": 8.19
+            },
+            {
+                "rank": 10,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "13:52:53",
+                "end_time": "16:36:18",
+                "rating": 1.59,
+                "share": 12.35
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "PORTEKIZ-OZBEKISTAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:49:37",
+                "end_time": "22:12:16",
+                "rating": 3.99,
+                "share": 17.51
+            },
+            {
+                "rank": 2,
+                "name": "INGILTERE-GANA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:50:13",
+                "end_time": "25:11:24",
+                "rating": 3.76,
+                "share": 20.21
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:35:48",
+                "end_time": "24:32:50",
+                "rating": 2.83,
+                "share": 11.88
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "13:00:02",
+                "rating": 2.69,
+                "share": 23.93
+            },
+            {
+                "rank": 5,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:43",
+                "end_time": "23:42:20",
+                "rating": 2.03,
+                "share": 7.79
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:03",
+                "rating": 1.46,
+                "share": 9.17
+            },
+            {
+                "rank": 7,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:39:58",
+                "end_time": "18:40:29",
+                "rating": 1.45,
+                "share": 11.56
+            },
+            {
+                "rank": 8,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "22:12:36",
+                "end_time": "22:47:46",
+                "rating": 1.43,
+                "share": 5.36
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:11",
+                "end_time": "18:45:01",
+                "rating": 1.4,
+                "share": 10.92
+            },
+            {
+                "rank": 10,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:12",
+                "end_time": "13:58:00",
+                "rating": 1.35,
+                "share": 12.72
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "PORTEKIZ-OZBEKISTAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:49:37",
+                "end_time": "22:12:16",
+                "rating": 3.9,
+                "share": 15.73
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "13:00:02",
+                "rating": 3.65,
+                "share": 32.63
+            },
+            {
+                "rank": 3,
+                "name": "INGILTERE-GANA FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:50:13",
+                "end_time": "25:11:24",
+                "rating": 3.6,
+                "share": 18.12
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:35:48",
+                "end_time": "24:32:50",
+                "rating": 2.93,
+                "share": 11.42
+            },
+            {
+                "rank": 5,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:43",
+                "end_time": "23:42:20",
+                "rating": 2.45,
+                "share": 8.78
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:11",
+                "end_time": "18:45:01",
+                "rating": 2.42,
+                "share": 17.55
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:03",
+                "rating": 1.89,
+                "share": 10.6
+            },
+            {
+                "rank": 8,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:12",
+                "end_time": "13:58:00",
+                "rating": 1.79,
+                "share": 16.71
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:32",
+                "end_time": "19:59:53",
+                "rating": 1.62,
+                "share": 9.07
+            },
+            {
+                "rank": 10,
+                "name": "MUHTEMEL ASK (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "23:17:43",
+                "rating": 1.49,
+                "share": 5.65
+            }
+        ]
+    }
+}

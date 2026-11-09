@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-27",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:25:20",
+                "end_time": "24:20:15",
+                "rating": 2.35,
+                "share": 10.78
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:43:31",
+                "end_time": "23:45:55",
+                "rating": 2.03,
+                "share": 8.94
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:16",
+                "rating": 1.67,
+                "share": 10.65
+            },
+            {
+                "rank": 4,
+                "name": "ATES YAGMURU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:29:14",
+                "end_time": "23:04:04",
+                "rating": 1.48,
+                "share": 6.32
+            },
+            {
+                "rank": 5,
+                "name": "PANAMA-INGILTERE FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:49:02",
+                "end_time": "25:55:41",
+                "rating": 1.45,
+                "share": 12.14
+            },
+            {
+                "rank": 6,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:23",
+                "end_time": "21:29:06",
+                "rating": 1.32,
+                "share": 6.62
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:41",
+                "rating": 1.3,
+                "share": 8.33
+            },
+            {
+                "rank": 8,
+                "name": "DOGANIN KANUNU (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:30",
+                "end_time": "22:54:50",
+                "rating": 1.28,
+                "share": 5.85
+            },
+            {
+                "rank": 9,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "21:40:21",
+                "end_time": "24:35:04",
+                "rating": 1.25,
+                "share": 5.78
+            },
+            {
+                "rank": 10,
+                "name": "JURASSIC WORLD YIKILMIS KRALLIK (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "22:38:09",
+                "rating": 1.25,
+                "share": 5.85
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:25:20",
+                "end_time": "24:20:15",
+                "rating": 2.44,
+                "share": 12.17
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:43:31",
+                "end_time": "23:45:55",
+                "rating": 2.18,
+                "share": 10.45
+            },
+            {
+                "rank": 3,
+                "name": "PANAMA-INGILTERE FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:49:02",
+                "end_time": "25:55:41",
+                "rating": 1.88,
+                "share": 17.2
+            },
+            {
+                "rank": 4,
+                "name": "ATES YAGMURU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:29:14",
+                "end_time": "23:04:04",
+                "rating": 1.81,
+                "share": 8.43
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "20:43:31",
+                "rating": 1.46,
+                "share": 9.11
+            },
+            {
+                "rank": 6,
+                "name": "BUZ DEVRI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "21:40:00",
+                "rating": 1.1,
+                "share": 6.22
+            },
+            {
+                "rank": 7,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:23",
+                "end_time": "21:29:06",
+                "rating": 1.09,
+                "share": 6.02
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:41",
+                "rating": 0.97,
+                "share": 7.8
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:40:29",
+                "end_time": "20:25:20",
+                "rating": 0.97,
+                "share": 7.31
+            },
+            {
+                "rank": 10,
+                "name": "DOGANIN KANUNU (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:30",
+                "end_time": "22:54:50",
+                "rating": 0.89,
+                "share": 4.47
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:25:20",
+                "end_time": "24:20:15",
+                "rating": 2.64,
+                "share": 12.13
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:43:31",
+                "end_time": "23:45:55",
+                "rating": 2.37,
+                "share": 10.48
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:16",
+                "rating": 1.88,
+                "share": 12.47
+            },
+            {
+                "rank": 4,
+                "name": "PANAMA-INGILTERE FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:49:02",
+                "end_time": "25:55:41",
+                "rating": 1.7,
+                "share": 13.56
+            },
+            {
+                "rank": 5,
+                "name": "ATES YAGMURU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:29:14",
+                "end_time": "23:04:04",
+                "rating": 1.6,
+                "share": 6.82
+            },
+            {
+                "rank": 6,
+                "name": "KUTSAL DAMACANA 4 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:16:15",
+                "end_time": "22:13:11",
+                "rating": 1.37,
+                "share": 6.79
+            },
+            {
+                "rank": 7,
+                "name": "JURASSIC WORLD YIKILMIS KRALLIK (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "22:38:09",
+                "rating": 1.32,
+                "share": 6.4
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "20:43:31",
+                "rating": 1.2,
+                "share": 6.85
+            },
+            {
+                "rank": 9,
+                "name": "GASSAL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:23",
+                "end_time": "21:29:06",
+                "rating": 1.15,
+                "share": 6.09
+            },
+            {
+                "rank": 10,
+                "name": "OZEL KARGO (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "22:38:32",
+                "end_time": "24:27:14",
+                "rating": 1.12,
+                "share": 5.34
+            }
+        ]
+    }
+}

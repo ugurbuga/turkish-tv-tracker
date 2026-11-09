@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-21",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:59:35",
+                "end_time": "24:16:41",
+                "rating": 7.91,
+                "share": 29.37
+            },
+            {
+                "rank": 2,
+                "name": "BELCIKA-IRAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:04",
+                "end_time": "24:12:21",
+                "rating": 3.34,
+                "share": 12.59
+            },
+            {
+                "rank": 3,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:40",
+                "end_time": "20:59:24",
+                "rating": 3.07,
+                "share": 13.73
+            },
+            {
+                "rank": 4,
+                "name": "ISPANYA-SUUDI ARABISTAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:06",
+                "end_time": "21:12:58",
+                "rating": 2.17,
+                "share": 10.94
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:52",
+                "rating": 1.8,
+                "share": 10.11
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:34:13",
+                "end_time": "24:32:39",
+                "rating": 1.76,
+                "share": 6.9
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:42:53",
+                "end_time": "24:18:15",
+                "rating": 1.59,
+                "share": 5.89
+            },
+            {
+                "rank": 8,
+                "name": "TURKIYE-CIN FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "19:15:13",
+                "end_time": "22:17:18",
+                "rating": 1.13,
+                "share": 4.83
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:19",
+                "end_time": "19:59:56",
+                "rating": 1.13,
+                "share": 6.35
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:50",
+                "rating": 1.09,
+                "share": 6.12
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:59:35",
+                "end_time": "24:16:41",
+                "rating": 5.91,
+                "share": 23.62
+            },
+            {
+                "rank": 2,
+                "name": "BELCIKA-IRAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:04",
+                "end_time": "24:12:21",
+                "rating": 4.47,
+                "share": 17.73
+            },
+            {
+                "rank": 3,
+                "name": "ISPANYA-SUUDI ARABISTAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:06",
+                "end_time": "21:12:58",
+                "rating": 2.69,
+                "share": 15.86
+            },
+            {
+                "rank": 4,
+                "name": "TURKIYE-CIN FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "19:15:13",
+                "end_time": "22:17:18",
+                "rating": 2.16,
+                "share": 10.52
+            },
+            {
+                "rank": 5,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:40",
+                "end_time": "20:59:24",
+                "rating": 1.77,
+                "share": 9.39
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:34:13",
+                "end_time": "24:32:39",
+                "rating": 1.68,
+                "share": 7.1
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:42:53",
+                "end_time": "24:18:15",
+                "rating": 1.35,
+                "share": 5.33
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:52",
+                "rating": 1.14,
+                "share": 7.39
+            },
+            {
+                "rank": 9,
+                "name": "OGUL (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "24:18:26",
+                "end_time": "25:50:15",
+                "rating": 1.1,
+                "share": 11.85
+            },
+            {
+                "rank": 10,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:13:07",
+                "end_time": "21:47:09",
+                "rating": 1.1,
+                "share": 4.52
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:59:35",
+                "end_time": "24:16:41",
+                "rating": 6.46,
+                "share": 24.34
+            },
+            {
+                "rank": 2,
+                "name": "BELCIKA-IRAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:04",
+                "end_time": "24:12:21",
+                "rating": 4.25,
+                "share": 15.9
+            },
+            {
+                "rank": 3,
+                "name": "ISPANYA-SUUDI ARABISTAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:06",
+                "end_time": "21:12:58",
+                "rating": 2.51,
+                "share": 13.37
+            },
+            {
+                "rank": 4,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:40",
+                "end_time": "20:59:24",
+                "rating": 2.22,
+                "share": 10.63
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:34:13",
+                "end_time": "24:32:39",
+                "rating": 1.77,
+                "share": 7.03
+            },
+            {
+                "rank": 6,
+                "name": "TURKIYE-CIN FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "19:15:13",
+                "end_time": "22:17:18",
+                "rating": 1.64,
+                "share": 7.35
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:52",
+                "rating": 1.62,
+                "share": 9.57
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:42:53",
+                "end_time": "24:18:15",
+                "rating": 1.44,
+                "share": 5.38
+            },
+            {
+                "rank": 9,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:13:07",
+                "end_time": "21:47:09",
+                "rating": 1.22,
+                "share": 4.72
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:50",
+                "rating": 1.1,
+                "share": 6.48
+            }
+        ]
+    }
+}
