@@ -1,0 +1,282 @@
+{
+    "date": "2026-05-27",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:55:29",
+                "end_time": "24:21:24",
+                "rating": 3.15,
+                "share": 14.27
+            },
+            {
+                "rank": 2,
+                "name": "POSTACI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:17",
+                "end_time": "21:49:45",
+                "rating": 2.14,
+                "share": 9.86
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 1.73,
+                "share": 10.11
+            },
+            {
+                "rank": 4,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:34:33",
+                "end_time": "21:19:02",
+                "rating": 1.63,
+                "share": 8.25
+            },
+            {
+                "rank": 5,
+                "name": "CRYSTAL PALACE-RAYO VALLECANO UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:13",
+                "end_time": "24:02:30",
+                "rating": 1.6,
+                "share": 7.1
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:11",
+                "end_time": "18:43:57",
+                "rating": 1.59,
+                "share": 11.3
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:47",
+                "end_time": "24:16:50",
+                "rating": 1.51,
+                "share": 6.86
+            },
+            {
+                "rank": 8,
+                "name": "HADI INSALLAH (T.S)",
+                "channel": "NOW",
+                "start_time": "21:49:50",
+                "end_time": "23:32:32",
+                "rating": 1.44,
+                "share": 6.09
+            },
+            {
+                "rank": 9,
+                "name": "SARKILAR BIZI SOYLER BAYRAM OZEL",
+                "channel": "KANAL D",
+                "start_time": "20:00:57",
+                "end_time": "24:21:43",
+                "rating": 1.4,
+                "share": 6.41
+            },
+            {
+                "rank": 10,
+                "name": "BUZ DEVRI 5 BUYUK CARPISMA (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:09",
+                "end_time": "21:50:36",
+                "rating": 1.29,
+                "share": 6.05
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:55:29",
+                "end_time": "24:21:24",
+                "rating": 2.35,
+                "share": 13.44
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:47",
+                "end_time": "24:16:50",
+                "rating": 1.88,
+                "share": 11.0
+            },
+            {
+                "rank": 3,
+                "name": "CRYSTAL PALACE-RAYO VALLECANO UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:13",
+                "end_time": "24:02:30",
+                "rating": 1.39,
+                "share": 7.54
+            },
+            {
+                "rank": 4,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:34:33",
+                "end_time": "21:19:02",
+                "rating": 1.06,
+                "share": 7.68
+            },
+            {
+                "rank": 5,
+                "name": "HADI INSALLAH (T.S)",
+                "channel": "NOW",
+                "start_time": "21:49:50",
+                "end_time": "23:32:32",
+                "rating": 1.05,
+                "share": 5.6
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 1.02,
+                "share": 8.56
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:36",
+                "rating": 0.96,
+                "share": 8.09
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:11",
+                "end_time": "18:43:57",
+                "rating": 0.91,
+                "share": 9.46
+            },
+            {
+                "rank": 9,
+                "name": "DUNYA KUPASI FINALLER",
+                "channel": "TRT 1",
+                "start_time": "21:39:38",
+                "end_time": "21:46:28",
+                "rating": 0.9,
+                "share": 5.01
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:53:05",
+                "rating": 0.85,
+                "share": 7.15
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:55:29",
+                "end_time": "24:21:24",
+                "rating": 2.72,
+                "share": 13.7
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 1.82,
+                "share": 12.45
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:47",
+                "end_time": "24:16:50",
+                "rating": 1.74,
+                "share": 8.89
+            },
+            {
+                "rank": 4,
+                "name": "POSTACI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:17",
+                "end_time": "21:49:45",
+                "rating": 1.53,
+                "share": 8.39
+            },
+            {
+                "rank": 5,
+                "name": "CRYSTAL PALACE-RAYO VALLECANO UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:13",
+                "end_time": "24:02:30",
+                "rating": 1.46,
+                "share": 7.04
+            },
+            {
+                "rank": 6,
+                "name": "HADI INSALLAH (T.S)",
+                "channel": "NOW",
+                "start_time": "21:49:50",
+                "end_time": "23:32:32",
+                "rating": 1.3,
+                "share": 6.12
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:11",
+                "end_time": "18:43:57",
+                "rating": 1.27,
+                "share": 10.72
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:36",
+                "rating": 1.21,
+                "share": 8.31
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:53:05",
+                "rating": 1.19,
+                "share": 8.18
+            },
+            {
+                "rank": 10,
+                "name": "SARKILAR BIZI SOYLER BAYRAM OZEL",
+                "channel": "KANAL D",
+                "start_time": "20:00:57",
+                "end_time": "24:21:43",
+                "rating": 1.15,
+                "share": 5.94
+            }
+        ]
+    }
+}
