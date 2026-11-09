@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:20",
+                "end_time": "23:41:15",
+                "rating": 3.4,
+                "share": 15.49
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:20",
+                "end_time": "24:20:09",
+                "rating": 2.6,
+                "share": 12.39
+            },
+            {
+                "rank": 3,
+                "name": "VAR MISIN YOK MUSUN OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:06",
+                "end_time": "20:45:20",
+                "rating": 1.62,
+                "share": 8.98
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:04",
+                "rating": 1.52,
+                "share": 9.85
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:57",
+                "end_time": "19:49:55",
+                "rating": 1.5,
+                "share": 9.75
+            },
+            {
+                "rank": 6,
+                "name": "KOY DUGUNU (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:16",
+                "end_time": "22:11:57",
+                "rating": 1.36,
+                "share": 6.44
+            },
+            {
+                "rank": 7,
+                "name": "YUKSELME (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "21:56:34",
+                "rating": 1.33,
+                "share": 6.52
+            },
+            {
+                "rank": 8,
+                "name": "KOY DUGUNU (T.S) (TKR)",
+                "channel": "NOW",
+                "start_time": "22:25:09",
+                "end_time": "24:09:26",
+                "rating": 1.12,
+                "share": 5.85
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:51",
+                "rating": 1.1,
+                "share": 7.1
+            },
+            {
+                "rank": 10,
+                "name": "TEHLIKELI MIRAS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "22:09:44",
+                "end_time": "23:45:10",
+                "rating": 1.04,
+                "share": 4.93
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:20",
+                "end_time": "24:20:09",
+                "rating": 2.5,
+                "share": 13.28
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:20",
+                "end_time": "23:41:15",
+                "rating": 2.09,
+                "share": 10.7
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:04",
+                "rating": 1.21,
+                "share": 9.03
+            },
+            {
+                "rank": 4,
+                "name": "MUHTEMEL ASK (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "23:17:24",
+                "rating": 1.09,
+                "share": 5.78
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:18",
+                "end_time": "19:59:59",
+                "rating": 1.05,
+                "share": 7.84
+            },
+            {
+                "rank": 6,
+                "name": "YUKSELME (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "21:56:34",
+                "rating": 0.9,
+                "share": 5.04
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:51",
+                "rating": 0.83,
+                "share": 6.2
+            },
+            {
+                "rank": 8,
+                "name": "GENC KADIN VE DENIZ (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:09:06",
+                "end_time": "22:09:36",
+                "rating": 0.81,
+                "share": 4.4
+            },
+            {
+                "rank": 9,
+                "name": "TEHLIKELI MIRAS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "22:09:44",
+                "end_time": "23:45:10",
+                "rating": 0.72,
+                "share": 3.78
+            },
+            {
+                "rank": 10,
+                "name": "VAR MISIN YOK MUSUN OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:06",
+                "end_time": "20:45:20",
+                "rating": 0.72,
+                "share": 4.49
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:20",
+                "end_time": "24:20:09",
+                "rating": 2.95,
+                "share": 13.51
+            },
+            {
+                "rank": 2,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:20",
+                "end_time": "23:41:15",
+                "rating": 2.89,
+                "share": 12.67
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:04",
+                "rating": 1.78,
+                "share": 11.75
+            },
+            {
+                "rank": 4,
+                "name": "YUKSELME (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "21:56:34",
+                "rating": 1.5,
+                "share": 7.25
+            },
+            {
+                "rank": 5,
+                "name": "VAR MISIN YOK MUSUN OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:06",
+                "end_time": "20:45:20",
+                "rating": 1.47,
+                "share": 8.14
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:57",
+                "end_time": "19:49:55",
+                "rating": 1.4,
+                "share": 9.31
+            },
+            {
+                "rank": 7,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:44:42",
+                "end_time": "18:13:29",
+                "rating": 1.26,
+                "share": 11.54
+            },
+            {
+                "rank": 8,
+                "name": "TEHLIKELI MIRAS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "22:09:44",
+                "end_time": "23:45:10",
+                "rating": 1.22,
+                "share": 5.51
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:18",
+                "end_time": "19:59:59",
+                "rating": 1.2,
+                "share": 7.91
+            },
+            {
+                "rank": 10,
+                "name": "KOY DUGUNU (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:16",
+                "end_time": "22:11:57",
+                "rating": 1.13,
+                "share": 5.27
+            }
+        ]
+    }
+}

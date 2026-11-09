@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-06",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MUHTEMEL ASK",
+                "channel": "SHOW TV",
+                "start_time": "20:58:56",
+                "end_time": "24:16:56",
+                "rating": 3.79,
+                "share": 17.41
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:52",
+                "end_time": "24:23:09",
+                "rating": 2.23,
+                "share": 10.61
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:08",
+                "rating": 1.75,
+                "share": 10.79
+            },
+            {
+                "rank": 4,
+                "name": "MUHTEMEL ASK (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "20:58:56",
+                "rating": 1.62,
+                "share": 8.03
+            },
+            {
+                "rank": 5,
+                "name": "RECEP IVEDIK 6 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:59",
+                "end_time": "22:18:58",
+                "rating": 1.62,
+                "share": 7.45
+            },
+            {
+                "rank": 6,
+                "name": "VAR MISIN YOK MUSUN (TKR)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "22:48:40",
+                "rating": 1.56,
+                "share": 7.08
+            },
+            {
+                "rank": 7,
+                "name": "RECEP IVEDIK 6 (T.S) (TKR)",
+                "channel": "NOW",
+                "start_time": "22:24:50",
+                "end_time": "24:19:33",
+                "rating": 1.28,
+                "share": 6.62
+            },
+            {
+                "rank": 8,
+                "name": "YUZ NUMARALI ADAM (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:52",
+                "end_time": "21:51:48",
+                "rating": 1.19,
+                "share": 5.68
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:57",
+                "rating": 1.19,
+                "share": 7.34
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:49:07",
+                "rating": 1.11,
+                "share": 6.96
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MUHTEMEL ASK",
+                "channel": "SHOW TV",
+                "start_time": "20:58:56",
+                "end_time": "24:16:56",
+                "rating": 2.81,
+                "share": 14.73
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:52",
+                "end_time": "24:23:09",
+                "rating": 1.84,
+                "share": 10.06
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:08",
+                "rating": 1.62,
+                "share": 11.91
+            },
+            {
+                "rank": 4,
+                "name": "RECEP IVEDIK 6 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:59",
+                "end_time": "22:18:58",
+                "rating": 1.6,
+                "share": 8.39
+            },
+            {
+                "rank": 5,
+                "name": "MUHTEMEL ASK (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "20:58:56",
+                "rating": 1.35,
+                "share": 7.82
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:05",
+                "rating": 0.89,
+                "share": 6.54
+            },
+            {
+                "rank": 7,
+                "name": "YUZ NUMARALI ADAM (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:52",
+                "end_time": "21:51:48",
+                "rating": 0.86,
+                "share": 4.7
+            },
+            {
+                "rank": 8,
+                "name": "RECEP IVEDIK 6 (T.S) (TKR)",
+                "channel": "NOW",
+                "start_time": "22:24:50",
+                "end_time": "24:19:33",
+                "rating": 0.76,
+                "share": 4.7
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:57",
+                "rating": 0.74,
+                "share": 5.4
+            },
+            {
+                "rank": 10,
+                "name": "CIN SEDDI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:06:18",
+                "end_time": "21:46:35",
+                "rating": 0.72,
+                "share": 3.97
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MUHTEMEL ASK",
+                "channel": "SHOW TV",
+                "start_time": "20:58:56",
+                "end_time": "24:16:56",
+                "rating": 3.56,
+                "share": 16.37
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:52",
+                "end_time": "24:23:09",
+                "rating": 2.36,
+                "share": 11.25
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:08",
+                "rating": 1.84,
+                "share": 12.16
+            },
+            {
+                "rank": 4,
+                "name": "MUHTEMEL ASK (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "20:58:56",
+                "rating": 1.77,
+                "share": 8.9
+            },
+            {
+                "rank": 5,
+                "name": "RECEP IVEDIK 6 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:59",
+                "end_time": "22:18:58",
+                "rating": 1.65,
+                "share": 7.61
+            },
+            {
+                "rank": 6,
+                "name": "RECEP IVEDIK 6 (T.S) (TKR)",
+                "channel": "NOW",
+                "start_time": "22:24:50",
+                "end_time": "24:19:33",
+                "rating": 1.23,
+                "share": 6.48
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:57",
+                "rating": 1.15,
+                "share": 7.62
+            },
+            {
+                "rank": 8,
+                "name": "YUZ NUMARALI ADAM (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:52",
+                "end_time": "21:51:48",
+                "rating": 1.13,
+                "share": 5.43
+            },
+            {
+                "rank": 9,
+                "name": "CIN SEDDI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:06:18",
+                "end_time": "21:46:35",
+                "rating": 1.1,
+                "share": 5.24
+            },
+            {
+                "rank": 10,
+                "name": "VAR MISIN YOK MUSUN (TKR)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "22:48:40",
+                "rating": 1.01,
+                "share": 4.6
+            }
+        ]
+    }
+}
