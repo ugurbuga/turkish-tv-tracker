@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-14",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:17",
+                "end_time": "24:40:51",
+                "rating": 3.14,
+                "share": 14.83
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:08",
+                "rating": 2.01,
+                "share": 11.8
+            },
+            {
+                "rank": 3,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:32:01",
+                "end_time": "22:16:50",
+                "rating": 1.84,
+                "share": 8.12
+            },
+            {
+                "rank": 4,
+                "name": "ASIRLIK GECE",
+                "channel": "TRT 1",
+                "start_time": "20:59:39",
+                "end_time": "23:04:51",
+                "rating": 1.46,
+                "share": 6.09
+            },
+            {
+                "rank": 5,
+                "name": "BURSA BULBULU (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:55",
+                "end_time": "22:41:29",
+                "rating": 1.43,
+                "share": 6.36
+            },
+            {
+                "rank": 6,
+                "name": "HIZLI VE OFKELI HOBBS VE SHAW (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "22:36:46",
+                "rating": 1.37,
+                "share": 6.19
+            },
+            {
+                "rank": 7,
+                "name": "SEV KARDESIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:39",
+                "end_time": "21:48:09",
+                "rating": 1.35,
+                "share": 6.3
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "20:00:05",
+                "rating": 1.34,
+                "share": 7.86
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:52:54",
+                "rating": 1.31,
+                "share": 7.81
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:56",
+                "rating": 1.29,
+                "share": 7.58
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:17",
+                "end_time": "24:40:51",
+                "rating": 3.24,
+                "share": 17.05
+            },
+            {
+                "rank": 2,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:32:01",
+                "end_time": "22:16:50",
+                "rating": 1.88,
+                "share": 9.43
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:08",
+                "rating": 1.52,
+                "share": 10.27
+            },
+            {
+                "rank": 4,
+                "name": "STAR ANA HABER",
+                "channel": "STAR TV",
+                "start_time": "18:59:48",
+                "end_time": "19:59:57",
+                "rating": 1.19,
+                "share": 8.06
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:56",
+                "rating": 1.16,
+                "share": 7.8
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:40",
+                "end_time": "20:31:50",
+                "rating": 1.11,
+                "share": 6.56
+            },
+            {
+                "rank": 7,
+                "name": "ASIRLIK GECE",
+                "channel": "TRT 1",
+                "start_time": "20:59:39",
+                "end_time": "23:04:51",
+                "rating": 1.07,
+                "share": 4.9
+            },
+            {
+                "rank": 8,
+                "name": "BURSA BULBULU (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:55",
+                "end_time": "22:41:29",
+                "rating": 1.06,
+                "share": 5.25
+            },
+            {
+                "rank": 9,
+                "name": "IYI OLAN KAZANSIN (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:16",
+                "end_time": "21:49:23",
+                "rating": 1.04,
+                "share": 5.56
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:18:02",
+                "end_time": "23:47:48",
+                "rating": 0.93,
+                "share": 4.42
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:17",
+                "end_time": "24:40:51",
+                "rating": 3.36,
+                "share": 15.49
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:08",
+                "rating": 2.1,
+                "share": 13.43
+            },
+            {
+                "rank": 3,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:32:01",
+                "end_time": "22:16:50",
+                "rating": 1.88,
+                "share": 8.42
+            },
+            {
+                "rank": 4,
+                "name": "ASIRLIK GECE",
+                "channel": "TRT 1",
+                "start_time": "20:59:39",
+                "end_time": "23:04:51",
+                "rating": 1.51,
+                "share": 6.19
+            },
+            {
+                "rank": 5,
+                "name": "BURSA BULBULU (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:55",
+                "end_time": "22:41:29",
+                "rating": 1.46,
+                "share": 6.52
+            },
+            {
+                "rank": 6,
+                "name": "SEVKAT YERIMDAR (TKR)",
+                "channel": "NOW",
+                "start_time": "22:41:39",
+                "end_time": "23:26:53",
+                "rating": 1.22,
+                "share": 5.06
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:52:54",
+                "rating": 1.06,
+                "share": 6.87
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:34:33",
+                "end_time": "20:56:17",
+                "rating": 1.05,
+                "share": 6.27
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:56",
+                "rating": 1.05,
+                "share": 6.72
+            },
+            {
+                "rank": 10,
+                "name": "HIZLI VE OFKELI HOBBS VE SHAW (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "22:36:46",
+                "rating": 1.01,
+                "share": 4.64
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2026-08-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:11",
+                "end_time": "24:23:41",
+                "rating": 2.72,
+                "share": 13.61
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:18",
+                "rating": 1.59,
+                "share": 10.23
+            },
+            {
+                "rank": 3,
+                "name": "SIL BASTAN KAYNANAM (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:29",
+                "end_time": "22:33:20",
+                "rating": 1.26,
+                "share": 6.18
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "24:16:25",
+                "rating": 1.2,
+                "share": 5.96
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:41",
+                "rating": 1.03,
+                "share": 6.62
+            },
+            {
+                "rank": 6,
+                "name": "YUZUKLERIN EFENDISI YUZUK KARDESLIGI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:20",
+                "end_time": "23:24:39",
+                "rating": 0.97,
+                "share": 4.71
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:17",
+                "end_time": "19:59:36",
+                "rating": 0.95,
+                "share": 6.13
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:34",
+                "end_time": "20:55:11",
+                "rating": 0.94,
+                "share": 5.47
+            },
+            {
+                "rank": 9,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "23:31:27",
+                "end_time": "24:58:32",
+                "rating": 0.89,
+                "share": 6.76
+            },
+            {
+                "rank": 10,
+                "name": "BURSASPOR-ALAGOZ HOLDIN IGDIR FK TRENDYOL 1. LIG KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:24:05",
+                "end_time": "23:31:02",
+                "rating": 0.86,
+                "share": 4.1
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:11",
+                "end_time": "24:23:41",
+                "rating": 2.74,
+                "share": 14.66
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:18",
+                "rating": 1.2,
+                "share": 8.89
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "24:16:25",
+                "rating": 1.12,
+                "share": 6.02
+            },
+            {
+                "rank": 4,
+                "name": "YUZUKLERIN EFENDISI YUZUK KARDESLIGI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:20",
+                "end_time": "23:24:39",
+                "rating": 0.99,
+                "share": 5.25
+            },
+            {
+                "rank": 5,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "23:31:27",
+                "end_time": "24:58:32",
+                "rating": 0.91,
+                "share": 7.56
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:34",
+                "end_time": "20:55:11",
+                "rating": 0.82,
+                "share": 5.46
+            },
+            {
+                "rank": 7,
+                "name": "SIL BASTAN KAYNANAM (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:29",
+                "end_time": "22:33:20",
+                "rating": 0.75,
+                "share": 4.04
+            },
+            {
+                "rank": 8,
+                "name": "BABA PARASI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "22:24:45",
+                "end_time": "24:46:39",
+                "rating": 0.71,
+                "share": 4.41
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:17",
+                "end_time": "19:59:36",
+                "rating": 0.7,
+                "share": 5.19
+            },
+            {
+                "rank": 10,
+                "name": "STAR HABER",
+                "channel": "STAR TV",
+                "start_time": "18:44:58",
+                "end_time": "18:59:41",
+                "rating": 0.64,
+                "share": 5.62
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:11",
+                "end_time": "24:23:41",
+                "rating": 2.82,
+                "share": 13.65
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:18",
+                "rating": 1.51,
+                "share": 10.29
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "24:16:25",
+                "rating": 1.3,
+                "share": 6.36
+            },
+            {
+                "rank": 4,
+                "name": "SIL BASTAN KAYNANAM (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:29",
+                "end_time": "22:33:20",
+                "rating": 1.13,
+                "share": 5.59
+            },
+            {
+                "rank": 5,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "23:31:27",
+                "end_time": "24:58:32",
+                "rating": 1.12,
+                "share": 7.72
+            },
+            {
+                "rank": 6,
+                "name": "YUZUKLERIN EFENDISI YUZUK KARDESLIGI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:20",
+                "end_time": "23:24:39",
+                "rating": 1.04,
+                "share": 5.04
+            },
+            {
+                "rank": 7,
+                "name": "TRENDYOL SUPER LIG OZETLERI (TKR)",
+                "channel": "TRT SPOR",
+                "start_time": "22:22:22",
+                "end_time": "22:33:51",
+                "rating": 1.0,
+                "share": 4.64
+            },
+            {
+                "rank": 8,
+                "name": "BURSASPOR-ALAGOZ HOLDIN IGDIR FK TRENDYOL 1. LIG KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:24:05",
+                "end_time": "23:31:02",
+                "rating": 0.91,
+                "share": 4.17
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:34",
+                "end_time": "20:55:11",
+                "rating": 0.9,
+                "share": 5.45
+            },
+            {
+                "rank": 10,
+                "name": "BARRY SEAL KACAKCI (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "22:23:17",
+                "rating": 0.8,
+                "share": 4.08
+            }
+        ]
+    }
+}
