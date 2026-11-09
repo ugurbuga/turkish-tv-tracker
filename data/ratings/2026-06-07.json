@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-07",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:32:21",
+                "end_time": "23:17:55",
+                "rating": 5.74,
+                "share": 20.08
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:59:08",
+                "end_time": "24:15:27",
+                "rating": 4.92,
+                "share": 17.26
+            },
+            {
+                "rank": 3,
+                "name": "VENEZUELA-TURKIYE HAZIRLIK MACI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "02:02:24",
+                "end_time": "03:05:59",
+                "rating": 3.03,
+                "share": 44.09
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:39:43",
+                "end_time": "24:29:23",
+                "rating": 2.99,
+                "share": 11.11
+            },
+            {
+                "rank": 5,
+                "name": "DAHA 17 OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:23",
+                "end_time": "20:32:10",
+                "rating": 2.29,
+                "share": 10.44
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 2.09,
+                "share": 11.07
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "20:59:08",
+                "rating": 1.78,
+                "share": 7.36
+            },
+            {
+                "rank": 8,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "23:18:19",
+                "end_time": "26:00:00",
+                "rating": 1.6,
+                "share": 10.74
+            },
+            {
+                "rank": 9,
+                "name": "SEVDIGIM SENSIN (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:07",
+                "end_time": "23:03:57",
+                "rating": 1.54,
+                "share": 5.54
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:40:06",
+                "end_time": "24:17:23",
+                "rating": 1.41,
+                "share": 4.98
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:59:08",
+                "end_time": "24:15:27",
+                "rating": 4.04,
+                "share": 16.44
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:32:21",
+                "end_time": "23:17:55",
+                "rating": 4.03,
+                "share": 16.93
+            },
+            {
+                "rank": 3,
+                "name": "VENEZUELA-TURKIYE HAZIRLIK MACI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "02:02:24",
+                "end_time": "03:05:59",
+                "rating": 3.16,
+                "share": 53.16
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:39:43",
+                "end_time": "24:29:23",
+                "rating": 2.07,
+                "share": 8.85
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 1.58,
+                "share": 9.9
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "20:59:08",
+                "rating": 1.24,
+                "share": 6.5
+            },
+            {
+                "rank": 7,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "23:18:19",
+                "end_time": "26:00:00",
+                "rating": 1.23,
+                "share": 8.78
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:40:06",
+                "end_time": "24:17:23",
+                "rating": 1.17,
+                "share": 4.82
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:37",
+                "rating": 1.13,
+                "share": 7.06
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:07",
+                "end_time": "18:58:26",
+                "rating": 0.99,
+                "share": 6.88
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:32:21",
+                "end_time": "23:17:55",
+                "rating": 5.13,
+                "share": 18.21
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:59:08",
+                "end_time": "24:15:27",
+                "rating": 4.87,
+                "share": 16.89
+            },
+            {
+                "rank": 3,
+                "name": "VENEZUELA-TURKIYE HAZIRLIK MACI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "02:02:24",
+                "end_time": "03:05:59",
+                "rating": 3.71,
+                "share": 47.8
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:39:43",
+                "end_time": "24:29:23",
+                "rating": 2.9,
+                "share": 10.6
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 2.03,
+                "share": 11.46
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "20:59:08",
+                "rating": 1.75,
+                "share": 7.67
+            },
+            {
+                "rank": 7,
+                "name": "DAHA 17 (TKR)",
+                "channel": "KANAL D",
+                "start_time": "23:18:19",
+                "end_time": "26:00:00",
+                "rating": 1.67,
+                "share": 10.47
+            },
+            {
+                "rank": 8,
+                "name": "DAHA 17 OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:23",
+                "end_time": "20:32:10",
+                "rating": 1.54,
+                "share": 7.53
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:40:06",
+                "end_time": "24:17:23",
+                "rating": 1.43,
+                "share": 4.99
+            },
+            {
+                "rank": 10,
+                "name": "AYKUT ENISTE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:48",
+                "end_time": "22:34:27",
+                "rating": 1.26,
+                "share": 4.94
+            }
+        ]
+    }
+}
