@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:53",
+                "rating": 4.78,
+                "share": 36.6
+            },
+            {
+                "rank": 2,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "19:59:41",
+                "end_time": "22:23:39",
+                "rating": 4.45,
+                "share": 16.4
+            },
+            {
+                "rank": 3,
+                "name": "BELCIKA-MISIR FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:42",
+                "end_time": "24:11:55",
+                "rating": 4.1,
+                "share": 15.47
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:15",
+                "end_time": "18:44:54",
+                "rating": 3.25,
+                "share": 20.62
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:43:25",
+                "end_time": "24:31:35",
+                "rating": 3.13,
+                "share": 12.03
+            },
+            {
+                "rank": 6,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "22:24:00",
+                "end_time": "25:15:18",
+                "rating": 2.5,
+                "share": 11.79
+            },
+            {
+                "rank": 7,
+                "name": "ISPANYA-YESIL BURUN ADALARI FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:12",
+                "end_time": "21:09:01",
+                "rating": 2.49,
+                "share": 11.27
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:59:31",
+                "rating": 2.36,
+                "share": 11.73
+            },
+            {
+                "rank": 9,
+                "name": "UZAK SEHIR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:43",
+                "end_time": "23:17:10",
+                "rating": 2.3,
+                "share": 8.32
+            },
+            {
+                "rank": 10,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.16,
+                "share": 10.73
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "BELCIKA-MISIR FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:42",
+                "end_time": "24:11:55",
+                "rating": 6.17,
+                "share": 24.77
+            },
+            {
+                "rank": 2,
+                "name": "ISPANYA-YESIL BURUN ADALARI FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:12",
+                "end_time": "21:09:01",
+                "rating": 3.55,
+                "share": 16.71
+            },
+            {
+                "rank": 3,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "19:59:41",
+                "end_time": "22:23:39",
+                "rating": 3.3,
+                "share": 13.2
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:53",
+                "rating": 3.29,
+                "share": 34.14
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:43:25",
+                "end_time": "24:31:35",
+                "rating": 2.11,
+                "share": 8.78
+            },
+            {
+                "rank": 6,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "22:24:00",
+                "end_time": "25:15:18",
+                "rating": 1.89,
+                "share": 9.32
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 1.88,
+                "share": 9.59
+            },
+            {
+                "rank": 8,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:09:10",
+                "end_time": "21:39:59",
+                "rating": 1.72,
+                "share": 6.69
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "24:15:10",
+                "rating": 1.64,
+                "share": 6.65
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:59:31",
+                "rating": 1.57,
+                "share": 7.99
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "BELCIKA-MISIR FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:42",
+                "end_time": "24:11:55",
+                "rating": 5.28,
+                "share": 19.58
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:53",
+                "rating": 4.71,
+                "share": 39.94
+            },
+            {
+                "rank": 3,
+                "name": "ALTI USTU ISTANBUL",
+                "channel": "ATV",
+                "start_time": "19:59:41",
+                "end_time": "22:23:39",
+                "rating": 4.29,
+                "share": 16.06
+            },
+            {
+                "rank": 4,
+                "name": "ISPANYA-YESIL BURUN ADALARI FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:12",
+                "end_time": "21:09:01",
+                "rating": 3.3,
+                "share": 14.93
+            },
+            {
+                "rank": 5,
+                "name": "ALTI USTU ISTANBUL (TKR)",
+                "channel": "ATV",
+                "start_time": "22:24:00",
+                "end_time": "25:15:18",
+                "rating": 2.65,
+                "share": 12.07
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:15",
+                "end_time": "18:44:54",
+                "rating": 2.45,
+                "share": 17.14
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:43:25",
+                "end_time": "24:31:35",
+                "rating": 2.44,
+                "share": 9.36
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.38,
+                "share": 11.83
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:22",
+                "end_time": "19:59:54",
+                "rating": 1.68,
+                "share": 8.38
+            },
+            {
+                "rank": 10,
+                "name": "UZAK SEHIR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:43",
+                "end_time": "23:17:10",
+                "rating": 1.67,
+                "share": 6.11
+            }
+        ]
+    }
+}

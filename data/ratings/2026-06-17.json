@@ -1,0 +1,282 @@
+{
+    "date": "2026-06-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:05",
+                "end_time": "23:16:45",
+                "rating": 4.55,
+                "share": 16.37
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:53",
+                "rating": 3.99,
+                "share": 31.18
+            },
+            {
+                "rank": 3,
+                "name": "INGILTERE-HIRVATISTAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:49:35",
+                "end_time": "25:12:38",
+                "rating": 3.71,
+                "share": 18.76
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:20:06",
+                "end_time": "24:45:21",
+                "rating": 3.7,
+                "share": 15.4
+            },
+            {
+                "rank": 5,
+                "name": "PORTEKIZ-DEMOKRATIK KONGO FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:48:08",
+                "end_time": "22:11:13",
+                "rating": 3.4,
+                "share": 13.74
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:58",
+                "end_time": "18:45:50",
+                "rating": 2.98,
+                "share": 19.3
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:54:34",
+                "rating": 2.1,
+                "share": 10.96
+            },
+            {
+                "rank": 8,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:47",
+                "end_time": "23:36:48",
+                "rating": 2.03,
+                "share": 7.3
+            },
+            {
+                "rank": 9,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:03",
+                "end_time": "13:57:50",
+                "rating": 2.0,
+                "share": 15.69
+            },
+            {
+                "rank": 10,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:15",
+                "rating": 1.91,
+                "share": 9.93
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "INGILTERE-HIRVATISTAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:49:35",
+                "end_time": "25:12:38",
+                "rating": 5.87,
+                "share": 29.87
+            },
+            {
+                "rank": 2,
+                "name": "PORTEKIZ-DEMOKRATIK KONGO FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:48:08",
+                "end_time": "22:11:13",
+                "rating": 4.64,
+                "share": 20.86
+            },
+            {
+                "rank": 3,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:05",
+                "end_time": "23:16:45",
+                "rating": 3.96,
+                "share": 16.02
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:53",
+                "rating": 2.89,
+                "share": 26.41
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:20:06",
+                "end_time": "24:45:21",
+                "rating": 2.5,
+                "share": 11.23
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:15",
+                "rating": 1.94,
+                "share": 11.5
+            },
+            {
+                "rank": 7,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "16:00:30",
+                "end_time": "18:43:45",
+                "rating": 1.57,
+                "share": 12.04
+            },
+            {
+                "rank": 8,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "22:11:19",
+                "end_time": "22:46:52",
+                "rating": 1.53,
+                "share": 6.07
+            },
+            {
+                "rank": 9,
+                "name": "DOGANIN KANUNU (TKR)",
+                "channel": "STAR TV",
+                "start_time": "23:17:08",
+                "end_time": "25:42:17",
+                "rating": 1.44,
+                "share": 8.83
+            },
+            {
+                "rank": 10,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:58",
+                "end_time": "18:45:50",
+                "rating": 1.42,
+                "share": 10.77
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "INGILTERE-HIRVATISTAN FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:49:35",
+                "end_time": "25:12:38",
+                "rating": 5.32,
+                "share": 25.25
+            },
+            {
+                "rank": 2,
+                "name": "DOGANIN KANUNU",
+                "channel": "STAR TV",
+                "start_time": "21:00:05",
+                "end_time": "23:16:45",
+                "rating": 4.75,
+                "share": 16.63
+            },
+            {
+                "rank": 3,
+                "name": "PORTEKIZ-DEMOKRATIK KONGO FIFA 2026 DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:48:08",
+                "end_time": "22:11:13",
+                "rating": 4.16,
+                "share": 16.59
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:53",
+                "rating": 3.96,
+                "share": 31.76
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:20:06",
+                "end_time": "24:45:21",
+                "rating": 3.12,
+                "share": 12.5
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:58",
+                "end_time": "18:45:50",
+                "rating": 2.34,
+                "share": 16.64
+            },
+            {
+                "rank": 7,
+                "name": "VAR MISIN YOK MUSUN",
+                "channel": "ATV",
+                "start_time": "20:45:47",
+                "end_time": "23:36:48",
+                "rating": 2.14,
+                "share": 7.47
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:15",
+                "rating": 2.1,
+                "share": 11.25
+            },
+            {
+                "rank": 9,
+                "name": "FIFA 2026 DUNYA KUPASI KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "22:11:19",
+                "end_time": "22:46:52",
+                "rating": 1.77,
+                "share": 5.94
+            },
+            {
+                "rank": 10,
+                "name": "ESREF RUYA (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:46",
+                "end_time": "23:46:40",
+                "rating": 1.64,
+                "share": 6.15
+            }
+        ]
+    }
+}
