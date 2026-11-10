@@ -1,0 +1,282 @@
+{
+    "date": "2025-09-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:50",
+                "end_time": "24:18:13",
+                "rating": 6.57,
+                "share": 21.25
+            },
+            {
+                "rank": 2,
+                "name": "CARPINTI",
+                "channel": "STAR TV",
+                "start_time": "20:48:57",
+                "end_time": "23:17:13",
+                "rating": 5.35,
+                "share": 15.89
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:47:40",
+                "end_time": "24:31:15",
+                "rating": 3.22,
+                "share": 11.02
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:44",
+                "end_time": "20:57:50",
+                "rating": 3.13,
+                "share": 9.71
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "19:59:41",
+                "rating": 2.9,
+                "share": 10.7
+            },
+            {
+                "rank": 6,
+                "name": "CARPINTI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:16",
+                "end_time": "20:48:57",
+                "rating": 2.83,
+                "share": 8.97
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 2.72,
+                "share": 9.94
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:25",
+                "end_time": "20:00:16",
+                "rating": 1.99,
+                "share": 7.25
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:22",
+                "end_time": "24:17:02",
+                "rating": 1.97,
+                "share": 6.34
+            },
+            {
+                "rank": 10,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:38:55",
+                "end_time": "21:18:21",
+                "rating": 1.88,
+                "share": 5.99
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:50",
+                "end_time": "24:18:13",
+                "rating": 4.99,
+                "share": 18.15
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:47:40",
+                "end_time": "24:31:15",
+                "rating": 3.98,
+                "share": 15.42
+            },
+            {
+                "rank": 3,
+                "name": "CARPINTI",
+                "channel": "STAR TV",
+                "start_time": "20:48:57",
+                "end_time": "23:17:13",
+                "rating": 3.92,
+                "share": 13.09
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 2.58,
+                "share": 10.8
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "19:59:41",
+                "rating": 2.12,
+                "share": 8.95
+            },
+            {
+                "rank": 6,
+                "name": "CARPINTI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:16",
+                "end_time": "20:48:57",
+                "rating": 1.97,
+                "share": 7.06
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:44",
+                "end_time": "20:57:50",
+                "rating": 1.95,
+                "share": 6.82
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:42:53",
+                "end_time": "20:47:40",
+                "rating": 1.82,
+                "share": 7.35
+            },
+            {
+                "rank": 9,
+                "name": "OLUMLU DUNYA 2 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:12",
+                "end_time": "22:33:42",
+                "rating": 1.77,
+                "share": 6.03
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "24:17:52",
+                "rating": 1.72,
+                "share": 6.37
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:50",
+                "end_time": "24:18:13",
+                "rating": 6.17,
+                "share": 19.74
+            },
+            {
+                "rank": 2,
+                "name": "CARPINTI",
+                "channel": "STAR TV",
+                "start_time": "20:48:57",
+                "end_time": "23:17:13",
+                "rating": 4.69,
+                "share": 13.98
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:47:40",
+                "end_time": "24:31:15",
+                "rating": 3.9,
+                "share": 13.27
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:44",
+                "end_time": "20:57:50",
+                "rating": 2.84,
+                "share": 9.0
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 2.54,
+                "share": 9.9
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "19:59:41",
+                "rating": 2.46,
+                "share": 9.62
+            },
+            {
+                "rank": 7,
+                "name": "CARPINTI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:16",
+                "end_time": "20:48:57",
+                "rating": 2.12,
+                "share": 6.91
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:22",
+                "end_time": "24:17:02",
+                "rating": 2.07,
+                "share": 6.6
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "24:17:52",
+                "rating": 1.62,
+                "share": 5.31
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:42:53",
+                "end_time": "20:47:40",
+                "rating": 1.61,
+                "share": 5.94
+            }
+        ]
+    }
+}
