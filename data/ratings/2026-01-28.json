@@ -1,0 +1,282 @@
+{
+    "date": "2026-01-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MANCHESTER CITY-GALATASARAY UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:50:39",
+                "end_time": "25:02:02",
+                "rating": 13.01,
+                "share": 38.06
+            },
+            {
+                "rank": 2,
+                "name": "ESREF RUYA",
+                "channel": "KANAL D",
+                "start_time": "20:46:53",
+                "end_time": "24:19:35",
+                "rating": 6.88,
+                "share": 16.72
+            },
+            {
+                "rank": 3,
+                "name": "YERALTI",
+                "channel": "NOW",
+                "start_time": "20:00:05",
+                "end_time": "22:41:20",
+                "rating": 5.69,
+                "share": 14.05
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:05",
+                "end_time": "18:45:31",
+                "rating": 5.52,
+                "share": 23.0
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "13:00:02",
+                "rating": 5.5,
+                "share": 32.3
+            },
+            {
+                "rank": 6,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "21:00:11",
+                "end_time": "24:19:09",
+                "rating": 4.77,
+                "share": 11.57
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:54",
+                "rating": 4.21,
+                "share": 12.95
+            },
+            {
+                "rank": 8,
+                "name": "ESREF RUYA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:33",
+                "end_time": "20:46:42",
+                "rating": 3.72,
+                "share": 9.83
+            },
+            {
+                "rank": 9,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:15",
+                "end_time": "24:19:09",
+                "rating": 3.7,
+                "share": 9.09
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:59:28",
+                "rating": 3.5,
+                "share": 10.77
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MANCHESTER CITY-GALATASARAY UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:50:39",
+                "end_time": "25:02:02",
+                "rating": 15.5,
+                "share": 47.31
+            },
+            {
+                "rank": 2,
+                "name": "ESREF RUYA",
+                "channel": "KANAL D",
+                "start_time": "20:46:53",
+                "end_time": "24:19:35",
+                "rating": 5.09,
+                "share": 14.19
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "13:00:02",
+                "rating": 3.97,
+                "share": 30.4
+            },
+            {
+                "rank": 4,
+                "name": "YERALTI",
+                "channel": "NOW",
+                "start_time": "20:00:05",
+                "end_time": "22:41:20",
+                "rating": 3.87,
+                "share": 11.53
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:15",
+                "end_time": "24:19:09",
+                "rating": 3.87,
+                "share": 10.87
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:54",
+                "rating": 2.98,
+                "share": 12.13
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:05",
+                "end_time": "18:45:31",
+                "rating": 2.95,
+                "share": 17.52
+            },
+            {
+                "rank": 8,
+                "name": "KURULUS ORHAN",
+                "channel": "ATV",
+                "start_time": "20:57:39",
+                "end_time": "24:16:42",
+                "rating": 2.61,
+                "share": 7.28
+            },
+            {
+                "rank": 9,
+                "name": "ESREF RUYA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:33",
+                "end_time": "20:46:42",
+                "rating": 2.43,
+                "share": 7.79
+            },
+            {
+                "rank": 10,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:12",
+                "end_time": "13:59:09",
+                "rating": 2.01,
+                "share": 15.5
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MANCHESTER CITY-GALATASARAY UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:50:39",
+                "end_time": "25:02:02",
+                "rating": 15.21,
+                "share": 42.89
+            },
+            {
+                "rank": 2,
+                "name": "ESREF RUYA",
+                "channel": "KANAL D",
+                "start_time": "20:46:53",
+                "end_time": "24:19:35",
+                "rating": 7.26,
+                "share": 17.77
+            },
+            {
+                "rank": 3,
+                "name": "YERALTI",
+                "channel": "NOW",
+                "start_time": "20:00:05",
+                "end_time": "22:41:20",
+                "rating": 5.59,
+                "share": 14.29
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "13:00:02",
+                "rating": 5.07,
+                "share": 34.82
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:05",
+                "end_time": "18:45:31",
+                "rating": 4.52,
+                "share": 22.13
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:15",
+                "end_time": "24:19:09",
+                "rating": 4.01,
+                "share": 9.93
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:54",
+                "rating": 3.78,
+                "share": 12.63
+            },
+            {
+                "rank": 8,
+                "name": "ESREF RUYA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:33",
+                "end_time": "20:46:42",
+                "rating": 3.68,
+                "share": 10.18
+            },
+            {
+                "rank": 9,
+                "name": "KURULUS ORHAN",
+                "channel": "ATV",
+                "start_time": "20:57:39",
+                "end_time": "24:16:42",
+                "rating": 3.47,
+                "share": 8.47
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:59:28",
+                "rating": 3.14,
+                "share": 10.47
+            }
+        ]
+    }
+}
