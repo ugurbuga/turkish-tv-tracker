@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scrapers
+      - name: Run ratings and series scrapers
         run: python scraper/main.py
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "ugurbuga"
           git config user.email "47065142+ugurbuga@users.noreply.github.com"
-          git add data/series.json data/ratings/ data/youtube_videos.json
+          git add data/series.json data/ratings/ data/youtube_channels.json data/youtubevideos/
           git diff --cached --quiet || git commit -m "Update TV tracker data"
           git push
