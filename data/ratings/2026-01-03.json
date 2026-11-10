@@ -1,0 +1,282 @@
+{
+    "date": "2026-01-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:31",
+                "end_time": "24:10:09",
+                "rating": 4.99,
+                "share": 13.31
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:52",
+                "rating": 4.01,
+                "share": 11.01
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:27",
+                "end_time": "23:03:06",
+                "rating": 3.76,
+                "share": 9.4
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:50",
+                "rating": 3.35,
+                "share": 9.25
+            },
+            {
+                "rank": 5,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:40:27",
+                "end_time": "21:17:52",
+                "rating": 3.3,
+                "share": 8.44
+            },
+            {
+                "rank": 6,
+                "name": "CIFTE MILYON",
+                "channel": "NOW",
+                "start_time": "19:59:57",
+                "end_time": "22:32:54",
+                "rating": 3.24,
+                "share": 8.08
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:05",
+                "rating": 2.95,
+                "share": 8.1
+            },
+            {
+                "rank": 8,
+                "name": "DUSUS (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "22:22:18",
+                "rating": 2.94,
+                "share": 7.35
+            },
+            {
+                "rank": 9,
+                "name": "EXODUS:TANRILAR VE KRALLAR (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:30",
+                "end_time": "22:55:25",
+                "rating": 2.76,
+                "share": 6.94
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "24:10:48",
+                "rating": 2.71,
+                "share": 7.1
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:31",
+                "end_time": "24:10:09",
+                "rating": 3.64,
+                "share": 10.57
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "24:10:48",
+                "rating": 3.35,
+                "share": 9.62
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:52",
+                "rating": 3.25,
+                "share": 10.2
+            },
+            {
+                "rank": 4,
+                "name": "DUSUS (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "22:22:18",
+                "rating": 2.94,
+                "share": 8.25
+            },
+            {
+                "rank": 5,
+                "name": "EXODUS:TANRILAR VE KRALLAR (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:30",
+                "end_time": "22:55:25",
+                "rating": 2.85,
+                "share": 7.99
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:50",
+                "rating": 2.78,
+                "share": 8.73
+            },
+            {
+                "rank": 7,
+                "name": "DUSUS (Y.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:22:42",
+                "end_time": "24:21:20",
+                "rating": 2.48,
+                "share": 7.83
+            },
+            {
+                "rank": 8,
+                "name": "CIFTE MILYON",
+                "channel": "NOW",
+                "start_time": "19:59:57",
+                "end_time": "22:32:54",
+                "rating": 2.38,
+                "share": 6.7
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:06",
+                "end_time": "18:58:24",
+                "rating": 2.21,
+                "share": 8.0
+            },
+            {
+                "rank": 10,
+                "name": "GONUL DAGI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:27",
+                "end_time": "23:03:06",
+                "rating": 2.2,
+                "share": 6.11
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:45:31",
+                "end_time": "24:10:09",
+                "rating": 4.44,
+                "share": 11.74
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:52",
+                "rating": 4.12,
+                "share": 12.06
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:27",
+                "end_time": "23:03:06",
+                "rating": 3.52,
+                "share": 8.94
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "24:10:48",
+                "rating": 3.24,
+                "share": 8.5
+            },
+            {
+                "rank": 5,
+                "name": "CIFTE MILYON",
+                "channel": "NOW",
+                "start_time": "19:59:57",
+                "end_time": "22:32:54",
+                "rating": 2.99,
+                "share": 7.66
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:50",
+                "rating": 2.81,
+                "share": 8.26
+            },
+            {
+                "rank": 7,
+                "name": "EXODUS:TANRILAR VE KRALLAR (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:30",
+                "end_time": "22:55:25",
+                "rating": 2.71,
+                "share": 6.92
+            },
+            {
+                "rank": 8,
+                "name": "DUSUS (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "22:22:18",
+                "rating": 2.66,
+                "share": 6.81
+            },
+            {
+                "rank": 9,
+                "name": "DUSUS (Y.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:22:42",
+                "end_time": "24:21:20",
+                "rating": 2.32,
+                "share": 6.66
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:05",
+                "rating": 2.31,
+                "share": 6.77
+            }
+        ]
+    }
+}

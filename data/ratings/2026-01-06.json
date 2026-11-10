@@ -1,0 +1,282 @@
+{
+    "date": "2026-01-06",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-SAMSUNSPOR TURKCELL SUPER KUPA KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:21:11",
+                "end_time": "22:38:09",
+                "rating": 9.51,
+                "share": 23.32
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:16",
+                "end_time": "18:47:52",
+                "rating": 5.43,
+                "share": 21.85
+            },
+            {
+                "rank": 3,
+                "name": "KISKANMAK",
+                "channel": "NOW",
+                "start_time": "20:58:57",
+                "end_time": "24:01:34",
+                "rating": 5.16,
+                "share": 13.78
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "13:00:00",
+                "rating": 5.07,
+                "share": 34.03
+            },
+            {
+                "rank": 5,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:59:46",
+                "end_time": "24:01:16",
+                "rating": 4.72,
+                "share": 12.5
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:46",
+                "rating": 4.43,
+                "share": 13.06
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:44:07",
+                "rating": 3.8,
+                "share": 11.32
+            },
+            {
+                "rank": 8,
+                "name": "RUYA GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:59:07",
+                "end_time": "23:58:07",
+                "rating": 3.76,
+                "share": 10.01
+            },
+            {
+                "rank": 9,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:00:18",
+                "end_time": "24:11:09",
+                "rating": 3.74,
+                "share": 10.29
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:36:10",
+                "end_time": "21:16:40",
+                "rating": 3.3,
+                "share": 8.66
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-SAMSUNSPOR TURKCELL SUPER KUPA KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:21:11",
+                "end_time": "22:38:09",
+                "rating": 10.43,
+                "share": 26.93
+            },
+            {
+                "rank": 2,
+                "name": "KISKANMAK",
+                "channel": "NOW",
+                "start_time": "20:58:57",
+                "end_time": "24:01:34",
+                "rating": 5.78,
+                "share": 16.29
+            },
+            {
+                "rank": 3,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:59:46",
+                "end_time": "24:01:16",
+                "rating": 4.1,
+                "share": 11.42
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "13:00:00",
+                "rating": 4.06,
+                "share": 34.2
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:46",
+                "rating": 4.01,
+                "share": 13.68
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:00:18",
+                "end_time": "24:11:09",
+                "rating": 3.43,
+                "share": 9.98
+            },
+            {
+                "rank": 7,
+                "name": "RUYA GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:59:07",
+                "end_time": "23:58:07",
+                "rating": 3.14,
+                "share": 8.81
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:16",
+                "end_time": "18:47:52",
+                "rating": 3.0,
+                "share": 14.64
+            },
+            {
+                "rank": 9,
+                "name": "KISKANMAK (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:51",
+                "end_time": "20:58:52",
+                "rating": 2.7,
+                "share": 7.44
+            },
+            {
+                "rank": 10,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:58:21",
+                "end_time": "18:57:21",
+                "rating": 2.49,
+                "share": 12.3
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-SAMSUNSPOR TURKCELL SUPER KUPA KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:21:11",
+                "end_time": "22:38:09",
+                "rating": 10.75,
+                "share": 25.38
+            },
+            {
+                "rank": 2,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:59:46",
+                "end_time": "24:01:16",
+                "rating": 6.06,
+                "share": 15.39
+            },
+            {
+                "rank": 3,
+                "name": "KISKANMAK",
+                "channel": "NOW",
+                "start_time": "20:58:57",
+                "end_time": "24:01:34",
+                "rating": 5.94,
+                "share": 15.22
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "13:00:00",
+                "rating": 5.07,
+                "share": 36.14
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:16",
+                "end_time": "18:47:52",
+                "rating": 4.34,
+                "share": 19.3
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:46",
+                "rating": 4.21,
+                "share": 13.06
+            },
+            {
+                "rank": 7,
+                "name": "KISKANMAK (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:51",
+                "end_time": "20:58:52",
+                "rating": 3.75,
+                "share": 9.32
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:00:18",
+                "end_time": "24:11:09",
+                "rating": 3.68,
+                "share": 9.72
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:44:07",
+                "rating": 3.4,
+                "share": 10.7
+            },
+            {
+                "rank": 10,
+                "name": "RUYA GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:59:07",
+                "end_time": "23:58:07",
+                "rating": 3.26,
+                "share": 8.33
+            }
+        ]
+    }
+}
