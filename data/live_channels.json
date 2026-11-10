@@ -1,0 +1,39 @@
+{
+    "channels": [
+        {
+            "id": "atv",
+            "name": "atv",
+            "liveUrl": "https://www.atv.com.tr/canli-yayin"
+        },
+        {
+            "id": "now",
+            "name": "NOW",
+            "liveUrl": "https://www.nowtv.com.tr/canli-yayin"
+        },
+        {
+            "id": "kanal-d",
+            "name": "Kanal D",
+            "liveUrl": "https://www.kanald.com.tr/canli-yayin"
+        },
+        {
+            "id": "show-tv",
+            "name": "Show TV",
+            "liveUrl": "https://www.showtv.com.tr/canli-yayin"
+        },
+        {
+            "id": "star-tv",
+            "name": "Star TV",
+            "liveUrl": "https://www.startv.com.tr/canli-yayin"
+        },
+        {
+            "id": "trt-1",
+            "name": "TRT 1",
+            "liveUrl": "https://www.tabii.com/tr/watch/live/trt1?trackId=150002"
+        },
+        {
+            "id": "tv8",
+            "name": "TV8",
+            "liveUrl": "https://www.tv8.com.tr/canli-yayin"
+        }
+    ]
+}
