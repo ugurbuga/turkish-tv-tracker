@@ -1,0 +1,282 @@
+{
+    "date": "2026-02-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:10",
+                "end_time": "23:48:30",
+                "rating": 7.94,
+                "share": 20.76
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:38",
+                "rating": 4.3,
+                "share": 12.65
+            },
+            {
+                "rank": 3,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "20:59:07",
+                "end_time": "24:17:18",
+                "rating": 4.21,
+                "share": 11.4
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:46:27",
+                "end_time": "24:32:53",
+                "rating": 4.02,
+                "share": 11.53
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:27",
+                "end_time": "20:58:10",
+                "rating": 3.33,
+                "share": 8.84
+            },
+            {
+                "rank": 6,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:36:50",
+                "end_time": "21:19:39",
+                "rating": 3.11,
+                "share": 8.46
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:54",
+                "rating": 3.08,
+                "share": 9.12
+            },
+            {
+                "rank": 8,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:12:00",
+                "end_time": "21:46:33",
+                "rating": 3.08,
+                "share": 7.98
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:27",
+                "end_time": "20:00:12",
+                "rating": 2.69,
+                "share": 7.91
+            },
+            {
+                "rank": 10,
+                "name": "BEYAZ'LA JOKER OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "20:16:27",
+                "rating": 2.48,
+                "share": 6.96
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:10",
+                "end_time": "23:48:30",
+                "rating": 5.95,
+                "share": 17.04
+            },
+            {
+                "rank": 2,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "20:59:07",
+                "end_time": "24:17:18",
+                "rating": 3.97,
+                "share": 11.79
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:38",
+                "rating": 3.35,
+                "share": 11.29
+            },
+            {
+                "rank": 4,
+                "name": "BEYAZ'LA JOKER OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "20:16:27",
+                "rating": 2.99,
+                "share": 9.3
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:46:27",
+                "end_time": "24:32:53",
+                "rating": 2.77,
+                "share": 8.78
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:54",
+                "rating": 2.75,
+                "share": 9.36
+            },
+            {
+                "rank": 7,
+                "name": "RUYA GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:58:05",
+                "end_time": "24:19:06",
+                "rating": 2.68,
+                "share": 7.91
+            },
+            {
+                "rank": 8,
+                "name": "RUYA GIBI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "20:58:05",
+                "rating": 2.46,
+                "share": 7.22
+            },
+            {
+                "rank": 9,
+                "name": "BEYAZ'LA JOKER",
+                "channel": "KANAL D",
+                "start_time": "20:16:37",
+                "end_time": "23:19:52",
+                "rating": 2.29,
+                "share": 6.36
+            },
+            {
+                "rank": 10,
+                "name": "SAHTEKARLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:43",
+                "end_time": "20:59:02",
+                "rating": 2.26,
+                "share": 6.61
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:10",
+                "end_time": "23:48:30",
+                "rating": 6.98,
+                "share": 17.77
+            },
+            {
+                "rank": 2,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "20:59:07",
+                "end_time": "24:17:18",
+                "rating": 4.41,
+                "share": 11.66
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:38",
+                "rating": 3.65,
+                "share": 11.18
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:46:27",
+                "end_time": "24:32:53",
+                "rating": 3.44,
+                "share": 9.63
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:54",
+                "rating": 3.4,
+                "share": 10.48
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:55:08",
+                "end_time": "24:17:30",
+                "rating": 2.65,
+                "share": 6.88
+            },
+            {
+                "rank": 7,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:12:00",
+                "end_time": "21:46:33",
+                "rating": 2.62,
+                "share": 6.75
+            },
+            {
+                "rank": 8,
+                "name": "RUYA GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:58:05",
+                "end_time": "24:19:06",
+                "rating": 2.58,
+                "share": 6.76
+            },
+            {
+                "rank": 9,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:27",
+                "end_time": "20:58:10",
+                "rating": 2.57,
+                "share": 6.83
+            },
+            {
+                "rank": 10,
+                "name": "BEYAZ'LA JOKER OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "20:16:27",
+                "rating": 2.4,
+                "share": 6.8
+            }
+        ]
+    }
+}

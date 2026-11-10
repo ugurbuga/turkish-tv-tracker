@@ -1,0 +1,282 @@
+{
+    "date": "2026-02-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:59:02",
+                "end_time": "24:17:28",
+                "rating": 9.26,
+                "share": 24.16
+            },
+            {
+                "rank": 2,
+                "name": "FENERBAHCE-ERZURUMSPOR FK ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:21:19",
+                "end_time": "22:37:59",
+                "rating": 6.71,
+                "share": 16.48
+            },
+            {
+                "rank": 3,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:43",
+                "end_time": "20:58:57",
+                "rating": 5.58,
+                "share": 14.18
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:24",
+                "end_time": "18:46:19",
+                "rating": 5.45,
+                "share": 22.58
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:12",
+                "end_time": "12:59:54",
+                "rating": 5.0,
+                "share": 33.35
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:33",
+                "rating": 4.31,
+                "share": 12.8
+            },
+            {
+                "rank": 7,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "21:00:29",
+                "end_time": "24:17:23",
+                "rating": 4.29,
+                "share": 11.21
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:44:08",
+                "rating": 3.71,
+                "share": 11.13
+            },
+            {
+                "rank": 9,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:50",
+                "end_time": "24:18:56",
+                "rating": 3.56,
+                "share": 9.29
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:52:56",
+                "end_time": "24:26:59",
+                "rating": 3.5,
+                "share": 9.49
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-ERZURUMSPOR FK ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:21:19",
+                "end_time": "22:37:59",
+                "rating": 7.27,
+                "share": 19.35
+            },
+            {
+                "rank": 2,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:59:02",
+                "end_time": "24:17:28",
+                "rating": 5.86,
+                "share": 16.42
+            },
+            {
+                "rank": 3,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:50",
+                "end_time": "24:18:56",
+                "rating": 4.22,
+                "share": 11.82
+            },
+            {
+                "rank": 4,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:43",
+                "end_time": "20:58:57",
+                "rating": 4.17,
+                "share": 11.72
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:33",
+                "rating": 4.14,
+                "share": 14.13
+            },
+            {
+                "rank": 6,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "21:00:29",
+                "end_time": "24:17:23",
+                "rating": 3.95,
+                "share": 11.09
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:52:56",
+                "end_time": "24:26:59",
+                "rating": 3.73,
+                "share": 10.83
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:12",
+                "end_time": "12:59:54",
+                "rating": 3.64,
+                "share": 30.94
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:24",
+                "end_time": "18:46:19",
+                "rating": 3.22,
+                "share": 17.24
+            },
+            {
+                "rank": 10,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:42",
+                "end_time": "20:59:39",
+                "rating": 2.26,
+                "share": 6.35
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-ERZURUMSPOR FK ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:21:19",
+                "end_time": "22:37:59",
+                "rating": 8.09,
+                "share": 19.1
+            },
+            {
+                "rank": 2,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:59:02",
+                "end_time": "24:17:28",
+                "rating": 7.18,
+                "share": 17.77
+            },
+            {
+                "rank": 3,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "21:00:29",
+                "end_time": "24:17:23",
+                "rating": 5.29,
+                "share": 13.12
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:12",
+                "end_time": "12:59:54",
+                "rating": 5.01,
+                "share": 34.99
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:24",
+                "end_time": "18:46:19",
+                "rating": 4.86,
+                "share": 22.7
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:33",
+                "rating": 4.59,
+                "share": 14.11
+            },
+            {
+                "rank": 7,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:43",
+                "end_time": "20:58:57",
+                "rating": 4.46,
+                "share": 11.08
+            },
+            {
+                "rank": 8,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:50",
+                "end_time": "24:18:56",
+                "rating": 4.44,
+                "share": 11.0
+            },
+            {
+                "rank": 9,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:52:56",
+                "end_time": "24:26:59",
+                "rating": 3.71,
+                "share": 9.54
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:44:08",
+                "rating": 3.09,
+                "share": 9.62
+            }
+        ]
+    }
+}
