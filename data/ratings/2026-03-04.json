@@ -1,0 +1,282 @@
+{
+    "date": "2026-03-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "YERALTI",
+                "channel": "NOW",
+                "start_time": "20:55:23",
+                "end_time": "24:18:58",
+                "rating": 6.86,
+                "share": 17.49
+            },
+            {
+                "rank": 2,
+                "name": "ESREF RUYA",
+                "channel": "KANAL D",
+                "start_time": "20:44:48",
+                "end_time": "24:15:50",
+                "rating": 5.96,
+                "share": 15.18
+            },
+            {
+                "rank": 3,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "21:02:04",
+                "end_time": "24:16:14",
+                "rating": 5.35,
+                "share": 13.71
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:07",
+                "end_time": "18:37:03",
+                "rating": 5.32,
+                "share": 22.29
+            },
+            {
+                "rank": 5,
+                "name": "GAZIANTEP FK-FENERBAHCE ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:20:40",
+                "end_time": "23:45:16",
+                "rating": 4.99,
+                "share": 12.63
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:54",
+                "end_time": "12:59:30",
+                "rating": 4.38,
+                "share": 31.94
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:12",
+                "rating": 4.1,
+                "share": 12.29
+            },
+            {
+                "rank": 8,
+                "name": "YERALTI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:22",
+                "end_time": "20:55:08",
+                "rating": 3.83,
+                "share": 10.29
+            },
+            {
+                "rank": 9,
+                "name": "ESREF RUYA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:43",
+                "end_time": "20:44:37",
+                "rating": 3.42,
+                "share": 9.31
+            },
+            {
+                "rank": 10,
+                "name": "SAHIPSIZLER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:53",
+                "end_time": "21:02:04",
+                "rating": 3.41,
+                "share": 9.12
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YERALTI",
+                "channel": "NOW",
+                "start_time": "20:55:23",
+                "end_time": "24:18:58",
+                "rating": 6.39,
+                "share": 18.47
+            },
+            {
+                "rank": 2,
+                "name": "ESREF RUYA",
+                "channel": "KANAL D",
+                "start_time": "20:44:48",
+                "end_time": "24:15:50",
+                "rating": 5.79,
+                "share": 16.77
+            },
+            {
+                "rank": 3,
+                "name": "GAZIANTEP FK-FENERBAHCE ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:20:40",
+                "end_time": "23:45:16",
+                "rating": 5.26,
+                "share": 15.28
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:12",
+                "rating": 3.23,
+                "share": 12.74
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:54",
+                "end_time": "12:59:30",
+                "rating": 2.83,
+                "share": 27.12
+            },
+            {
+                "rank": 6,
+                "name": "YERALTI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:22",
+                "end_time": "20:55:08",
+                "rating": 2.82,
+                "share": 9.27
+            },
+            {
+                "rank": 7,
+                "name": "ESREF RUYA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:43",
+                "end_time": "20:44:37",
+                "rating": 2.79,
+                "share": 9.33
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:57:46",
+                "end_time": "24:26:13",
+                "rating": 2.59,
+                "share": 7.82
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:07",
+                "end_time": "18:37:03",
+                "rating": 2.36,
+                "share": 13.04
+            },
+            {
+                "rank": 10,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "21:02:04",
+                "end_time": "24:16:14",
+                "rating": 2.09,
+                "share": 6.09
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YERALTI",
+                "channel": "NOW",
+                "start_time": "20:55:23",
+                "end_time": "24:18:58",
+                "rating": 7.73,
+                "share": 19.15
+            },
+            {
+                "rank": 2,
+                "name": "ESREF RUYA",
+                "channel": "KANAL D",
+                "start_time": "20:44:48",
+                "end_time": "24:15:50",
+                "rating": 6.48,
+                "share": 16.08
+            },
+            {
+                "rank": 3,
+                "name": "GAZIANTEP FK-FENERBAHCE ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:20:40",
+                "end_time": "23:45:16",
+                "rating": 5.34,
+                "share": 13.29
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:12",
+                "rating": 4.26,
+                "share": 13.79
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:07",
+                "end_time": "18:37:03",
+                "rating": 4.22,
+                "share": 19.85
+            },
+            {
+                "rank": 6,
+                "name": "YERALTI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:22",
+                "end_time": "20:55:08",
+                "rating": 4.05,
+                "share": 11.29
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:54",
+                "end_time": "12:59:30",
+                "rating": 3.91,
+                "share": 29.18
+            },
+            {
+                "rank": 8,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "21:02:04",
+                "end_time": "24:16:14",
+                "rating": 3.42,
+                "share": 8.52
+            },
+            {
+                "rank": 9,
+                "name": "ESREF RUYA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:43",
+                "end_time": "20:44:37",
+                "rating": 3.34,
+                "share": 9.46
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:57:46",
+                "end_time": "24:26:13",
+                "rating": 2.93,
+                "share": 7.58
+            }
+        ]
+    }
+}

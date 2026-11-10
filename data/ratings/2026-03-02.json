@@ -1,0 +1,282 @@
+{
+    "date": "2026-03-02",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "UZAK SEHIR",
+                "channel": "KANAL D",
+                "start_time": "20:59:51",
+                "end_time": "24:16:27",
+                "rating": 15.37,
+                "share": 40.64
+            },
+            {
+                "rank": 2,
+                "name": "UZAK SEHIR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:59:40",
+                "rating": 7.77,
+                "share": 21.73
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:14",
+                "end_time": "18:37:07",
+                "rating": 4.94,
+                "share": 20.86
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:18",
+                "rating": 3.89,
+                "share": 11.4
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "13:00:00",
+                "rating": 3.74,
+                "share": 29.98
+            },
+            {
+                "rank": 6,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE IFTAR",
+                "channel": "ATV",
+                "start_time": "18:37:27",
+                "end_time": "19:34:46",
+                "rating": 3.26,
+                "share": 9.93
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:48:37",
+                "end_time": "24:25:18",
+                "rating": 3.19,
+                "share": 8.71
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:34:55",
+                "end_time": "19:59:32",
+                "rating": 2.85,
+                "share": 8.21
+            },
+            {
+                "rank": 9,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "20:00:15",
+                "end_time": "21:23:51",
+                "rating": 2.59,
+                "share": 7.26
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:43",
+                "end_time": "20:00:02",
+                "rating": 2.54,
+                "share": 7.49
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "UZAK SEHIR",
+                "channel": "KANAL D",
+                "start_time": "20:59:51",
+                "end_time": "24:16:27",
+                "rating": 9.14,
+                "share": 29.37
+            },
+            {
+                "rank": 2,
+                "name": "UZAK SEHIR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:59:40",
+                "rating": 5.1,
+                "share": 17.0
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:18",
+                "rating": 4.23,
+                "share": 14.39
+            },
+            {
+                "rank": 4,
+                "name": "TURKIYE-SIRBISTAN FIBA ERKEKLER BASKETBOL DUNYA KUPASI AVRUPA ELEMELERI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:51:18",
+                "end_time": "22:58:30",
+                "rating": 3.45,
+                "share": 10.7
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:14",
+                "end_time": "18:37:07",
+                "rating": 2.72,
+                "share": 14.19
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:48:37",
+                "end_time": "24:25:18",
+                "rating": 2.59,
+                "share": 8.61
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "13:00:00",
+                "rating": 2.48,
+                "share": 24.73
+            },
+            {
+                "rank": 8,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:18:57",
+                "end_time": "19:56:04",
+                "rating": 2.36,
+                "share": 7.98
+            },
+            {
+                "rank": 9,
+                "name": "IDDIALARIN AKSINE",
+                "channel": "TRT 1",
+                "start_time": "19:56:12",
+                "end_time": "20:00:35",
+                "rating": 2.23,
+                "share": 7.31
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:43",
+                "end_time": "20:00:02",
+                "rating": 2.19,
+                "share": 7.51
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "UZAK SEHIR",
+                "channel": "KANAL D",
+                "start_time": "20:59:51",
+                "end_time": "24:16:27",
+                "rating": 12.96,
+                "share": 35.01
+            },
+            {
+                "rank": 2,
+                "name": "UZAK SEHIR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:59:40",
+                "rating": 6.77,
+                "share": 19.16
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:18",
+                "rating": 4.39,
+                "share": 13.19
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:14",
+                "end_time": "18:37:07",
+                "rating": 4.11,
+                "share": 18.99
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "13:00:00",
+                "rating": 3.59,
+                "share": 30.07
+            },
+            {
+                "rank": 6,
+                "name": "TURKIYE-SIRBISTAN FIBA ERKEKLER BASKETBOL DUNYA KUPASI AVRUPA ELEMELERI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:51:18",
+                "end_time": "22:58:30",
+                "rating": 3.21,
+                "share": 8.4
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:48:37",
+                "end_time": "24:25:18",
+                "rating": 2.99,
+                "share": 8.34
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:43",
+                "end_time": "20:00:02",
+                "rating": 2.46,
+                "share": 7.43
+            },
+            {
+                "rank": 9,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:18:57",
+                "end_time": "19:56:04",
+                "rating": 2.42,
+                "share": 7.13
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:34:55",
+                "end_time": "19:59:32",
+                "rating": 2.41,
+                "share": 7.04
+            }
+        ]
+    }
+}
