@@ -1,0 +1,282 @@
+{
+    "date": "2026-02-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "21:00:17",
+                "end_time": "23:34:24",
+                "rating": 9.57,
+                "share": 24.08
+            },
+            {
+                "rank": 2,
+                "name": "NOTTINGHAM FOREST-FENERBAHCE UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:49:55",
+                "end_time": "25:04:48",
+                "rating": 8.77,
+                "share": 28.57
+            },
+            {
+                "rank": 3,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:47:36",
+                "end_time": "24:17:19",
+                "rating": 5.83,
+                "share": 15.05
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:00",
+                "end_time": "18:31:58",
+                "rating": 5.55,
+                "share": 22.39
+            },
+            {
+                "rank": 5,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:45",
+                "end_time": "21:00:17",
+                "rating": 4.8,
+                "share": 13.4
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:07",
+                "rating": 4.17,
+                "share": 12.36
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:58",
+                "end_time": "12:58:09",
+                "rating": 4.09,
+                "share": 30.73
+            },
+            {
+                "rank": 8,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE IFTAR",
+                "channel": "ATV",
+                "start_time": "18:32:23",
+                "end_time": "19:35:07",
+                "rating": 3.81,
+                "share": 11.67
+            },
+            {
+                "rank": 9,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:17",
+                "end_time": "20:47:21",
+                "rating": 3.64,
+                "share": 10.18
+            },
+            {
+                "rank": 10,
+                "name": "SAMSUNSPOR-SKENDIYA UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:35:13",
+                "end_time": "22:43:36",
+                "rating": 3.58,
+                "share": 9.1
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "NOTTINGHAM FOREST-FENERBAHCE UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:49:55",
+                "end_time": "25:04:48",
+                "rating": 11.03,
+                "share": 38.75
+            },
+            {
+                "rank": 2,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "21:00:17",
+                "end_time": "23:34:24",
+                "rating": 6.43,
+                "share": 17.64
+            },
+            {
+                "rank": 3,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:47:36",
+                "end_time": "24:17:19",
+                "rating": 4.34,
+                "share": 12.21
+            },
+            {
+                "rank": 4,
+                "name": "SAMSUNSPOR-SKENDIYA UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:35:13",
+                "end_time": "22:43:36",
+                "rating": 4.04,
+                "share": 11.08
+            },
+            {
+                "rank": 5,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:45",
+                "end_time": "21:00:17",
+                "rating": 3.73,
+                "share": 11.21
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:07",
+                "rating": 3.63,
+                "share": 12.48
+            },
+            {
+                "rank": 7,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "23:17:13",
+                "rating": 3.45,
+                "share": 9.6
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:32:18",
+                "end_time": "24:28:51",
+                "rating": 3.03,
+                "share": 8.8
+            },
+            {
+                "rank": 9,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "21:00:09",
+                "end_time": "24:17:37",
+                "rating": 2.76,
+                "share": 7.79
+            },
+            {
+                "rank": 10,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:17",
+                "end_time": "20:47:21",
+                "rating": 2.71,
+                "share": 8.2
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "NOTTINGHAM FOREST-FENERBAHCE UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:49:55",
+                "end_time": "25:04:48",
+                "rating": 11.06,
+                "share": 34.66
+            },
+            {
+                "rank": 2,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "21:00:17",
+                "end_time": "23:34:24",
+                "rating": 8.59,
+                "share": 21.15
+            },
+            {
+                "rank": 3,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:47:36",
+                "end_time": "24:17:19",
+                "rating": 4.85,
+                "share": 12.22
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:00",
+                "end_time": "18:31:58",
+                "rating": 4.64,
+                "share": 21.59
+            },
+            {
+                "rank": 5,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:45",
+                "end_time": "21:00:17",
+                "rating": 4.5,
+                "share": 12.31
+            },
+            {
+                "rank": 6,
+                "name": "SAMSUNSPOR-SKENDIYA UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:35:13",
+                "end_time": "22:43:36",
+                "rating": 4.31,
+                "share": 10.71
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:07",
+                "rating": 4.08,
+                "share": 12.56
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:58",
+                "end_time": "12:58:09",
+                "rating": 3.62,
+                "share": 30.99
+            },
+            {
+                "rank": 9,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "23:17:13",
+                "rating": 3.36,
+                "share": 8.44
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:32:18",
+                "end_time": "24:28:51",
+                "rating": 3.16,
+                "share": 8.25
+            }
+        ]
+    }
+}

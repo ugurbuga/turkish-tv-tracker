@@ -1,0 +1,282 @@
+{
+    "date": "2026-03-01",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:54",
+                "end_time": "23:55:29",
+                "rating": 6.46,
+                "share": 17.44
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.87,
+                "share": 11.59
+            },
+            {
+                "rank": 3,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "21:00:19",
+                "end_time": "24:17:38",
+                "rating": 3.57,
+                "share": 9.85
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:22:51",
+                "end_time": "24:28:39",
+                "rating": 3.48,
+                "share": 10.08
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:59",
+                "end_time": "20:57:54",
+                "rating": 2.75,
+                "share": 7.75
+            },
+            {
+                "rank": 6,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:15:42",
+                "end_time": "19:59:46",
+                "rating": 2.59,
+                "share": 7.63
+            },
+            {
+                "rank": 7,
+                "name": "SAHTEKARLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:09",
+                "end_time": "21:00:14",
+                "rating": 2.47,
+                "share": 6.96
+            },
+            {
+                "rank": 8,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "20:00:39",
+                "end_time": "21:23:23",
+                "rating": 2.38,
+                "share": 6.74
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:10",
+                "end_time": "19:59:56",
+                "rating": 2.33,
+                "share": 6.98
+            },
+            {
+                "rank": 10,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "17:45:02",
+                "end_time": "19:15:31",
+                "rating": 2.31,
+                "share": 7.67
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:54",
+                "end_time": "23:55:29",
+                "rating": 5.15,
+                "share": 15.84
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.14,
+                "share": 10.58
+            },
+            {
+                "rank": 3,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "21:00:19",
+                "end_time": "24:17:38",
+                "rating": 3.09,
+                "share": 9.7
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:22:51",
+                "end_time": "24:28:39",
+                "rating": 2.59,
+                "share": 8.53
+            },
+            {
+                "rank": 5,
+                "name": "SAHTEKARLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:09",
+                "end_time": "21:00:14",
+                "rating": 2.53,
+                "share": 7.89
+            },
+            {
+                "rank": 6,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:15:42",
+                "end_time": "19:59:46",
+                "rating": 2.44,
+                "share": 7.99
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:59",
+                "end_time": "20:57:54",
+                "rating": 2.32,
+                "share": 7.27
+            },
+            {
+                "rank": 8,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:50:36",
+                "end_time": "23:30:46",
+                "rating": 2.22,
+                "share": 6.67
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:10",
+                "end_time": "19:59:56",
+                "rating": 2.02,
+                "share": 6.82
+            },
+            {
+                "rank": 10,
+                "name": "RUYA GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:43:53",
+                "end_time": "24:17:42",
+                "rating": 1.78,
+                "share": 5.58
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:54",
+                "end_time": "23:55:29",
+                "rating": 5.91,
+                "share": 15.8
+            },
+            {
+                "rank": 2,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "21:00:19",
+                "end_time": "24:17:38",
+                "rating": 4.05,
+                "share": 11.06
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.52,
+                "share": 11.05
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:22:51",
+                "end_time": "24:28:39",
+                "rating": 3.33,
+                "share": 9.56
+            },
+            {
+                "rank": 5,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:15:42",
+                "end_time": "19:59:46",
+                "rating": 3.08,
+                "share": 9.46
+            },
+            {
+                "rank": 6,
+                "name": "SAHTEKARLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:09",
+                "end_time": "21:00:14",
+                "rating": 2.8,
+                "share": 7.95
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:59",
+                "end_time": "20:57:54",
+                "rating": 2.58,
+                "share": 7.33
+            },
+            {
+                "rank": 8,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "17:45:02",
+                "end_time": "19:15:31",
+                "rating": 2.51,
+                "share": 8.91
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:10",
+                "end_time": "19:59:56",
+                "rating": 2.1,
+                "share": 6.59
+            },
+            {
+                "rank": 10,
+                "name": "RUYA GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:43:53",
+                "end_time": "24:17:42",
+                "rating": 1.85,
+                "share": 5.04
+            }
+        ]
+    }
+}
