@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-31",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:13",
+                "end_time": "24:35:00",
+                "rating": 2.63,
+                "share": 11.79
+            },
+            {
+                "rank": 2,
+                "name": "SOSYETE SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:42",
+                "end_time": "23:43:48",
+                "rating": 1.84,
+                "share": 7.75
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 1.84,
+                "share": 9.54
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:45:02",
+                "end_time": "24:18:35",
+                "rating": 1.74,
+                "share": 7.36
+            },
+            {
+                "rank": 5,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:10",
+                "end_time": "21:45:26",
+                "rating": 1.69,
+                "share": 7.07
+            },
+            {
+                "rank": 6,
+                "name": "KARAYIP KORSANLARI DUNYANIN SONU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:32",
+                "end_time": "23:34:05",
+                "rating": 1.59,
+                "share": 6.53
+            },
+            {
+                "rank": 7,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:43:06",
+                "end_time": "21:18:30",
+                "rating": 1.57,
+                "share": 6.73
+            },
+            {
+                "rank": 8,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:27:13",
+                "end_time": "22:15:39",
+                "rating": 1.54,
+                "share": 6.23
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:59",
+                "rating": 1.48,
+                "share": 7.67
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:37",
+                "end_time": "19:59:58",
+                "rating": 1.2,
+                "share": 6.19
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:13",
+                "end_time": "24:35:00",
+                "rating": 2.86,
+                "share": 12.38
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:45:02",
+                "end_time": "24:18:35",
+                "rating": 1.81,
+                "share": 7.45
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 1.79,
+                "share": 9.68
+            },
+            {
+                "rank": 4,
+                "name": "KARAYIP KORSANLARI DUNYANIN SONU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:32",
+                "end_time": "23:34:05",
+                "rating": 1.73,
+                "share": 7.0
+            },
+            {
+                "rank": 5,
+                "name": "SOSYETE SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:42",
+                "end_time": "23:43:48",
+                "rating": 1.58,
+                "share": 6.34
+            },
+            {
+                "rank": 6,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:31",
+                "rating": 1.41,
+                "share": 8.58
+            },
+            {
+                "rank": 7,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:58:22",
+                "rating": 1.35,
+                "share": 8.22
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:59",
+                "rating": 1.3,
+                "share": 6.99
+            },
+            {
+                "rank": 9,
+                "name": "PAZAR SURPRIZI",
+                "channel": "SHOW TV",
+                "start_time": "09:50:04",
+                "end_time": "12:59:50",
+                "rating": 1.29,
+                "share": 9.58
+            },
+            {
+                "rank": 10,
+                "name": "EVRIM AKIN ILE EV GEZMESI",
+                "channel": "KANAL D",
+                "start_time": "12:45:10",
+                "end_time": "13:46:52",
+                "rating": 1.25,
+                "share": 8.72
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:13",
+                "end_time": "24:35:00",
+                "rating": 3.53,
+                "share": 14.21
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:45:02",
+                "end_time": "24:18:35",
+                "rating": 2.18,
+                "share": 8.33
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.15,
+                "share": 10.69
+            },
+            {
+                "rank": 4,
+                "name": "KARAYIP KORSANLARI DUNYANIN SONU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:32",
+                "end_time": "23:34:05",
+                "rating": 1.96,
+                "share": 7.41
+            },
+            {
+                "rank": 5,
+                "name": "SOSYETE SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:42",
+                "end_time": "23:43:48",
+                "rating": 1.69,
+                "share": 6.35
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:59",
+                "rating": 1.69,
+                "share": 8.41
+            },
+            {
+                "rank": 7,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:27:13",
+                "end_time": "22:15:39",
+                "rating": 1.61,
+                "share": 6.09
+            },
+            {
+                "rank": 8,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:10",
+                "end_time": "21:45:26",
+                "rating": 1.58,
+                "share": 6.3
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:58:22",
+                "rating": 1.41,
+                "share": 8.27
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:42:13",
+                "end_time": "20:51:13",
+                "rating": 1.09,
+                "share": 5.05
+            }
+        ]
+    }
+}

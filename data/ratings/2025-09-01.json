@@ -1,0 +1,282 @@
+{
+    "date": "2025-09-01",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:12",
+                "end_time": "12:59:27",
+                "rating": 3.51,
+                "share": 26.0
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:24:29",
+                "end_time": "24:20:32",
+                "rating": 3.49,
+                "share": 14.09
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:15",
+                "end_time": "18:46:48",
+                "rating": 2.61,
+                "share": 16.45
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 2.56,
+                "share": 12.82
+            },
+            {
+                "rank": 5,
+                "name": "COPCULER KRALI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:55",
+                "end_time": "21:47:26",
+                "rating": 2.17,
+                "share": 8.46
+            },
+            {
+                "rank": 6,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "20:44:50",
+                "end_time": "24:17:16",
+                "rating": 2.17,
+                "share": 8.56
+            },
+            {
+                "rank": 7,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:42:56",
+                "end_time": "21:18:02",
+                "rating": 1.92,
+                "share": 7.83
+            },
+            {
+                "rank": 8,
+                "name": "CENGIZ HAN DESTANI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:01",
+                "end_time": "22:39:50",
+                "rating": 1.77,
+                "share": 6.65
+            },
+            {
+                "rank": 9,
+                "name": "MUHTESEM YEDILI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:05",
+                "end_time": "22:50:15",
+                "rating": 1.74,
+                "share": 6.53
+            },
+            {
+                "rank": 10,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "12:59:36",
+                "end_time": "13:58:20",
+                "rating": 1.66,
+                "share": 11.96
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:24:29",
+                "end_time": "24:20:32",
+                "rating": 3.75,
+                "share": 16.31
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:12",
+                "end_time": "12:59:27",
+                "rating": 2.47,
+                "share": 21.25
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 1.68,
+                "share": 9.53
+            },
+            {
+                "rank": 4,
+                "name": "MUHTESEM YEDILI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:05",
+                "end_time": "22:50:15",
+                "rating": 1.53,
+                "share": 6.18
+            },
+            {
+                "rank": 5,
+                "name": "COPCULER KRALI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:55",
+                "end_time": "21:47:26",
+                "rating": 1.41,
+                "share": 6.02
+            },
+            {
+                "rank": 6,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:13",
+                "end_time": "18:58:26",
+                "rating": 1.4,
+                "share": 9.16
+            },
+            {
+                "rank": 7,
+                "name": "CENGIZ HAN DESTANI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:01",
+                "end_time": "22:39:50",
+                "rating": 1.36,
+                "share": 5.52
+            },
+            {
+                "rank": 8,
+                "name": "ASK MEVSIMI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "22:41:44",
+                "rating": 1.35,
+                "share": 5.54
+            },
+            {
+                "rank": 9,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:53:43",
+                "end_time": "18:44:12",
+                "rating": 1.29,
+                "share": 9.73
+            },
+            {
+                "rank": 10,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:42:48",
+                "end_time": "18:13:56",
+                "rating": 1.28,
+                "share": 9.9
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:24:29",
+                "end_time": "24:20:32",
+                "rating": 4.15,
+                "share": 16.42
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:12",
+                "end_time": "12:59:27",
+                "rating": 2.98,
+                "share": 25.27
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 2.35,
+                "share": 12.27
+            },
+            {
+                "rank": 4,
+                "name": "MUHTESEM YEDILI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:05",
+                "end_time": "22:50:15",
+                "rating": 2.08,
+                "share": 7.75
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:15",
+                "end_time": "18:46:48",
+                "rating": 2.08,
+                "share": 14.21
+            },
+            {
+                "rank": 6,
+                "name": "CENGIZ HAN DESTANI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:01",
+                "end_time": "22:39:50",
+                "rating": 2.03,
+                "share": 7.55
+            },
+            {
+                "rank": 7,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "20:44:50",
+                "end_time": "24:17:16",
+                "rating": 1.9,
+                "share": 7.36
+            },
+            {
+                "rank": 8,
+                "name": "COPCULER KRALI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:55",
+                "end_time": "21:47:26",
+                "rating": 1.66,
+                "share": 6.54
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:52",
+                "rating": 1.5,
+                "share": 7.86
+            },
+            {
+                "rank": 10,
+                "name": "TURKIYE-SLOVENYA FIVB KADINLAR VOLEYBOL DUNYA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "16:21:05",
+                "end_time": "18:04:35",
+                "rating": 1.48,
+                "share": 10.82
+            }
+        ]
+    }
+}

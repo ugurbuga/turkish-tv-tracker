@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-24",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:49",
+                "end_time": "24:24:15",
+                "rating": 2.84,
+                "share": 12.26
+            },
+            {
+                "rank": 2,
+                "name": "SARK BULBULU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "21:53:34",
+                "rating": 2.18,
+                "share": 9.4
+            },
+            {
+                "rank": 3,
+                "name": "SIVRI AKILLILAR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:53:50",
+                "end_time": "23:38:49",
+                "rating": 1.71,
+                "share": 7.03
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:49:47",
+                "end_time": "24:17:52",
+                "rating": 1.68,
+                "share": 7.05
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:01",
+                "rating": 1.67,
+                "share": 9.51
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:41",
+                "rating": 1.61,
+                "share": 9.17
+            },
+            {
+                "rank": 7,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:29:30",
+                "end_time": "22:13:25",
+                "rating": 1.58,
+                "share": 6.48
+            },
+            {
+                "rank": 8,
+                "name": "KARAYIP KORSANLARI OLU ADAMIN SANDIGI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:31",
+                "end_time": "22:55:31",
+                "rating": 1.51,
+                "share": 6.21
+            },
+            {
+                "rank": 9,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:39:13",
+                "end_time": "21:17:31",
+                "rating": 1.25,
+                "share": 5.77
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:23",
+                "rating": 1.24,
+                "share": 8.23
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:49",
+                "end_time": "24:24:15",
+                "rating": 3.68,
+                "share": 15.99
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:01",
+                "rating": 1.72,
+                "share": 11.41
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:49:47",
+                "end_time": "24:17:52",
+                "rating": 1.49,
+                "share": 6.28
+            },
+            {
+                "rank": 4,
+                "name": "SARK BULBULU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "21:53:34",
+                "rating": 1.46,
+                "share": 7.05
+            },
+            {
+                "rank": 5,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:29:30",
+                "end_time": "22:13:25",
+                "rating": 1.33,
+                "share": 5.99
+            },
+            {
+                "rank": 6,
+                "name": "KARAYIP KORSANLARI OLU ADAMIN SANDIGI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:31",
+                "end_time": "22:55:31",
+                "rating": 1.31,
+                "share": 5.75
+            },
+            {
+                "rank": 7,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "23:30:18",
+                "end_time": "24:59:25",
+                "rating": 1.31,
+                "share": 8.57
+            },
+            {
+                "rank": 8,
+                "name": "ZECORNER KAYSERISPOR BASKANI NURETTIN ACIKALIN ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "23:37:32",
+                "end_time": "23:40:33",
+                "rating": 1.28,
+                "share": 6.18
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:41",
+                "rating": 1.13,
+                "share": 7.51
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:14:57",
+                "end_time": "23:47:59",
+                "rating": 0.97,
+                "share": 3.97
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:49",
+                "end_time": "24:24:15",
+                "rating": 3.49,
+                "share": 14.12
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:49:47",
+                "end_time": "24:17:52",
+                "rating": 2.09,
+                "share": 8.18
+            },
+            {
+                "rank": 3,
+                "name": "SARK BULBULU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "21:53:34",
+                "rating": 1.9,
+                "share": 8.12
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:41",
+                "rating": 1.76,
+                "share": 10.27
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:01",
+                "rating": 1.7,
+                "share": 9.89
+            },
+            {
+                "rank": 6,
+                "name": "KARAYIP KORSANLARI OLU ADAMIN SANDIGI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:31",
+                "end_time": "22:55:31",
+                "rating": 1.61,
+                "share": 6.41
+            },
+            {
+                "rank": 7,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:29:30",
+                "end_time": "22:13:25",
+                "rating": 1.5,
+                "share": 6.06
+            },
+            {
+                "rank": 8,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:23",
+                "rating": 1.27,
+                "share": 8.77
+            },
+            {
+                "rank": 9,
+                "name": "SIVRI AKILLILAR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:53:50",
+                "end_time": "23:38:49",
+                "rating": 1.26,
+                "share": 4.76
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:14:57",
+                "end_time": "23:47:59",
+                "rating": 1.18,
+                "share": 4.52
+            }
+        ]
+    }
+}
