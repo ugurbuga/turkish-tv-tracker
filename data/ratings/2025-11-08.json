@@ -1,0 +1,282 @@
+{
+    "date": "2025-11-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "20:58:57",
+                "end_time": "24:16:38",
+                "rating": 7.59,
+                "share": 21.81
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:40",
+                "end_time": "24:13:21",
+                "rating": 6.38,
+                "share": 18.29
+            },
+            {
+                "rank": 3,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:47",
+                "end_time": "20:58:46",
+                "rating": 4.53,
+                "share": 13.06
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:19",
+                "end_time": "20:57:40",
+                "rating": 3.5,
+                "share": 10.1
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:39",
+                "rating": 3.45,
+                "share": 11.78
+            },
+            {
+                "rank": 6,
+                "name": "BEN LEMAN",
+                "channel": "NOW",
+                "start_time": "20:44:52",
+                "end_time": "23:45:29",
+                "rating": 2.87,
+                "share": 8.05
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:20",
+                "end_time": "19:59:27",
+                "rating": 2.68,
+                "share": 9.24
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:23",
+                "end_time": "20:00:02",
+                "rating": 2.62,
+                "share": 8.97
+            },
+            {
+                "rank": 9,
+                "name": "AYNADAKI YABANCI",
+                "channel": "ATV",
+                "start_time": "20:45:32",
+                "end_time": "24:16:23",
+                "rating": 2.51,
+                "share": 7.21
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:40:17",
+                "end_time": "24:37:47",
+                "rating": 2.37,
+                "share": 7.21
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "20:58:57",
+                "end_time": "24:16:38",
+                "rating": 6.14,
+                "share": 19.31
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:40",
+                "end_time": "24:13:21",
+                "rating": 4.01,
+                "share": 12.61
+            },
+            {
+                "rank": 3,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:47",
+                "end_time": "20:58:46",
+                "rating": 3.94,
+                "share": 12.71
+            },
+            {
+                "rank": 4,
+                "name": "BEN LEMAN",
+                "channel": "NOW",
+                "start_time": "20:44:52",
+                "end_time": "23:45:29",
+                "rating": 3.86,
+                "share": 11.78
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:38",
+                "end_time": "20:42:25",
+                "rating": 2.76,
+                "share": 9.39
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:39",
+                "rating": 2.74,
+                "share": 10.96
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:25",
+                "end_time": "24:16:46",
+                "rating": 2.61,
+                "share": 8.22
+            },
+            {
+                "rank": 8,
+                "name": "BEN LEMAN (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:44",
+                "end_time": "20:44:47",
+                "rating": 2.5,
+                "share": 8.23
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:40:17",
+                "end_time": "24:37:47",
+                "rating": 2.46,
+                "share": 8.19
+            },
+            {
+                "rank": 10,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:19",
+                "end_time": "20:57:40",
+                "rating": 2.01,
+                "share": 6.47
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "20:58:57",
+                "end_time": "24:16:38",
+                "rating": 7.85,
+                "share": 22.1
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:40",
+                "end_time": "24:13:21",
+                "rating": 5.79,
+                "share": 16.28
+            },
+            {
+                "rank": 3,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:47",
+                "end_time": "20:58:46",
+                "rating": 4.6,
+                "share": 13.36
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:39",
+                "rating": 3.31,
+                "share": 11.81
+            },
+            {
+                "rank": 5,
+                "name": "BEN LEMAN",
+                "channel": "NOW",
+                "start_time": "20:44:52",
+                "end_time": "23:45:29",
+                "rating": 3.17,
+                "share": 8.72
+            },
+            {
+                "rank": 6,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:19",
+                "end_time": "20:57:40",
+                "rating": 3.05,
+                "share": 8.86
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:40:17",
+                "end_time": "24:37:47",
+                "rating": 2.97,
+                "share": 8.81
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:38",
+                "end_time": "20:42:25",
+                "rating": 2.82,
+                "share": 8.53
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:25",
+                "end_time": "24:16:46",
+                "rating": 2.55,
+                "share": 7.16
+            },
+            {
+                "rank": 10,
+                "name": "BEN LEMAN (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:44",
+                "end_time": "20:44:47",
+                "rating": 2.51,
+                "share": 7.4
+            }
+        ]
+    }
+}
