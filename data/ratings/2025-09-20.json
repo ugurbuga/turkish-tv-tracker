@@ -1,0 +1,282 @@
+{
+    "date": "2025-09-20",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:55:31",
+                "end_time": "24:22:07",
+                "rating": 5.53,
+                "share": 19.2
+            },
+            {
+                "rank": 2,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:45:02",
+                "end_time": "24:16:26",
+                "rating": 3.09,
+                "share": 10.7
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:24",
+                "end_time": "24:21:05",
+                "rating": 3.07,
+                "share": 10.81
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:16",
+                "end_time": "20:55:31",
+                "rating": 2.71,
+                "share": 9.42
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 2.45,
+                "share": 10.48
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:37",
+                "rating": 2.23,
+                "share": 9.66
+            },
+            {
+                "rank": 7,
+                "name": "VELIAHT (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:48",
+                "end_time": "22:42:11",
+                "rating": 2.02,
+                "share": 6.65
+            },
+            {
+                "rank": 8,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:38:42",
+                "end_time": "21:18:20",
+                "rating": 1.76,
+                "share": 6.34
+            },
+            {
+                "rank": 9,
+                "name": "ARKA SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:11",
+                "end_time": "23:17:19",
+                "rating": 1.59,
+                "share": 5.31
+            },
+            {
+                "rank": 10,
+                "name": "KISKANMAK (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:10",
+                "end_time": "22:17:39",
+                "rating": 1.54,
+                "share": 5.11
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:55:31",
+                "end_time": "24:22:07",
+                "rating": 3.76,
+                "share": 14.4
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:24",
+                "end_time": "24:21:05",
+                "rating": 3.75,
+                "share": 14.58
+            },
+            {
+                "rank": 3,
+                "name": "VELIAHT (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:48",
+                "end_time": "22:42:11",
+                "rating": 2.11,
+                "share": 7.7
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:37",
+                "rating": 1.95,
+                "share": 9.84
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:16",
+                "end_time": "20:55:31",
+                "rating": 1.8,
+                "share": 6.9
+            },
+            {
+                "rank": 6,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:45:02",
+                "end_time": "24:16:26",
+                "rating": 1.74,
+                "share": 6.68
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:43:47",
+                "end_time": "20:54:24",
+                "rating": 1.73,
+                "share": 7.83
+            },
+            {
+                "rank": 8,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 1.58,
+                "share": 7.93
+            },
+            {
+                "rank": 9,
+                "name": "HAREKET SEKIZ (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:56",
+                "end_time": "22:22:56",
+                "rating": 1.56,
+                "share": 5.76
+            },
+            {
+                "rank": 10,
+                "name": "ARKA SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:11",
+                "end_time": "23:17:19",
+                "rating": 1.51,
+                "share": 5.57
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:55:31",
+                "end_time": "24:22:07",
+                "rating": 5.21,
+                "share": 17.88
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:24",
+                "end_time": "24:21:05",
+                "rating": 3.78,
+                "share": 13.16
+            },
+            {
+                "rank": 3,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:45:02",
+                "end_time": "24:16:26",
+                "rating": 2.66,
+                "share": 9.14
+            },
+            {
+                "rank": 4,
+                "name": "VELIAHT (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:48",
+                "end_time": "22:42:11",
+                "rating": 2.66,
+                "share": 8.86
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:16",
+                "end_time": "20:55:31",
+                "rating": 2.53,
+                "share": 9.06
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:37",
+                "rating": 2.43,
+                "share": 11.13
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 2.18,
+                "share": 9.81
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:43:47",
+                "end_time": "20:54:24",
+                "rating": 1.62,
+                "share": 6.76
+            },
+            {
+                "rank": 9,
+                "name": "KISKANMAK (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:10",
+                "end_time": "22:17:39",
+                "rating": 1.5,
+                "share": 5.09
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:25",
+                "end_time": "20:00:22",
+                "rating": 1.24,
+                "share": 5.56
+            }
+        ]
+    }
+}
