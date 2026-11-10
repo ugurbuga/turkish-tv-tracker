@@ -1,0 +1,282 @@
+{
+    "date": "2025-10-19",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:55:52",
+                "end_time": "24:19:46",
+                "rating": 6.43,
+                "share": 19.3
+            },
+            {
+                "rank": 2,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "20:41:23",
+                "end_time": "23:19:20",
+                "rating": 4.88,
+                "share": 13.55
+            },
+            {
+                "rank": 3,
+                "name": "CARPINTI",
+                "channel": "STAR TV",
+                "start_time": "21:00:10",
+                "end_time": "24:16:24",
+                "rating": 3.99,
+                "share": 11.94
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 3.68,
+                "share": 12.05
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:17",
+                "end_time": "20:55:52",
+                "rating": 3.3,
+                "share": 9.44
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:28",
+                "end_time": "24:21:20",
+                "rating": 3.29,
+                "share": 10.24
+            },
+            {
+                "rank": 7,
+                "name": "SAHTEKARLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:18",
+                "end_time": "20:41:18",
+                "rating": 2.96,
+                "share": 8.66
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "20:00:05",
+                "rating": 2.95,
+                "share": 9.7
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:20",
+                "end_time": "20:00:03",
+                "rating": 2.56,
+                "share": 8.38
+            },
+            {
+                "rank": 10,
+                "name": "CARPINTI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "21:00:10",
+                "rating": 2.46,
+                "share": 7.04
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "20:41:23",
+                "end_time": "23:19:20",
+                "rating": 4.7,
+                "share": 15.34
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:55:52",
+                "end_time": "24:19:46",
+                "rating": 4.54,
+                "share": 15.95
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:28",
+                "end_time": "24:21:20",
+                "rating": 3.02,
+                "share": 11.06
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 2.72,
+                "share": 11.64
+            },
+            {
+                "rank": 5,
+                "name": "SAHTEKARLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:18",
+                "end_time": "20:41:18",
+                "rating": 2.57,
+                "share": 9.19
+            },
+            {
+                "rank": 6,
+                "name": "CARPINTI",
+                "channel": "STAR TV",
+                "start_time": "21:00:10",
+                "end_time": "24:16:24",
+                "rating": 2.39,
+                "share": 8.38
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:17",
+                "end_time": "20:55:52",
+                "rating": 2.04,
+                "share": 7.11
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "20:00:05",
+                "rating": 2.02,
+                "share": 8.7
+            },
+            {
+                "rank": 9,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:16",
+                "end_time": "22:30:13",
+                "rating": 1.7,
+                "share": 5.65
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:20",
+                "end_time": "20:00:03",
+                "rating": 1.67,
+                "share": 7.12
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:55:52",
+                "end_time": "24:19:46",
+                "rating": 6.41,
+                "share": 18.86
+            },
+            {
+                "rank": 2,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "20:41:23",
+                "end_time": "23:19:20",
+                "rating": 4.89,
+                "share": 13.65
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:28",
+                "end_time": "24:21:20",
+                "rating": 3.72,
+                "share": 11.46
+            },
+            {
+                "rank": 4,
+                "name": "CARPINTI",
+                "channel": "STAR TV",
+                "start_time": "21:00:10",
+                "end_time": "24:16:24",
+                "rating": 3.59,
+                "share": 10.6
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 3.56,
+                "share": 13.08
+            },
+            {
+                "rank": 6,
+                "name": "SAHTEKARLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:18",
+                "end_time": "20:41:18",
+                "rating": 3.09,
+                "share": 9.67
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:17",
+                "end_time": "20:55:52",
+                "rating": 2.95,
+                "share": 8.92
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "20:00:05",
+                "rating": 2.69,
+                "share": 9.96
+            },
+            {
+                "rank": 9,
+                "name": "CARPINTI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "21:00:10",
+                "rating": 2.31,
+                "share": 6.97
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:20",
+                "end_time": "20:00:03",
+                "rating": 2.0,
+                "share": 7.32
+            }
+        ]
+    }
+}
