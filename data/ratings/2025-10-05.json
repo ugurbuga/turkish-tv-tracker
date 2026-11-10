@@ -1,0 +1,282 @@
+{
+    "date": "2025-10-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:58",
+                "end_time": "24:10:31",
+                "rating": 6.56,
+                "share": 20.6
+            },
+            {
+                "rank": 2,
+                "name": "CARPINTI",
+                "channel": "STAR TV",
+                "start_time": "21:00:14",
+                "end_time": "23:15:20",
+                "rating": 5.18,
+                "share": 15.07
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:45",
+                "end_time": "20:56:58",
+                "rating": 3.47,
+                "share": 10.45
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:56",
+                "end_time": "24:32:15",
+                "rating": 3.17,
+                "share": 10.47
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:58",
+                "rating": 3.1,
+                "share": 11.31
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:39",
+                "rating": 3.06,
+                "share": 11.02
+            },
+            {
+                "rank": 7,
+                "name": "CARPINTI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:20",
+                "end_time": "21:00:14",
+                "rating": 2.49,
+                "share": 7.51
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:39:52",
+                "end_time": "24:16:00",
+                "rating": 2.34,
+                "share": 7.28
+            },
+            {
+                "rank": 9,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:38:48",
+                "end_time": "21:18:25",
+                "rating": 2.12,
+                "share": 6.55
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "20:39:52",
+                "rating": 1.91,
+                "share": 5.89
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:58",
+                "end_time": "24:10:31",
+                "rating": 5.71,
+                "share": 19.89
+            },
+            {
+                "rank": 2,
+                "name": "CARPINTI",
+                "channel": "STAR TV",
+                "start_time": "21:00:14",
+                "end_time": "23:15:20",
+                "rating": 3.7,
+                "share": 12.13
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:56",
+                "end_time": "24:32:15",
+                "rating": 3.16,
+                "share": 11.7
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:39",
+                "rating": 2.81,
+                "share": 12.34
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:39:52",
+                "end_time": "24:16:00",
+                "rating": 2.77,
+                "share": 9.56
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:58",
+                "rating": 2.74,
+                "share": 12.37
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:45",
+                "end_time": "20:56:58",
+                "rating": 2.43,
+                "share": 8.55
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "20:39:52",
+                "rating": 2.18,
+                "share": 7.82
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:23",
+                "rating": 1.6,
+                "share": 8.75
+            },
+            {
+                "rank": 10,
+                "name": "BEN LEMAN (TKR)",
+                "channel": "NOW",
+                "start_time": "11:16:53",
+                "end_time": "13:58:59",
+                "rating": 1.6,
+                "share": 10.82
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:58",
+                "end_time": "24:10:31",
+                "rating": 6.55,
+                "share": 19.85
+            },
+            {
+                "rank": 2,
+                "name": "CARPINTI",
+                "channel": "STAR TV",
+                "start_time": "21:00:14",
+                "end_time": "23:15:20",
+                "rating": 4.14,
+                "share": 11.88
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:56",
+                "end_time": "24:32:15",
+                "rating": 3.82,
+                "share": 12.16
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:58",
+                "rating": 3.24,
+                "share": 12.79
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:45",
+                "end_time": "20:56:58",
+                "rating": 3.21,
+                "share": 9.92
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:39:52",
+                "end_time": "24:16:00",
+                "rating": 2.98,
+                "share": 8.96
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:39",
+                "rating": 2.87,
+                "share": 11.13
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "20:39:52",
+                "rating": 2.24,
+                "share": 7.17
+            },
+            {
+                "rank": 9,
+                "name": "BEN LEMAN (TKR)",
+                "channel": "NOW",
+                "start_time": "11:16:53",
+                "end_time": "13:58:59",
+                "rating": 1.88,
+                "share": 11.52
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:23",
+                "rating": 1.78,
+                "share": 8.74
+            }
+        ]
+    }
+}

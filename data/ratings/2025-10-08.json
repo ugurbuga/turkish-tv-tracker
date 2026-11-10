@@ -1,0 +1,282 @@
+{
+    "date": "2025-10-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ESREF RUYA",
+                "channel": "KANAL D",
+                "start_time": "20:59:09",
+                "end_time": "24:17:54",
+                "rating": 9.87,
+                "share": 29.39
+            },
+            {
+                "rank": 2,
+                "name": "ESREF RUYA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:58:58",
+                "rating": 5.85,
+                "share": 15.99
+            },
+            {
+                "rank": 3,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "20:56:02",
+                "end_time": "24:17:11",
+                "rating": 5.28,
+                "share": 15.65
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:06",
+                "end_time": "18:45:15",
+                "rating": 4.25,
+                "share": 20.87
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:56",
+                "rating": 4.24,
+                "share": 31.27
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:54:45",
+                "rating": 3.7,
+                "share": 11.93
+            },
+            {
+                "rank": 7,
+                "name": "SAHIPSIZLER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:37",
+                "end_time": "20:56:02",
+                "rating": 3.7,
+                "share": 10.13
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:55",
+                "rating": 3.42,
+                "share": 10.95
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:58",
+                "end_time": "19:59:56",
+                "rating": 3.29,
+                "share": 10.63
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:41",
+                "end_time": "20:00:00",
+                "rating": 3.07,
+                "share": 9.84
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "ESREF RUYA",
+                "channel": "KANAL D",
+                "start_time": "20:59:09",
+                "end_time": "24:17:54",
+                "rating": 7.3,
+                "share": 27.3
+            },
+            {
+                "rank": 2,
+                "name": "ESREF RUYA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:58:58",
+                "rating": 4.11,
+                "share": 14.8
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:00",
+                "end_time": "24:20:08",
+                "rating": 3.2,
+                "share": 12.04
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:41",
+                "end_time": "20:00:00",
+                "rating": 2.53,
+                "share": 10.79
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:56",
+                "rating": 2.53,
+                "share": 25.75
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:58",
+                "end_time": "19:59:56",
+                "rating": 2.17,
+                "share": 9.35
+            },
+            {
+                "rank": 7,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "20:56:02",
+                "end_time": "24:17:11",
+                "rating": 2.06,
+                "share": 7.68
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:55",
+                "rating": 2.05,
+                "share": 8.71
+            },
+            {
+                "rank": 9,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:36",
+                "rating": 1.93,
+                "share": 9.81
+            },
+            {
+                "rank": 10,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:59:06",
+                "end_time": "18:42:59",
+                "rating": 1.93,
+                "share": 12.63
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "ESREF RUYA",
+                "channel": "KANAL D",
+                "start_time": "20:59:09",
+                "end_time": "24:17:54",
+                "rating": 9.83,
+                "share": 29.71
+            },
+            {
+                "rank": 2,
+                "name": "ESREF RUYA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:58:58",
+                "rating": 5.54,
+                "share": 16.01
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:56",
+                "rating": 4.24,
+                "share": 31.87
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:44:00",
+                "end_time": "24:20:08",
+                "rating": 3.78,
+                "share": 11.46
+            },
+            {
+                "rank": 5,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "20:56:02",
+                "end_time": "24:17:11",
+                "rating": 3.63,
+                "share": 10.93
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:55",
+                "rating": 3.06,
+                "share": 10.6
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:06",
+                "end_time": "18:45:15",
+                "rating": 3.05,
+                "share": 16.35
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:58",
+                "end_time": "19:59:56",
+                "rating": 2.9,
+                "share": 10.18
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:54:45",
+                "rating": 2.87,
+                "share": 10.04
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:41",
+                "end_time": "20:00:00",
+                "rating": 2.49,
+                "share": 8.62
+            }
+        ]
+    }
+}

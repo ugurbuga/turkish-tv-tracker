@@ -1,0 +1,282 @@
+{
+    "date": "2025-10-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:11",
+                "end_time": "24:19:27",
+                "rating": 6.12,
+                "share": 19.38
+            },
+            {
+                "rank": 2,
+                "name": "AYNADAKI YABANCI",
+                "channel": "ATV",
+                "start_time": "19:59:43",
+                "end_time": "22:31:42",
+                "rating": 3.12,
+                "share": 9.37
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:34:56",
+                "end_time": "24:26:24",
+                "rating": 3.12,
+                "share": 10.21
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:53",
+                "rating": 3.09,
+                "share": 11.53
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:35",
+                "end_time": "21:00:11",
+                "rating": 2.92,
+                "share": 9.06
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:44",
+                "rating": 2.85,
+                "share": 10.79
+            },
+            {
+                "rank": 7,
+                "name": "BEN LEMAN",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "22:30:06",
+                "rating": 2.77,
+                "share": 8.31
+            },
+            {
+                "rank": 8,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:39:07",
+                "end_time": "21:18:45",
+                "rating": 2.0,
+                "share": 6.4
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:27",
+                "end_time": "19:59:59",
+                "rating": 2.0,
+                "share": 7.45
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:22",
+                "rating": 1.7,
+                "share": 7.71
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:11",
+                "end_time": "24:19:27",
+                "rating": 4.1,
+                "share": 13.96
+            },
+            {
+                "rank": 2,
+                "name": "BEN LEMAN",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "22:30:06",
+                "rating": 3.67,
+                "share": 12.06
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:34:56",
+                "end_time": "24:26:24",
+                "rating": 3.38,
+                "share": 11.99
+            },
+            {
+                "rank": 4,
+                "name": "AYNADAKI YABANCI",
+                "channel": "ATV",
+                "start_time": "19:59:43",
+                "end_time": "22:31:42",
+                "rating": 3.23,
+                "share": 10.61
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:53",
+                "rating": 2.98,
+                "share": 13.33
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:44",
+                "rating": 2.16,
+                "share": 9.87
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "24:16:49",
+                "rating": 1.76,
+                "share": 6.08
+            },
+            {
+                "rank": 8,
+                "name": "BEN LEMAN (TKR)",
+                "channel": "NOW",
+                "start_time": "22:30:21",
+                "end_time": "25:22:25",
+                "rating": 1.6,
+                "share": 7.82
+            },
+            {
+                "rank": 9,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:35",
+                "end_time": "21:00:11",
+                "rating": 1.57,
+                "share": 5.35
+            },
+            {
+                "rank": 10,
+                "name": "TEKNIK ANALIZ",
+                "channel": "TRT SPOR",
+                "start_time": "23:47:22",
+                "end_time": "25:00:02",
+                "rating": 1.36,
+                "share": 9.23
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:11",
+                "end_time": "24:19:27",
+                "rating": 5.07,
+                "share": 15.68
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:34:56",
+                "end_time": "24:26:24",
+                "rating": 3.42,
+                "share": 11.02
+            },
+            {
+                "rank": 3,
+                "name": "BEN LEMAN",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "22:30:06",
+                "rating": 3.24,
+                "share": 9.76
+            },
+            {
+                "rank": 4,
+                "name": "AYNADAKI YABANCI",
+                "channel": "ATV",
+                "start_time": "19:59:43",
+                "end_time": "22:31:42",
+                "rating": 2.94,
+                "share": 8.86
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:53",
+                "rating": 2.85,
+                "share": 11.65
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:44",
+                "rating": 2.55,
+                "share": 10.54
+            },
+            {
+                "rank": 7,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:35",
+                "end_time": "21:00:11",
+                "rating": 1.97,
+                "share": 6.26
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "24:16:49",
+                "rating": 1.91,
+                "share": 6.0
+            },
+            {
+                "rank": 9,
+                "name": "TEKNIK ANALIZ",
+                "channel": "TRT SPOR",
+                "start_time": "23:47:22",
+                "end_time": "25:00:02",
+                "rating": 1.71,
+                "share": 9.7
+            },
+            {
+                "rank": 10,
+                "name": "BEN LEMAN (TKR)",
+                "channel": "NOW",
+                "start_time": "22:30:21",
+                "end_time": "25:22:25",
+                "rating": 1.53,
+                "share": 6.61
+            }
+        ]
+    }
+}

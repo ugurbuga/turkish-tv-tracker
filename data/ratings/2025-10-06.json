@@ -1,0 +1,282 @@
+{
+    "date": "2025-10-06",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "UZAK SEHIR",
+                "channel": "KANAL D",
+                "start_time": "20:59:17",
+                "end_time": "24:08:14",
+                "rating": 15.46,
+                "share": 45.03
+            },
+            {
+                "rank": 2,
+                "name": "UZAK SEHIR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "20:59:11",
+                "rating": 9.18,
+                "share": 26.45
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "13:00:04",
+                "rating": 4.27,
+                "share": 33.17
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:34",
+                "end_time": "18:46:11",
+                "rating": 4.1,
+                "share": 22.89
+            },
+            {
+                "rank": 5,
+                "name": "CENNETIN COCUKLARI",
+                "channel": "TRT 1",
+                "start_time": "20:50:00",
+                "end_time": "23:43:46",
+                "rating": 3.99,
+                "share": 11.13
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:37",
+                "rating": 3.47,
+                "share": 12.04
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:56:33",
+                "rating": 3.32,
+                "share": 11.57
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:25",
+                "end_time": "20:00:04",
+                "rating": 3.3,
+                "share": 11.42
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:14",
+                "end_time": "24:32:12",
+                "rating": 2.95,
+                "share": 9.23
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:17",
+                "end_time": "19:59:50",
+                "rating": 2.91,
+                "share": 10.19
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "UZAK SEHIR",
+                "channel": "KANAL D",
+                "start_time": "20:59:17",
+                "end_time": "24:08:14",
+                "rating": 11.06,
+                "share": 38.25
+            },
+            {
+                "rank": 2,
+                "name": "UZAK SEHIR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "20:59:11",
+                "rating": 6.1,
+                "share": 21.62
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:14",
+                "end_time": "24:32:12",
+                "rating": 3.4,
+                "share": 12.68
+            },
+            {
+                "rank": 4,
+                "name": "CENNETIN COCUKLARI",
+                "channel": "TRT 1",
+                "start_time": "20:50:00",
+                "end_time": "23:43:46",
+                "rating": 3.12,
+                "share": 10.44
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "13:00:04",
+                "rating": 2.91,
+                "share": 28.73
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:34",
+                "end_time": "18:46:11",
+                "rating": 2.55,
+                "share": 18.85
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:25",
+                "end_time": "20:00:04",
+                "rating": 2.23,
+                "share": 9.98
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:56:33",
+                "rating": 2.21,
+                "share": 10.03
+            },
+            {
+                "rank": 9,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:37",
+                "rating": 2.05,
+                "share": 9.18
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:57:33",
+                "end_time": "20:55:14",
+                "rating": 1.99,
+                "share": 8.0
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "UZAK SEHIR",
+                "channel": "KANAL D",
+                "start_time": "20:59:17",
+                "end_time": "24:08:14",
+                "rating": 14.39,
+                "share": 40.34
+            },
+            {
+                "rank": 2,
+                "name": "UZAK SEHIR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "20:59:11",
+                "rating": 8.23,
+                "share": 24.15
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "13:00:04",
+                "rating": 4.6,
+                "share": 35.37
+            },
+            {
+                "rank": 4,
+                "name": "CENNETIN COCUKLARI",
+                "channel": "TRT 1",
+                "start_time": "20:50:00",
+                "end_time": "23:43:46",
+                "rating": 4.29,
+                "share": 11.63
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:14",
+                "end_time": "24:32:12",
+                "rating": 3.62,
+                "share": 10.9
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:34",
+                "end_time": "18:46:11",
+                "rating": 3.52,
+                "share": 22.23
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:56:33",
+                "rating": 3.38,
+                "share": 12.68
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:37",
+                "rating": 2.96,
+                "share": 11.01
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:25",
+                "end_time": "20:00:04",
+                "rating": 2.9,
+                "share": 10.73
+            },
+            {
+                "rank": 10,
+                "name": "CENNETIN COCUKLARI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:06",
+                "end_time": "20:50:00",
+                "rating": 2.77,
+                "share": 8.22
+            }
+        ]
+    }
+}

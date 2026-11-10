@@ -1,0 +1,282 @@
+{
+    "date": "2025-10-10",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ARKA SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:59:17",
+                "end_time": "24:16:38",
+                "rating": 6.71,
+                "share": 21.33
+            },
+            {
+                "rank": 2,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "20:59:25",
+                "end_time": "24:17:53",
+                "rating": 6.03,
+                "share": 19.06
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:34",
+                "end_time": "18:45:41",
+                "rating": 4.26,
+                "share": 22.36
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:55",
+                "rating": 4.11,
+                "share": 30.71
+            },
+            {
+                "rank": 5,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:24",
+                "end_time": "20:59:25",
+                "rating": 3.96,
+                "share": 11.54
+            },
+            {
+                "rank": 6,
+                "name": "TASACAK BU DENIZ",
+                "channel": "TRT 1",
+                "start_time": "19:59:47",
+                "end_time": "22:42:05",
+                "rating": 3.87,
+                "share": 10.86
+            },
+            {
+                "rank": 7,
+                "name": "ARKA SOKAKLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:59:06",
+                "rating": 3.76,
+                "share": 10.99
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:03",
+                "end_time": "19:54:04",
+                "rating": 3.44,
+                "share": 11.75
+            },
+            {
+                "rank": 9,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 3.24,
+                "share": 11.0
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:04",
+                "end_time": "19:59:55",
+                "rating": 2.93,
+                "share": 10.03
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "20:59:25",
+                "end_time": "24:17:53",
+                "rating": 5.08,
+                "share": 19.36
+            },
+            {
+                "rank": 2,
+                "name": "TASACAK BU DENIZ",
+                "channel": "TRT 1",
+                "start_time": "19:59:47",
+                "end_time": "22:42:05",
+                "rating": 4.15,
+                "share": 14.78
+            },
+            {
+                "rank": 3,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:24",
+                "end_time": "20:59:25",
+                "rating": 3.57,
+                "share": 13.89
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:55",
+                "rating": 3.2,
+                "share": 31.39
+            },
+            {
+                "rank": 5,
+                "name": "ARKA SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:59:17",
+                "end_time": "24:16:38",
+                "rating": 2.51,
+                "share": 9.62
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:38:16",
+                "end_time": "24:29:29",
+                "rating": 2.33,
+                "share": 9.55
+            },
+            {
+                "rank": 7,
+                "name": "ASK VE GOZYASI",
+                "channel": "ATV",
+                "start_time": "20:40:00",
+                "end_time": "23:30:39",
+                "rating": 2.32,
+                "share": 7.91
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:34",
+                "end_time": "18:45:41",
+                "rating": 2.25,
+                "share": 15.12
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:03",
+                "end_time": "19:54:04",
+                "rating": 2.19,
+                "share": 10.09
+            },
+            {
+                "rank": 10,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:56:30",
+                "end_time": "18:44:39",
+                "rating": 2.08,
+                "share": 14.3
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "20:59:25",
+                "end_time": "24:17:53",
+                "rating": 6.55,
+                "share": 20.99
+            },
+            {
+                "rank": 2,
+                "name": "TASACAK BU DENIZ",
+                "channel": "TRT 1",
+                "start_time": "19:59:47",
+                "end_time": "22:42:05",
+                "rating": 4.52,
+                "share": 13.33
+            },
+            {
+                "rank": 3,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:24",
+                "end_time": "20:59:25",
+                "rating": 4.28,
+                "share": 13.45
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:55",
+                "rating": 4.24,
+                "share": 32.57
+            },
+            {
+                "rank": 5,
+                "name": "ARKA SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:59:17",
+                "end_time": "24:16:38",
+                "rating": 4.1,
+                "share": 13.2
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:34",
+                "end_time": "18:45:41",
+                "rating": 3.63,
+                "share": 21.55
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:03",
+                "end_time": "19:54:04",
+                "rating": 3.37,
+                "share": 12.95
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 2.97,
+                "share": 11.36
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:38:16",
+                "end_time": "24:29:29",
+                "rating": 2.92,
+                "share": 10.02
+            },
+            {
+                "rank": 10,
+                "name": "ASK VE GOZYASI",
+                "channel": "ATV",
+                "start_time": "20:40:00",
+                "end_time": "23:30:39",
+                "rating": 2.27,
+                "share": 6.51
+            }
+        ]
+    }
+}
