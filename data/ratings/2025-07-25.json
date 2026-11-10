@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-25",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:39",
+                "end_time": "24:20:57",
+                "rating": 3.17,
+                "share": 15.54
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:13",
+                "rating": 1.95,
+                "share": 11.56
+            },
+            {
+                "rank": 3,
+                "name": "YUSUF YUSUF (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:06",
+                "end_time": "24:08:47",
+                "rating": 1.73,
+                "share": 8.74
+            },
+            {
+                "rank": 4,
+                "name": "BANKER BILO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:25",
+                "end_time": "21:44:01",
+                "rating": 1.56,
+                "share": 7.82
+            },
+            {
+                "rank": 5,
+                "name": "EYYVAH EYVAH 3 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "22:21:50",
+                "rating": 1.5,
+                "share": 7.29
+            },
+            {
+                "rank": 6,
+                "name": "BUZ DEVRI 5 BUYUK CARPISMA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "21:47:15",
+                "rating": 1.38,
+                "share": 6.91
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:57",
+                "rating": 1.37,
+                "share": 8.15
+            },
+            {
+                "rank": 8,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:39:10",
+                "end_time": "21:18:07",
+                "rating": 1.34,
+                "share": 7.15
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:19",
+                "end_time": "19:59:56",
+                "rating": 1.26,
+                "share": 7.56
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:46",
+                "end_time": "21:45:51",
+                "rating": 1.15,
+                "share": 5.75
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:39",
+                "end_time": "24:20:57",
+                "rating": 3.29,
+                "share": 18.26
+            },
+            {
+                "rank": 2,
+                "name": "BUZ DEVRI 5 BUYUK CARPISMA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "21:47:15",
+                "rating": 1.48,
+                "share": 8.74
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:13",
+                "rating": 1.32,
+                "share": 8.78
+            },
+            {
+                "rank": 4,
+                "name": "ASLAN'IN DENEY ODASI",
+                "channel": "TRT COCUK",
+                "start_time": "14:42:54",
+                "end_time": "14:46:16",
+                "rating": 1.22,
+                "share": 11.65
+            },
+            {
+                "rank": 5,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:01:05",
+                "end_time": "18:20:31",
+                "rating": 1.19,
+                "share": 11.28
+            },
+            {
+                "rank": 6,
+                "name": "ASLAN",
+                "channel": "TRT COCUK",
+                "start_time": "13:56:18",
+                "end_time": "14:18:34",
+                "rating": 1.17,
+                "share": 10.96
+            },
+            {
+                "rank": 7,
+                "name": "EYYVAH EYVAH 3 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "22:21:50",
+                "rating": 1.15,
+                "share": 6.55
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:57",
+                "rating": 1.05,
+                "share": 7.05
+            },
+            {
+                "rank": 9,
+                "name": "BANKER BILO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:25",
+                "end_time": "21:44:01",
+                "rating": 1.05,
+                "share": 6.22
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:37",
+                "end_time": "20:52:39",
+                "rating": 1.02,
+                "share": 6.72
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:39",
+                "end_time": "24:20:57",
+                "rating": 3.88,
+                "share": 19.56
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:13",
+                "rating": 1.99,
+                "share": 12.41
+            },
+            {
+                "rank": 3,
+                "name": "EYYVAH EYVAH 3 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "22:21:50",
+                "rating": 1.55,
+                "share": 8.03
+            },
+            {
+                "rank": 4,
+                "name": "BANKER BILO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:25",
+                "end_time": "21:44:01",
+                "rating": 1.53,
+                "share": 8.26
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:57",
+                "rating": 1.39,
+                "share": 8.71
+            },
+            {
+                "rank": 6,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:01:05",
+                "end_time": "18:20:31",
+                "rating": 1.27,
+                "share": 11.46
+            },
+            {
+                "rank": 7,
+                "name": "YUSUF YUSUF (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:06",
+                "end_time": "24:08:47",
+                "rating": 1.25,
+                "share": 6.45
+            },
+            {
+                "rank": 8,
+                "name": "YAPRAK DOKUMU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "09:29:53",
+                "end_time": "12:00:02",
+                "rating": 1.22,
+                "share": 13.85
+            },
+            {
+                "rank": 9,
+                "name": "BUZ DEVRI 5 BUYUK CARPISMA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "21:47:15",
+                "rating": 1.18,
+                "share": 6.38
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:46:14",
+                "end_time": "23:30:23",
+                "rating": 1.17,
+                "share": 5.46
+            }
+        ]
+    }
+}

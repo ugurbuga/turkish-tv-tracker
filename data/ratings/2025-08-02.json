@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-02",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:05:10",
+                "end_time": "24:23:22",
+                "rating": 3.07,
+                "share": 14.52
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:05",
+                "rating": 1.96,
+                "share": 11.73
+            },
+            {
+                "rank": 3,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:37:32",
+                "end_time": "21:17:38",
+                "rating": 1.43,
+                "share": 7.7
+            },
+            {
+                "rank": 4,
+                "name": "GECE VE GUNDUZ (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:20:50",
+                "end_time": "24:14:43",
+                "rating": 1.37,
+                "share": 6.78
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:59",
+                "rating": 1.34,
+                "share": 8.05
+            },
+            {
+                "rank": 6,
+                "name": "VANGUARD (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:15",
+                "end_time": "22:20:28",
+                "rating": 1.26,
+                "share": 6.14
+            },
+            {
+                "rank": 7,
+                "name": "MAHALLEDEN ARKADASLAR (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:15:18",
+                "end_time": "22:17:38",
+                "rating": 1.23,
+                "share": 5.85
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:10",
+                "end_time": "23:43:38",
+                "rating": 1.22,
+                "share": 5.75
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:58:23",
+                "rating": 1.2,
+                "share": 7.84
+            },
+            {
+                "rank": 10,
+                "name": "AILENIN SEREFI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:32",
+                "end_time": "22:37:27",
+                "rating": 1.12,
+                "share": 5.3
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:05:10",
+                "end_time": "24:23:22",
+                "rating": 2.81,
+                "share": 15.43
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:10",
+                "end_time": "23:43:38",
+                "rating": 1.19,
+                "share": 6.6
+            },
+            {
+                "rank": 3,
+                "name": "GECE VE GUNDUZ (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:20:50",
+                "end_time": "24:14:43",
+                "rating": 1.18,
+                "share": 6.48
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:05",
+                "rating": 1.13,
+                "share": 8.26
+            },
+            {
+                "rank": 5,
+                "name": "VANGUARD (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:15",
+                "end_time": "22:20:28",
+                "rating": 1.12,
+                "share": 6.59
+            },
+            {
+                "rank": 6,
+                "name": "SAVAS GEMISI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:48:44",
+                "end_time": "24:08:00",
+                "rating": 1.1,
+                "share": 5.99
+            },
+            {
+                "rank": 7,
+                "name": "PEMBE PANTER 2 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:12:13",
+                "end_time": "21:48:36",
+                "rating": 1.07,
+                "share": 6.32
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:59",
+                "rating": 0.91,
+                "share": 6.67
+            },
+            {
+                "rank": 9,
+                "name": "ELIF'IN DUSLERI SOYLESI ZAMANI",
+                "channel": "TRT COCUK",
+                "start_time": "15:56:33",
+                "end_time": "16:00:27",
+                "rating": 0.8,
+                "share": 7.54
+            },
+            {
+                "rank": 10,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:37:32",
+                "end_time": "21:17:38",
+                "rating": 0.75,
+                "share": 4.77
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:05:10",
+                "end_time": "24:23:22",
+                "rating": 3.75,
+                "share": 17.44
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:05",
+                "rating": 1.69,
+                "share": 10.27
+            },
+            {
+                "rank": 3,
+                "name": "GECE VE GUNDUZ (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:20:50",
+                "end_time": "24:14:43",
+                "rating": 1.53,
+                "share": 7.24
+            },
+            {
+                "rank": 4,
+                "name": "VANGUARD (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:15",
+                "end_time": "22:20:28",
+                "rating": 1.37,
+                "share": 6.79
+            },
+            {
+                "rank": 5,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:58:23",
+                "rating": 1.36,
+                "share": 9.0
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:59",
+                "rating": 1.34,
+                "share": 8.18
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:10",
+                "end_time": "23:43:38",
+                "rating": 1.28,
+                "share": 5.99
+            },
+            {
+                "rank": 8,
+                "name": "ORMAN COCUGU (Y.S) (TKR)",
+                "channel": "ATV",
+                "start_time": "11:46:26",
+                "end_time": "13:47:42",
+                "rating": 1.08,
+                "share": 8.78
+            },
+            {
+                "rank": 9,
+                "name": "BUYUK FELAKET (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:08",
+                "end_time": "22:19:18",
+                "rating": 1.0,
+                "share": 4.93
+            },
+            {
+                "rank": 10,
+                "name": "SAVAS GEMISI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:48:44",
+                "end_time": "24:08:00",
+                "rating": 0.99,
+                "share": 4.57
+            }
+        ]
+    }
+}

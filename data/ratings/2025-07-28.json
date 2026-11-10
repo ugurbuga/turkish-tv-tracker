@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:24",
+                "end_time": "24:19:07",
+                "rating": 2.73,
+                "share": 12.44
+            },
+            {
+                "rank": 2,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "20:58:22",
+                "end_time": "24:17:38",
+                "rating": 2.18,
+                "share": 9.55
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:14",
+                "rating": 2.11,
+                "share": 11.79
+            },
+            {
+                "rank": 4,
+                "name": "RECEP IVEDIK 3 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:49",
+                "end_time": "21:59:10",
+                "rating": 1.71,
+                "share": 7.62
+            },
+            {
+                "rank": 5,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "22:25:58",
+                "rating": 1.7,
+                "share": 7.55
+            },
+            {
+                "rank": 6,
+                "name": "MAVI BONCUK (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "21:42:52",
+                "rating": 1.52,
+                "share": 7.01
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:57",
+                "rating": 1.51,
+                "share": 8.43
+            },
+            {
+                "rank": 8,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:32:32",
+                "end_time": "21:15:23",
+                "rating": 1.43,
+                "share": 7.19
+            },
+            {
+                "rank": 9,
+                "name": "HABABAM SINIFI UC BUCUK (T.S)",
+                "channel": "NOW",
+                "start_time": "21:59:25",
+                "end_time": "23:49:39",
+                "rating": 1.39,
+                "share": 6.32
+            },
+            {
+                "rank": 10,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:30:50",
+                "end_time": "23:16:49",
+                "rating": 1.36,
+                "share": 5.78
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:24",
+                "end_time": "24:19:07",
+                "rating": 2.25,
+                "share": 11.73
+            },
+            {
+                "rank": 2,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "20:58:22",
+                "end_time": "24:17:38",
+                "rating": 1.76,
+                "share": 8.84
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:14",
+                "rating": 1.55,
+                "share": 10.07
+            },
+            {
+                "rank": 4,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "22:25:58",
+                "rating": 1.39,
+                "share": 7.27
+            },
+            {
+                "rank": 5,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:30:50",
+                "end_time": "23:16:49",
+                "rating": 1.02,
+                "share": 5.04
+            },
+            {
+                "rank": 6,
+                "name": "ARIF V 216 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:26:15",
+                "end_time": "24:47:24",
+                "rating": 0.97,
+                "share": 5.73
+            },
+            {
+                "rank": 7,
+                "name": "AILE SAADETI (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "20:58:22",
+                "rating": 0.92,
+                "share": 5.21
+            },
+            {
+                "rank": 8,
+                "name": "KASIRGA (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:19:44",
+                "end_time": "22:16:45",
+                "rating": 0.92,
+                "share": 4.68
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:34:32",
+                "end_time": "20:49:24",
+                "rating": 0.92,
+                "share": 5.69
+            },
+            {
+                "rank": 10,
+                "name": "HABABAM SINIFI UC BUCUK (T.S)",
+                "channel": "NOW",
+                "start_time": "21:59:25",
+                "end_time": "23:49:39",
+                "rating": 0.88,
+                "share": 4.52
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:24",
+                "end_time": "24:19:07",
+                "rating": 2.97,
+                "share": 14.31
+            },
+            {
+                "rank": 2,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "20:58:22",
+                "end_time": "24:17:38",
+                "rating": 2.11,
+                "share": 9.8
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:14",
+                "rating": 2.01,
+                "share": 12.39
+            },
+            {
+                "rank": 4,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "22:25:58",
+                "rating": 1.63,
+                "share": 7.86
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:57",
+                "rating": 1.39,
+                "share": 8.51
+            },
+            {
+                "rank": 6,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:31:18",
+                "end_time": "18:18:43",
+                "rating": 1.25,
+                "share": 10.12
+            },
+            {
+                "rank": 7,
+                "name": "RECEP IVEDIK 3 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:49",
+                "end_time": "21:59:10",
+                "rating": 1.13,
+                "share": 5.46
+            },
+            {
+                "rank": 8,
+                "name": "HABABAM SINIFI UC BUCUK (T.S)",
+                "channel": "NOW",
+                "start_time": "21:59:25",
+                "end_time": "23:49:39",
+                "rating": 1.13,
+                "share": 5.38
+            },
+            {
+                "rank": 9,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:30:50",
+                "end_time": "23:16:49",
+                "rating": 1.08,
+                "share": 4.97
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:27",
+                "rating": 1.07,
+                "share": 6.97
+            }
+        ]
+    }
+}

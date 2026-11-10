@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-29",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:36",
+                "end_time": "24:20:03",
+                "rating": 3.36,
+                "share": 15.68
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 2.18,
+                "share": 12.61
+            },
+            {
+                "rank": 3,
+                "name": "GULEN GOZLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:02:52",
+                "end_time": "21:57:32",
+                "rating": 1.73,
+                "share": 8.24
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "23:49:30",
+                "rating": 1.6,
+                "share": 7.4
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:42",
+                "rating": 1.57,
+                "share": 9.09
+            },
+            {
+                "rank": 6,
+                "name": "GOL KRALI (T.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:44:32",
+                "end_time": "23:30:47",
+                "rating": 1.49,
+                "share": 6.63
+            },
+            {
+                "rank": 7,
+                "name": "GOL KRALI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:15",
+                "end_time": "21:44:09",
+                "rating": 1.46,
+                "share": 6.99
+            },
+            {
+                "rank": 8,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:22",
+                "end_time": "23:40:43",
+                "rating": 1.44,
+                "share": 6.44
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:19",
+                "end_time": "20:00:03",
+                "rating": 1.39,
+                "share": 8.01
+            },
+            {
+                "rank": 10,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:22",
+                "end_time": "18:18:39",
+                "rating": 1.35,
+                "share": 9.46
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:36",
+                "end_time": "24:20:03",
+                "rating": 3.24,
+                "share": 17.18
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 1.69,
+                "share": 11.2
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "23:49:30",
+                "rating": 1.64,
+                "share": 8.68
+            },
+            {
+                "rank": 4,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:22",
+                "end_time": "23:40:43",
+                "rating": 1.55,
+                "share": 7.91
+            },
+            {
+                "rank": 5,
+                "name": "GULEN GOZLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:02:52",
+                "end_time": "21:57:32",
+                "rating": 1.34,
+                "share": 7.7
+            },
+            {
+                "rank": 6,
+                "name": "GOL KRALI (T.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:44:32",
+                "end_time": "23:30:47",
+                "rating": 1.17,
+                "share": 5.77
+            },
+            {
+                "rank": 7,
+                "name": "YETENEK SIZSINIZ OZET",
+                "channel": "NOW",
+                "start_time": "20:00:09",
+                "end_time": "20:58:17",
+                "rating": 1.17,
+                "share": 6.93
+            },
+            {
+                "rank": 8,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:22",
+                "end_time": "18:18:39",
+                "rating": 1.06,
+                "share": 8.7
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:42",
+                "rating": 1.05,
+                "share": 6.99
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:19",
+                "end_time": "20:00:03",
+                "rating": 1.02,
+                "share": 6.76
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:36",
+                "end_time": "24:20:03",
+                "rating": 4.11,
+                "share": 18.99
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 1.96,
+                "share": 11.94
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "23:49:30",
+                "rating": 1.87,
+                "share": 8.64
+            },
+            {
+                "rank": 4,
+                "name": "GULEN GOZLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:02:52",
+                "end_time": "21:57:32",
+                "rating": 1.58,
+                "share": 7.65
+            },
+            {
+                "rank": 5,
+                "name": "GOL KRALI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:15",
+                "end_time": "21:44:09",
+                "rating": 1.39,
+                "share": 6.84
+            },
+            {
+                "rank": 6,
+                "name": "GOL KRALI (T.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:44:32",
+                "end_time": "23:30:47",
+                "rating": 1.39,
+                "share": 6.01
+            },
+            {
+                "rank": 7,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:22",
+                "end_time": "18:18:39",
+                "rating": 1.33,
+                "share": 10.99
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:42",
+                "rating": 1.32,
+                "share": 8.13
+            },
+            {
+                "rank": 9,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:22",
+                "end_time": "23:40:43",
+                "rating": 1.3,
+                "share": 5.74
+            },
+            {
+                "rank": 10,
+                "name": "OZEL EKIP 2 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:06",
+                "end_time": "21:58:47",
+                "rating": 1.29,
+                "share": 6.21
+            }
+        ]
+    }
+}

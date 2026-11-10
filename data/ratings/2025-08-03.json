@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:12",
+                "end_time": "24:17:46",
+                "rating": 2.96,
+                "share": 13.96
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:47:19",
+                "end_time": "24:18:19",
+                "rating": 1.91,
+                "share": 8.93
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:05",
+                "rating": 1.78,
+                "share": 11.33
+            },
+            {
+                "rank": 4,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:26:28",
+                "end_time": "22:14:13",
+                "rating": 1.76,
+                "share": 8.48
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:49",
+                "rating": 1.47,
+                "share": 9.35
+            },
+            {
+                "rank": 6,
+                "name": "HOBBIT 2 SMAUG'UN CORAK TOPRAKLARI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:58",
+                "end_time": "22:54:51",
+                "rating": 1.4,
+                "share": 6.63
+            },
+            {
+                "rank": 7,
+                "name": "DEDEMIN FISI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "22:18:42",
+                "rating": 1.3,
+                "share": 6.44
+            },
+            {
+                "rank": 8,
+                "name": "TURKLER CILDIRMIS OLMALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:18:58",
+                "end_time": "24:11:52",
+                "rating": 1.2,
+                "share": 5.89
+            },
+            {
+                "rank": 9,
+                "name": "ANAMIZ VAR 2 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:03",
+                "end_time": "22:24:40",
+                "rating": 1.17,
+                "share": 5.66
+            },
+            {
+                "rank": 10,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:42:31",
+                "end_time": "21:16:59",
+                "rating": 1.12,
+                "share": 6.19
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:12",
+                "end_time": "24:17:46",
+                "rating": 2.91,
+                "share": 13.86
+            },
+            {
+                "rank": 2,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:26:28",
+                "end_time": "22:14:13",
+                "rating": 2.06,
+                "share": 10.58
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:05",
+                "rating": 1.73,
+                "share": 11.32
+            },
+            {
+                "rank": 4,
+                "name": "HOBBIT 2 SMAUG'UN CORAK TOPRAKLARI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:58",
+                "end_time": "22:54:51",
+                "rating": 1.61,
+                "share": 7.88
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:47:19",
+                "end_time": "24:18:19",
+                "rating": 1.55,
+                "share": 7.35
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:15:27",
+                "end_time": "23:52:06",
+                "rating": 1.48,
+                "share": 6.67
+            },
+            {
+                "rank": 7,
+                "name": "TURKLER CILDIRMIS OLMALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:18:58",
+                "end_time": "24:11:52",
+                "rating": 1.19,
+                "share": 5.76
+            },
+            {
+                "rank": 8,
+                "name": "DEDEMIN FISI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "22:18:42",
+                "rating": 1.16,
+                "share": 5.96
+            },
+            {
+                "rank": 9,
+                "name": "ANAMIZ VAR 2 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:03",
+                "end_time": "22:24:40",
+                "rating": 1.08,
+                "share": 5.51
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:57",
+                "rating": 1.08,
+                "share": 7.05
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:12",
+                "end_time": "24:17:46",
+                "rating": 3.4,
+                "share": 15.32
+            },
+            {
+                "rank": 2,
+                "name": "HOBBIT 2 SMAUG'UN CORAK TOPRAKLARI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:58",
+                "end_time": "22:54:51",
+                "rating": 1.86,
+                "share": 8.57
+            },
+            {
+                "rank": 3,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:26:28",
+                "end_time": "22:14:13",
+                "rating": 1.69,
+                "share": 8.09
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:47:19",
+                "end_time": "24:18:19",
+                "rating": 1.62,
+                "share": 7.24
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:05",
+                "rating": 1.46,
+                "share": 8.88
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:49",
+                "rating": 1.41,
+                "share": 8.59
+            },
+            {
+                "rank": 7,
+                "name": "TURKLER CILDIRMIS OLMALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:18:58",
+                "end_time": "24:11:52",
+                "rating": 1.36,
+                "share": 6.18
+            },
+            {
+                "rank": 8,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:58:23",
+                "rating": 1.29,
+                "share": 8.89
+            },
+            {
+                "rank": 9,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:15:27",
+                "end_time": "23:52:06",
+                "rating": 1.26,
+                "share": 5.43
+            },
+            {
+                "rank": 10,
+                "name": "DEDEMIN FISI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "22:18:42",
+                "rating": 1.22,
+                "share": 5.92
+            }
+        ]
+    }
+}
