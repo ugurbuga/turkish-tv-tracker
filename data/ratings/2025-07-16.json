@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-16",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:07",
+                "end_time": "24:19:56",
+                "rating": 3.44,
+                "share": 15.35
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:36",
+                "rating": 2.38,
+                "share": 13.19
+            },
+            {
+                "rank": 3,
+                "name": "CASH OUT 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "22:17:13",
+                "rating": 1.68,
+                "share": 7.49
+            },
+            {
+                "rank": 4,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:13",
+                "end_time": "23:36:56",
+                "rating": 1.68,
+                "share": 7.01
+            },
+            {
+                "rank": 5,
+                "name": "SABANIYE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:17:59",
+                "end_time": "24:06:52",
+                "rating": 1.6,
+                "share": 7.24
+            },
+            {
+                "rank": 6,
+                "name": "HUKUMET KADIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "22:17:43",
+                "rating": 1.53,
+                "share": 6.78
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:49",
+                "rating": 1.3,
+                "share": 7.25
+            },
+            {
+                "rank": 8,
+                "name": "YETENEK SIZSINIZ OZET",
+                "channel": "NOW",
+                "start_time": "19:59:41",
+                "end_time": "20:58:08",
+                "rating": 1.26,
+                "share": 5.93
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:01",
+                "rating": 1.23,
+                "share": 6.84
+            },
+            {
+                "rank": 10,
+                "name": "YOL ARKADASIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:20",
+                "end_time": "22:10:04",
+                "rating": 1.13,
+                "share": 4.98
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:07",
+                "end_time": "24:19:56",
+                "rating": 3.64,
+                "share": 17.73
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:36",
+                "rating": 2.38,
+                "share": 14.41
+            },
+            {
+                "rank": 3,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:13",
+                "end_time": "23:36:56",
+                "rating": 1.18,
+                "share": 5.37
+            },
+            {
+                "rank": 4,
+                "name": "SABANIYE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:17:59",
+                "end_time": "24:06:52",
+                "rating": 1.14,
+                "share": 5.45
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:01",
+                "rating": 1.11,
+                "share": 6.69
+            },
+            {
+                "rank": 6,
+                "name": "YETENEK SIZSINIZ OZET",
+                "channel": "NOW",
+                "start_time": "19:59:41",
+                "end_time": "20:58:08",
+                "rating": 1.09,
+                "share": 5.65
+            },
+            {
+                "rank": 7,
+                "name": "HUKUMET KADIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "22:17:43",
+                "rating": 1.08,
+                "share": 5.34
+            },
+            {
+                "rank": 8,
+                "name": "IDDIALARIN AKSINE",
+                "channel": "TRT 1",
+                "start_time": "19:56:01",
+                "end_time": "19:59:50",
+                "rating": 1.08,
+                "share": 5.8
+            },
+            {
+                "rank": 9,
+                "name": "CASH OUT 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "22:17:13",
+                "rating": 1.01,
+                "share": 5.02
+            },
+            {
+                "rank": 10,
+                "name": "GONUL DAGI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "19:59:58",
+                "end_time": "22:44:43",
+                "rating": 0.95,
+                "share": 4.53
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:07",
+                "end_time": "24:19:56",
+                "rating": 4.21,
+                "share": 18.4
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:36",
+                "rating": 2.74,
+                "share": 15.39
+            },
+            {
+                "rank": 3,
+                "name": "CASH OUT 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "22:17:13",
+                "rating": 1.85,
+                "share": 8.32
+            },
+            {
+                "rank": 4,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:13",
+                "end_time": "23:36:56",
+                "rating": 1.57,
+                "share": 6.4
+            },
+            {
+                "rank": 5,
+                "name": "YETENEK SIZSINIZ OZET",
+                "channel": "NOW",
+                "start_time": "19:59:41",
+                "end_time": "20:58:08",
+                "rating": 1.41,
+                "share": 6.79
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:28:34",
+                "end_time": "20:59:07",
+                "rating": 1.33,
+                "share": 7.31
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:49",
+                "rating": 1.33,
+                "share": 7.48
+            },
+            {
+                "rank": 8,
+                "name": "HUKUMET KADIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "22:17:43",
+                "rating": 1.32,
+                "share": 5.93
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:01",
+                "rating": 1.26,
+                "share": 7.06
+            },
+            {
+                "rank": 10,
+                "name": "YAPRAK DOKUMU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "09:29:27",
+                "end_time": "12:00:02",
+                "rating": 1.26,
+                "share": 14.67
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-21",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:08:29",
+                "end_time": "24:22:23",
+                "rating": 3.63,
+                "share": 16.14
+            },
+            {
+                "rank": 2,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "21:00:39",
+                "end_time": "24:16:23",
+                "rating": 2.18,
+                "share": 9.35
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.14,
+                "share": 11.93
+            },
+            {
+                "rank": 4,
+                "name": "DUGUN DERNEK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "22:20:17",
+                "rating": 1.66,
+                "share": 7.44
+            },
+            {
+                "rank": 5,
+                "name": "MUJDEMI ISTERIM (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:20:33",
+                "end_time": "24:20:46",
+                "rating": 1.61,
+                "share": 7.69
+            },
+            {
+                "rank": 6,
+                "name": "RECEP IVEDIK 2 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:55",
+                "end_time": "22:22:54",
+                "rating": 1.53,
+                "share": 6.7
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:56",
+                "rating": 1.42,
+                "share": 7.97
+            },
+            {
+                "rank": 8,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:30:46",
+                "end_time": "23:15:55",
+                "rating": 1.31,
+                "share": 5.59
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:24",
+                "end_time": "19:59:57",
+                "rating": 1.2,
+                "share": 6.69
+            },
+            {
+                "rank": 10,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:35:17",
+                "end_time": "21:17:58",
+                "rating": 1.16,
+                "share": 5.83
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:08:29",
+                "end_time": "24:22:23",
+                "rating": 3.36,
+                "share": 16.9
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 1.72,
+                "share": 11.14
+            },
+            {
+                "rank": 3,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "21:00:39",
+                "end_time": "24:16:23",
+                "rating": 1.44,
+                "share": 7.03
+            },
+            {
+                "rank": 4,
+                "name": "MUJDEMI ISTERIM (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:20:33",
+                "end_time": "24:20:46",
+                "rating": 1.38,
+                "share": 7.3
+            },
+            {
+                "rank": 5,
+                "name": "DUGUN DERNEK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "22:20:17",
+                "rating": 1.26,
+                "share": 6.75
+            },
+            {
+                "rank": 6,
+                "name": "BABAMIN GOLGESI",
+                "channel": "TRT COCUK",
+                "start_time": "22:09:06",
+                "end_time": "22:29:11",
+                "rating": 1.11,
+                "share": 5.17
+            },
+            {
+                "rank": 7,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:18",
+                "rating": 1.11,
+                "share": 8.1
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:38:42",
+                "end_time": "21:08:29",
+                "rating": 0.99,
+                "share": 6.2
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:24",
+                "end_time": "19:59:57",
+                "rating": 0.93,
+                "share": 6.0
+            },
+            {
+                "rank": 10,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:15",
+                "end_time": "18:21:07",
+                "rating": 0.89,
+                "share": 8.23
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:08:29",
+                "end_time": "24:22:23",
+                "rating": 4.63,
+                "share": 20.3
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.17,
+                "share": 12.52
+            },
+            {
+                "rank": 3,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "21:00:39",
+                "end_time": "24:16:23",
+                "rating": 1.89,
+                "share": 8.01
+            },
+            {
+                "rank": 4,
+                "name": "MUJDEMI ISTERIM (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:20:33",
+                "end_time": "24:20:46",
+                "rating": 1.76,
+                "share": 8.25
+            },
+            {
+                "rank": 5,
+                "name": "DUGUN DERNEK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "22:20:17",
+                "rating": 1.63,
+                "share": 7.31
+            },
+            {
+                "rank": 6,
+                "name": "RECEP IVEDIK 2 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:55",
+                "end_time": "22:22:54",
+                "rating": 1.43,
+                "share": 6.29
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:56",
+                "rating": 1.42,
+                "share": 8.27
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:38:42",
+                "end_time": "21:08:29",
+                "rating": 1.32,
+                "share": 7.09
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:15",
+                "end_time": "18:21:07",
+                "rating": 1.22,
+                "share": 10.35
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:24",
+                "end_time": "19:59:57",
+                "rating": 1.16,
+                "share": 6.69
+            }
+        ]
+    }
+}

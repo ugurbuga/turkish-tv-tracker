@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-23",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:01",
+                "end_time": "24:16:53",
+                "rating": 3.21,
+                "share": 14.71
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:59",
+                "rating": 2.23,
+                "share": 12.84
+            },
+            {
+                "rank": 3,
+                "name": "HUKUMET KADIN 2 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "22:19:01",
+                "rating": 1.74,
+                "share": 8.09
+            },
+            {
+                "rank": 4,
+                "name": "ESKIYA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:19:17",
+                "end_time": "24:35:38",
+                "rating": 1.59,
+                "share": 7.96
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:57",
+                "rating": 1.44,
+                "share": 8.36
+            },
+            {
+                "rank": 6,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:49:35",
+                "end_time": "23:24:58",
+                "rating": 1.42,
+                "share": 6.16
+            },
+            {
+                "rank": 7,
+                "name": "CEHENNEM MELEKLERI 4 (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:35",
+                "end_time": "21:52:46",
+                "rating": 1.42,
+                "share": 6.62
+            },
+            {
+                "rank": 8,
+                "name": "UNCHARTED KAYIP MIRAS (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:23:25",
+                "rating": 1.37,
+                "share": 6.33
+            },
+            {
+                "rank": 9,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:36:09",
+                "end_time": "21:17:37",
+                "rating": 1.33,
+                "share": 6.76
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:21",
+                "end_time": "19:59:58",
+                "rating": 1.27,
+                "share": 7.34
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:01",
+                "end_time": "24:16:53",
+                "rating": 2.83,
+                "share": 13.19
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:59",
+                "rating": 2.29,
+                "share": 14.95
+            },
+            {
+                "rank": 3,
+                "name": "UNCHARTED KAYIP MIRAS (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:23:25",
+                "rating": 1.37,
+                "share": 6.87
+            },
+            {
+                "rank": 4,
+                "name": "HUKUMET KADIN 2 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "22:19:01",
+                "rating": 1.26,
+                "share": 6.32
+            },
+            {
+                "rank": 5,
+                "name": "ESKIYA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:19:17",
+                "end_time": "24:35:38",
+                "rating": 1.22,
+                "share": 6.11
+            },
+            {
+                "rank": 6,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:49:35",
+                "end_time": "23:24:58",
+                "rating": 1.12,
+                "share": 5.07
+            },
+            {
+                "rank": 7,
+                "name": "YETENEK SIZSINIZ OZET",
+                "channel": "NOW",
+                "start_time": "20:00:04",
+                "end_time": "20:49:30",
+                "rating": 0.97,
+                "share": 5.41
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:33:55",
+                "end_time": "21:00:01",
+                "rating": 0.95,
+                "share": 5.92
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:00:33",
+                "end_time": "18:13:57",
+                "rating": 0.94,
+                "share": 8.5
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:21",
+                "end_time": "19:59:58",
+                "rating": 0.93,
+                "share": 6.03
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:01",
+                "end_time": "24:16:53",
+                "rating": 3.89,
+                "share": 17.08
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "19:59:59",
+                "rating": 2.49,
+                "share": 14.71
+            },
+            {
+                "rank": 3,
+                "name": "UNCHARTED KAYIP MIRAS (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:23:25",
+                "rating": 1.75,
+                "share": 8.08
+            },
+            {
+                "rank": 4,
+                "name": "ESKIYA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:19:17",
+                "end_time": "24:35:38",
+                "rating": 1.49,
+                "share": 7.04
+            },
+            {
+                "rank": 5,
+                "name": "HUKUMET KADIN 2 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "22:19:01",
+                "rating": 1.44,
+                "share": 6.66
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:33:55",
+                "end_time": "21:00:01",
+                "rating": 1.32,
+                "share": 7.45
+            },
+            {
+                "rank": 7,
+                "name": "CEHENNEM MELEKLERI 4 (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:35",
+                "end_time": "21:52:46",
+                "rating": 1.32,
+                "share": 6.19
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:57",
+                "rating": 1.24,
+                "share": 7.39
+            },
+            {
+                "rank": 9,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:49:35",
+                "end_time": "23:24:58",
+                "rating": 1.22,
+                "share": 5.13
+            },
+            {
+                "rank": 10,
+                "name": "YETENEK SIZSINIZ OZET",
+                "channel": "NOW",
+                "start_time": "20:00:04",
+                "end_time": "20:49:30",
+                "rating": 1.11,
+                "share": 5.62
+            }
+        ]
+    }
+}
