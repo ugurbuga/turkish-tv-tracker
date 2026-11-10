@@ -3,36 +3,43 @@
         {
             "id": "atv",
             "name": "atv",
+            "logo": "assets/channel-logos/atv.png",
             "liveUrl": "https://www.atv.com.tr/canli-yayin"
         },
         {
             "id": "now",
             "name": "NOW",
+            "logo": "assets/channel-logos/now.png",
             "liveUrl": "https://www.nowtv.com.tr/canli-yayin"
         },
         {
             "id": "kanal-d",
             "name": "Kanal D",
+            "logo": "assets/channel-logos/kanal-d.png",
             "liveUrl": "https://www.kanald.com.tr/canli-yayin"
         },
         {
             "id": "show-tv",
             "name": "Show TV",
+            "logo": "assets/channel-logos/show-tv.png",
             "liveUrl": "https://www.showtv.com.tr/canli-yayin"
         },
         {
             "id": "star-tv",
             "name": "Star TV",
+            "logo": "assets/channel-logos/star-tv.png",
             "liveUrl": "https://www.startv.com.tr/canli-yayin"
         },
         {
             "id": "trt-1",
             "name": "TRT 1",
+            "logo": "assets/channel-logos/trt-1.png",
             "liveUrl": "https://www.tabii.com/tr/watch/live/trt1?trackId=150002"
         },
         {
             "id": "tv8",
             "name": "TV8",
+            "logo": "assets/channel-logos/tv8.png",
             "liveUrl": "https://www.tv8.com.tr/canli-yayin"
         }
     ]
