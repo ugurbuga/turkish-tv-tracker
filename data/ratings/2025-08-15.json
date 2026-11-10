@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:02:39",
+                "end_time": "24:40:11",
+                "rating": 2.81,
+                "share": 13.06
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 2.16,
+                "share": 12.49
+            },
+            {
+                "rank": 3,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:02:20",
+                "end_time": "18:15:45",
+                "rating": 1.5,
+                "share": 10.88
+            },
+            {
+                "rank": 4,
+                "name": "DAVACI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:23",
+                "end_time": "23:50:00",
+                "rating": 1.48,
+                "share": 6.55
+            },
+            {
+                "rank": 5,
+                "name": "HIZLI VE OFKELI 7 (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "22:45:25",
+                "rating": 1.46,
+                "share": 6.31
+            },
+            {
+                "rank": 6,
+                "name": "SEKERPARE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:07",
+                "end_time": "22:10:58",
+                "rating": 1.45,
+                "share": 6.31
+            },
+            {
+                "rank": 7,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:41:35",
+                "end_time": "21:18:24",
+                "rating": 1.41,
+                "share": 6.69
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:50",
+                "rating": 1.33,
+                "share": 7.72
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "20:00:10",
+                "rating": 1.32,
+                "share": 7.53
+            },
+            {
+                "rank": 10,
+                "name": "ARTIK OLUVERSIN GARI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:00",
+                "end_time": "23:15:33",
+                "rating": 1.25,
+                "share": 5.35
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:02:39",
+                "end_time": "24:40:11",
+                "rating": 3.45,
+                "share": 16.5
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:41:43",
+                "end_time": "21:02:39",
+                "rating": 1.91,
+                "share": 11.39
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 1.53,
+                "share": 10.0
+            },
+            {
+                "rank": 4,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:02:20",
+                "end_time": "18:15:45",
+                "rating": 1.32,
+                "share": 11.71
+            },
+            {
+                "rank": 5,
+                "name": "DAVACI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:23",
+                "end_time": "23:50:00",
+                "rating": 1.32,
+                "share": 5.87
+            },
+            {
+                "rank": 6,
+                "name": "OLANLAR OLDU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:25",
+                "end_time": "22:22:07",
+                "rating": 1.22,
+                "share": 5.76
+            },
+            {
+                "rank": 7,
+                "name": "EJDERHANI NASIL EGITIRSIN 2 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:08",
+                "end_time": "22:02:43",
+                "rating": 1.13,
+                "share": 5.43
+            },
+            {
+                "rank": 8,
+                "name": "HIZLI VE OFKELI 7 (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "22:45:25",
+                "rating": 0.98,
+                "share": 4.68
+            },
+            {
+                "rank": 9,
+                "name": "ELIF'IN DUSLERI SOYLESI ZAMANI",
+                "channel": "TRT COCUK",
+                "start_time": "12:17:10",
+                "end_time": "12:20:34",
+                "rating": 0.96,
+                "share": 8.94
+            },
+            {
+                "rank": 10,
+                "name": "DURDURULAMAZ (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:24",
+                "end_time": "21:48:57",
+                "rating": 0.93,
+                "share": 4.53
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:02:39",
+                "end_time": "24:40:11",
+                "rating": 3.73,
+                "share": 15.96
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 2.05,
+                "share": 11.71
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:41:43",
+                "end_time": "21:02:39",
+                "rating": 1.91,
+                "share": 9.99
+            },
+            {
+                "rank": 4,
+                "name": "HIZLI VE OFKELI 7 (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "22:45:25",
+                "rating": 1.56,
+                "share": 6.56
+            },
+            {
+                "rank": 5,
+                "name": "DAVACI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:23",
+                "end_time": "23:50:00",
+                "rating": 1.52,
+                "share": 6.11
+            },
+            {
+                "rank": 6,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:02:20",
+                "end_time": "18:15:45",
+                "rating": 1.5,
+                "share": 12.79
+            },
+            {
+                "rank": 7,
+                "name": "OLANLAR OLDU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:25",
+                "end_time": "22:22:07",
+                "rating": 1.39,
+                "share": 5.88
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:50",
+                "rating": 1.29,
+                "share": 7.37
+            },
+            {
+                "rank": 9,
+                "name": "EJDERHANI NASIL EGITIRSIN 2 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:08",
+                "end_time": "22:02:43",
+                "rating": 1.11,
+                "share": 4.74
+            },
+            {
+                "rank": 10,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:41:35",
+                "end_time": "21:18:24",
+                "rating": 1.03,
+                "share": 4.92
+            }
+        ]
+    }
+}

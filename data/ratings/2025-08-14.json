@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-14",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:46",
+                "end_time": "24:24:59",
+                "rating": 2.91,
+                "share": 13.32
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 2.27,
+                "share": 12.6
+            },
+            {
+                "rank": 3,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:02:03",
+                "end_time": "18:14:57",
+                "rating": 1.59,
+                "share": 11.33
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:48:14",
+                "end_time": "24:17:04",
+                "rating": 1.42,
+                "share": 6.16
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:08",
+                "rating": 1.42,
+                "share": 7.84
+            },
+            {
+                "rank": 6,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:35:11",
+                "end_time": "21:20:01",
+                "rating": 1.36,
+                "share": 6.49
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "23:50:43",
+                "rating": 1.32,
+                "share": 5.76
+            },
+            {
+                "rank": 8,
+                "name": "TATLI DILLIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:30",
+                "end_time": "22:08:08",
+                "rating": 1.31,
+                "share": 5.73
+            },
+            {
+                "rank": 9,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:57",
+                "end_time": "21:53:04",
+                "rating": 1.29,
+                "share": 5.68
+            },
+            {
+                "rank": 10,
+                "name": "UZAK SEHIR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "12:59:47",
+                "end_time": "16:00:41",
+                "rating": 1.29,
+                "share": 9.84
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:46",
+                "end_time": "24:24:59",
+                "rating": 3.22,
+                "share": 15.65
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 1.93,
+                "share": 13.52
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "23:50:43",
+                "rating": 1.55,
+                "share": 7.55
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:48:14",
+                "end_time": "24:17:04",
+                "rating": 1.42,
+                "share": 6.62
+            },
+            {
+                "rank": 5,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:02:03",
+                "end_time": "18:14:57",
+                "rating": 1.1,
+                "share": 9.4
+            },
+            {
+                "rank": 6,
+                "name": "RAFADAN TAYFA",
+                "channel": "TRT COCUK",
+                "start_time": "15:29:02",
+                "end_time": "15:54:00",
+                "rating": 1.04,
+                "share": 9.66
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:38:27",
+                "end_time": "20:50:46",
+                "rating": 1.03,
+                "share": 6.91
+            },
+            {
+                "rank": 8,
+                "name": "ASLAN'IN DENEY ODASI",
+                "channel": "TRT COCUK",
+                "start_time": "15:54:48",
+                "end_time": "15:59:07",
+                "rating": 0.98,
+                "share": 9.21
+            },
+            {
+                "rank": 9,
+                "name": "TATLI DILLIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:30",
+                "end_time": "22:08:08",
+                "rating": 0.89,
+                "share": 4.6
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:57",
+                "end_time": "21:53:04",
+                "rating": 0.85,
+                "share": 4.45
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:46",
+                "end_time": "24:24:59",
+                "rating": 3.54,
+                "share": 15.9
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 2.1,
+                "share": 12.27
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "23:50:43",
+                "rating": 1.54,
+                "share": 6.68
+            },
+            {
+                "rank": 4,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:02:03",
+                "end_time": "18:14:57",
+                "rating": 1.44,
+                "share": 12.18
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:48:14",
+                "end_time": "24:17:04",
+                "rating": 1.35,
+                "share": 5.75
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:57",
+                "end_time": "21:53:04",
+                "rating": 1.31,
+                "share": 5.8
+            },
+            {
+                "rank": 7,
+                "name": "TATLI DILLIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:30",
+                "end_time": "22:08:08",
+                "rating": 1.28,
+                "share": 5.63
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "20:00:06",
+                "rating": 1.25,
+                "share": 7.32
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:08",
+                "rating": 1.23,
+                "share": 7.17
+            },
+            {
+                "rank": 10,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:35:11",
+                "end_time": "21:20:01",
+                "rating": 1.07,
+                "share": 5.23
+            }
+        ]
+    }
+}

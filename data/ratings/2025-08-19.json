@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-19",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:36",
+                "end_time": "24:23:38",
+                "rating": 3.44,
+                "share": 15.53
+            },
+            {
+                "rank": 2,
+                "name": "DELI DELI KUPELI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:41",
+                "end_time": "22:16:14",
+                "rating": 2.5,
+                "share": 10.63
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:05",
+                "rating": 1.98,
+                "share": 11.13
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:59",
+                "rating": 1.57,
+                "share": 8.82
+            },
+            {
+                "rank": 5,
+                "name": "DELI DELI KUPELI (T.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:16:38",
+                "end_time": "24:01:38",
+                "rating": 1.49,
+                "share": 6.75
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:32",
+                "end_time": "20:00:07",
+                "rating": 1.46,
+                "share": 8.11
+            },
+            {
+                "rank": 7,
+                "name": "RANGERS-CLUB BRUGGE UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:35",
+                "end_time": "24:07:28",
+                "rating": 1.37,
+                "share": 6.22
+            },
+            {
+                "rank": 8,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:41:52",
+                "end_time": "21:19:09",
+                "rating": 1.37,
+                "share": 6.4
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:00:19",
+                "end_time": "18:13:54",
+                "rating": 1.35,
+                "share": 9.81
+            },
+            {
+                "rank": 10,
+                "name": "UCUS PLANI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:11",
+                "end_time": "21:39:09",
+                "rating": 1.3,
+                "share": 5.58
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:36",
+                "end_time": "24:23:38",
+                "rating": 3.76,
+                "share": 17.16
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:05",
+                "rating": 1.89,
+                "share": 11.69
+            },
+            {
+                "rank": 3,
+                "name": "RANGERS-CLUB BRUGGE UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:35",
+                "end_time": "24:07:28",
+                "rating": 1.85,
+                "share": 8.25
+            },
+            {
+                "rank": 4,
+                "name": "DELI DELI KUPELI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:41",
+                "end_time": "22:16:14",
+                "rating": 1.82,
+                "share": 8.23
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:10",
+                "end_time": "23:50:59",
+                "rating": 1.67,
+                "share": 7.35
+            },
+            {
+                "rank": 6,
+                "name": "UCUS PLANI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:11",
+                "end_time": "21:39:09",
+                "rating": 1.54,
+                "share": 7.04
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:44:23",
+                "end_time": "20:50:36",
+                "rating": 1.4,
+                "share": 7.88
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:59",
+                "rating": 1.37,
+                "share": 8.49
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:00:19",
+                "end_time": "18:13:54",
+                "rating": 1.31,
+                "share": 11.46
+            },
+            {
+                "rank": 10,
+                "name": "UZAK SEHIR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "12:59:21",
+                "end_time": "15:58:56",
+                "rating": 1.11,
+                "share": 10.61
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:36",
+                "end_time": "24:23:38",
+                "rating": 4.28,
+                "share": 18.5
+            },
+            {
+                "rank": 2,
+                "name": "DELI DELI KUPELI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:41",
+                "end_time": "22:16:14",
+                "rating": 2.31,
+                "share": 9.78
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:05",
+                "rating": 2.11,
+                "share": 11.98
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:59",
+                "rating": 1.82,
+                "share": 10.3
+            },
+            {
+                "rank": 5,
+                "name": "RANGERS-CLUB BRUGGE UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:35",
+                "end_time": "24:07:28",
+                "rating": 1.73,
+                "share": 7.33
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:10",
+                "end_time": "23:50:59",
+                "rating": 1.7,
+                "share": 7.08
+            },
+            {
+                "rank": 7,
+                "name": "UCUS PLANI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:11",
+                "end_time": "21:39:09",
+                "rating": 1.68,
+                "share": 7.21
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:32",
+                "end_time": "20:00:07",
+                "rating": 1.49,
+                "share": 8.37
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:00:19",
+                "end_time": "18:13:54",
+                "rating": 1.46,
+                "share": 12.18
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:23",
+                "rating": 1.41,
+                "share": 9.41
+            }
+        ]
+    }
+}

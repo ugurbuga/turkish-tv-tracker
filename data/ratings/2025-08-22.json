@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-22",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:49",
+                "end_time": "24:35:09",
+                "rating": 3.2,
+                "share": 15.26
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:53",
+                "rating": 1.92,
+                "share": 10.92
+            },
+            {
+                "rank": 3,
+                "name": "TOSUN PASA (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:41",
+                "end_time": "21:56:11",
+                "rating": 1.91,
+                "share": 8.55
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:34",
+                "rating": 1.73,
+                "share": 9.87
+            },
+            {
+                "rank": 5,
+                "name": "TASIYICI 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "21:44:10",
+                "rating": 1.69,
+                "share": 7.66
+            },
+            {
+                "rank": 6,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:00:33",
+                "end_time": "18:14:05",
+                "rating": 1.47,
+                "share": 10.65
+            },
+            {
+                "rank": 7,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:39:57",
+                "end_time": "21:17:50",
+                "rating": 1.44,
+                "share": 6.81
+            },
+            {
+                "rank": 8,
+                "name": "ATLA GEL SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:31:44",
+                "end_time": "24:22:38",
+                "rating": 1.41,
+                "share": 7.01
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:25",
+                "end_time": "19:59:59",
+                "rating": 1.38,
+                "share": 7.78
+            },
+            {
+                "rank": 10,
+                "name": "YOL ARKADASIM 2 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:45",
+                "end_time": "22:31:28",
+                "rating": 1.35,
+                "share": 6.01
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:49",
+                "end_time": "24:35:09",
+                "rating": 3.73,
+                "share": 18.0
+            },
+            {
+                "rank": 2,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:48",
+                "end_time": "21:51:14",
+                "rating": 1.67,
+                "share": 9.01
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:53",
+                "rating": 1.62,
+                "share": 11.58
+            },
+            {
+                "rank": 4,
+                "name": "TASIYICI 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "21:44:10",
+                "rating": 1.35,
+                "share": 7.41
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:25",
+                "end_time": "19:59:59",
+                "rating": 1.33,
+                "share": 9.53
+            },
+            {
+                "rank": 6,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:19",
+                "rating": 1.33,
+                "share": 9.81
+            },
+            {
+                "rank": 7,
+                "name": "MEDUSA DARBESI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "21:51:37",
+                "end_time": "23:56:02",
+                "rating": 1.26,
+                "share": 5.73
+            },
+            {
+                "rank": 8,
+                "name": "YOL ARKADASIM 2 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:45",
+                "end_time": "22:31:28",
+                "rating": 1.12,
+                "share": 5.72
+            },
+            {
+                "rank": 9,
+                "name": "CREED 2 EFSANE YUKSELIYOR (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:20",
+                "end_time": "22:42:02",
+                "rating": 1.11,
+                "share": 5.45
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:34",
+                "rating": 1.1,
+                "share": 7.88
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:49",
+                "end_time": "24:35:09",
+                "rating": 3.97,
+                "share": 18.41
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:53",
+                "rating": 1.8,
+                "share": 11.28
+            },
+            {
+                "rank": 3,
+                "name": "TASIYICI 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "21:44:10",
+                "rating": 1.57,
+                "share": 7.58
+            },
+            {
+                "rank": 4,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:48",
+                "end_time": "21:51:14",
+                "rating": 1.54,
+                "share": 7.25
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:34",
+                "rating": 1.44,
+                "share": 9.08
+            },
+            {
+                "rank": 6,
+                "name": "TASIYICI 2 (Y.S) (TKR)",
+                "channel": "ATV",
+                "start_time": "21:44:32",
+                "end_time": "23:30:52",
+                "rating": 1.27,
+                "share": 5.3
+            },
+            {
+                "rank": 7,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:19",
+                "rating": 1.26,
+                "share": 9.34
+            },
+            {
+                "rank": 8,
+                "name": "ATLA GEL SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:31:44",
+                "end_time": "24:22:38",
+                "rating": 1.26,
+                "share": 5.98
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:25",
+                "end_time": "19:59:59",
+                "rating": 1.25,
+                "share": 7.82
+            },
+            {
+                "rank": 10,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:00:33",
+                "end_time": "18:14:05",
+                "rating": 1.24,
+                "share": 11.19
+            }
+        ]
+    }
+}
