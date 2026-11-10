@@ -1,0 +1,282 @@
+{
+    "date": "2026-03-14",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:04",
+                "end_time": "24:17:44",
+                "rating": 6.93,
+                "share": 19.52
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:58:46",
+                "end_time": "24:01:27",
+                "rating": 5.05,
+                "share": 14.23
+            },
+            {
+                "rank": 3,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:07",
+                "end_time": "20:59:53",
+                "rating": 3.74,
+                "share": 11.14
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:17:38",
+                "end_time": "24:26:36",
+                "rating": 3.57,
+                "share": 10.45
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 3.25,
+                "share": 10.54
+            },
+            {
+                "rank": 6,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:59:59",
+                "end_time": "21:24:45",
+                "rating": 2.63,
+                "share": 7.87
+            },
+            {
+                "rank": 7,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:45",
+                "end_time": "20:58:46",
+                "rating": 2.5,
+                "share": 7.44
+            },
+            {
+                "rank": 8,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "21:00:03",
+                "end_time": "24:17:40",
+                "rating": 2.44,
+                "share": 6.94
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "20:00:03",
+                "rating": 2.41,
+                "share": 7.85
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:40:00",
+                "end_time": "19:59:42",
+                "rating": 2.38,
+                "share": 7.59
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:04",
+                "end_time": "24:17:44",
+                "rating": 4.97,
+                "share": 16.0
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 3.4,
+                "share": 13.5
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:17:38",
+                "end_time": "24:26:36",
+                "rating": 3.28,
+                "share": 10.95
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:58:46",
+                "end_time": "24:01:27",
+                "rating": 3.25,
+                "share": 10.45
+            },
+            {
+                "rank": 5,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:07",
+                "end_time": "20:59:53",
+                "rating": 3.15,
+                "share": 10.93
+            },
+            {
+                "rank": 6,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "21:00:03",
+                "end_time": "24:17:40",
+                "rating": 2.71,
+                "share": 8.79
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:07:43",
+                "rating": 2.57,
+                "share": 8.89
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "21:07:43",
+                "end_time": "24:14:10",
+                "rating": 2.23,
+                "share": 7.19
+            },
+            {
+                "rank": 9,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "17:45:20",
+                "end_time": "19:30:00",
+                "rating": 1.87,
+                "share": 8.52
+            },
+            {
+                "rank": 10,
+                "name": "SAHTEKARLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "20:59:58",
+                "rating": 1.81,
+                "share": 6.3
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GULLER VE GUNAHLAR",
+                "channel": "KANAL D",
+                "start_time": "21:00:04",
+                "end_time": "24:17:44",
+                "rating": 6.08,
+                "share": 17.57
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:58:46",
+                "end_time": "24:01:27",
+                "rating": 3.88,
+                "share": 11.21
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:17:38",
+                "end_time": "24:26:36",
+                "rating": 3.63,
+                "share": 10.95
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 3.37,
+                "share": 12.07
+            },
+            {
+                "rank": 5,
+                "name": "GULLER VE GUNAHLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:07",
+                "end_time": "20:59:53",
+                "rating": 3.03,
+                "share": 9.7
+            },
+            {
+                "rank": 6,
+                "name": "SAHTEKARLAR",
+                "channel": "NOW",
+                "start_time": "21:00:03",
+                "end_time": "24:17:40",
+                "rating": 2.92,
+                "share": 8.49
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "21:07:43",
+                "end_time": "24:14:10",
+                "rating": 2.64,
+                "share": 7.62
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:07:43",
+                "rating": 2.4,
+                "share": 7.66
+            },
+            {
+                "rank": 9,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:30:13",
+                "end_time": "19:59:32",
+                "rating": 2.27,
+                "share": 7.98
+            },
+            {
+                "rank": 10,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "17:45:20",
+                "end_time": "19:30:00",
+                "rating": 2.09,
+                "share": 8.41
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2026-03-20",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:36:04",
+                "end_time": "24:26:49",
+                "rating": 3.82,
+                "share": 13.27
+            },
+            {
+                "rank": 2,
+                "name": "TASACAK BU DENIZ (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:09",
+                "end_time": "23:12:20",
+                "rating": 3.65,
+                "share": 12.49
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:18:30",
+                "end_time": "18:45:08",
+                "rating": 3.13,
+                "share": 15.57
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 2.91,
+                "share": 11.51
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:55:05",
+                "rating": 2.19,
+                "share": 8.67
+            },
+            {
+                "rank": 6,
+                "name": "RECEP IVEDIK 3 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:23",
+                "end_time": "22:17:57",
+                "rating": 2.03,
+                "share": 7.14
+            },
+            {
+                "rank": 7,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:38:13",
+                "end_time": "21:18:07",
+                "rating": 1.87,
+                "share": 6.85
+            },
+            {
+                "rank": 8,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:03",
+                "end_time": "24:16:35",
+                "rating": 1.81,
+                "share": 6.23
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:06",
+                "rating": 1.81,
+                "share": 7.12
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:49",
+                "rating": 1.77,
+                "share": 7.03
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TASACAK BU DENIZ (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:09",
+                "end_time": "23:12:20",
+                "rating": 2.52,
+                "share": 11.96
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:36:04",
+                "end_time": "24:26:49",
+                "rating": 2.51,
+                "share": 11.53
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 2.51,
+                "share": 15.37
+            },
+            {
+                "rank": 4,
+                "name": "ARDA'NIN RAMAZAN MUTFAGI",
+                "channel": "KANAL D",
+                "start_time": "13:06:56",
+                "end_time": "13:52:07",
+                "rating": 1.47,
+                "share": 11.38
+            },
+            {
+                "rank": 5,
+                "name": "AILE ARASINDA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "22:42:43",
+                "rating": 1.42,
+                "share": 7.0
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:18:30",
+                "end_time": "18:45:08",
+                "rating": 1.41,
+                "share": 11.21
+            },
+            {
+                "rank": 7,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:03",
+                "end_time": "24:16:35",
+                "rating": 1.36,
+                "share": 6.28
+            },
+            {
+                "rank": 8,
+                "name": "AYKUT ENISTE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:42:59",
+                "end_time": "25:16:23",
+                "rating": 1.34,
+                "share": 6.73
+            },
+            {
+                "rank": 9,
+                "name": "NURSEL ILE MUTFAK BAHANE",
+                "channel": "ATV",
+                "start_time": "13:57:29",
+                "end_time": "15:59:36",
+                "rating": 1.17,
+                "share": 9.46
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:38:13",
+                "end_time": "21:18:07",
+                "rating": 1.1,
+                "share": 6.14
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TASACAK BU DENIZ (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:09",
+                "end_time": "23:12:20",
+                "rating": 3.34,
+                "share": 13.21
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:36:04",
+                "end_time": "24:26:49",
+                "rating": 3.12,
+                "share": 12.12
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 2.59,
+                "share": 12.51
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:18:30",
+                "end_time": "18:45:08",
+                "rating": 1.92,
+                "share": 11.78
+            },
+            {
+                "rank": 5,
+                "name": "AYKUT ENISTE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:42:59",
+                "end_time": "25:16:23",
+                "rating": 1.64,
+                "share": 7.17
+            },
+            {
+                "rank": 6,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:03",
+                "end_time": "24:16:35",
+                "rating": 1.62,
+                "share": 6.32
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:06",
+                "rating": 1.61,
+                "share": 7.76
+            },
+            {
+                "rank": 8,
+                "name": "RECEP IVEDIK 3 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:23",
+                "end_time": "22:17:57",
+                "rating": 1.52,
+                "share": 6.33
+            },
+            {
+                "rank": 9,
+                "name": "AILE ARASINDA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "22:42:43",
+                "rating": 1.52,
+                "share": 6.17
+            },
+            {
+                "rank": 10,
+                "name": "GIRGIRIYE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "10:49:50",
+                "end_time": "12:27:55",
+                "rating": 1.19,
+                "share": 6.85
+            }
+        ]
+    }
+}

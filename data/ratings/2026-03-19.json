@@ -1,0 +1,282 @@
+{
+    "date": "2026-03-19",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:02",
+                "end_time": "23:59:58",
+                "rating": 8.73,
+                "share": 24.47
+            },
+            {
+                "rank": 2,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:51:18",
+                "end_time": "24:17:42",
+                "rating": 5.19,
+                "share": 14.66
+            },
+            {
+                "rank": 3,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:06",
+                "end_time": "20:59:02",
+                "rating": 4.08,
+                "share": 11.77
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:09",
+                "end_time": "18:40:39",
+                "rating": 3.9,
+                "share": 16.0
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 3.6,
+                "share": 11.18
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:56",
+                "rating": 3.56,
+                "share": 25.82
+            },
+            {
+                "rank": 7,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:21",
+                "end_time": "20:51:03",
+                "rating": 3.27,
+                "share": 9.45
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:28:01",
+                "end_time": "24:25:44",
+                "rating": 3.2,
+                "share": 9.3
+            },
+            {
+                "rank": 9,
+                "name": "RAYO VALLECANO-SAMSUNSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:51:54",
+                "end_time": "25:03:22",
+                "rating": 2.83,
+                "share": 10.21
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:59:39",
+                "end_time": "21:21:30",
+                "rating": 2.67,
+                "share": 7.76
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:02",
+                "end_time": "23:59:58",
+                "rating": 5.36,
+                "share": 18.39
+            },
+            {
+                "rank": 2,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:51:18",
+                "end_time": "24:17:42",
+                "rating": 3.68,
+                "share": 12.77
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:56",
+                "rating": 2.71,
+                "share": 26.16
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 2.59,
+                "share": 10.06
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:28:01",
+                "end_time": "24:25:44",
+                "rating": 2.58,
+                "share": 9.21
+            },
+            {
+                "rank": 6,
+                "name": "RAYO VALLECANO-SAMSUNSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:51:54",
+                "end_time": "25:03:22",
+                "rating": 2.54,
+                "share": 11.16
+            },
+            {
+                "rank": 7,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "17:43:08",
+                "end_time": "19:36:42",
+                "rating": 1.92,
+                "share": 8.06
+            },
+            {
+                "rank": 8,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:21",
+                "end_time": "20:51:03",
+                "rating": 1.86,
+                "share": 6.67
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:53",
+                "end_time": "24:16:18",
+                "rating": 1.83,
+                "share": 6.3
+            },
+            {
+                "rank": 10,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:36:54",
+                "end_time": "19:58:40",
+                "rating": 1.79,
+                "share": 6.99
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:02",
+                "end_time": "23:59:58",
+                "rating": 7.42,
+                "share": 21.59
+            },
+            {
+                "rank": 2,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:51:18",
+                "end_time": "24:17:42",
+                "rating": 4.3,
+                "share": 12.65
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:56",
+                "rating": 3.37,
+                "share": 28.17
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 3.25,
+                "share": 10.82
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:28:01",
+                "end_time": "24:25:44",
+                "rating": 3.05,
+                "share": 9.23
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:09",
+                "end_time": "18:40:39",
+                "rating": 3.05,
+                "share": 14.1
+            },
+            {
+                "rank": 7,
+                "name": "RAYO VALLECANO-SAMSUNSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:51:54",
+                "end_time": "25:03:22",
+                "rating": 2.95,
+                "share": 10.81
+            },
+            {
+                "rank": 8,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:21",
+                "end_time": "20:51:03",
+                "rating": 2.75,
+                "share": 8.43
+            },
+            {
+                "rank": 9,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:06",
+                "end_time": "20:59:02",
+                "rating": 2.73,
+                "share": 8.36
+            },
+            {
+                "rank": 10,
+                "name": "DUGUN DERNEK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "22:19:35",
+                "rating": 2.17,
+                "share": 6.54
+            }
+        ]
+    }
+}

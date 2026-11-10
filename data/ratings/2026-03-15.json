@@ -1,0 +1,282 @@
+{
+    "date": "2026-03-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:58",
+                "end_time": "24:00:46",
+                "rating": 5.79,
+                "share": 16.53
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:38:22",
+                "end_time": "24:22:40",
+                "rating": 4.13,
+                "share": 12.21
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 4.03,
+                "share": 12.75
+            },
+            {
+                "rank": 4,
+                "name": "DOKTOR BASKA HAYATTA",
+                "channel": "NOW",
+                "start_time": "20:27:16",
+                "end_time": "23:18:09",
+                "rating": 3.26,
+                "share": 9.26
+            },
+            {
+                "rank": 5,
+                "name": "SEVDIGIM SENSIN (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:23",
+                "end_time": "22:59:56",
+                "rating": 2.66,
+                "share": 7.59
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:34",
+                "rating": 2.6,
+                "share": 8.24
+            },
+            {
+                "rank": 7,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "20:00:38",
+                "end_time": "21:25:27",
+                "rating": 2.52,
+                "share": 7.57
+            },
+            {
+                "rank": 8,
+                "name": "DOKTOR BASKA HAYATTA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "20:27:11",
+                "rating": 2.25,
+                "share": 6.78
+            },
+            {
+                "rank": 9,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:02",
+                "end_time": "20:57:58",
+                "rating": 2.17,
+                "share": 6.54
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:40:03",
+                "end_time": "19:59:33",
+                "rating": 2.13,
+                "share": 6.65
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:58",
+                "end_time": "24:00:46",
+                "rating": 4.27,
+                "share": 13.93
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:38:22",
+                "end_time": "24:22:40",
+                "rating": 3.77,
+                "share": 12.76
+            },
+            {
+                "rank": 3,
+                "name": "DOKTOR BASKA HAYATTA",
+                "channel": "NOW",
+                "start_time": "20:27:16",
+                "end_time": "23:18:09",
+                "rating": 3.43,
+                "share": 11.22
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 2.98,
+                "share": 11.26
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:02",
+                "end_time": "20:57:58",
+                "rating": 2.17,
+                "share": 7.47
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:34",
+                "rating": 2.13,
+                "share": 8.14
+            },
+            {
+                "rank": 7,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "20:00:38",
+                "end_time": "21:25:27",
+                "rating": 1.96,
+                "share": 6.71
+            },
+            {
+                "rank": 8,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:32:06",
+                "end_time": "19:59:49",
+                "rating": 1.87,
+                "share": 6.84
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:45",
+                "end_time": "24:16:49",
+                "rating": 1.84,
+                "share": 6.14
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:05",
+                "end_time": "18:58:24",
+                "rating": 1.63,
+                "share": 6.64
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:58",
+                "end_time": "24:00:46",
+                "rating": 5.41,
+                "share": 15.7
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 4.1,
+                "share": 13.48
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:38:22",
+                "end_time": "24:22:40",
+                "rating": 3.85,
+                "share": 11.57
+            },
+            {
+                "rank": 4,
+                "name": "DOKTOR BASKA HAYATTA",
+                "channel": "NOW",
+                "start_time": "20:27:16",
+                "end_time": "23:18:09",
+                "rating": 3.82,
+                "share": 11.09
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:34",
+                "rating": 2.65,
+                "share": 8.77
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:02",
+                "end_time": "20:57:58",
+                "rating": 2.63,
+                "share": 8.04
+            },
+            {
+                "rank": 7,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:32:06",
+                "end_time": "19:59:49",
+                "rating": 2.57,
+                "share": 8.23
+            },
+            {
+                "rank": 8,
+                "name": "DOKTOR BASKA HAYATTA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "20:27:11",
+                "rating": 2.47,
+                "share": 7.54
+            },
+            {
+                "rank": 9,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "20:00:38",
+                "end_time": "21:25:27",
+                "rating": 2.14,
+                "share": 6.51
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:45",
+                "end_time": "24:16:49",
+                "rating": 2.1,
+                "share": 6.23
+            }
+        ]
+    }
+}
