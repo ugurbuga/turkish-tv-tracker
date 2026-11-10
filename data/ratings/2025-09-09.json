@@ -1,0 +1,282 @@
+{
+    "date": "2025-09-09",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GOZLERI KARADENIZ",
+                "channel": "ATV",
+                "start_time": "20:41:52",
+                "end_time": "23:18:03",
+                "rating": 4.58,
+                "share": 14.72
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "12:59:51",
+                "rating": 4.21,
+                "share": 32.14
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:56",
+                "end_time": "18:45:22",
+                "rating": 3.16,
+                "share": 17.97
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:21:43",
+                "end_time": "24:17:08",
+                "rating": 3.05,
+                "share": 10.78
+            },
+            {
+                "rank": 5,
+                "name": "KRAL KAYBEDERSE",
+                "channel": "STAR TV",
+                "start_time": "21:00:05",
+                "end_time": "23:41:39",
+                "rating": 2.98,
+                "share": 10.03
+            },
+            {
+                "rank": 6,
+                "name": "BAHAR",
+                "channel": "SHOW TV",
+                "start_time": "21:00:12",
+                "end_time": "24:18:29",
+                "rating": 2.95,
+                "share": 10.41
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:50",
+                "rating": 2.87,
+                "share": 11.92
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:01",
+                "end_time": "19:54:26",
+                "rating": 2.49,
+                "share": 10.34
+            },
+            {
+                "rank": 9,
+                "name": "GOZLERI KARADENIZ (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:31",
+                "end_time": "20:41:52",
+                "rating": 2.35,
+                "share": 7.9
+            },
+            {
+                "rank": 10,
+                "name": "BAHAR (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:18",
+                "end_time": "21:00:12",
+                "rating": 2.09,
+                "share": 6.93
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "BAHAR",
+                "channel": "SHOW TV",
+                "start_time": "21:00:12",
+                "end_time": "24:18:29",
+                "rating": 3.76,
+                "share": 14.36
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:21:43",
+                "end_time": "24:17:08",
+                "rating": 3.62,
+                "share": 14.16
+            },
+            {
+                "rank": 3,
+                "name": "TURKIYE-POLONYA FIBA ERKEKLER EUROBASKET KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "16:50:13",
+                "end_time": "18:56:05",
+                "rating": 3.41,
+                "share": 22.64
+            },
+            {
+                "rank": 4,
+                "name": "KRAL KAYBEDERSE",
+                "channel": "STAR TV",
+                "start_time": "21:00:05",
+                "end_time": "23:41:39",
+                "rating": 3.22,
+                "share": 11.77
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "12:59:51",
+                "rating": 3.01,
+                "share": 27.03
+            },
+            {
+                "rank": 6,
+                "name": "BAHAR (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:18",
+                "end_time": "21:00:12",
+                "rating": 2.77,
+                "share": 11.0
+            },
+            {
+                "rank": 7,
+                "name": "EUROBASKET OZEL",
+                "channel": "TRT 1",
+                "start_time": "18:56:11",
+                "end_time": "19:08:11",
+                "rating": 2.38,
+                "share": 13.3
+            },
+            {
+                "rank": 8,
+                "name": "GOZLERI KARADENIZ",
+                "channel": "ATV",
+                "start_time": "20:41:52",
+                "end_time": "23:18:03",
+                "rating": 2.12,
+                "share": 7.62
+            },
+            {
+                "rank": 9,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:50",
+                "rating": 1.93,
+                "share": 9.98
+            },
+            {
+                "rank": 10,
+                "name": "KRAL KAYBEDERSE (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:33",
+                "end_time": "21:00:05",
+                "rating": 1.83,
+                "share": 7.24
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "12:59:51",
+                "rating": 4.27,
+                "share": 31.99
+            },
+            {
+                "rank": 2,
+                "name": "GOZLERI KARADENIZ",
+                "channel": "ATV",
+                "start_time": "20:41:52",
+                "end_time": "23:18:03",
+                "rating": 4.13,
+                "share": 13.13
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:21:43",
+                "end_time": "24:17:08",
+                "rating": 3.89,
+                "share": 13.44
+            },
+            {
+                "rank": 4,
+                "name": "KRAL KAYBEDERSE",
+                "channel": "STAR TV",
+                "start_time": "21:00:05",
+                "end_time": "23:41:39",
+                "rating": 3.34,
+                "share": 10.85
+            },
+            {
+                "rank": 5,
+                "name": "BAHAR",
+                "channel": "SHOW TV",
+                "start_time": "21:00:12",
+                "end_time": "24:18:29",
+                "rating": 3.31,
+                "share": 11.22
+            },
+            {
+                "rank": 6,
+                "name": "TURKIYE-POLONYA FIBA ERKEKLER EUROBASKET KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "16:50:13",
+                "end_time": "18:56:05",
+                "rating": 2.67,
+                "share": 15.4
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:50",
+                "rating": 2.63,
+                "share": 11.23
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:56",
+                "end_time": "18:45:22",
+                "rating": 2.55,
+                "share": 15.41
+            },
+            {
+                "rank": 9,
+                "name": "BAHAR (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:18",
+                "end_time": "21:00:12",
+                "rating": 2.37,
+                "share": 8.33
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:01",
+                "end_time": "19:54:26",
+                "rating": 2.14,
+                "share": 9.11
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2025-09-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:32:04",
+                "end_time": "24:18:16",
+                "rating": 3.77,
+                "share": 15.29
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:11",
+                "end_time": "12:59:54",
+                "rating": 3.4,
+                "share": 25.01
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:55",
+                "end_time": "18:45:59",
+                "rating": 2.81,
+                "share": 17.51
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:06",
+                "rating": 2.29,
+                "share": 11.02
+            },
+            {
+                "rank": 5,
+                "name": "HUKUMET KADIN 2 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "22:23:27",
+                "rating": 1.89,
+                "share": 7.37
+            },
+            {
+                "rank": 6,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:29",
+                "end_time": "21:51:20",
+                "rating": 1.87,
+                "share": 7.43
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:55:10",
+                "rating": 1.85,
+                "share": 8.92
+            },
+            {
+                "rank": 8,
+                "name": "GOZLERI KARADENIZ (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:40",
+                "end_time": "22:47:52",
+                "rating": 1.83,
+                "share": 7.08
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:52",
+                "rating": 1.79,
+                "share": 8.65
+            },
+            {
+                "rank": 10,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:39:22",
+                "end_time": "21:18:15",
+                "rating": 1.7,
+                "share": 6.95
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:32:04",
+                "end_time": "24:18:16",
+                "rating": 4.64,
+                "share": 20.16
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:11",
+                "end_time": "12:59:54",
+                "rating": 2.05,
+                "share": 18.84
+            },
+            {
+                "rank": 3,
+                "name": "HUKUMET KADIN 2 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "22:23:27",
+                "rating": 1.86,
+                "share": 7.89
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:06",
+                "rating": 1.8,
+                "share": 10.69
+            },
+            {
+                "rank": 5,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:44:07",
+                "end_time": "18:58:27",
+                "rating": 1.59,
+                "share": 10.19
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:52",
+                "rating": 1.56,
+                "share": 9.28
+            },
+            {
+                "rank": 7,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:44:49",
+                "end_time": "18:14:06",
+                "rating": 1.44,
+                "share": 11.23
+            },
+            {
+                "rank": 8,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:57:01",
+                "end_time": "18:43:15",
+                "rating": 1.43,
+                "share": 11.1
+            },
+            {
+                "rank": 9,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:13",
+                "end_time": "18:58:17",
+                "rating": 1.39,
+                "share": 8.97
+            },
+            {
+                "rank": 10,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:29",
+                "end_time": "21:51:20",
+                "rating": 1.28,
+                "share": 5.53
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:32:04",
+                "end_time": "24:18:16",
+                "rating": 4.71,
+                "share": 18.58
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:11",
+                "end_time": "12:59:54",
+                "rating": 3.33,
+                "share": 27.74
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:06",
+                "rating": 2.33,
+                "share": 11.74
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:55",
+                "end_time": "18:45:59",
+                "rating": 2.17,
+                "share": 15.09
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:52",
+                "rating": 2.0,
+                "share": 10.09
+            },
+            {
+                "rank": 6,
+                "name": "GOZLERI KARADENIZ (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:40",
+                "end_time": "22:47:52",
+                "rating": 1.89,
+                "share": 7.16
+            },
+            {
+                "rank": 7,
+                "name": "HUKUMET KADIN 2 (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "22:23:27",
+                "rating": 1.81,
+                "share": 6.9
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:55:10",
+                "rating": 1.73,
+                "share": 8.72
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:44:49",
+                "end_time": "18:14:06",
+                "rating": 1.72,
+                "share": 12.38
+            },
+            {
+                "rank": 10,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:29",
+                "end_time": "21:51:20",
+                "rating": 1.61,
+                "share": 6.27
+            }
+        ]
+    }
+}

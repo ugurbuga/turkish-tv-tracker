@@ -1,0 +1,282 @@
+{
+    "date": "2025-09-10",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "20:20:30",
+                "end_time": "24:17:42",
+                "rating": 5.67,
+                "share": 20.57
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:55",
+                "rating": 4.13,
+                "share": 32.63
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:07",
+                "end_time": "18:45:27",
+                "rating": 3.67,
+                "share": 22.42
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:26:10",
+                "end_time": "24:20:29",
+                "rating": 3.19,
+                "share": 11.71
+            },
+            {
+                "rank": 5,
+                "name": "SAHIPSIZLER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:44",
+                "end_time": "20:20:30",
+                "rating": 2.71,
+                "share": 9.87
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:52:25",
+                "rating": 2.69,
+                "share": 12.15
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 2.39,
+                "share": 10.63
+            },
+            {
+                "rank": 8,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:06",
+                "end_time": "13:57:46",
+                "rating": 2.15,
+                "share": 17.42
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "20:00:05",
+                "rating": 1.87,
+                "share": 8.49
+            },
+            {
+                "rank": 10,
+                "name": "IYI BIR AILE DEGILIZ (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:16",
+                "end_time": "22:17:00",
+                "rating": 1.85,
+                "share": 6.32
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:26:10",
+                "end_time": "24:20:29",
+                "rating": 3.11,
+                "share": 13.32
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:55",
+                "rating": 3.04,
+                "share": 32.1
+            },
+            {
+                "rank": 3,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "20:20:30",
+                "end_time": "24:17:42",
+                "rating": 2.31,
+                "share": 9.8
+            },
+            {
+                "rank": 4,
+                "name": "IYI BIR AILE DEGILIZ (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:16",
+                "end_time": "22:17:00",
+                "rating": 1.99,
+                "share": 8.16
+            },
+            {
+                "rank": 5,
+                "name": "AJAN (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:52",
+                "end_time": "22:31:45",
+                "rating": 1.8,
+                "share": 7.17
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 1.78,
+                "share": 9.18
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:52:25",
+                "rating": 1.77,
+                "share": 9.38
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:07",
+                "end_time": "18:45:27",
+                "rating": 1.53,
+                "share": 12.12
+            },
+            {
+                "rank": 9,
+                "name": "PRESTIJ MESELESI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:05",
+                "end_time": "22:43:08",
+                "rating": 1.49,
+                "share": 5.9
+            },
+            {
+                "rank": 10,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:56:38",
+                "end_time": "18:43:19",
+                "rating": 1.47,
+                "share": 11.98
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:55",
+                "rating": 4.29,
+                "share": 33.64
+            },
+            {
+                "rank": 2,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "20:20:30",
+                "end_time": "24:17:42",
+                "rating": 4.22,
+                "share": 15.0
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:26:10",
+                "end_time": "24:20:29",
+                "rating": 3.56,
+                "share": 12.69
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:07",
+                "end_time": "18:45:27",
+                "rating": 2.83,
+                "share": 18.39
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:52:25",
+                "rating": 2.51,
+                "share": 11.56
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 2.2,
+                "share": 10.02
+            },
+            {
+                "rank": 7,
+                "name": "IYI BIR AILE DEGILIZ (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:16",
+                "end_time": "22:17:00",
+                "rating": 2.0,
+                "share": 7.03
+            },
+            {
+                "rank": 8,
+                "name": "SAHIPSIZLER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:44",
+                "end_time": "20:20:30",
+                "rating": 1.86,
+                "share": 7.35
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "20:00:05",
+                "rating": 1.83,
+                "share": 8.45
+            },
+            {
+                "rank": 10,
+                "name": "AJAN (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:52",
+                "end_time": "22:31:45",
+                "rating": 1.83,
+                "share": 6.25
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2025-09-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:55",
+                "rating": 3.67,
+                "share": 26.83
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:47",
+                "end_time": "18:45:55",
+                "rating": 3.23,
+                "share": 19.12
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:46:39",
+                "end_time": "24:46:02",
+                "rating": 3.05,
+                "share": 13.09
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 2.69,
+                "share": 12.79
+            },
+            {
+                "rank": 5,
+                "name": "MEVLID KANDILI OZEL",
+                "channel": "KANAL 7",
+                "start_time": "20:16:00",
+                "end_time": "21:28:49",
+                "rating": 1.98,
+                "share": 7.62
+            },
+            {
+                "rank": 6,
+                "name": "MEVLID KANDILI DUA",
+                "channel": "KANAL 7",
+                "start_time": "21:42:10",
+                "end_time": "22:01:35",
+                "rating": 1.97,
+                "share": 7.2
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:57",
+                "end_time": "19:54:13",
+                "rating": 1.95,
+                "share": 9.26
+            },
+            {
+                "rank": 8,
+                "name": "AVENGERS ENDGAME (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:27",
+                "end_time": "23:41:04",
+                "rating": 1.93,
+                "share": 7.37
+            },
+            {
+                "rank": 9,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE MEVLID KANDILI",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "22:00:09",
+                "rating": 1.69,
+                "share": 6.46
+            },
+            {
+                "rank": 10,
+                "name": "TURKIYE-SIRBISTAN FIBA ERKEKLER EUROBASKET KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:06:16",
+                "end_time": "23:15:18",
+                "rating": 1.63,
+                "share": 6.04
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:46:39",
+                "end_time": "24:46:02",
+                "rating": 3.45,
+                "share": 15.83
+            },
+            {
+                "rank": 2,
+                "name": "TURKIYE-SIRBISTAN FIBA ERKEKLER EUROBASKET KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:06:16",
+                "end_time": "23:15:18",
+                "rating": 3.15,
+                "share": 12.22
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 2.52,
+                "share": 15.93
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:55",
+                "rating": 2.25,
+                "share": 20.65
+            },
+            {
+                "rank": 5,
+                "name": "SPOR AKSAMI",
+                "channel": "TRT SPOR",
+                "start_time": "22:05:37",
+                "end_time": "22:10:34",
+                "rating": 1.86,
+                "share": 6.92
+            },
+            {
+                "rank": 6,
+                "name": "MEVLID GECESI",
+                "channel": "TRT 1",
+                "start_time": "21:17:07",
+                "end_time": "23:16:43",
+                "rating": 1.85,
+                "share": 7.11
+            },
+            {
+                "rank": 7,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:57:13",
+                "end_time": "18:43:56",
+                "rating": 1.54,
+                "share": 11.27
+            },
+            {
+                "rank": 8,
+                "name": "AVENGERS ENDGAME (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:27",
+                "end_time": "23:41:04",
+                "rating": 1.5,
+                "share": 6.22
+            },
+            {
+                "rank": 9,
+                "name": "EUROBASKET OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "23:15:29",
+                "end_time": "24:00:46",
+                "rating": 1.4,
+                "share": 6.89
+            },
+            {
+                "rank": 10,
+                "name": "RECEP IVEDIK 5 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:44",
+                "end_time": "22:30:00",
+                "rating": 1.37,
+                "share": 5.91
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:46:39",
+                "end_time": "24:46:02",
+                "rating": 3.63,
+                "share": 15.74
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:55",
+                "rating": 3.58,
+                "share": 29.56
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.06,
+                "share": 16.49
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:47",
+                "end_time": "18:45:55",
+                "rating": 2.57,
+                "share": 17.48
+            },
+            {
+                "rank": 5,
+                "name": "TURKIYE-SIRBISTAN FIBA ERKEKLER EUROBASKET KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:06:16",
+                "end_time": "23:15:18",
+                "rating": 2.55,
+                "share": 9.4
+            },
+            {
+                "rank": 6,
+                "name": "AVENGERS ENDGAME (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:27",
+                "end_time": "23:41:04",
+                "rating": 2.02,
+                "share": 7.82
+            },
+            {
+                "rank": 7,
+                "name": "MEVLID GECESI",
+                "channel": "TRT 1",
+                "start_time": "21:17:07",
+                "end_time": "23:16:43",
+                "rating": 1.84,
+                "share": 6.76
+            },
+            {
+                "rank": 8,
+                "name": "RECEP IVEDIK 5 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:44",
+                "end_time": "22:30:00",
+                "rating": 1.66,
+                "share": 6.49
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:19",
+                "end_time": "20:00:00",
+                "rating": 1.64,
+                "share": 8.81
+            },
+            {
+                "rank": 10,
+                "name": "SPOR AKSAMI",
+                "channel": "TRT SPOR",
+                "start_time": "22:05:37",
+                "end_time": "22:10:34",
+                "rating": 1.64,
+                "share": 5.78
+            }
+        ]
+    }
+}
