@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-10",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:41",
+                "end_time": "24:21:40",
+                "rating": 2.44,
+                "share": 10.99
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:01",
+                "rating": 1.87,
+                "share": 10.91
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:48:57",
+                "end_time": "24:18:35",
+                "rating": 1.57,
+                "share": 6.88
+            },
+            {
+                "rank": 4,
+                "name": "GULER MISIN AGLAR MISIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:54",
+                "end_time": "23:40:02",
+                "rating": 1.43,
+                "share": 6.06
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "20:00:01",
+                "rating": 1.42,
+                "share": 8.28
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:15:19",
+                "end_time": "23:51:45",
+                "rating": 1.25,
+                "share": 5.52
+            },
+            {
+                "rank": 7,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:45:38",
+                "rating": 1.24,
+                "share": 5.82
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "20:00:23",
+                "rating": 1.2,
+                "share": 7.04
+            },
+            {
+                "rank": 9,
+                "name": "HOBBIT 3 BES ORDUNUN SAVASI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:46",
+                "end_time": "22:49:35",
+                "rating": 1.18,
+                "share": 5.17
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:26:19",
+                "end_time": "22:13:54",
+                "rating": 1.07,
+                "share": 4.7
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:41",
+                "end_time": "24:21:40",
+                "rating": 2.45,
+                "share": 11.2
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:48:57",
+                "end_time": "24:18:35",
+                "rating": 1.72,
+                "share": 7.68
+            },
+            {
+                "rank": 3,
+                "name": "HOBBIT 3 BES ORDUNUN SAVASI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:46",
+                "end_time": "22:49:35",
+                "rating": 1.42,
+                "share": 6.7
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:01",
+                "rating": 1.18,
+                "share": 7.5
+            },
+            {
+                "rank": 5,
+                "name": "GULER MISIN AGLAR MISIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:54",
+                "end_time": "23:40:02",
+                "rating": 1.12,
+                "share": 4.8
+            },
+            {
+                "rank": 6,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:04",
+                "end_time": "18:58:22",
+                "rating": 1.11,
+                "share": 7.89
+            },
+            {
+                "rank": 7,
+                "name": "TRENDYOL SUPER LIG OZETLERI (TKR)",
+                "channel": "TRT SPOR",
+                "start_time": "22:21:14",
+                "end_time": "22:28:34",
+                "rating": 1.09,
+                "share": 4.73
+            },
+            {
+                "rank": 8,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:15:19",
+                "end_time": "23:51:45",
+                "rating": 1.06,
+                "share": 4.61
+            },
+            {
+                "rank": 9,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:45:38",
+                "rating": 1.03,
+                "share": 5.46
+            },
+            {
+                "rank": 10,
+                "name": "UMUT KANATLARI (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "22:44:29",
+                "end_time": "24:31:35",
+                "rating": 1.01,
+                "share": 5.25
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:41",
+                "end_time": "24:21:40",
+                "rating": 2.93,
+                "share": 12.71
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:01",
+                "rating": 1.71,
+                "share": 10.1
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:48:57",
+                "end_time": "24:18:35",
+                "rating": 1.63,
+                "share": 6.91
+            },
+            {
+                "rank": 4,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:15:19",
+                "end_time": "23:51:45",
+                "rating": 1.58,
+                "share": 6.5
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "20:00:01",
+                "rating": 1.57,
+                "share": 9.3
+            },
+            {
+                "rank": 6,
+                "name": "GULER MISIN AGLAR MISIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:54",
+                "end_time": "23:40:02",
+                "rating": 1.43,
+                "share": 5.82
+            },
+            {
+                "rank": 7,
+                "name": "HOBBIT 3 BES ORDUNUN SAVASI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:46",
+                "end_time": "22:49:35",
+                "rating": 1.34,
+                "share": 5.89
+            },
+            {
+                "rank": 8,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:45:38",
+                "rating": 1.31,
+                "share": 6.35
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:04",
+                "end_time": "18:58:22",
+                "rating": 1.12,
+                "share": 7.67
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "20:00:23",
+                "rating": 1.12,
+                "share": 6.7
+            }
+        ]
+    }
+}

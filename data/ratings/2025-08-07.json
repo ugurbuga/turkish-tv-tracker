@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-07",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:28",
+                "end_time": "24:18:34",
+                "rating": 3.18,
+                "share": 14.21
+            },
+            {
+                "rank": 2,
+                "name": "VIKING-BASAKSEHIR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:51:27",
+                "end_time": "22:06:48",
+                "rating": 2.18,
+                "share": 10.0
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:07",
+                "rating": 2.11,
+                "share": 12.09
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:59:16",
+                "end_time": "24:17:49",
+                "rating": 1.71,
+                "share": 7.54
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:56",
+                "rating": 1.53,
+                "share": 8.85
+            },
+            {
+                "rank": 6,
+                "name": "MINYONLAR 2 GRU'NUN YUKSELISI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:29",
+                "end_time": "21:45:03",
+                "rating": 1.47,
+                "share": 6.72
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:35",
+                "end_time": "20:59:16",
+                "rating": 1.41,
+                "share": 6.8
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "23:44:11",
+                "rating": 1.38,
+                "share": 6.17
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:32",
+                "end_time": "20:00:19",
+                "rating": 1.35,
+                "share": 7.76
+            },
+            {
+                "rank": 10,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:42:28",
+                "end_time": "21:17:13",
+                "rating": 1.18,
+                "share": 5.86
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:28",
+                "end_time": "24:18:34",
+                "rating": 3.92,
+                "share": 18.21
+            },
+            {
+                "rank": 2,
+                "name": "VIKING-BASAKSEHIR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:51:27",
+                "end_time": "22:06:48",
+                "rating": 2.57,
+                "share": 13.15
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:07",
+                "rating": 1.95,
+                "share": 13.54
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "23:44:11",
+                "rating": 1.63,
+                "share": 7.73
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:59:16",
+                "end_time": "24:17:49",
+                "rating": 1.59,
+                "share": 7.3
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:56",
+                "rating": 1.44,
+                "share": 10.13
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:35",
+                "end_time": "20:59:16",
+                "rating": 1.39,
+                "share": 7.63
+            },
+            {
+                "rank": 8,
+                "name": "MINYONLAR 2 GRU'NUN YUKSELISI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:29",
+                "end_time": "21:45:03",
+                "rating": 1.21,
+                "share": 6.16
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:41:35",
+                "end_time": "20:49:28",
+                "rating": 1.18,
+                "share": 7.62
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:04",
+                "end_time": "18:58:23",
+                "rating": 1.11,
+                "share": 8.7
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:28",
+                "end_time": "24:18:34",
+                "rating": 3.73,
+                "share": 16.31
+            },
+            {
+                "rank": 2,
+                "name": "VIKING-BASAKSEHIR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:51:27",
+                "end_time": "22:06:48",
+                "rating": 2.59,
+                "share": 12.04
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:07",
+                "rating": 2.36,
+                "share": 14.13
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:59:16",
+                "end_time": "24:17:49",
+                "rating": 1.65,
+                "share": 7.1
+            },
+            {
+                "rank": 5,
+                "name": "MINYONLAR 2 GRU'NUN YUKSELISI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:29",
+                "end_time": "21:45:03",
+                "rating": 1.6,
+                "share": 7.41
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:56",
+                "rating": 1.54,
+                "share": 9.29
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "23:44:11",
+                "rating": 1.39,
+                "share": 6.12
+            },
+            {
+                "rank": 8,
+                "name": "YAPRAK DOKUMU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "09:28:25",
+                "end_time": "12:00:01",
+                "rating": 1.38,
+                "share": 14.28
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:41:35",
+                "end_time": "20:49:28",
+                "rating": 1.27,
+                "share": 7.16
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:35",
+                "end_time": "20:59:16",
+                "rating": 1.25,
+                "share": 6.09
+            }
+        ]
+    }
+}

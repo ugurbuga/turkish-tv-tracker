@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:38:31",
+                "end_time": "24:20:39",
+                "rating": 3.66,
+                "share": 16.63
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:07",
+                "rating": 2.35,
+                "share": 13.21
+            },
+            {
+                "rank": 3,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "21:00:00",
+                "end_time": "24:17:33",
+                "rating": 1.98,
+                "share": 8.68
+            },
+            {
+                "rank": 4,
+                "name": "KORKUSUZ KORKAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:23",
+                "end_time": "21:42:02",
+                "rating": 1.87,
+                "share": 8.78
+            },
+            {
+                "rank": 5,
+                "name": "RECEP IVEDIK 4 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:39",
+                "end_time": "22:32:50",
+                "rating": 1.87,
+                "share": 8.26
+            },
+            {
+                "rank": 6,
+                "name": "YOKSUL (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:42:18",
+                "end_time": "23:24:15",
+                "rating": 1.68,
+                "share": 7.12
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "20:00:06",
+                "rating": 1.45,
+                "share": 8.12
+            },
+            {
+                "rank": 8,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:40:42",
+                "end_time": "21:15:48",
+                "rating": 1.39,
+                "share": 6.97
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "20:00:11",
+                "rating": 1.33,
+                "share": 7.5
+            },
+            {
+                "rank": 10,
+                "name": "GREENLAND SON SIGINAK (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:19",
+                "end_time": "22:28:10",
+                "rating": 1.23,
+                "share": 5.5
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:38:31",
+                "end_time": "24:20:39",
+                "rating": 3.93,
+                "share": 19.58
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:07",
+                "rating": 2.02,
+                "share": 12.16
+            },
+            {
+                "rank": 3,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "21:00:00",
+                "end_time": "24:17:33",
+                "rating": 1.56,
+                "share": 7.49
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:39:57",
+                "end_time": "20:38:31",
+                "rating": 1.42,
+                "share": 8.67
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "20:00:06",
+                "rating": 1.38,
+                "share": 8.41
+            },
+            {
+                "rank": 6,
+                "name": "RECEP IVEDIK 4 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:39",
+                "end_time": "22:32:50",
+                "rating": 1.33,
+                "share": 6.62
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "20:00:11",
+                "rating": 1.07,
+                "share": 6.46
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D HABER GUN ARASI",
+                "channel": "KANAL D",
+                "start_time": "12:00:13",
+                "end_time": "12:59:43",
+                "rating": 0.95,
+                "share": 8.7
+            },
+            {
+                "rank": 9,
+                "name": "GREENLAND SON SIGINAK (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:19",
+                "end_time": "22:28:10",
+                "rating": 0.95,
+                "share": 4.82
+            },
+            {
+                "rank": 10,
+                "name": "BU BIR BASLANGIC (T.S)",
+                "channel": "NOW",
+                "start_time": "22:33:05",
+                "end_time": "24:27:51",
+                "rating": 0.94,
+                "share": 5.16
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:38:31",
+                "end_time": "24:20:39",
+                "rating": 4.44,
+                "share": 19.82
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:07",
+                "rating": 2.31,
+                "share": 13.88
+            },
+            {
+                "rank": 3,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "21:00:00",
+                "end_time": "24:17:33",
+                "rating": 1.87,
+                "share": 8.06
+            },
+            {
+                "rank": 4,
+                "name": "RECEP IVEDIK 4 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:39",
+                "end_time": "22:32:50",
+                "rating": 1.67,
+                "share": 7.36
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "20:00:06",
+                "rating": 1.37,
+                "share": 8.17
+            },
+            {
+                "rank": 6,
+                "name": "KORKUSUZ KORKAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:23",
+                "end_time": "21:42:02",
+                "rating": 1.3,
+                "share": 6.18
+            },
+            {
+                "rank": 7,
+                "name": "YOKSUL (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:42:18",
+                "end_time": "23:24:15",
+                "rating": 1.26,
+                "share": 5.21
+            },
+            {
+                "rank": 8,
+                "name": "GREENLAND SON SIGINAK (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:19",
+                "end_time": "22:28:10",
+                "rating": 1.18,
+                "share": 5.27
+            },
+            {
+                "rank": 9,
+                "name": "TURNIKE OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "20:29:22",
+                "rating": 1.11,
+                "share": 5.88
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "20:00:11",
+                "rating": 1.1,
+                "share": 6.64
+            }
+        ]
+    }
+}

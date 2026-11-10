@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:36:56",
+                "end_time": "24:24:27",
+                "rating": 3.46,
+                "share": 15.58
+            },
+            {
+                "rank": 2,
+                "name": "UMUDUMUZ SABAN (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:29",
+                "end_time": "21:50:26",
+                "rating": 2.26,
+                "share": 10.26
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 2.06,
+                "share": 11.99
+            },
+            {
+                "rank": 4,
+                "name": "UMUDUMUZ SABAN (T.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:50:50",
+                "end_time": "23:40:58",
+                "rating": 1.67,
+                "share": 7.09
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "23:45:48",
+                "rating": 1.54,
+                "share": 6.76
+            },
+            {
+                "rank": 6,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:19",
+                "end_time": "23:49:49",
+                "rating": 1.5,
+                "share": 6.37
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:10",
+                "rating": 1.39,
+                "share": 8.06
+            },
+            {
+                "rank": 8,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:38",
+                "end_time": "18:13:49",
+                "rating": 1.33,
+                "share": 10.23
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:43",
+                "rating": 1.3,
+                "share": 7.58
+            },
+            {
+                "rank": 10,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:41:23",
+                "end_time": "21:16:08",
+                "rating": 1.28,
+                "share": 6.45
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:36:56",
+                "end_time": "24:24:27",
+                "rating": 3.96,
+                "share": 18.45
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "23:45:48",
+                "rating": 1.73,
+                "share": 7.93
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 1.62,
+                "share": 10.08
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:32:54",
+                "end_time": "20:36:56",
+                "rating": 1.19,
+                "share": 7.38
+            },
+            {
+                "rank": 5,
+                "name": "UMUDUMUZ SABAN (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:29",
+                "end_time": "21:50:26",
+                "rating": 1.16,
+                "share": 5.74
+            },
+            {
+                "rank": 6,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:38",
+                "end_time": "18:13:49",
+                "rating": 1.05,
+                "share": 9.39
+            },
+            {
+                "rank": 7,
+                "name": "SESSIZ SAAT (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:17:42",
+                "end_time": "22:16:33",
+                "rating": 1.0,
+                "share": 4.88
+            },
+            {
+                "rank": 8,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:19",
+                "end_time": "23:49:49",
+                "rating": 1.0,
+                "share": 4.38
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:10",
+                "rating": 1.0,
+                "share": 6.22
+            },
+            {
+                "rank": 10,
+                "name": "UMUDUMUZ SABAN (T.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:50:50",
+                "end_time": "23:40:58",
+                "rating": 0.93,
+                "share": 3.99
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:36:56",
+                "end_time": "24:24:27",
+                "rating": 4.33,
+                "share": 18.94
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 2.22,
+                "share": 12.74
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "23:45:48",
+                "rating": 1.95,
+                "share": 8.29
+            },
+            {
+                "rank": 4,
+                "name": "UMUDUMUZ SABAN (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:29",
+                "end_time": "21:50:26",
+                "rating": 1.75,
+                "share": 8.0
+            },
+            {
+                "rank": 5,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:38",
+                "end_time": "18:13:49",
+                "rating": 1.54,
+                "share": 12.9
+            },
+            {
+                "rank": 6,
+                "name": "UMUDUMUZ SABAN (T.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:50:50",
+                "end_time": "23:40:58",
+                "rating": 1.41,
+                "share": 5.67
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:43",
+                "rating": 1.37,
+                "share": 7.9
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:10",
+                "rating": 1.36,
+                "share": 7.76
+            },
+            {
+                "rank": 9,
+                "name": "GUVEN BANA",
+                "channel": "ATV",
+                "start_time": "20:42:26",
+                "end_time": "23:15:35",
+                "rating": 1.36,
+                "share": 5.5
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:23",
+                "rating": 1.33,
+                "share": 8.96
+            }
+        ]
+    }
+}

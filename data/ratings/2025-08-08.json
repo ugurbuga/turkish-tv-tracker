@@ -1,0 +1,282 @@
+{
+    "date": "2025-08-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:30",
+                "end_time": "24:15:22",
+                "rating": 3.32,
+                "share": 14.95
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:07",
+                "rating": 2.37,
+                "share": 13.45
+            },
+            {
+                "rank": 3,
+                "name": "KIBAR FEYZO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:18",
+                "end_time": "21:51:50",
+                "rating": 1.94,
+                "share": 8.7
+            },
+            {
+                "rank": 4,
+                "name": "HEDEFIM SENSIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "22:24:21",
+                "rating": 1.58,
+                "share": 6.93
+            },
+            {
+                "rank": 5,
+                "name": "AY LAV YU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:24:38",
+                "end_time": "24:11:50",
+                "rating": 1.47,
+                "share": 7.1
+            },
+            {
+                "rank": 6,
+                "name": "MALEFIZ (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:54:56",
+                "rating": 1.42,
+                "share": 6.37
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "20:00:01",
+                "rating": 1.36,
+                "share": 7.73
+            },
+            {
+                "rank": 8,
+                "name": "KUMA",
+                "channel": "KANAL 7",
+                "start_time": "19:42:07",
+                "end_time": "21:17:31",
+                "rating": 1.34,
+                "share": 6.39
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:09",
+                "rating": 1.31,
+                "share": 7.38
+            },
+            {
+                "rank": 10,
+                "name": "MALEFIZ (Y.S) (TKR)",
+                "channel": "ATV",
+                "start_time": "21:55:17",
+                "end_time": "23:48:45",
+                "rating": 1.31,
+                "share": 5.74
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:30",
+                "end_time": "24:15:22",
+                "rating": 3.49,
+                "share": 16.62
+            },
+            {
+                "rank": 2,
+                "name": "HEDEFIM SENSIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "22:24:21",
+                "rating": 2.01,
+                "share": 10.0
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:07",
+                "rating": 1.58,
+                "share": 10.34
+            },
+            {
+                "rank": 4,
+                "name": "AY LAV YU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:24:38",
+                "end_time": "24:11:50",
+                "rating": 1.49,
+                "share": 7.33
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:36:04",
+                "end_time": "20:52:30",
+                "rating": 1.34,
+                "share": 8.35
+            },
+            {
+                "rank": 6,
+                "name": "MALEFIZ (Y.S) (TKR)",
+                "channel": "ATV",
+                "start_time": "21:55:17",
+                "end_time": "23:48:45",
+                "rating": 1.18,
+                "share": 5.47
+            },
+            {
+                "rank": 7,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:01:48",
+                "end_time": "18:14:15",
+                "rating": 1.09,
+                "share": 10.44
+            },
+            {
+                "rank": 8,
+                "name": "BANA MASAL ANLATMA (T.S)",
+                "channel": "STAR TV",
+                "start_time": "21:52:13",
+                "end_time": "24:02:35",
+                "rating": 1.0,
+                "share": 4.72
+            },
+            {
+                "rank": 9,
+                "name": "MALEFIZ (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:54:56",
+                "rating": 0.99,
+                "share": 5.14
+            },
+            {
+                "rank": 10,
+                "name": "KIBAR FEYZO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:18",
+                "end_time": "21:51:50",
+                "rating": 0.96,
+                "share": 4.93
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:30",
+                "end_time": "24:15:22",
+                "rating": 3.62,
+                "share": 15.81
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:07",
+                "rating": 2.18,
+                "share": 13.04
+            },
+            {
+                "rank": 3,
+                "name": "HEDEFIM SENSIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "22:24:21",
+                "rating": 1.95,
+                "share": 8.61
+            },
+            {
+                "rank": 4,
+                "name": "AY LAV YU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:24:38",
+                "end_time": "24:11:50",
+                "rating": 1.44,
+                "share": 6.65
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "20:00:01",
+                "rating": 1.44,
+                "share": 8.65
+            },
+            {
+                "rank": 6,
+                "name": "MALEFIZ (Y.S) (TKR)",
+                "channel": "ATV",
+                "start_time": "21:55:17",
+                "end_time": "23:48:45",
+                "rating": 1.42,
+                "share": 5.99
+            },
+            {
+                "rank": 7,
+                "name": "KIBAR FEYZO (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:18",
+                "end_time": "21:51:50",
+                "rating": 1.41,
+                "share": 6.45
+            },
+            {
+                "rank": 8,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:01:48",
+                "end_time": "18:14:15",
+                "rating": 1.33,
+                "share": 12.3
+            },
+            {
+                "rank": 9,
+                "name": "MALEFIZ (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:54:56",
+                "rating": 1.32,
+                "share": 6.04
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:36:04",
+                "end_time": "20:52:30",
+                "rating": 1.3,
+                "share": 7.22
+            }
+        ]
+    }
+}
