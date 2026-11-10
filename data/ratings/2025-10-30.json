@@ -1,0 +1,282 @@
+{
+    "date": "2025-10-30",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:48:09",
+                "end_time": "23:54:59",
+                "rating": 7.54,
+                "share": 22.35
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:56",
+                "end_time": "12:59:46",
+                "rating": 4.99,
+                "share": 36.47
+            },
+            {
+                "rank": 3,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "21:00:29",
+                "end_time": "24:17:30",
+                "rating": 4.81,
+                "share": 14.53
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:23",
+                "end_time": "18:51:44",
+                "rating": 4.75,
+                "share": 23.16
+            },
+            {
+                "rank": 5,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:11",
+                "end_time": "20:48:04",
+                "rating": 4.42,
+                "share": 12.84
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:01",
+                "rating": 3.8,
+                "share": 12.57
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:10",
+                "end_time": "19:51:33",
+                "rating": 3.24,
+                "share": 10.76
+            },
+            {
+                "rank": 8,
+                "name": "VELIAHT (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "21:00:29",
+                "rating": 2.95,
+                "share": 8.47
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:55",
+                "rating": 2.94,
+                "share": 9.77
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:53",
+                "rating": 2.76,
+                "share": 9.15
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "21:00:29",
+                "end_time": "24:17:30",
+                "rating": 4.85,
+                "share": 17.68
+            },
+            {
+                "rank": 2,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:48:09",
+                "end_time": "23:54:59",
+                "rating": 3.78,
+                "share": 13.41
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:56",
+                "end_time": "12:59:46",
+                "rating": 3.34,
+                "share": 29.37
+            },
+            {
+                "rank": 4,
+                "name": "VELIAHT (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "21:00:29",
+                "rating": 3.04,
+                "share": 10.52
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:40:45",
+                "end_time": "23:57:56",
+                "rating": 2.93,
+                "share": 10.39
+            },
+            {
+                "rank": 6,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:11",
+                "end_time": "20:48:04",
+                "rating": 2.87,
+                "share": 10.21
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:23",
+                "end_time": "18:51:44",
+                "rating": 2.71,
+                "share": 17.77
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:01",
+                "rating": 2.4,
+                "share": 10.29
+            },
+            {
+                "rank": 9,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:00:33",
+                "end_time": "22:31:28",
+                "rating": 2.3,
+                "share": 7.8
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:10",
+                "end_time": "19:51:33",
+                "rating": 2.23,
+                "share": 9.69
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "21:00:29",
+                "end_time": "24:17:30",
+                "rating": 6.22,
+                "share": 18.03
+            },
+            {
+                "rank": 2,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:48:09",
+                "end_time": "23:54:59",
+                "rating": 6.0,
+                "share": 17.1
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:56",
+                "end_time": "12:59:46",
+                "rating": 5.0,
+                "share": 38.04
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:23",
+                "end_time": "18:51:44",
+                "rating": 4.24,
+                "share": 23.59
+            },
+            {
+                "rank": 5,
+                "name": "VELIAHT (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "21:00:29",
+                "rating": 3.59,
+                "share": 10.31
+            },
+            {
+                "rank": 6,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:11",
+                "end_time": "20:48:04",
+                "rating": 3.5,
+                "share": 10.24
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:10",
+                "end_time": "19:51:33",
+                "rating": 3.46,
+                "share": 12.39
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:01",
+                "rating": 3.39,
+                "share": 11.97
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:40:45",
+                "end_time": "23:57:56",
+                "rating": 3.3,
+                "share": 9.43
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "20:44:36",
+                "rating": 2.73,
+                "share": 8.15
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2025-10-23",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-STUTTGART UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:36:03",
+                "end_time": "21:53:26",
+                "rating": 9.96,
+                "share": 26.43
+            },
+            {
+                "rank": 2,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:49:14",
+                "end_time": "24:00:15",
+                "rating": 7.26,
+                "share": 20.53
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:55",
+                "end_time": "12:59:56",
+                "rating": 5.23,
+                "share": 37.3
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:40",
+                "end_time": "18:46:05",
+                "rating": 4.96,
+                "share": 22.88
+            },
+            {
+                "rank": 5,
+                "name": "SAMSUNSPOR-DINAMO KIEV UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:55:05",
+                "end_time": "24:01:30",
+                "rating": 4.58,
+                "share": 14.12
+            },
+            {
+                "rank": 6,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "21:00:02",
+                "end_time": "24:17:14",
+                "rating": 4.38,
+                "share": 12.62
+            },
+            {
+                "rank": 7,
+                "name": "HALEF KOKLERIN CAGRISI (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:01",
+                "end_time": "20:49:09",
+                "rating": 3.96,
+                "share": 10.41
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:51",
+                "rating": 3.88,
+                "share": 11.97
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:03",
+                "end_time": "19:52:43",
+                "rating": 3.79,
+                "share": 11.86
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:17",
+                "end_time": "19:59:56",
+                "rating": 3.28,
+                "share": 10.29
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-STUTTGART UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:36:03",
+                "end_time": "21:53:26",
+                "rating": 12.36,
+                "share": 38.32
+            },
+            {
+                "rank": 2,
+                "name": "SAMSUNSPOR-DINAMO KIEV UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:55:05",
+                "end_time": "24:01:30",
+                "rating": 5.93,
+                "share": 20.73
+            },
+            {
+                "rank": 3,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "21:00:02",
+                "end_time": "24:17:14",
+                "rating": 5.27,
+                "share": 17.31
+            },
+            {
+                "rank": 4,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:49:14",
+                "end_time": "24:00:15",
+                "rating": 4.3,
+                "share": 13.88
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:55",
+                "end_time": "12:59:56",
+                "rating": 3.24,
+                "share": 29.12
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:40",
+                "end_time": "18:46:05",
+                "rating": 2.89,
+                "share": 18.3
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:03",
+                "end_time": "19:52:43",
+                "rating": 2.52,
+                "share": 10.36
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:51",
+                "rating": 2.5,
+                "share": 9.99
+            },
+            {
+                "rank": 9,
+                "name": "VELIAHT (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:00:02",
+                "rating": 2.45,
+                "share": 7.39
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:14",
+                "end_time": "20:00:07",
+                "rating": 2.44,
+                "share": 9.71
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-STUTTGART UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:36:03",
+                "end_time": "21:53:26",
+                "rating": 12.52,
+                "share": 33.71
+            },
+            {
+                "rank": 2,
+                "name": "HALEF KOKLERIN CAGRISI",
+                "channel": "NOW",
+                "start_time": "20:49:14",
+                "end_time": "24:00:15",
+                "rating": 6.05,
+                "share": 16.64
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:55",
+                "end_time": "12:59:56",
+                "rating": 5.55,
+                "share": 38.42
+            },
+            {
+                "rank": 4,
+                "name": "VELIAHT",
+                "channel": "SHOW TV",
+                "start_time": "21:00:02",
+                "end_time": "24:17:14",
+                "rating": 5.53,
+                "share": 15.46
+            },
+            {
+                "rank": 5,
+                "name": "SAMSUNSPOR-DINAMO KIEV UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:55:05",
+                "end_time": "24:01:30",
+                "rating": 5.44,
+                "share": 16.15
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:40",
+                "end_time": "18:46:05",
+                "rating": 4.05,
+                "share": 20.98
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:51",
+                "rating": 3.57,
+                "share": 11.86
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:17",
+                "end_time": "19:59:56",
+                "rating": 3.27,
+                "share": 11.07
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:16",
+                "end_time": "24:20:55",
+                "rating": 3.2,
+                "share": 9.16
+            },
+            {
+                "rank": 10,
+                "name": "VELIAHT (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:00:02",
+                "rating": 3.07,
+                "share": 8.12
+            }
+        ]
+    }
+}
