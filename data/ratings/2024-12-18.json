@@ -1,0 +1,282 @@
+{
+    "date": "2024-12-18",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "20:46:14",
+                "end_time": "23:42:18",
+                "rating": 7.16,
+                "share": 17.56
+            },
+            {
+                "rank": 2,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:45:34",
+                "end_time": "24:17:04",
+                "rating": 6.99,
+                "share": 17.67
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:52",
+                "end_time": "18:45:20",
+                "rating": 6.08,
+                "share": 26.37
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:49",
+                "rating": 4.52,
+                "share": 13.16
+            },
+            {
+                "rank": 5,
+                "name": "ANNEM ANKARA",
+                "channel": "KANAL D",
+                "start_time": "20:50:13",
+                "end_time": "23:26:43",
+                "rating": 4.38,
+                "share": 10.59
+            },
+            {
+                "rank": 6,
+                "name": "LEYLA HAYAT... ASK... ADALET...",
+                "channel": "NOW",
+                "start_time": "20:42:53",
+                "end_time": "23:53:51",
+                "rating": 4.34,
+                "share": 10.82
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:52:52",
+                "rating": 4.11,
+                "share": 11.97
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:49",
+                "end_time": "13:00:01",
+                "rating": 3.94,
+                "share": 29.55
+            },
+            {
+                "rank": 9,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "20:45:34",
+                "rating": 3.93,
+                "share": 10.23
+            },
+            {
+                "rank": 10,
+                "name": "SAHIPSIZLER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:30",
+                "end_time": "20:46:14",
+                "rating": 3.84,
+                "share": 9.87
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "ANNEM ANKARA",
+                "channel": "KANAL D",
+                "start_time": "20:50:13",
+                "end_time": "23:26:43",
+                "rating": 5.03,
+                "share": 14.02
+            },
+            {
+                "rank": 2,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:45:34",
+                "end_time": "24:17:04",
+                "rating": 4.01,
+                "share": 11.55
+            },
+            {
+                "rank": 3,
+                "name": "LEYLA HAYAT... ASK... ADALET...",
+                "channel": "NOW",
+                "start_time": "20:42:53",
+                "end_time": "23:53:51",
+                "rating": 3.94,
+                "share": 11.22
+            },
+            {
+                "rank": 4,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:54:53",
+                "end_time": "24:18:40",
+                "rating": 3.75,
+                "share": 10.81
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:49",
+                "rating": 3.63,
+                "share": 13.81
+            },
+            {
+                "rank": 6,
+                "name": "ANNEM ANKARA (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:57",
+                "end_time": "20:50:02",
+                "rating": 3.38,
+                "share": 10.4
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:26:20",
+                "end_time": "24:22:46",
+                "rating": 3.14,
+                "share": 9.29
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:49",
+                "end_time": "13:00:01",
+                "rating": 3.11,
+                "share": 27.3
+            },
+            {
+                "rank": 9,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "20:46:14",
+                "end_time": "23:42:18",
+                "rating": 3.01,
+                "share": 8.45
+            },
+            {
+                "rank": 10,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:52",
+                "end_time": "18:45:20",
+                "rating": 2.87,
+                "share": 17.57
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:45:34",
+                "end_time": "24:17:04",
+                "rating": 6.06,
+                "share": 14.67
+            },
+            {
+                "rank": 2,
+                "name": "ANNEM ANKARA",
+                "channel": "KANAL D",
+                "start_time": "20:50:13",
+                "end_time": "23:26:43",
+                "rating": 5.5,
+                "share": 12.87
+            },
+            {
+                "rank": 3,
+                "name": "SAHIPSIZLER",
+                "channel": "STAR TV",
+                "start_time": "20:46:14",
+                "end_time": "23:42:18",
+                "rating": 5.12,
+                "share": 12.07
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:52",
+                "end_time": "18:45:20",
+                "rating": 5.07,
+                "share": 24.65
+            },
+            {
+                "rank": 5,
+                "name": "LEYLA HAYAT... ASK... ADALET...",
+                "channel": "NOW",
+                "start_time": "20:42:53",
+                "end_time": "23:53:51",
+                "rating": 4.78,
+                "share": 11.45
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:49",
+                "rating": 4.18,
+                "share": 12.93
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:49",
+                "end_time": "13:00:01",
+                "rating": 4.08,
+                "share": 29.32
+            },
+            {
+                "rank": 8,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:54:53",
+                "end_time": "24:18:40",
+                "rating": 3.72,
+                "share": 9.0
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:26:20",
+                "end_time": "24:22:46",
+                "rating": 3.69,
+                "share": 9.16
+            },
+            {
+                "rank": 10,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "20:45:34",
+                "rating": 3.41,
+                "share": 9.19
+            }
+        ]
+    }
+}
