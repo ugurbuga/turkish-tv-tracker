@@ -1,0 +1,282 @@
+{
+    "date": "2025-05-11",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:50",
+                "end_time": "24:19:53",
+                "rating": 7.23,
+                "share": 21.84
+            },
+            {
+                "rank": 2,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "20:59:55",
+                "end_time": "24:17:28",
+                "rating": 3.26,
+                "share": 9.8
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:15",
+                "end_time": "20:56:50",
+                "rating": 3.03,
+                "share": 9.97
+            },
+            {
+                "rank": 4,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "21:01:36",
+                "end_time": "24:17:22",
+                "rating": 2.89,
+                "share": 8.65
+            },
+            {
+                "rank": 5,
+                "name": "O SES TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:08:17",
+                "end_time": "24:55:00",
+                "rating": 2.39,
+                "share": 8.08
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 2.35,
+                "share": 9.98
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:09",
+                "end_time": "24:16:05",
+                "rating": 2.19,
+                "share": 6.55
+            },
+            {
+                "rank": 8,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:46:32",
+                "end_time": "23:27:36",
+                "rating": 1.9,
+                "share": 5.53
+            },
+            {
+                "rank": 9,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:07",
+                "end_time": "21:01:31",
+                "rating": 1.81,
+                "share": 5.9
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:51",
+                "rating": 1.8,
+                "share": 7.66
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:50",
+                "end_time": "24:19:53",
+                "rating": 5.97,
+                "share": 19.82
+            },
+            {
+                "rank": 2,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "20:59:55",
+                "end_time": "24:17:28",
+                "rating": 3.36,
+                "share": 11.07
+            },
+            {
+                "rank": 3,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "21:01:36",
+                "end_time": "24:17:22",
+                "rating": 3.2,
+                "share": 10.49
+            },
+            {
+                "rank": 4,
+                "name": "O SES TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:08:17",
+                "end_time": "24:55:00",
+                "rating": 2.96,
+                "share": 11.04
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:09",
+                "end_time": "24:16:05",
+                "rating": 2.19,
+                "share": 7.18
+            },
+            {
+                "rank": 6,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:07",
+                "end_time": "21:01:31",
+                "rating": 1.88,
+                "share": 6.92
+            },
+            {
+                "rank": 7,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:46:32",
+                "end_time": "23:27:36",
+                "rating": 1.85,
+                "share": 5.97
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:15",
+                "end_time": "20:56:50",
+                "rating": 1.8,
+                "share": 6.69
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:51",
+                "rating": 1.51,
+                "share": 7.24
+            },
+            {
+                "rank": 10,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 1.5,
+                "share": 7.19
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:50",
+                "end_time": "24:19:53",
+                "rating": 7.6,
+                "share": 21.86
+            },
+            {
+                "rank": 2,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "20:59:55",
+                "end_time": "24:17:28",
+                "rating": 3.95,
+                "share": 11.28
+            },
+            {
+                "rank": 3,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "21:01:36",
+                "end_time": "24:17:22",
+                "rating": 3.43,
+                "share": 9.74
+            },
+            {
+                "rank": 4,
+                "name": "O SES TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:08:17",
+                "end_time": "24:55:00",
+                "rating": 3.07,
+                "share": 9.97
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:15",
+                "end_time": "20:56:50",
+                "rating": 2.86,
+                "share": 9.38
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:09",
+                "end_time": "24:16:05",
+                "rating": 2.32,
+                "share": 6.58
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 2.24,
+                "share": 9.66
+            },
+            {
+                "rank": 8,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:07",
+                "end_time": "21:01:31",
+                "rating": 2.08,
+                "share": 6.77
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:51",
+                "rating": 1.82,
+                "share": 7.86
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:54",
+                "end_time": "20:44:09",
+                "rating": 1.79,
+                "share": 6.31
+            }
+        ]
+    }
+}
