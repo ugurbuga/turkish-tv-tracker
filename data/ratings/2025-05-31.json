@@ -1,0 +1,282 @@
+{
+    "date": "2025-05-31",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "PARIS SAINT GERMAIN-INTER UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:44:24",
+                "end_time": "24:03:22",
+                "rating": 6.12,
+                "share": 19.2
+            },
+            {
+                "rank": 2,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:44:12",
+                "end_time": "24:17:01",
+                "rating": 4.18,
+                "share": 13.13
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:00:33",
+                "end_time": "24:28:30",
+                "rating": 3.4,
+                "share": 11.19
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 2.84,
+                "share": 12.87
+            },
+            {
+                "rank": 5,
+                "name": "UEFA SAMPIYONLAR LIGI KUPA TORENI",
+                "channel": "TRT 1",
+                "start_time": "24:03:22",
+                "end_time": "24:17:19",
+                "rating": 2.75,
+                "share": 12.59
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:37:19",
+                "end_time": "24:15:55",
+                "rating": 2.69,
+                "share": 8.49
+            },
+            {
+                "rank": 7,
+                "name": "GONUL DAGI OZEL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "19:59:27",
+                "end_time": "21:29:58",
+                "rating": 2.57,
+                "share": 9.06
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "20:37:19",
+                "rating": 2.04,
+                "share": 7.99
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "20:00:09",
+                "rating": 1.95,
+                "share": 8.76
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:44",
+                "rating": 1.87,
+                "share": 8.4
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "PARIS SAINT GERMAIN-INTER UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:44:24",
+                "end_time": "24:03:22",
+                "rating": 7.82,
+                "share": 25.85
+            },
+            {
+                "rank": 2,
+                "name": "UEFA SAMPIYONLAR LIGI KUPA TORENI",
+                "channel": "TRT 1",
+                "start_time": "24:03:22",
+                "end_time": "24:17:19",
+                "rating": 3.7,
+                "share": 17.28
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:37:19",
+                "end_time": "24:15:55",
+                "rating": 3.16,
+                "share": 10.89
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:00:33",
+                "end_time": "24:28:30",
+                "rating": 2.45,
+                "share": 8.65
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "20:37:19",
+                "rating": 2.16,
+                "share": 11.14
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 1.89,
+                "share": 11.18
+            },
+            {
+                "rank": 7,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:44:12",
+                "end_time": "24:17:01",
+                "rating": 1.8,
+                "share": 6.18
+            },
+            {
+                "rank": 8,
+                "name": "GONUL DAGI OZEL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "19:59:27",
+                "end_time": "21:29:58",
+                "rating": 1.73,
+                "share": 7.6
+            },
+            {
+                "rank": 9,
+                "name": "GAZZE'YI GORUYORUM",
+                "channel": "TRT 1",
+                "start_time": "24:17:27",
+                "end_time": "24:45:14",
+                "rating": 1.58,
+                "share": 9.28
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "20:00:09",
+                "rating": 1.37,
+                "share": 8.03
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "PARIS SAINT GERMAIN-INTER UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:44:24",
+                "end_time": "24:03:22",
+                "rating": 6.62,
+                "share": 20.83
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:37:19",
+                "end_time": "24:15:55",
+                "rating": 3.58,
+                "share": 11.6
+            },
+            {
+                "rank": 3,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:44:12",
+                "end_time": "24:17:01",
+                "rating": 3.52,
+                "share": 11.32
+            },
+            {
+                "rank": 4,
+                "name": "UEFA SAMPIYONLAR LIGI KUPA TORENI",
+                "channel": "TRT 1",
+                "start_time": "24:03:22",
+                "end_time": "24:17:19",
+                "rating": 3.04,
+                "share": 13.74
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:00:33",
+                "end_time": "24:28:30",
+                "rating": 3.01,
+                "share": 10.04
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 2.48,
+                "share": 12.32
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "20:37:19",
+                "rating": 2.36,
+                "share": 10.13
+            },
+            {
+                "rank": 8,
+                "name": "GONUL DAGI OZEL (TKR)",
+                "channel": "TRT 1",
+                "start_time": "19:59:27",
+                "end_time": "21:29:58",
+                "rating": 2.15,
+                "share": 8.28
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:44",
+                "rating": 1.59,
+                "share": 7.88
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "20:00:09",
+                "rating": 1.59,
+                "share": 7.85
+            }
+        ]
+    }
+}
