@@ -1,0 +1,282 @@
+{
+    "date": "2025-05-01",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:28",
+                "end_time": "18:45:06",
+                "rating": 6.01,
+                "share": 25.59
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:51",
+                "rating": 5.39,
+                "share": 27.72
+            },
+            {
+                "rank": 3,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:29",
+                "end_time": "23:48:16",
+                "rating": 4.66,
+                "share": 13.01
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:20:35",
+                "end_time": "24:35:40",
+                "rating": 4.41,
+                "share": 13.53
+            },
+            {
+                "rank": 5,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:55:11",
+                "end_time": "24:13:18",
+                "rating": 4.29,
+                "share": 12.25
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.86,
+                "share": 12.69
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:02",
+                "end_time": "19:48:41",
+                "rating": 3.7,
+                "share": 12.17
+            },
+            {
+                "rank": 8,
+                "name": "CEM KARACA'NIN GOZYASLARI (T.S)",
+                "channel": "ATV",
+                "start_time": "19:59:50",
+                "end_time": "22:43:52",
+                "rating": 2.94,
+                "share": 8.09
+            },
+            {
+                "rank": 9,
+                "name": "HUDUTSUZ SEVDA (TKR)",
+                "channel": "NOW",
+                "start_time": "20:14:27",
+                "end_time": "22:41:02",
+                "rating": 2.88,
+                "share": 7.83
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:34:17",
+                "end_time": "21:18:13",
+                "rating": 2.84,
+                "share": 8.37
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:29",
+                "end_time": "23:48:16",
+                "rating": 5.02,
+                "share": 15.82
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:51",
+                "rating": 4.41,
+                "share": 24.07
+            },
+            {
+                "rank": 3,
+                "name": "ATHLETIC BILBAO-MANCHESTER UNITED UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:54:46",
+                "end_time": "24:02:46",
+                "rating": 3.95,
+                "share": 13.22
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:20:35",
+                "end_time": "24:35:40",
+                "rating": 3.5,
+                "share": 12.22
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.28,
+                "share": 12.51
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:28",
+                "end_time": "18:45:06",
+                "rating": 3.04,
+                "share": 15.01
+            },
+            {
+                "rank": 7,
+                "name": "CEM KARACA'NIN GOZYASLARI (T.S)",
+                "channel": "ATV",
+                "start_time": "19:59:50",
+                "end_time": "22:43:52",
+                "rating": 2.86,
+                "share": 9.18
+            },
+            {
+                "rank": 8,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:55:11",
+                "end_time": "24:13:18",
+                "rating": 2.48,
+                "share": 8.0
+            },
+            {
+                "rank": 9,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:59:18",
+                "rating": 2.31,
+                "share": 7.69
+            },
+            {
+                "rank": 10,
+                "name": "HUDUTSUZ SEVDA (TKR)",
+                "channel": "NOW",
+                "start_time": "20:14:27",
+                "end_time": "22:41:02",
+                "rating": 2.15,
+                "share": 6.78
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:29",
+                "end_time": "23:48:16",
+                "rating": 5.69,
+                "share": 15.96
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:51",
+                "rating": 5.14,
+                "share": 28.66
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:28",
+                "end_time": "18:45:06",
+                "rating": 4.71,
+                "share": 21.25
+            },
+            {
+                "rank": 4,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:55:11",
+                "end_time": "24:13:18",
+                "rating": 4.04,
+                "share": 11.59
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:20:35",
+                "end_time": "24:35:40",
+                "rating": 3.9,
+                "share": 12.15
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.6,
+                "share": 12.66
+            },
+            {
+                "rank": 7,
+                "name": "ATHLETIC BILBAO-MANCHESTER UNITED UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:54:46",
+                "end_time": "24:02:46",
+                "rating": 3.3,
+                "share": 9.81
+            },
+            {
+                "rank": 8,
+                "name": "CEM KARACA'NIN GOZYASLARI (T.S)",
+                "channel": "ATV",
+                "start_time": "19:59:50",
+                "end_time": "22:43:52",
+                "rating": 3.22,
+                "share": 9.24
+            },
+            {
+                "rank": 9,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:59:18",
+                "rating": 2.9,
+                "share": 8.83
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:02",
+                "end_time": "19:48:41",
+                "rating": 2.76,
+                "share": 9.7
+            }
+        ]
+    }
+}
