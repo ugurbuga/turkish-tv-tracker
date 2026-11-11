@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-06",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:29",
+                "end_time": "24:17:54",
+                "rating": 3.19,
+                "share": 13.84
+            },
+            {
+                "rank": 2,
+                "name": "YEDI BELA HUSNU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "21:49:54",
+                "rating": 1.89,
+                "share": 9.18
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 1.82,
+                "share": 10.47
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:57:12",
+                "end_time": "24:17:16",
+                "rating": 1.61,
+                "share": 6.92
+            },
+            {
+                "rank": 5,
+                "name": "SIVRI AKILLILAR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:50:10",
+                "end_time": "23:33:31",
+                "rating": 1.52,
+                "share": 6.31
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:25:07",
+                "end_time": "24:15:48",
+                "rating": 1.37,
+                "share": 6.16
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "20:00:06",
+                "rating": 1.34,
+                "share": 7.71
+            },
+            {
+                "rank": 8,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:30:24",
+                "end_time": "22:23:51",
+                "rating": 1.3,
+                "share": 5.85
+            },
+            {
+                "rank": 9,
+                "name": "LEYLA HAYAT... ASK... ADALET... (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "23:09:22",
+                "rating": 1.23,
+                "share": 5.49
+            },
+            {
+                "rank": 10,
+                "name": "JOHN WICK (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "21:52:49",
+                "end_time": "23:43:43",
+                "rating": 1.2,
+                "share": 5.02
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:29",
+                "end_time": "24:17:54",
+                "rating": 3.41,
+                "share": 16.4
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:57:12",
+                "end_time": "24:17:16",
+                "rating": 1.62,
+                "share": 7.72
+            },
+            {
+                "rank": 3,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:30:24",
+                "end_time": "22:23:51",
+                "rating": 1.28,
+                "share": 6.44
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 1.06,
+                "share": 7.46
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "20:00:06",
+                "rating": 0.99,
+                "share": 6.96
+            },
+            {
+                "rank": 6,
+                "name": "JOHN WICK (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "21:52:49",
+                "end_time": "23:43:43",
+                "rating": 0.98,
+                "share": 4.53
+            },
+            {
+                "rank": 7,
+                "name": "NEFES YER EKSI IKI (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:18",
+                "end_time": "22:24:13",
+                "rating": 0.95,
+                "share": 4.9
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "19:59:56",
+                "rating": 0.92,
+                "share": 6.38
+            },
+            {
+                "rank": 9,
+                "name": "NEFES YER EKSI IKI (T.S) (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:24:21",
+                "end_time": "24:27:36",
+                "rating": 0.89,
+                "share": 4.59
+            },
+            {
+                "rank": 10,
+                "name": "664.TARIHI KIRKPINAR YAGLI GURESLERI",
+                "channel": "TRT SPOR",
+                "start_time": "14:44:40",
+                "end_time": "19:25:44",
+                "rating": 0.85,
+                "share": 6.72
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:29",
+                "end_time": "24:17:54",
+                "rating": 3.54,
+                "share": 15.44
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:57:12",
+                "end_time": "24:17:16",
+                "rating": 1.63,
+                "share": 7.03
+            },
+            {
+                "rank": 3,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:30:24",
+                "end_time": "22:23:51",
+                "rating": 1.52,
+                "share": 7.04
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 1.47,
+                "share": 8.76
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "12:48:43",
+                "end_time": "14:40:24",
+                "rating": 1.37,
+                "share": 9.61
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "20:00:06",
+                "rating": 1.31,
+                "share": 7.82
+            },
+            {
+                "rank": 7,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:25:07",
+                "end_time": "24:15:48",
+                "rating": 1.31,
+                "share": 5.79
+            },
+            {
+                "rank": 8,
+                "name": "JOHN WICK (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "21:52:49",
+                "end_time": "23:43:43",
+                "rating": 1.28,
+                "share": 5.38
+            },
+            {
+                "rank": 9,
+                "name": "YEDI BELA HUSNU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "21:49:54",
+                "rating": 1.28,
+                "share": 6.37
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "19:59:56",
+                "rating": 1.26,
+                "share": 7.46
+            }
+        ]
+    }
+}

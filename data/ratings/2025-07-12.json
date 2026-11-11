@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:02:19",
+                "end_time": "24:20:29",
+                "rating": 3.18,
+                "share": 14.97
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:15",
+                "rating": 1.96,
+                "share": 12.08
+            },
+            {
+                "rank": 3,
+                "name": "TURKIYE-ITALYA FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:50:19",
+                "end_time": "22:23:14",
+                "rating": 1.73,
+                "share": 8.58
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:41:38",
+                "end_time": "23:54:08",
+                "rating": 1.69,
+                "share": 7.89
+            },
+            {
+                "rank": 5,
+                "name": "CAKALLARLA DANS 5 (T.S)",
+                "channel": "ATV",
+                "start_time": "21:44:42",
+                "end_time": "23:33:59",
+                "rating": 1.5,
+                "share": 6.79
+            },
+            {
+                "rank": 6,
+                "name": "MADALYON (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "21:44:21",
+                "rating": 1.37,
+                "share": 7.08
+            },
+            {
+                "rank": 7,
+                "name": "YALANCI YARIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:18",
+                "end_time": "21:55:59",
+                "rating": 1.23,
+                "share": 6.21
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:45:01",
+                "end_time": "21:02:19",
+                "rating": 1.09,
+                "share": 6.34
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "20:41:38",
+                "rating": 1.03,
+                "share": 5.7
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:47",
+                "rating": 0.98,
+                "share": 6.05
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:02:19",
+                "end_time": "24:20:29",
+                "rating": 2.82,
+                "share": 15.12
+            },
+            {
+                "rank": 2,
+                "name": "TURKIYE-ITALYA FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:50:19",
+                "end_time": "22:23:14",
+                "rating": 2.08,
+                "share": 12.43
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:41:38",
+                "end_time": "23:54:08",
+                "rating": 2.05,
+                "share": 10.81
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:45:01",
+                "end_time": "21:02:19",
+                "rating": 1.42,
+                "share": 9.74
+            },
+            {
+                "rank": 5,
+                "name": "SURPRIZ KUTUSU",
+                "channel": "TRT COCUK",
+                "start_time": "17:21:57",
+                "end_time": "17:37:56",
+                "rating": 1.25,
+                "share": 9.85
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "20:41:38",
+                "rating": 1.1,
+                "share": 7.38
+            },
+            {
+                "rank": 7,
+                "name": "ASLAN'IN DENEY ODASI",
+                "channel": "TRT COCUK",
+                "start_time": "11:27:53",
+                "end_time": "11:31:01",
+                "rating": 1.05,
+                "share": 8.12
+            },
+            {
+                "rank": 8,
+                "name": "IBI",
+                "channel": "TRT COCUK",
+                "start_time": "16:56:01",
+                "end_time": "17:21:19",
+                "rating": 1.05,
+                "share": 8.14
+            },
+            {
+                "rank": 9,
+                "name": "TRAFIK TAYFA",
+                "channel": "TRT COCUK",
+                "start_time": "16:40:34",
+                "end_time": "16:55:34",
+                "rating": 1.04,
+                "share": 8.66
+            },
+            {
+                "rank": 10,
+                "name": "YA SONRA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "23:55:25",
+                "end_time": "25:47:28",
+                "rating": 1.01,
+                "share": 8.94
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:02:19",
+                "end_time": "24:20:29",
+                "rating": 3.46,
+                "share": 16.93
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:41:38",
+                "end_time": "23:54:08",
+                "rating": 2.3,
+                "share": 11.1
+            },
+            {
+                "rank": 3,
+                "name": "TURKIYE-ITALYA FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:50:19",
+                "end_time": "22:23:14",
+                "rating": 2.17,
+                "share": 11.68
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:15",
+                "rating": 1.52,
+                "share": 10.04
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:45:01",
+                "end_time": "21:02:19",
+                "rating": 1.46,
+                "share": 9.2
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "20:41:38",
+                "rating": 1.42,
+                "share": 8.54
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:47",
+                "rating": 1.15,
+                "share": 7.68
+            },
+            {
+                "rank": 8,
+                "name": "ZOR OLUM 4 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "22:59:59",
+                "end_time": "25:09:37",
+                "rating": 1.08,
+                "share": 6.59
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "19:59:43",
+                "rating": 1.06,
+                "share": 7.08
+            },
+            {
+                "rank": 10,
+                "name": "SET SAYISI",
+                "channel": "TRT 1",
+                "start_time": "22:23:27",
+                "end_time": "22:47:16",
+                "rating": 0.94,
+                "share": 4.25
+            }
+        ]
+    }
+}

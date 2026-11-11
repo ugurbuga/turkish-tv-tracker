@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:16",
+                "end_time": "24:17:57",
+                "rating": 3.15,
+                "share": 13.39
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:01",
+                "rating": 2.16,
+                "share": 12.28
+            },
+            {
+                "rank": 3,
+                "name": "FLUMINENSE-CHELSEA FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:02",
+                "end_time": "24:09:37",
+                "rating": 1.93,
+                "share": 8.43
+            },
+            {
+                "rank": 4,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:03",
+                "end_time": "21:42:34",
+                "rating": 1.82,
+                "share": 8.44
+            },
+            {
+                "rank": 5,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:09",
+                "end_time": "23:57:39",
+                "rating": 1.8,
+                "share": 7.48
+            },
+            {
+                "rank": 6,
+                "name": "POSTACI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:12:17",
+                "end_time": "21:46:02",
+                "rating": 1.73,
+                "share": 7.81
+            },
+            {
+                "rank": 7,
+                "name": "YETENEK SIZSINIZ OZET",
+                "channel": "NOW",
+                "start_time": "20:00:06",
+                "end_time": "20:58:04",
+                "rating": 1.69,
+                "share": 7.99
+            },
+            {
+                "rank": 8,
+                "name": "CARIKLI MILYONER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:42:50",
+                "end_time": "23:34:15",
+                "rating": 1.58,
+                "share": 6.45
+            },
+            {
+                "rank": 9,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:56:50",
+                "end_time": "23:01:30",
+                "rating": 1.41,
+                "share": 5.92
+            },
+            {
+                "rank": 10,
+                "name": "POSTACI (T.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:46:26",
+                "end_time": "23:33:55",
+                "rating": 1.39,
+                "share": 5.63
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:16",
+                "end_time": "24:17:57",
+                "rating": 3.48,
+                "share": 15.95
+            },
+            {
+                "rank": 2,
+                "name": "FLUMINENSE-CHELSEA FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:02",
+                "end_time": "24:09:37",
+                "rating": 3.11,
+                "share": 13.96
+            },
+            {
+                "rank": 3,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:56:50",
+                "end_time": "23:01:30",
+                "rating": 2.1,
+                "share": 9.25
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:01",
+                "rating": 1.72,
+                "share": 11.43
+            },
+            {
+                "rank": 5,
+                "name": "YETENEK SIZSINIZ OZET",
+                "channel": "NOW",
+                "start_time": "20:00:06",
+                "end_time": "20:58:04",
+                "rating": 1.5,
+                "share": 7.85
+            },
+            {
+                "rank": 6,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:09",
+                "end_time": "23:57:39",
+                "rating": 1.37,
+                "share": 6.08
+            },
+            {
+                "rank": 7,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:03",
+                "end_time": "21:42:34",
+                "rating": 1.23,
+                "share": 6.46
+            },
+            {
+                "rank": 8,
+                "name": "CARIKLI MILYONER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:42:50",
+                "end_time": "23:34:15",
+                "rating": 1.11,
+                "share": 4.72
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:50",
+                "end_time": "20:59:16",
+                "rating": 1.09,
+                "share": 6.39
+            },
+            {
+                "rank": 10,
+                "name": "OLDURME ARZUSU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "19:59:46",
+                "end_time": "21:46:50",
+                "rating": 1.06,
+                "share": 5.39
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:16",
+                "end_time": "24:17:57",
+                "rating": 3.65,
+                "share": 15.51
+            },
+            {
+                "rank": 2,
+                "name": "FLUMINENSE-CHELSEA FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:02",
+                "end_time": "24:09:37",
+                "rating": 2.62,
+                "share": 11.24
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:01",
+                "rating": 2.04,
+                "share": 11.99
+            },
+            {
+                "rank": 4,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:56:50",
+                "end_time": "23:01:30",
+                "rating": 1.78,
+                "share": 7.41
+            },
+            {
+                "rank": 5,
+                "name": "POSTACI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:12:17",
+                "end_time": "21:46:02",
+                "rating": 1.66,
+                "share": 7.51
+            },
+            {
+                "rank": 6,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:03",
+                "end_time": "21:42:34",
+                "rating": 1.56,
+                "share": 7.25
+            },
+            {
+                "rank": 7,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:58:09",
+                "end_time": "23:57:39",
+                "rating": 1.48,
+                "share": 6.13
+            },
+            {
+                "rank": 8,
+                "name": "OLDURME ARZUSU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "19:59:46",
+                "end_time": "21:46:50",
+                "rating": 1.37,
+                "share": 6.15
+            },
+            {
+                "rank": 9,
+                "name": "POSTACI (T.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:46:26",
+                "end_time": "23:33:55",
+                "rating": 1.29,
+                "share": 5.15
+            },
+            {
+                "rank": 10,
+                "name": "YETENEK SIZSINIZ OZET",
+                "channel": "NOW",
+                "start_time": "20:00:06",
+                "end_time": "20:58:04",
+                "rating": 1.23,
+                "share": 5.76
+            }
+        ]
+    }
+}
