@@ -1,0 +1,282 @@
+{
+    "date": "2025-01-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:44:00",
+                "rating": 8.57,
+                "share": 22.17
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:51:37",
+                "end_time": "24:19:24",
+                "rating": 4.39,
+                "share": 11.76
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:08",
+                "end_time": "21:00:05",
+                "rating": 4.29,
+                "share": 11.16
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:02",
+                "rating": 4.19,
+                "share": 11.95
+            },
+            {
+                "rank": 5,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:57:38",
+                "end_time": "23:17:45",
+                "rating": 3.38,
+                "share": 8.47
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:43",
+                "rating": 3.29,
+                "share": 9.42
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "20:00:19",
+                "rating": 2.99,
+                "share": 8.51
+            },
+            {
+                "rank": 8,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:13",
+                "end_time": "18:58:33",
+                "rating": 2.5,
+                "share": 7.89
+            },
+            {
+                "rank": 9,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:14:47",
+                "end_time": "22:50:40",
+                "rating": 2.48,
+                "share": 6.28
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "23:44:43",
+                "rating": 2.41,
+                "share": 6.26
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:44:00",
+                "rating": 6.58,
+                "share": 17.88
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:02",
+                "rating": 4.37,
+                "share": 15.23
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "23:44:43",
+                "rating": 3.2,
+                "share": 8.87
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:51:37",
+                "end_time": "24:19:24",
+                "rating": 3.16,
+                "share": 8.89
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:08",
+                "end_time": "21:00:05",
+                "rating": 2.97,
+                "share": 8.66
+            },
+            {
+                "rank": 6,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:14:47",
+                "end_time": "22:50:40",
+                "rating": 2.6,
+                "share": 7.12
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:43",
+                "rating": 2.58,
+                "share": 9.03
+            },
+            {
+                "rank": 8,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:57:38",
+                "end_time": "23:17:45",
+                "rating": 2.45,
+                "share": 6.49
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:27",
+                "rating": 2.07,
+                "share": 8.26
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "20:00:19",
+                "rating": 1.84,
+                "share": 6.39
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:44:00",
+                "rating": 8.94,
+                "share": 22.57
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:08",
+                "end_time": "21:00:05",
+                "rating": 4.5,
+                "share": 11.76
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:02",
+                "rating": 4.34,
+                "share": 12.8
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:51:37",
+                "end_time": "24:19:24",
+                "rating": 4.21,
+                "share": 10.98
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:43",
+                "rating": 3.75,
+                "share": 11.12
+            },
+            {
+                "rank": 6,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:57:38",
+                "end_time": "23:17:45",
+                "rating": 3.26,
+                "share": 8.0
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "23:44:43",
+                "rating": 2.99,
+                "share": 7.65
+            },
+            {
+                "rank": 8,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:27",
+                "rating": 2.66,
+                "share": 9.09
+            },
+            {
+                "rank": 9,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:14:47",
+                "end_time": "22:50:40",
+                "rating": 2.64,
+                "share": 6.62
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "20:00:19",
+                "rating": 2.11,
+                "share": 6.22
+            }
+        ]
+    }
+}

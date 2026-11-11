@@ -1,0 +1,282 @@
+{
+    "date": "2024-12-27",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "20:52:07",
+                "end_time": "24:18:59",
+                "rating": 10.69,
+                "share": 27.62
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:08",
+                "end_time": "18:45:21",
+                "rating": 6.53,
+                "share": 26.26
+            },
+            {
+                "rank": 3,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "20:52:07",
+                "rating": 5.44,
+                "share": 13.99
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 4.95,
+                "share": 14.42
+            },
+            {
+                "rank": 5,
+                "name": "YALI CAPKINI",
+                "channel": "STAR TV",
+                "start_time": "20:58:35",
+                "end_time": "24:14:35",
+                "rating": 4.87,
+                "share": 12.66
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:16",
+                "end_time": "12:59:55",
+                "rating": 4.34,
+                "share": 29.64
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:57",
+                "end_time": "19:54:36",
+                "rating": 4.11,
+                "share": 11.97
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:40:03",
+                "end_time": "24:22:13",
+                "rating": 3.59,
+                "share": 9.41
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:47",
+                "rating": 3.28,
+                "share": 9.56
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:33:14",
+                "end_time": "21:18:46",
+                "rating": 3.09,
+                "share": 8.15
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "20:52:07",
+                "end_time": "24:18:59",
+                "rating": 12.75,
+                "share": 36.34
+            },
+            {
+                "rank": 2,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "20:52:07",
+                "rating": 5.99,
+                "share": 18.39
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 4.27,
+                "share": 15.13
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:08",
+                "end_time": "18:45:21",
+                "rating": 3.42,
+                "share": 19.07
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:40:03",
+                "end_time": "24:22:13",
+                "rating": 2.99,
+                "share": 8.68
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:16",
+                "end_time": "12:59:55",
+                "rating": 2.6,
+                "share": 23.38
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:47",
+                "rating": 2.28,
+                "share": 8.09
+            },
+            {
+                "rank": 8,
+                "name": "YALI CAPKINI",
+                "channel": "STAR TV",
+                "start_time": "20:58:35",
+                "end_time": "24:14:35",
+                "rating": 2.27,
+                "share": 6.52
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:42",
+                "end_time": "24:15:39",
+                "rating": 2.17,
+                "share": 6.17
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:57",
+                "end_time": "19:54:36",
+                "rating": 1.81,
+                "share": 6.41
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "20:52:07",
+                "end_time": "24:18:59",
+                "rating": 13.61,
+                "share": 33.73
+            },
+            {
+                "rank": 2,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "20:52:07",
+                "rating": 6.37,
+                "share": 16.99
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:08",
+                "end_time": "18:45:21",
+                "rating": 4.92,
+                "share": 23.13
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 4.62,
+                "share": 14.23
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:40:03",
+                "end_time": "24:22:13",
+                "rating": 4.17,
+                "share": 10.53
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:16",
+                "end_time": "12:59:55",
+                "rating": 4.08,
+                "share": 28.72
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:47",
+                "rating": 3.47,
+                "share": 10.7
+            },
+            {
+                "rank": 8,
+                "name": "YALI CAPKINI",
+                "channel": "STAR TV",
+                "start_time": "20:58:35",
+                "end_time": "24:14:35",
+                "rating": 3.4,
+                "share": 8.47
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:57",
+                "end_time": "19:54:36",
+                "rating": 3.11,
+                "share": 9.56
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:42",
+                "end_time": "24:15:39",
+                "rating": 2.5,
+                "share": 6.18
+            }
+        ]
+    }
+}

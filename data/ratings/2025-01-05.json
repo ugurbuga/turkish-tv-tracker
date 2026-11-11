@@ -1,0 +1,282 @@
+{
+    "date": "2025-01-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KIYAMETTEN SONRA (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:28",
+                "end_time": "21:49:01",
+                "rating": 5.26,
+                "share": 13.38
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:56:05",
+                "end_time": "24:16:27",
+                "rating": 5.13,
+                "share": 14.42
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 4.38,
+                "share": 12.52
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:11",
+                "end_time": "23:18:36",
+                "rating": 3.82,
+                "share": 10.0
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "20:00:03",
+                "rating": 3.23,
+                "share": 9.23
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:45",
+                "end_time": "20:00:07",
+                "rating": 2.95,
+                "share": 8.38
+            },
+            {
+                "rank": 7,
+                "name": "KIYAMETTEN SONRA (Y.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:49:24",
+                "end_time": "23:39:42",
+                "rating": 2.94,
+                "share": 8.28
+            },
+            {
+                "rank": 8,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:11",
+                "end_time": "22:33:35",
+                "rating": 2.45,
+                "share": 6.29
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:31",
+                "rating": 2.29,
+                "share": 7.42
+            },
+            {
+                "rank": 10,
+                "name": "COK GUZEL HAREKETLER 2 OZEL",
+                "channel": "STAR TV",
+                "start_time": "19:59:35",
+                "end_time": "23:40:19",
+                "rating": 2.27,
+                "share": 6.21
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KIYAMETTEN SONRA (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:28",
+                "end_time": "21:49:01",
+                "rating": 4.78,
+                "share": 12.29
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 4.72,
+                "share": 14.71
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:56:05",
+                "end_time": "24:16:27",
+                "rating": 4.1,
+                "share": 11.59
+            },
+            {
+                "rank": 4,
+                "name": "KIYAMETTEN SONRA (Y.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:49:24",
+                "end_time": "23:39:42",
+                "rating": 3.56,
+                "share": 10.06
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:11",
+                "end_time": "23:18:36",
+                "rating": 2.97,
+                "share": 7.81
+            },
+            {
+                "rank": 6,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:11",
+                "end_time": "22:33:35",
+                "rating": 2.95,
+                "share": 7.66
+            },
+            {
+                "rank": 7,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:31",
+                "rating": 2.41,
+                "share": 9.32
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "22:37:55",
+                "rating": 2.36,
+                "share": 6.05
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "20:00:03",
+                "rating": 2.08,
+                "share": 6.49
+            },
+            {
+                "rank": 10,
+                "name": "COK GUZEL HAREKETLER 2 OZEL",
+                "channel": "STAR TV",
+                "start_time": "19:59:35",
+                "end_time": "23:40:19",
+                "rating": 2.04,
+                "share": 5.64
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KIYAMETTEN SONRA (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:28",
+                "end_time": "21:49:01",
+                "rating": 5.46,
+                "share": 12.82
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:56:05",
+                "end_time": "24:16:27",
+                "rating": 5.25,
+                "share": 13.5
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 4.87,
+                "share": 13.31
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:11",
+                "end_time": "23:18:36",
+                "rating": 3.51,
+                "share": 8.43
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "20:00:03",
+                "rating": 3.22,
+                "share": 8.83
+            },
+            {
+                "rank": 6,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:31",
+                "rating": 3.03,
+                "share": 9.57
+            },
+            {
+                "rank": 7,
+                "name": "KIYAMETTEN SONRA (Y.S) (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:49:24",
+                "end_time": "23:39:42",
+                "rating": 3.02,
+                "share": 7.76
+            },
+            {
+                "rank": 8,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:11",
+                "end_time": "22:33:35",
+                "rating": 2.85,
+                "share": 6.75
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:45",
+                "end_time": "20:00:07",
+                "rating": 2.75,
+                "share": 7.51
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "22:37:55",
+                "rating": 2.4,
+                "share": 5.64
+            }
+        ]
+    }
+}

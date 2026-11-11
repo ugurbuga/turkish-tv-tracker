@@ -1,0 +1,282 @@
+{
+    "date": "2024-12-31",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "O SES TURKIYE YILBASI OZEL",
+                "channel": "TV8",
+                "start_time": "19:44:19",
+                "end_time": "25:25:10",
+                "rating": 8.14,
+                "share": 21.95
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:27",
+                "end_time": "18:50:43",
+                "rating": 6.55,
+                "share": 27.27
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "13:00:01",
+                "rating": 4.88,
+                "share": 34.18
+            },
+            {
+                "rank": 4,
+                "name": "MILLI PIYANGO YILBASI OZEL",
+                "channel": "KANAL D",
+                "start_time": "23:15:07",
+                "end_time": "23:25:12",
+                "rating": 4.56,
+                "share": 11.75
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:56",
+                "rating": 3.88,
+                "share": 11.24
+            },
+            {
+                "rank": 6,
+                "name": "SARKILAR BIZI SOYLER YILBASI OZEL",
+                "channel": "KANAL D",
+                "start_time": "20:14:38",
+                "end_time": "24:30:12",
+                "rating": 3.87,
+                "share": 9.83
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:02",
+                "end_time": "19:54:46",
+                "rating": 3.82,
+                "share": 11.1
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:17",
+                "end_time": "19:59:47",
+                "rating": 3.13,
+                "share": 9.07
+            },
+            {
+                "rank": 9,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:43:38",
+                "end_time": "21:09:07",
+                "rating": 2.96,
+                "share": 7.61
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:58",
+                "end_time": "20:00:08",
+                "rating": 2.88,
+                "share": 8.32
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "O SES TURKIYE YILBASI OZEL",
+                "channel": "TV8",
+                "start_time": "19:44:19",
+                "end_time": "25:25:10",
+                "rating": 10.54,
+                "share": 27.48
+            },
+            {
+                "rank": 2,
+                "name": "MILLI PIYANGO YILBASI OZEL",
+                "channel": "KANAL D",
+                "start_time": "23:15:07",
+                "end_time": "23:25:12",
+                "rating": 4.38,
+                "share": 10.36
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:27",
+                "end_time": "18:50:43",
+                "rating": 3.76,
+                "share": 19.95
+            },
+            {
+                "rank": 4,
+                "name": "SARKILAR BIZI SOYLER YILBASI OZEL",
+                "channel": "KANAL D",
+                "start_time": "20:14:38",
+                "end_time": "24:30:12",
+                "rating": 3.48,
+                "share": 8.67
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "13:00:01",
+                "rating": 3.42,
+                "share": 27.7
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:56",
+                "rating": 3.25,
+                "share": 11.32
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "24:51:33",
+                "rating": 2.57,
+                "share": 6.59
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "19:59:59",
+                "end_time": "25:45:37",
+                "rating": 2.53,
+                "share": 6.99
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:02",
+                "end_time": "19:54:46",
+                "rating": 2.35,
+                "share": 8.23
+            },
+            {
+                "rank": 10,
+                "name": "LINGO TURKIYE YILBASI OZEL",
+                "channel": "TRT 1",
+                "start_time": "20:00:28",
+                "end_time": "24:02:05",
+                "rating": 2.19,
+                "share": 5.41
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "O SES TURKIYE YILBASI OZEL",
+                "channel": "TV8",
+                "start_time": "19:44:19",
+                "end_time": "25:25:10",
+                "rating": 9.93,
+                "share": 25.43
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:27",
+                "end_time": "18:50:43",
+                "rating": 5.96,
+                "share": 26.12
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "13:00:01",
+                "rating": 4.95,
+                "share": 33.18
+            },
+            {
+                "rank": 4,
+                "name": "MILLI PIYANGO YILBASI OZEL",
+                "channel": "KANAL D",
+                "start_time": "23:15:07",
+                "end_time": "23:25:12",
+                "rating": 4.39,
+                "share": 10.71
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:56",
+                "rating": 3.71,
+                "share": 11.21
+            },
+            {
+                "rank": 6,
+                "name": "SARKILAR BIZI SOYLER YILBASI OZEL",
+                "channel": "KANAL D",
+                "start_time": "20:14:38",
+                "end_time": "24:30:12",
+                "rating": 3.62,
+                "share": 8.79
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:02",
+                "end_time": "19:54:46",
+                "rating": 3.35,
+                "share": 10.18
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:17",
+                "end_time": "19:59:47",
+                "rating": 2.97,
+                "share": 8.98
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "19:59:59",
+                "end_time": "25:45:37",
+                "rating": 2.71,
+                "share": 7.39
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "24:51:33",
+                "rating": 2.68,
+                "share": 6.75
+            }
+        ]
+    }
+}
