@@ -1,0 +1,282 @@
+{
+    "date": "2024-11-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "AZ ALKMAAR-GALATASARAY UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:39:14",
+                "end_time": "22:49:27",
+                "rating": 9.94,
+                "share": 23.15
+            },
+            {
+                "rank": 2,
+                "name": "SLAVIA PRAG-FENERBAHCE UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:54:35",
+                "end_time": "25:03:04",
+                "rating": 8.34,
+                "share": 29.2
+            },
+            {
+                "rank": 3,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "23:55:13",
+                "end_time": "24:00:24",
+                "rating": 5.63,
+                "share": 20.37
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:43",
+                "end_time": "18:46:15",
+                "rating": 5.5,
+                "share": 23.18
+            },
+            {
+                "rank": 5,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "21:42:11",
+                "end_time": "21:46:21",
+                "rating": 5.08,
+                "share": 11.64
+            },
+            {
+                "rank": 6,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:38",
+                "end_time": "23:50:43",
+                "rating": 5.04,
+                "share": 12.2
+            },
+            {
+                "rank": 7,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:58:12",
+                "end_time": "23:45:05",
+                "rating": 4.5,
+                "share": 10.73
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:52",
+                "rating": 4.48,
+                "share": 13.12
+            },
+            {
+                "rank": 9,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:58",
+                "end_time": "12:59:46",
+                "rating": 4.42,
+                "share": 30.99
+            },
+            {
+                "rank": 10,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "21:00:34",
+                "end_time": "24:17:23",
+                "rating": 4.21,
+                "share": 10.36
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "AZ ALKMAAR-GALATASARAY UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:39:14",
+                "end_time": "22:49:27",
+                "rating": 12.95,
+                "share": 30.15
+            },
+            {
+                "rank": 2,
+                "name": "SLAVIA PRAG-FENERBAHCE UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:54:35",
+                "end_time": "25:03:04",
+                "rating": 11.24,
+                "share": 38.7
+            },
+            {
+                "rank": 3,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "23:55:13",
+                "end_time": "24:00:24",
+                "rating": 8.14,
+                "share": 28.75
+            },
+            {
+                "rank": 4,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "21:42:11",
+                "end_time": "21:46:21",
+                "rating": 6.98,
+                "share": 15.96
+            },
+            {
+                "rank": 5,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:38",
+                "end_time": "23:50:43",
+                "rating": 6.24,
+                "share": 14.83
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:52",
+                "rating": 3.81,
+                "share": 12.9
+            },
+            {
+                "rank": 7,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:59:27",
+                "rating": 3.75,
+                "share": 9.88
+            },
+            {
+                "rank": 8,
+                "name": "BESIKTAS-MACCABI TEL AVIV UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "20:39:17",
+                "end_time": "22:46:00",
+                "rating": 3.5,
+                "share": 8.13
+            },
+            {
+                "rank": 9,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:58",
+                "end_time": "12:59:46",
+                "rating": 3.49,
+                "share": 26.42
+            },
+            {
+                "rank": 10,
+                "name": "MAC OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "21:38:46",
+                "end_time": "21:48:40",
+                "rating": 3.35,
+                "share": 7.65
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "AZ ALKMAAR-GALATASARAY UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:39:14",
+                "end_time": "22:49:27",
+                "rating": 12.29,
+                "share": 26.43
+            },
+            {
+                "rank": 2,
+                "name": "SLAVIA PRAG-FENERBAHCE UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:54:35",
+                "end_time": "25:03:04",
+                "rating": 10.95,
+                "share": 34.84
+            },
+            {
+                "rank": 3,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "23:55:13",
+                "end_time": "24:00:24",
+                "rating": 7.8,
+                "share": 25.24
+            },
+            {
+                "rank": 4,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:38",
+                "end_time": "23:50:43",
+                "rating": 7.16,
+                "share": 15.82
+            },
+            {
+                "rank": 5,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "21:42:11",
+                "end_time": "21:46:21",
+                "rating": 6.61,
+                "share": 13.91
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:58",
+                "end_time": "12:59:46",
+                "rating": 4.88,
+                "share": 31.95
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:43",
+                "end_time": "18:46:15",
+                "rating": 4.71,
+                "share": 21.22
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:52",
+                "rating": 4.54,
+                "share": 13.13
+            },
+            {
+                "rank": 9,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:59:27",
+                "rating": 4.35,
+                "share": 10.3
+            },
+            {
+                "rank": 10,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "21:00:34",
+                "end_time": "24:17:23",
+                "rating": 3.79,
+                "share": 8.52
+            }
+        ]
+    }
+}
