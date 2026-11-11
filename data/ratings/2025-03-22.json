@@ -1,0 +1,282 @@
+{
+    "date": "2025-03-22",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:56:55",
+                "end_time": "23:54:47",
+                "rating": 6.64,
+                "share": 17.45
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 4.25,
+                "share": 13.29
+            },
+            {
+                "rank": 3,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "21:00:01",
+                "end_time": "24:16:28",
+                "rating": 4.17,
+                "share": 11.05
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:02:05",
+                "end_time": "20:56:55",
+                "rating": 4.03,
+                "share": 11.4
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:38:58",
+                "end_time": "19:59:41",
+                "rating": 2.81,
+                "share": 8.41
+            },
+            {
+                "rank": 6,
+                "name": "PIYASA",
+                "channel": "KANAL D",
+                "start_time": "21:00:13",
+                "end_time": "24:15:21",
+                "rating": 2.79,
+                "share": 7.41
+            },
+            {
+                "rank": 7,
+                "name": "CAN BORCU (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "21:00:01",
+                "rating": 2.69,
+                "share": 7.6
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:14",
+                "end_time": "23:40:00",
+                "rating": 2.64,
+                "share": 6.91
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "20:42:14",
+                "rating": 2.62,
+                "share": 7.48
+            },
+            {
+                "rank": 10,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:34:23",
+                "end_time": "20:01:52",
+                "rating": 2.58,
+                "share": 7.76
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:56:55",
+                "end_time": "23:54:47",
+                "rating": 4.67,
+                "share": 12.7
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 3.24,
+                "share": 11.07
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:14",
+                "end_time": "23:40:00",
+                "rating": 3.13,
+                "share": 8.49
+            },
+            {
+                "rank": 4,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "21:00:01",
+                "end_time": "24:16:28",
+                "rating": 2.93,
+                "share": 8.02
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:02:05",
+                "end_time": "20:56:55",
+                "rating": 2.84,
+                "share": 8.62
+            },
+            {
+                "rank": 6,
+                "name": "O SES TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:17",
+                "end_time": "24:17:19",
+                "rating": 2.39,
+                "share": 6.61
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "20:42:14",
+                "rating": 2.38,
+                "share": 7.31
+            },
+            {
+                "rank": 8,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "18:00:14",
+                "end_time": "19:34:10",
+                "rating": 2.36,
+                "share": 8.97
+            },
+            {
+                "rank": 9,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:34:23",
+                "end_time": "20:01:52",
+                "rating": 2.27,
+                "share": 7.64
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:38:58",
+                "end_time": "19:59:41",
+                "rating": 1.93,
+                "share": 6.46
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:56:55",
+                "end_time": "23:54:47",
+                "rating": 6.79,
+                "share": 17.17
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:02:05",
+                "end_time": "20:56:55",
+                "rating": 4.2,
+                "share": 11.97
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 3.86,
+                "share": 12.56
+            },
+            {
+                "rank": 4,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "21:00:01",
+                "end_time": "24:16:28",
+                "rating": 3.51,
+                "share": 8.99
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:14",
+                "end_time": "23:40:00",
+                "rating": 3.11,
+                "share": 7.88
+            },
+            {
+                "rank": 6,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:34:23",
+                "end_time": "20:01:52",
+                "rating": 2.86,
+                "share": 8.82
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "20:42:14",
+                "rating": 2.68,
+                "share": 7.72
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:38:58",
+                "end_time": "19:59:41",
+                "rating": 2.66,
+                "share": 8.17
+            },
+            {
+                "rank": 9,
+                "name": "O SES TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:51:17",
+                "end_time": "24:17:19",
+                "rating": 2.52,
+                "share": 6.53
+            },
+            {
+                "rank": 10,
+                "name": "CAN BORCU (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "21:00:01",
+                "rating": 2.4,
+                "share": 6.84
+            }
+        ]
+    }
+}

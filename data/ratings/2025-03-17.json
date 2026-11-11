@@ -1,0 +1,282 @@
+{
+    "date": "2025-03-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "UZAK SEHIR",
+                "channel": "KANAL D",
+                "start_time": "20:59:49",
+                "end_time": "24:17:44",
+                "rating": 16.15,
+                "share": 40.6
+            },
+            {
+                "rank": 2,
+                "name": "UZAK SEHIR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "20:59:38",
+                "rating": 8.71,
+                "share": 23.26
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:17",
+                "end_time": "18:44:04",
+                "rating": 5.28,
+                "share": 23.96
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.92,
+                "share": 11.61
+            },
+            {
+                "rank": 5,
+                "name": "KIZIL GONCALAR",
+                "channel": "NOW",
+                "start_time": "20:59:05",
+                "end_time": "24:17:34",
+                "rating": 3.63,
+                "share": 9.11
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:34:39",
+                "end_time": "24:21:03",
+                "rating": 3.61,
+                "share": 9.37
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:55",
+                "end_time": "13:00:14",
+                "rating": 3.31,
+                "share": 30.52
+            },
+            {
+                "rank": 8,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE IFTAR",
+                "channel": "ATV",
+                "start_time": "18:44:19",
+                "end_time": "19:33:09",
+                "rating": 3.19,
+                "share": 9.69
+            },
+            {
+                "rank": 9,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "20:57:47",
+                "end_time": "23:44:21",
+                "rating": 3.17,
+                "share": 7.8
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:53",
+                "rating": 3.16,
+                "share": 9.33
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "UZAK SEHIR",
+                "channel": "KANAL D",
+                "start_time": "20:59:49",
+                "end_time": "24:17:44",
+                "rating": 12.35,
+                "share": 33.52
+            },
+            {
+                "rank": 2,
+                "name": "UZAK SEHIR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "20:59:38",
+                "rating": 6.48,
+                "share": 20.66
+            },
+            {
+                "rank": 3,
+                "name": "KIZIL GONCALAR",
+                "channel": "NOW",
+                "start_time": "20:59:05",
+                "end_time": "24:17:34",
+                "rating": 5.6,
+                "share": 15.18
+            },
+            {
+                "rank": 4,
+                "name": "KIZIL GONCALAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:14",
+                "end_time": "20:59:00",
+                "rating": 3.48,
+                "share": 11.08
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.46,
+                "share": 12.42
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:17",
+                "end_time": "18:44:04",
+                "rating": 3.36,
+                "share": 18.84
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:55",
+                "end_time": "13:00:14",
+                "rating": 3.04,
+                "share": 33.26
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:34:39",
+                "end_time": "24:21:03",
+                "rating": 2.77,
+                "share": 7.92
+            },
+            {
+                "rank": 9,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "20:57:47",
+                "end_time": "23:44:21",
+                "rating": 2.65,
+                "share": 7.04
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:33:19",
+                "end_time": "19:59:24",
+                "rating": 2.56,
+                "share": 9.05
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "UZAK SEHIR",
+                "channel": "KANAL D",
+                "start_time": "20:59:49",
+                "end_time": "24:17:44",
+                "rating": 15.49,
+                "share": 38.46
+            },
+            {
+                "rank": 2,
+                "name": "UZAK SEHIR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "20:59:38",
+                "rating": 8.0,
+                "share": 22.26
+            },
+            {
+                "rank": 3,
+                "name": "KIZIL GONCALAR",
+                "channel": "NOW",
+                "start_time": "20:59:05",
+                "end_time": "24:17:34",
+                "rating": 5.14,
+                "share": 12.74
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:17",
+                "end_time": "18:44:04",
+                "rating": 4.52,
+                "share": 22.44
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 3.86,
+                "share": 12.14
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:34:39",
+                "end_time": "24:21:03",
+                "rating": 3.71,
+                "share": 9.59
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:55",
+                "end_time": "13:00:14",
+                "rating": 3.59,
+                "share": 33.01
+            },
+            {
+                "rank": 8,
+                "name": "KIZIL GONCALAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:14",
+                "end_time": "20:59:00",
+                "rating": 2.91,
+                "share": 8.11
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:53",
+                "rating": 2.89,
+                "share": 9.1
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:13",
+                "end_time": "19:59:56",
+                "rating": 2.73,
+                "share": 8.6
+            }
+        ]
+    }
+}

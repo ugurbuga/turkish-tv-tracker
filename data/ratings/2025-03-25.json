@@ -1,0 +1,282 @@
+{
+    "date": "2025-03-25",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KRAL KAYBEDERSE",
+                "channel": "STAR TV",
+                "start_time": "20:53:26",
+                "end_time": "23:15:32",
+                "rating": 5.18,
+                "share": 13.61
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:04",
+                "end_time": "18:44:04",
+                "rating": 4.46,
+                "share": 21.15
+            },
+            {
+                "rank": 3,
+                "name": "BIR GECE MASALI",
+                "channel": "ATV",
+                "start_time": "20:57:59",
+                "end_time": "24:16:52",
+                "rating": 4.3,
+                "share": 11.78
+            },
+            {
+                "rank": 4,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:57:24",
+                "end_time": "23:49:28",
+                "rating": 4.25,
+                "share": 11.49
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:27",
+                "rating": 4.12,
+                "share": 12.7
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:54:03",
+                "end_time": "24:26:02",
+                "rating": 4.09,
+                "share": 11.51
+            },
+            {
+                "rank": 7,
+                "name": "BAHAR",
+                "channel": "SHOW TV",
+                "start_time": "20:59:22",
+                "end_time": "24:16:06",
+                "rating": 4.07,
+                "share": 11.15
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "12:59:55",
+                "rating": 3.6,
+                "share": 31.43
+            },
+            {
+                "rank": 9,
+                "name": "KRAL KAYBEDERSE (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:46",
+                "end_time": "20:53:26",
+                "rating": 2.85,
+                "share": 8.03
+            },
+            {
+                "rank": 10,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE IFTAR",
+                "channel": "ATV",
+                "start_time": "18:44:19",
+                "end_time": "19:41:09",
+                "rating": 2.82,
+                "share": 9.02
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KRAL KAYBEDERSE",
+                "channel": "STAR TV",
+                "start_time": "20:53:26",
+                "end_time": "23:15:32",
+                "rating": 5.95,
+                "share": 16.11
+            },
+            {
+                "rank": 2,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:57:24",
+                "end_time": "23:49:28",
+                "rating": 5.46,
+                "share": 15.04
+            },
+            {
+                "rank": 3,
+                "name": "BAHAR",
+                "channel": "SHOW TV",
+                "start_time": "20:59:22",
+                "end_time": "24:16:06",
+                "rating": 4.45,
+                "share": 12.5
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:27",
+                "rating": 3.62,
+                "share": 12.32
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "12:59:55",
+                "rating": 3.18,
+                "share": 31.0
+            },
+            {
+                "rank": 6,
+                "name": "KRAL KAYBEDERSE (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:46",
+                "end_time": "20:53:26",
+                "rating": 3.01,
+                "share": 9.06
+            },
+            {
+                "rank": 7,
+                "name": "BAHAR (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:38",
+                "end_time": "20:59:22",
+                "rating": 2.81,
+                "share": 8.42
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:54:03",
+                "end_time": "24:26:02",
+                "rating": 2.64,
+                "share": 7.64
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:04",
+                "end_time": "18:44:04",
+                "rating": 2.48,
+                "share": 15.58
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:38",
+                "end_time": "20:00:06",
+                "rating": 2.46,
+                "share": 8.39
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KRAL KAYBEDERSE",
+                "channel": "STAR TV",
+                "start_time": "20:53:26",
+                "end_time": "23:15:32",
+                "rating": 6.18,
+                "share": 15.72
+            },
+            {
+                "rank": 2,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:57:24",
+                "end_time": "23:49:28",
+                "rating": 5.34,
+                "share": 13.74
+            },
+            {
+                "rank": 3,
+                "name": "BAHAR",
+                "channel": "SHOW TV",
+                "start_time": "20:59:22",
+                "end_time": "24:16:06",
+                "rating": 4.78,
+                "share": 12.47
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:27",
+                "rating": 4.05,
+                "share": 12.87
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "12:59:55",
+                "rating": 4.01,
+                "share": 33.3
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:54:03",
+                "end_time": "24:26:02",
+                "rating": 3.89,
+                "share": 10.45
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:04",
+                "end_time": "18:44:04",
+                "rating": 3.61,
+                "share": 18.36
+            },
+            {
+                "rank": 8,
+                "name": "KRAL KAYBEDERSE (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:46",
+                "end_time": "20:53:26",
+                "rating": 3.29,
+                "share": 9.22
+            },
+            {
+                "rank": 9,
+                "name": "BIR GECE MASALI",
+                "channel": "ATV",
+                "start_time": "20:57:59",
+                "end_time": "24:16:52",
+                "rating": 3.12,
+                "share": 8.17
+            },
+            {
+                "rank": 10,
+                "name": "BAHAR (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:38",
+                "end_time": "20:59:22",
+                "rating": 2.97,
+                "share": 8.27
+            }
+        ]
+    }
+}
