@@ -1,0 +1,282 @@
+{
+    "date": "2025-01-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:34",
+                "end_time": "24:08:16",
+                "rating": 8.1,
+                "share": 21.3
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:51:18",
+                "end_time": "24:34:15",
+                "rating": 4.35,
+                "share": 12.03
+            },
+            {
+                "rank": 3,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "21:00:02",
+                "end_time": "24:18:18",
+                "rating": 4.25,
+                "share": 11.15
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 3.87,
+                "share": 11.53
+            },
+            {
+                "rank": 5,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "22:16:41",
+                "rating": 3.76,
+                "share": 9.68
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:03:36",
+                "end_time": "20:56:34",
+                "rating": 3.55,
+                "share": 9.37
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:57",
+                "rating": 2.76,
+                "share": 8.19
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:28",
+                "end_time": "19:59:47",
+                "rating": 2.74,
+                "share": 8.18
+            },
+            {
+                "rank": 9,
+                "name": "MIRAC KANDILI DUA",
+                "channel": "KANAL 7",
+                "start_time": "20:39:07",
+                "end_time": "20:59:18",
+                "rating": 2.44,
+                "share": 6.27
+            },
+            {
+                "rank": 10,
+                "name": "CUMHURBASKANLIGI KULLIYESI BESTEPE MILLET CAMII MIRAC GECESI OZEL",
+                "channel": "KANAL D",
+                "start_time": "20:00:28",
+                "end_time": "21:34:19",
+                "rating": 2.39,
+                "share": 6.2
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:34",
+                "end_time": "24:08:16",
+                "rating": 6.58,
+                "share": 21.05
+            },
+            {
+                "rank": 2,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "21:00:02",
+                "end_time": "24:18:18",
+                "rating": 3.67,
+                "share": 11.69
+            },
+            {
+                "rank": 3,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "22:16:41",
+                "rating": 3.65,
+                "share": 11.58
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:03:36",
+                "end_time": "20:56:34",
+                "rating": 2.73,
+                "share": 9.01
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 2.49,
+                "share": 9.88
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "21:00:03",
+                "end_time": "24:21:58",
+                "rating": 2.09,
+                "share": 6.71
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:28",
+                "end_time": "19:59:47",
+                "rating": 2.09,
+                "share": 8.3
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:51:18",
+                "end_time": "24:34:15",
+                "rating": 2.03,
+                "share": 6.9
+            },
+            {
+                "rank": 9,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (TKR)",
+                "channel": "NOW",
+                "start_time": "22:16:46",
+                "end_time": "24:42:24",
+                "rating": 1.76,
+                "share": 6.44
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:27",
+                "rating": 1.68,
+                "share": 7.88
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:34",
+                "end_time": "24:08:16",
+                "rating": 8.13,
+                "share": 21.85
+            },
+            {
+                "rank": 2,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "21:00:02",
+                "end_time": "24:18:18",
+                "rating": 5.08,
+                "share": 13.61
+            },
+            {
+                "rank": 3,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "20:00:03",
+                "end_time": "22:16:41",
+                "rating": 4.09,
+                "share": 11.03
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 3.98,
+                "share": 13.03
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:51:18",
+                "end_time": "24:34:15",
+                "rating": 3.43,
+                "share": 9.76
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:03:36",
+                "end_time": "20:56:34",
+                "rating": 3.33,
+                "share": 9.31
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:28",
+                "end_time": "19:59:47",
+                "rating": 2.61,
+                "share": 8.58
+            },
+            {
+                "rank": 8,
+                "name": "DEHA (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "21:00:02",
+                "rating": 2.61,
+                "share": 7.29
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "21:00:03",
+                "end_time": "24:21:58",
+                "rating": 2.22,
+                "share": 5.97
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:27",
+                "rating": 2.05,
+                "share": 7.87
+            }
+        ]
+    }
+}
