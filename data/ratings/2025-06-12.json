@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:31",
+                "end_time": "18:44:22",
+                "rating": 4.38,
+                "share": 27.21
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:53",
+                "rating": 4.35,
+                "share": 31.1
+            },
+            {
+                "rank": 3,
+                "name": "CIFT KISILIK ODA",
+                "channel": "NOW",
+                "start_time": "20:58:09",
+                "end_time": "23:53:47",
+                "rating": 4.28,
+                "share": 15.31
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:40:03",
+                "end_time": "24:49:13",
+                "rating": 4.13,
+                "share": 16.67
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:54:04",
+                "rating": 2.6,
+                "share": 12.62
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:04",
+                "rating": 2.39,
+                "share": 11.6
+            },
+            {
+                "rank": 7,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:10",
+                "end_time": "22:18:54",
+                "rating": 2.38,
+                "share": 8.99
+            },
+            {
+                "rank": 8,
+                "name": "CIFT KISILIK ODA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:09",
+                "end_time": "20:58:04",
+                "rating": 2.16,
+                "share": 8.55
+            },
+            {
+                "rank": 9,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:04",
+                "end_time": "13:59:07",
+                "rating": 2.09,
+                "share": 15.79
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:32:20",
+                "end_time": "21:20:05",
+                "rating": 2.05,
+                "share": 8.62
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:53",
+                "rating": 3.52,
+                "share": 32.54
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:40:03",
+                "end_time": "24:49:13",
+                "rating": 3.08,
+                "share": 14.45
+            },
+            {
+                "rank": 3,
+                "name": "CIFT KISILIK ODA",
+                "channel": "NOW",
+                "start_time": "20:58:09",
+                "end_time": "23:53:47",
+                "rating": 2.96,
+                "share": 12.11
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:31",
+                "end_time": "18:44:22",
+                "rating": 2.4,
+                "share": 19.2
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "24:15:57",
+                "rating": 1.84,
+                "share": 7.99
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:42:12",
+                "end_time": "24:18:48",
+                "rating": 1.68,
+                "share": 7.03
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:04",
+                "rating": 1.66,
+                "share": 9.16
+            },
+            {
+                "rank": 8,
+                "name": "CIFT KISILIK ODA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:09",
+                "end_time": "20:58:04",
+                "rating": 1.56,
+                "share": 7.32
+            },
+            {
+                "rank": 9,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:10",
+                "end_time": "22:18:54",
+                "rating": 1.5,
+                "share": 6.64
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:54:04",
+                "rating": 1.41,
+                "share": 7.75
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:53",
+                "rating": 4.13,
+                "share": 33.66
+            },
+            {
+                "rank": 2,
+                "name": "CIFT KISILIK ODA",
+                "channel": "NOW",
+                "start_time": "20:58:09",
+                "end_time": "23:53:47",
+                "rating": 3.95,
+                "share": 14.72
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:40:03",
+                "end_time": "24:49:13",
+                "rating": 3.5,
+                "share": 14.8
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:31",
+                "end_time": "18:44:22",
+                "rating": 3.12,
+                "share": 22.19
+            },
+            {
+                "rank": 5,
+                "name": "CIFT KISILIK ODA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:09",
+                "end_time": "20:58:04",
+                "rating": 2.12,
+                "share": 9.15
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:04",
+                "rating": 2.11,
+                "share": 10.75
+            },
+            {
+                "rank": 7,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:10",
+                "end_time": "22:18:54",
+                "rating": 2.01,
+                "share": 8.13
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:54:04",
+                "rating": 1.95,
+                "share": 9.91
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "24:15:57",
+                "rating": 1.66,
+                "share": 6.54
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:42:12",
+                "end_time": "24:18:48",
+                "rating": 1.64,
+                "share": 6.24
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "PORTEKIZ-ISPANYA UEFA ULUSLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "21:47:39",
+                "end_time": "24:53:54",
+                "rating": 4.61,
+                "share": 21.42
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:48",
+                "end_time": "23:59:16",
+                "rating": 4.59,
+                "share": 19.57
+            },
+            {
+                "rank": 3,
+                "name": "UEFA ULUSLAR LIGI KUPA TORENI",
+                "channel": "TV8",
+                "start_time": "24:53:54",
+                "end_time": "25:10:54",
+                "rating": 2.05,
+                "share": 17.77
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "19:44:51",
+                "end_time": "21:46:03",
+                "rating": 2.04,
+                "share": 10.06
+            },
+            {
+                "rank": 5,
+                "name": "GERZEK SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:12",
+                "end_time": "23:35:40",
+                "rating": 1.83,
+                "share": 7.63
+            },
+            {
+                "rank": 6,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "21:44:56",
+                "rating": 1.75,
+                "share": 8.64
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:15",
+                "end_time": "20:57:48",
+                "rating": 1.72,
+                "share": 8.78
+            },
+            {
+                "rank": 8,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 1.61,
+                "share": 9.85
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "19:59:57",
+                "rating": 1.52,
+                "share": 9.25
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:52",
+                "rating": 1.39,
+                "share": 8.47
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "PORTEKIZ-ISPANYA UEFA ULUSLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "21:47:39",
+                "end_time": "24:53:54",
+                "rating": 5.87,
+                "share": 30.44
+            },
+            {
+                "rank": 2,
+                "name": "UEFA ULUSLAR LIGI KUPA TORENI",
+                "channel": "TV8",
+                "start_time": "24:53:54",
+                "end_time": "25:10:54",
+                "rating": 3.09,
+                "share": 27.91
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:48",
+                "end_time": "23:59:16",
+                "rating": 2.74,
+                "share": 13.66
+            },
+            {
+                "rank": 4,
+                "name": "CIN-TURKIYE FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "14:22:27",
+                "end_time": "17:02:26",
+                "rating": 1.56,
+                "share": 14.25
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "19:44:51",
+                "end_time": "21:46:03",
+                "rating": 1.43,
+                "share": 8.98
+            },
+            {
+                "rank": 6,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "21:44:56",
+                "rating": 1.38,
+                "share": 8.67
+            },
+            {
+                "rank": 7,
+                "name": "ALMANYA-FRANSA UEFA ULUSLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "15:34:32",
+                "end_time": "18:03:14",
+                "rating": 1.34,
+                "share": 11.81
+            },
+            {
+                "rank": 8,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 1.17,
+                "share": 9.17
+            },
+            {
+                "rank": 9,
+                "name": "COK GUZEL HAREKETLER 2 OZEL",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "23:11:19",
+                "rating": 1.07,
+                "share": 5.89
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:52",
+                "rating": 1.05,
+                "share": 8.17
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "PORTEKIZ-ISPANYA UEFA ULUSLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "21:47:39",
+                "end_time": "24:53:54",
+                "rating": 5.32,
+                "share": 24.74
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:48",
+                "end_time": "23:59:16",
+                "rating": 4.44,
+                "share": 19.6
+            },
+            {
+                "rank": 3,
+                "name": "UEFA ULUSLAR LIGI KUPA TORENI",
+                "channel": "TV8",
+                "start_time": "24:53:54",
+                "end_time": "25:10:54",
+                "rating": 2.85,
+                "share": 22.73
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "19:44:51",
+                "end_time": "21:46:03",
+                "rating": 1.69,
+                "share": 9.21
+            },
+            {
+                "rank": 5,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "21:44:56",
+                "rating": 1.55,
+                "share": 8.42
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:15",
+                "end_time": "20:57:48",
+                "rating": 1.42,
+                "share": 8.06
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 1.41,
+                "share": 9.72
+            },
+            {
+                "rank": 8,
+                "name": "ALMANYA-FRANSA UEFA ULUSLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "15:34:32",
+                "end_time": "18:03:14",
+                "rating": 1.35,
+                "share": 11.36
+            },
+            {
+                "rank": 9,
+                "name": "GERZEK SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:12",
+                "end_time": "23:35:40",
+                "rating": 1.35,
+                "share": 5.81
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:52",
+                "rating": 1.29,
+                "share": 8.91
+            }
+        ]
+    }
+}

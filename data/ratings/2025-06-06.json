@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-06",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:36:29",
+                "end_time": "24:23:25",
+                "rating": 3.18,
+                "share": 14.72
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:20",
+                "end_time": "18:45:06",
+                "rating": 2.4,
+                "share": 16.5
+            },
+            {
+                "rank": 3,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:14:22",
+                "end_time": "24:19:41",
+                "rating": 1.9,
+                "share": 8.88
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 1.7,
+                "share": 10.35
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:55:00",
+                "rating": 1.46,
+                "share": 8.86
+            },
+            {
+                "rank": 6,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:33:09",
+                "end_time": "21:18:17",
+                "rating": 1.41,
+                "share": 7.39
+            },
+            {
+                "rank": 7,
+                "name": "ORUMCEK ADAM EVE DONUS YOK (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:02",
+                "end_time": "22:54:44",
+                "rating": 1.31,
+                "share": 5.99
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:10",
+                "rating": 1.2,
+                "share": 7.22
+            },
+            {
+                "rank": 9,
+                "name": "BIZANS OYUNLARI GEYM OF BIZANS (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:32:15",
+                "end_time": "24:28:56",
+                "rating": 1.19,
+                "share": 5.84
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:02",
+                "rating": 1.08,
+                "share": 6.56
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:36:29",
+                "end_time": "24:23:25",
+                "rating": 2.03,
+                "share": 12.0
+            },
+            {
+                "rank": 2,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:55:00",
+                "rating": 1.52,
+                "share": 12.5
+            },
+            {
+                "rank": 3,
+                "name": "ELIF'IN DUSLERI SOYLESI ZAMANI",
+                "channel": "TRT COCUK",
+                "start_time": "11:26:56",
+                "end_time": "11:30:20",
+                "rating": 1.16,
+                "share": 13.09
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:20",
+                "end_time": "18:45:06",
+                "rating": 1.16,
+                "share": 11.25
+            },
+            {
+                "rank": 5,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:14:22",
+                "end_time": "24:19:41",
+                "rating": 1.12,
+                "share": 6.73
+            },
+            {
+                "rank": 6,
+                "name": "SUPER TAVSAN SIMON",
+                "channel": "TRT COCUK",
+                "start_time": "11:30:40",
+                "end_time": "11:40:55",
+                "rating": 1.1,
+                "share": 11.8
+            },
+            {
+                "rank": 7,
+                "name": "ORUMCEK ADAM EVE DONUS YOK (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:02",
+                "end_time": "22:54:44",
+                "rating": 1.03,
+                "share": 6.25
+            },
+            {
+                "rank": 8,
+                "name": "DIJITAL TAYFA",
+                "channel": "TRT COCUK",
+                "start_time": "11:41:21",
+                "end_time": "11:53:46",
+                "rating": 1.0,
+                "share": 10.05
+            },
+            {
+                "rank": 9,
+                "name": "BIZANS OYUNLARI GEYM OF BIZANS (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:32:15",
+                "end_time": "24:28:56",
+                "rating": 0.99,
+                "share": 6.09
+            },
+            {
+                "rank": 10,
+                "name": "DENNIS VE GNASHER",
+                "channel": "TRT COCUK",
+                "start_time": "17:18:10",
+                "end_time": "17:38:20",
+                "rating": 0.98,
+                "share": 9.85
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:36:29",
+                "end_time": "24:23:25",
+                "rating": 2.48,
+                "share": 12.38
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:20",
+                "end_time": "18:45:06",
+                "rating": 1.94,
+                "share": 15.15
+            },
+            {
+                "rank": 3,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:14:22",
+                "end_time": "24:19:41",
+                "rating": 1.5,
+                "share": 7.59
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 1.48,
+                "share": 10.25
+            },
+            {
+                "rank": 5,
+                "name": "AYKUT ENISTE 2 (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:54",
+                "end_time": "22:32:25",
+                "rating": 1.45,
+                "share": 7.36
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:55:00",
+                "rating": 1.36,
+                "share": 9.4
+            },
+            {
+                "rank": 7,
+                "name": "BIZANS OYUNLARI GEYM OF BIZANS (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:32:15",
+                "end_time": "24:28:56",
+                "rating": 1.27,
+                "share": 6.68
+            },
+            {
+                "rank": 8,
+                "name": "BIZIM KOYLU (T.S)",
+                "channel": "NOW",
+                "start_time": "20:15:47",
+                "end_time": "22:21:35",
+                "rating": 1.11,
+                "share": 5.62
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:02",
+                "rating": 1.08,
+                "share": 7.53
+            },
+            {
+                "rank": 10,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "16:01:24",
+                "end_time": "18:58:14",
+                "rating": 1.07,
+                "share": 8.39
+            }
+        ]
+    }
+}
