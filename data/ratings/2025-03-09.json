@@ -1,0 +1,282 @@
+{
+    "date": "2025-03-09",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:36",
+                "end_time": "24:08:14",
+                "rating": 7.91,
+                "share": 20.3
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:10:32",
+                "end_time": "24:24:38",
+                "rating": 4.15,
+                "share": 11.05
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 4.0,
+                "share": 11.9
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:14",
+                "end_time": "20:56:36",
+                "rating": 3.84,
+                "share": 10.37
+            },
+            {
+                "rank": 5,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "20:57:03",
+                "end_time": "23:28:53",
+                "rating": 3.65,
+                "share": 9.06
+            },
+            {
+                "rank": 6,
+                "name": "KARDELENLER",
+                "channel": "ATV",
+                "start_time": "20:44:50",
+                "end_time": "24:16:42",
+                "rating": 3.44,
+                "share": 8.83
+            },
+            {
+                "rank": 7,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "20:59:39",
+                "end_time": "24:18:49",
+                "rating": 3.15,
+                "share": 8.11
+            },
+            {
+                "rank": 8,
+                "name": "KARDELENLER (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:03",
+                "end_time": "20:44:50",
+                "rating": 2.77,
+                "share": 7.56
+            },
+            {
+                "rank": 9,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:11",
+                "end_time": "20:56:58",
+                "rating": 2.74,
+                "share": 7.39
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:25:26",
+                "end_time": "19:59:47",
+                "rating": 2.71,
+                "share": 7.83
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:36",
+                "end_time": "24:08:14",
+                "rating": 6.58,
+                "share": 17.72
+            },
+            {
+                "rank": 2,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "20:57:03",
+                "end_time": "23:28:53",
+                "rating": 4.89,
+                "share": 12.77
+            },
+            {
+                "rank": 3,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "20:59:39",
+                "end_time": "24:18:49",
+                "rating": 3.45,
+                "share": 9.3
+            },
+            {
+                "rank": 4,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:11",
+                "end_time": "20:56:58",
+                "rating": 3.22,
+                "share": 9.99
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:14",
+                "end_time": "20:56:36",
+                "rating": 3.02,
+                "share": 9.36
+            },
+            {
+                "rank": 6,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "18:00:13",
+                "end_time": "19:26:36",
+                "rating": 2.99,
+                "share": 12.31
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:10:32",
+                "end_time": "24:24:38",
+                "rating": 2.95,
+                "share": 8.43
+            },
+            {
+                "rank": 8,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 2.41,
+                "share": 8.48
+            },
+            {
+                "rank": 9,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:26:45",
+                "end_time": "20:00:01",
+                "rating": 2.3,
+                "share": 7.92
+            },
+            {
+                "rank": 10,
+                "name": "KARDELENLER",
+                "channel": "ATV",
+                "start_time": "20:44:50",
+                "end_time": "24:16:42",
+                "rating": 2.23,
+                "share": 6.03
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:36",
+                "end_time": "24:08:14",
+                "rating": 8.21,
+                "share": 19.75
+            },
+            {
+                "rank": 2,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "20:57:03",
+                "end_time": "23:28:53",
+                "rating": 4.88,
+                "share": 11.4
+            },
+            {
+                "rank": 3,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "20:59:39",
+                "end_time": "24:18:49",
+                "rating": 4.2,
+                "share": 10.13
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 4.03,
+                "share": 12.56
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:10:32",
+                "end_time": "24:24:38",
+                "rating": 4.01,
+                "share": 10.14
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:14",
+                "end_time": "20:56:36",
+                "rating": 3.8,
+                "share": 10.19
+            },
+            {
+                "rank": 7,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:11",
+                "end_time": "20:56:58",
+                "rating": 3.6,
+                "share": 9.65
+            },
+            {
+                "rank": 8,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "18:00:13",
+                "end_time": "19:26:36",
+                "rating": 2.88,
+                "share": 10.24
+            },
+            {
+                "rank": 9,
+                "name": "KARDELENLER",
+                "channel": "ATV",
+                "start_time": "20:44:50",
+                "end_time": "24:16:42",
+                "rating": 2.84,
+                "share": 6.85
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:20",
+                "rating": 2.61,
+                "share": 8.14
+            }
+        ]
+    }
+}
