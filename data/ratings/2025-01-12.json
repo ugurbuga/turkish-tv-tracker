@@ -1,0 +1,282 @@
+{
+    "date": "2025-01-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:44",
+                "end_time": "24:03:53",
+                "rating": 8.79,
+                "share": 23.14
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:50:04",
+                "end_time": "24:02:53",
+                "rating": 4.82,
+                "share": 12.52
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:12",
+                "rating": 4.33,
+                "share": 12.03
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:36",
+                "end_time": "20:57:44",
+                "rating": 4.07,
+                "share": 10.04
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:58",
+                "rating": 3.57,
+                "share": 9.92
+            },
+            {
+                "rank": 6,
+                "name": "ELTILERIN SAVASI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:11",
+                "end_time": "22:35:26",
+                "rating": 3.31,
+                "share": 7.99
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "19:59:59",
+                "rating": 2.9,
+                "share": 8.03
+            },
+            {
+                "rank": 8,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:32",
+                "rating": 2.6,
+                "share": 8.02
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:52:21",
+                "end_time": "24:17:41",
+                "rating": 2.44,
+                "share": 6.32
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR OZET",
+                "channel": "TV8",
+                "start_time": "18:45:36",
+                "end_time": "20:50:04",
+                "rating": 2.24,
+                "share": 5.96
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:44",
+                "end_time": "24:03:53",
+                "rating": 8.59,
+                "share": 23.82
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:50:04",
+                "end_time": "24:02:53",
+                "rating": 3.86,
+                "share": 10.64
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:12",
+                "rating": 3.4,
+                "share": 10.56
+            },
+            {
+                "rank": 4,
+                "name": "ELTILERIN SAVASI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:11",
+                "end_time": "22:35:26",
+                "rating": 2.93,
+                "share": 7.72
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:36",
+                "end_time": "20:57:44",
+                "rating": 2.92,
+                "share": 8.04
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "19:59:59",
+                "rating": 2.91,
+                "share": 9.02
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:58",
+                "rating": 2.74,
+                "share": 8.52
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:52:21",
+                "end_time": "24:17:41",
+                "rating": 2.21,
+                "share": 6.06
+            },
+            {
+                "rank": 9,
+                "name": "COK GUZEL HAREKETLER 2 OZEL",
+                "channel": "STAR TV",
+                "start_time": "20:00:43",
+                "end_time": "23:21:29",
+                "rating": 2.02,
+                "share": 5.49
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR OZET",
+                "channel": "TV8",
+                "start_time": "18:45:36",
+                "end_time": "20:50:04",
+                "rating": 1.9,
+                "share": 5.68
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:44",
+                "end_time": "24:03:53",
+                "rating": 9.48,
+                "share": 23.44
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:50:04",
+                "end_time": "24:02:53",
+                "rating": 4.59,
+                "share": 11.24
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:36",
+                "end_time": "20:57:44",
+                "rating": 4.54,
+                "share": 10.97
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:12",
+                "rating": 4.5,
+                "share": 12.47
+            },
+            {
+                "rank": 5,
+                "name": "ELTILERIN SAVASI (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:11",
+                "end_time": "22:35:26",
+                "rating": 3.67,
+                "share": 8.54
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:58",
+                "rating": 3.49,
+                "share": 9.68
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "19:59:59",
+                "rating": 2.99,
+                "share": 8.27
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:52:21",
+                "end_time": "24:17:41",
+                "rating": 2.84,
+                "share": 6.94
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:32",
+                "rating": 2.52,
+                "share": 8.15
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:58:33",
+                "rating": 2.24,
+                "share": 7.16
+            }
+        ]
+    }
+}

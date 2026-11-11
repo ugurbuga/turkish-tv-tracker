@@ -1,0 +1,282 @@
+{
+    "date": "2025-01-09",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:58:57",
+                "end_time": "23:46:57",
+                "rating": 6.78,
+                "share": 17.83
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:33",
+                "end_time": "18:45:01",
+                "rating": 6.22,
+                "share": 26.66
+            },
+            {
+                "rank": 3,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:57:11",
+                "end_time": "24:11:00",
+                "rating": 5.63,
+                "share": 15.09
+            },
+            {
+                "rank": 4,
+                "name": "KASIMPASA-FENERBAHCE ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:22:05",
+                "end_time": "22:38:15",
+                "rating": 5.52,
+                "share": 13.71
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:44:36",
+                "rating": 4.38,
+                "share": 13.04
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:48",
+                "rating": 4.12,
+                "share": 12.23
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:55",
+                "rating": 4.04,
+                "share": 30.26
+            },
+            {
+                "rank": 8,
+                "name": "EFSANE (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:12",
+                "end_time": "22:28:19",
+                "rating": 3.76,
+                "share": 9.4
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:22",
+                "end_time": "24:21:29",
+                "rating": 3.48,
+                "share": 9.52
+            },
+            {
+                "rank": 10,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:58",
+                "end_time": "20:58:52",
+                "rating": 3.25,
+                "share": 8.34
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KASIMPASA-FENERBAHCE ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:22:05",
+                "end_time": "22:38:15",
+                "rating": 5.17,
+                "share": 13.74
+            },
+            {
+                "rank": 2,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:58:57",
+                "end_time": "23:46:57",
+                "rating": 4.67,
+                "share": 13.02
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:22",
+                "end_time": "24:21:29",
+                "rating": 4.33,
+                "share": 12.6
+            },
+            {
+                "rank": 4,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:57:11",
+                "end_time": "24:11:00",
+                "rating": 3.95,
+                "share": 11.25
+            },
+            {
+                "rank": 5,
+                "name": "EFSANE (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:12",
+                "end_time": "22:28:19",
+                "rating": 3.88,
+                "share": 10.41
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:55",
+                "rating": 3.53,
+                "share": 31.17
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:33",
+                "end_time": "18:45:01",
+                "rating": 3.52,
+                "share": 19.46
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:48",
+                "rating": 3.02,
+                "share": 10.75
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "19:59:55",
+                "rating": 2.65,
+                "share": 9.39
+            },
+            {
+                "rank": 10,
+                "name": "SIYAH KALP (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "20:57:11",
+                "rating": 2.3,
+                "share": 6.54
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KASIMPASA-FENERBAHCE ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:22:05",
+                "end_time": "22:38:15",
+                "rating": 6.22,
+                "share": 14.82
+            },
+            {
+                "rank": 2,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:57:11",
+                "end_time": "24:11:00",
+                "rating": 5.66,
+                "share": 14.34
+            },
+            {
+                "rank": 3,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:58:57",
+                "end_time": "23:46:57",
+                "rating": 5.48,
+                "share": 13.59
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:33",
+                "end_time": "18:45:01",
+                "rating": 5.22,
+                "share": 24.37
+            },
+            {
+                "rank": 5,
+                "name": "EFSANE (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:12",
+                "end_time": "22:28:19",
+                "rating": 4.8,
+                "share": 11.58
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:22",
+                "end_time": "24:21:29",
+                "rating": 4.41,
+                "share": 11.42
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:55",
+                "rating": 4.28,
+                "share": 31.86
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:48",
+                "rating": 4.27,
+                "share": 13.22
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:44:36",
+                "rating": 3.58,
+                "share": 11.12
+            },
+            {
+                "rank": 10,
+                "name": "SIYAH KALP (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "20:57:11",
+                "rating": 3.18,
+                "share": 8.05
+            }
+        ]
+    }
+}
