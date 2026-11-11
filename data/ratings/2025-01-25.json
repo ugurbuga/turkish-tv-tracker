@@ -1,0 +1,282 @@
+{
+    "date": "2025-01-25",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:28",
+                "end_time": "24:09:05",
+                "rating": 8.5,
+                "share": 21.66
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:41:22",
+                "end_time": "24:45:27",
+                "rating": 4.9,
+                "share": 13.46
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:42",
+                "end_time": "20:57:28",
+                "rating": 4.49,
+                "share": 11.79
+            },
+            {
+                "rank": 4,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "21:00:08",
+                "end_time": "24:17:13",
+                "rating": 4.26,
+                "share": 10.82
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 3.34,
+                "share": 9.76
+            },
+            {
+                "rank": 6,
+                "name": "UZAK SEHIR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:16",
+                "end_time": "23:10:31",
+                "rating": 3.31,
+                "share": 8.32
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:18",
+                "end_time": "19:59:58",
+                "rating": 3.24,
+                "share": 9.47
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:36",
+                "end_time": "20:00:27",
+                "rating": 3.17,
+                "share": 9.23
+            },
+            {
+                "rank": 9,
+                "name": "CAN BORCU (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "21:00:08",
+                "rating": 2.45,
+                "share": 6.4
+            },
+            {
+                "rank": 10,
+                "name": "DEMIR MASKE (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "22:34:01",
+                "rating": 2.35,
+                "share": 5.96
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:28",
+                "end_time": "24:09:05",
+                "rating": 5.68,
+                "share": 17.16
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:41:22",
+                "end_time": "24:45:27",
+                "rating": 3.73,
+                "share": 12.17
+            },
+            {
+                "rank": 3,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "21:00:08",
+                "end_time": "24:17:13",
+                "rating": 3.07,
+                "share": 9.23
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 2.78,
+                "share": 10.99
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:42",
+                "end_time": "20:57:28",
+                "rating": 2.14,
+                "share": 6.95
+            },
+            {
+                "rank": 6,
+                "name": "UZAK SEHIR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:16",
+                "end_time": "23:10:31",
+                "rating": 2.09,
+                "share": 6.37
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:36",
+                "end_time": "20:00:27",
+                "rating": 1.93,
+                "share": 7.55
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:18",
+                "end_time": "19:59:58",
+                "rating": 1.8,
+                "share": 7.14
+            },
+            {
+                "rank": 9,
+                "name": "CAN BORCU (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "21:00:08",
+                "rating": 1.74,
+                "share": 5.64
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:18",
+                "rating": 1.74,
+                "share": 8.15
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:28",
+                "end_time": "24:09:05",
+                "rating": 7.54,
+                "share": 19.79
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:41:22",
+                "end_time": "24:45:27",
+                "rating": 4.21,
+                "share": 11.86
+            },
+            {
+                "rank": 3,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "21:00:08",
+                "end_time": "24:17:13",
+                "rating": 4.05,
+                "share": 10.61
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:42",
+                "end_time": "20:57:28",
+                "rating": 4.03,
+                "share": 11.44
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:02",
+                "rating": 3.39,
+                "share": 11.19
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:18",
+                "end_time": "19:59:58",
+                "rating": 2.86,
+                "share": 9.46
+            },
+            {
+                "rank": 7,
+                "name": "UZAK SEHIR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:16",
+                "end_time": "23:10:31",
+                "rating": 2.45,
+                "share": 6.48
+            },
+            {
+                "rank": 8,
+                "name": "DEMIR MASKE (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "22:34:01",
+                "rating": 2.43,
+                "share": 6.56
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:18",
+                "rating": 2.33,
+                "share": 8.91
+            },
+            {
+                "rank": 10,
+                "name": "CAN BORCU (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "21:00:08",
+                "rating": 2.3,
+                "share": 6.47
+            }
+        ]
+    }
+}

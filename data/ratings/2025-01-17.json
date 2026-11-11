@@ -1,0 +1,282 @@
+{
+    "date": "2025-01-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "21:00:02",
+                "end_time": "24:18:44",
+                "rating": 8.64,
+                "share": 21.69
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:07",
+                "end_time": "18:47:16",
+                "rating": 6.16,
+                "share": 26.87
+            },
+            {
+                "rank": 3,
+                "name": "ARKA SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:59:34",
+                "end_time": "24:15:51",
+                "rating": 5.22,
+                "share": 13.07
+            },
+            {
+                "rank": 4,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:00:02",
+                "rating": 4.57,
+                "share": 11.92
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:55",
+                "rating": 4.36,
+                "share": 28.85
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:52:48",
+                "rating": 4.21,
+                "share": 12.71
+            },
+            {
+                "rank": 7,
+                "name": "YALI CAPKINI",
+                "channel": "STAR TV",
+                "start_time": "20:59:56",
+                "end_time": "23:46:03",
+                "rating": 4.2,
+                "share": 10.39
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 3.83,
+                "share": 11.58
+            },
+            {
+                "rank": 9,
+                "name": "ZEMBILLI",
+                "channel": "ATV",
+                "start_time": "20:42:22",
+                "end_time": "23:30:35",
+                "rating": 3.65,
+                "share": 8.88
+            },
+            {
+                "rank": 10,
+                "name": "ARKA SOKAKLAR (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:39",
+                "end_time": "20:59:23",
+                "rating": 3.59,
+                "share": 9.36
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "21:00:02",
+                "end_time": "24:18:44",
+                "rating": 12.69,
+                "share": 34.39
+            },
+            {
+                "rank": 2,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:00:02",
+                "rating": 6.13,
+                "share": 17.2
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:07",
+                "end_time": "18:47:16",
+                "rating": 3.25,
+                "share": 21.11
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 3.04,
+                "share": 11.12
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:52:48",
+                "rating": 2.84,
+                "share": 10.39
+            },
+            {
+                "rank": 6,
+                "name": "YALI CAPKINI",
+                "channel": "STAR TV",
+                "start_time": "20:59:56",
+                "end_time": "23:46:03",
+                "rating": 2.8,
+                "share": 7.51
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:51:58",
+                "end_time": "24:30:34",
+                "rating": 2.6,
+                "share": 7.49
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "19:59:55",
+                "rating": 2.58,
+                "share": 9.34
+            },
+            {
+                "rank": 9,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:55",
+                "rating": 2.49,
+                "share": 21.97
+            },
+            {
+                "rank": 10,
+                "name": "ARKA SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:59:34",
+                "end_time": "24:15:51",
+                "rating": 2.35,
+                "share": 6.37
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KIZILCIK SERBETI",
+                "channel": "SHOW TV",
+                "start_time": "21:00:02",
+                "end_time": "24:18:44",
+                "rating": 11.01,
+                "share": 27.66
+            },
+            {
+                "rank": 2,
+                "name": "KIZILCIK SERBETI (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:00:02",
+                "rating": 5.22,
+                "share": 13.97
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:07",
+                "end_time": "18:47:16",
+                "rating": 5.11,
+                "share": 26.01
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:55",
+                "rating": 3.93,
+                "share": 28.93
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:52:48",
+                "rating": 3.92,
+                "share": 12.6
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 3.67,
+                "share": 11.79
+            },
+            {
+                "rank": 7,
+                "name": "ARKA SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:59:34",
+                "end_time": "24:15:51",
+                "rating": 3.61,
+                "share": 9.06
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "20:00:01",
+                "rating": 3.07,
+                "share": 9.89
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "19:59:55",
+                "rating": 3.03,
+                "share": 9.68
+            },
+            {
+                "rank": 10,
+                "name": "YALI CAPKINI",
+                "channel": "STAR TV",
+                "start_time": "20:59:56",
+                "end_time": "23:46:03",
+                "rating": 2.98,
+                "share": 7.42
+            }
+        ]
+    }
+}
