@@ -1,0 +1,282 @@
+{
+    "date": "2025-04-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:08",
+                "end_time": "23:55:47",
+                "rating": 8.88,
+                "share": 23.06
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:48:02",
+                "end_time": "24:29:33",
+                "rating": 4.56,
+                "share": 12.74
+            },
+            {
+                "rank": 3,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "20:58:48",
+                "end_time": "23:29:05",
+                "rating": 3.81,
+                "share": 9.43
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:23",
+                "end_time": "20:58:08",
+                "rating": 3.41,
+                "share": 9.22
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 3.14,
+                "share": 9.85
+            },
+            {
+                "rank": 6,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "20:58:57",
+                "end_time": "23:55:12",
+                "rating": 3.05,
+                "share": 7.87
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:01",
+                "rating": 2.66,
+                "share": 8.37
+            },
+            {
+                "rank": 8,
+                "name": "UZAK SEHIR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:56",
+                "end_time": "23:10:14",
+                "rating": 2.57,
+                "share": 6.58
+            },
+            {
+                "rank": 9,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:12",
+                "end_time": "20:58:43",
+                "rating": 2.23,
+                "share": 6.0
+            },
+            {
+                "rank": 10,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:52:55",
+                "end_time": "23:21:18",
+                "rating": 2.22,
+                "share": 5.58
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:08",
+                "end_time": "23:55:47",
+                "rating": 7.2,
+                "share": 19.77
+            },
+            {
+                "rank": 2,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "20:58:48",
+                "end_time": "23:29:05",
+                "rating": 4.54,
+                "share": 11.79
+            },
+            {
+                "rank": 3,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "20:58:57",
+                "end_time": "23:55:12",
+                "rating": 3.99,
+                "share": 10.88
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:48:02",
+                "end_time": "24:29:33",
+                "rating": 3.81,
+                "share": 11.33
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 2.75,
+                "share": 9.06
+            },
+            {
+                "rank": 6,
+                "name": "DEHA (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "20:58:57",
+                "rating": 2.64,
+                "share": 7.38
+            },
+            {
+                "rank": 7,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:12",
+                "end_time": "20:58:43",
+                "rating": 2.6,
+                "share": 7.27
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:23",
+                "end_time": "20:58:08",
+                "rating": 2.38,
+                "share": 6.66
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:01",
+                "rating": 2.31,
+                "share": 7.64
+            },
+            {
+                "rank": 10,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:52:55",
+                "end_time": "23:21:18",
+                "rating": 1.95,
+                "share": 5.17
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:08",
+                "end_time": "23:55:47",
+                "rating": 8.53,
+                "share": 21.64
+            },
+            {
+                "rank": 2,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR",
+                "channel": "NOW",
+                "start_time": "20:58:48",
+                "end_time": "23:29:05",
+                "rating": 4.55,
+                "share": 11.08
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:48:02",
+                "end_time": "24:29:33",
+                "rating": 4.5,
+                "share": 12.29
+            },
+            {
+                "rank": 4,
+                "name": "DEHA",
+                "channel": "SHOW TV",
+                "start_time": "20:58:57",
+                "end_time": "23:55:12",
+                "rating": 3.81,
+                "share": 9.62
+            },
+            {
+                "rank": 5,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 3.21,
+                "share": 10.11
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:23",
+                "end_time": "20:58:08",
+                "rating": 3.12,
+                "share": 8.43
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:01",
+                "rating": 2.54,
+                "share": 8.04
+            },
+            {
+                "rank": 8,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:12",
+                "end_time": "20:58:43",
+                "rating": 2.52,
+                "share": 6.77
+            },
+            {
+                "rank": 9,
+                "name": "DEHA (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "20:58:57",
+                "rating": 2.36,
+                "share": 6.36
+            },
+            {
+                "rank": 10,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:52:55",
+                "end_time": "23:21:18",
+                "rating": 2.14,
+                "share": 5.28
+            }
+        ]
+    }
+}
