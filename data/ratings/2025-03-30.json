@@ -1,0 +1,282 @@
+{
+    "date": "2025-03-30",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:50:10",
+                "end_time": "24:23:53",
+                "rating": 4.42,
+                "share": 15.66
+            },
+            {
+                "rank": 2,
+                "name": "KORKUSUZ KORKAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:02",
+                "end_time": "23:13:50",
+                "rating": 3.08,
+                "share": 10.11
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 3.06,
+                "share": 13.5
+            },
+            {
+                "rank": 4,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:44:46",
+                "rating": 2.37,
+                "share": 8.38
+            },
+            {
+                "rank": 5,
+                "name": "BAL KAYMAK (T.S)",
+                "channel": "ATV",
+                "start_time": "20:00:07",
+                "end_time": "21:53:10",
+                "rating": 2.08,
+                "share": 7.33
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (TKR)",
+                "channel": "TRT 1",
+                "start_time": "21:52:45",
+                "end_time": "24:24:09",
+                "rating": 2.05,
+                "share": 7.44
+            },
+            {
+                "rank": 7,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:29",
+                "end_time": "22:01:24",
+                "rating": 2.01,
+                "share": 6.99
+            },
+            {
+                "rank": 8,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:10:01",
+                "end_time": "23:39:57",
+                "rating": 1.89,
+                "share": 6.45
+            },
+            {
+                "rank": 9,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:15",
+                "end_time": "22:27:37",
+                "rating": 1.79,
+                "share": 6.1
+            },
+            {
+                "rank": 10,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:01:47",
+                "end_time": "23:57:16",
+                "rating": 1.73,
+                "share": 5.97
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:50:10",
+                "end_time": "24:23:53",
+                "rating": 3.57,
+                "share": 14.41
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT (TKR)",
+                "channel": "TRT 1",
+                "start_time": "21:52:45",
+                "end_time": "24:24:09",
+                "rating": 2.19,
+                "share": 8.9
+            },
+            {
+                "rank": 3,
+                "name": "KORKUSUZ KORKAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:02",
+                "end_time": "23:13:50",
+                "rating": 2.17,
+                "share": 8.03
+            },
+            {
+                "rank": 4,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:44:46",
+                "rating": 2.0,
+                "share": 8.41
+            },
+            {
+                "rank": 5,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:15",
+                "end_time": "22:27:37",
+                "rating": 1.84,
+                "share": 7.36
+            },
+            {
+                "rank": 6,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:10:01",
+                "end_time": "23:39:57",
+                "rating": 1.81,
+                "share": 7.11
+            },
+            {
+                "rank": 7,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:29",
+                "end_time": "22:01:24",
+                "rating": 1.5,
+                "share": 6.17
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR OZET",
+                "channel": "TV8",
+                "start_time": "18:46:15",
+                "end_time": "20:50:10",
+                "rating": 1.46,
+                "share": 7.33
+            },
+            {
+                "rank": 9,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 1.37,
+                "share": 7.48
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "19:59:58",
+                "rating": 1.31,
+                "share": 7.15
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:50:10",
+                "end_time": "24:23:53",
+                "rating": 4.26,
+                "share": 15.4
+            },
+            {
+                "rank": 2,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.78,
+                "share": 13.33
+            },
+            {
+                "rank": 3,
+                "name": "KORKUSUZ KORKAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:02",
+                "end_time": "23:13:50",
+                "rating": 2.49,
+                "share": 8.37
+            },
+            {
+                "rank": 4,
+                "name": "SAKIR PASA AILESI MUCIZELER VE SKANDALLAR (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:15",
+                "end_time": "22:27:37",
+                "rating": 2.23,
+                "share": 7.94
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (TKR)",
+                "channel": "TRT 1",
+                "start_time": "21:52:45",
+                "end_time": "24:24:09",
+                "rating": 2.22,
+                "share": 8.12
+            },
+            {
+                "rank": 6,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:10:01",
+                "end_time": "23:39:57",
+                "rating": 2.14,
+                "share": 7.55
+            },
+            {
+                "rank": 7,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:44:46",
+                "rating": 2.02,
+                "share": 7.53
+            },
+            {
+                "rank": 8,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:29",
+                "end_time": "22:01:24",
+                "rating": 1.92,
+                "share": 7.02
+            },
+            {
+                "rank": 9,
+                "name": "BAL KAYMAK (T.S)",
+                "channel": "ATV",
+                "start_time": "20:00:07",
+                "end_time": "21:53:10",
+                "rating": 1.74,
+                "share": 6.44
+            },
+            {
+                "rank": 10,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:01:47",
+                "end_time": "23:57:16",
+                "rating": 1.7,
+                "share": 5.96
+            }
+        ]
+    }
+}

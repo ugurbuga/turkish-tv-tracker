@@ -1,0 +1,282 @@
+{
+    "date": "2025-04-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "BESIKTAS-GOZTEPE ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:18:32",
+                "end_time": "22:46:52",
+                "rating": 8.99,
+                "share": 23.52
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:00:51",
+                "end_time": "24:00:58",
+                "rating": 4.95,
+                "share": 13.76
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:54",
+                "rating": 4.7,
+                "share": 27.85
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:27",
+                "end_time": "18:50:04",
+                "rating": 4.62,
+                "share": 20.86
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 4.25,
+                "share": 13.93
+            },
+            {
+                "rank": 6,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:39",
+                "end_time": "21:39:29",
+                "rating": 3.63,
+                "share": 9.89
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:44:30",
+                "rating": 3.38,
+                "share": 11.22
+            },
+            {
+                "rank": 8,
+                "name": "SOSYETE SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:39:45",
+                "end_time": "23:23:55",
+                "rating": 3.11,
+                "share": 8.32
+            },
+            {
+                "rank": 9,
+                "name": "AYKUT ENISTE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:53:53",
+                "end_time": "21:56:58",
+                "rating": 2.41,
+                "share": 6.52
+            },
+            {
+                "rank": 10,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:05",
+                "end_time": "13:59:29",
+                "rating": 2.36,
+                "share": 13.45
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "BESIKTAS-GOZTEPE ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:18:32",
+                "end_time": "22:46:52",
+                "rating": 7.25,
+                "share": 22.09
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:00:51",
+                "end_time": "24:00:58",
+                "rating": 4.15,
+                "share": 12.86
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:54",
+                "rating": 2.98,
+                "share": 20.57
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 2.76,
+                "share": 11.51
+            },
+            {
+                "rank": 5,
+                "name": "SOSYETE SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:39:45",
+                "end_time": "23:23:55",
+                "rating": 2.52,
+                "share": 7.49
+            },
+            {
+                "rank": 6,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:39",
+                "end_time": "21:39:29",
+                "rating": 2.46,
+                "share": 8.03
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:27",
+                "end_time": "18:50:04",
+                "rating": 2.39,
+                "share": 13.77
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR OZET",
+                "channel": "TV8",
+                "start_time": "18:49:33",
+                "end_time": "21:00:51",
+                "rating": 2.1,
+                "share": 7.89
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "19:59:28",
+                "rating": 2.0,
+                "share": 8.41
+            },
+            {
+                "rank": 10,
+                "name": "INCI TANELERI (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:47",
+                "end_time": "22:29:12",
+                "rating": 1.91,
+                "share": 5.9
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "BESIKTAS-GOZTEPE ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:18:32",
+                "end_time": "22:46:52",
+                "rating": 8.94,
+                "share": 23.24
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:00:51",
+                "end_time": "24:00:58",
+                "rating": 4.58,
+                "share": 12.5
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:54",
+                "rating": 4.45,
+                "share": 27.94
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:27",
+                "end_time": "18:50:04",
+                "rating": 4.07,
+                "share": 20.69
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 3.9,
+                "share": 13.37
+            },
+            {
+                "rank": 6,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:39",
+                "end_time": "21:39:29",
+                "rating": 3.49,
+                "share": 9.58
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:44:30",
+                "rating": 3.18,
+                "share": 11.09
+            },
+            {
+                "rank": 8,
+                "name": "SOSYETE SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:39:45",
+                "end_time": "23:23:55",
+                "rating": 3.03,
+                "share": 7.96
+            },
+            {
+                "rank": 9,
+                "name": "AYKUT ENISTE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:53:53",
+                "end_time": "21:56:58",
+                "rating": 2.4,
+                "share": 6.5
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "19:59:28",
+                "rating": 2.34,
+                "share": 8.08
+            }
+        ]
+    }
+}

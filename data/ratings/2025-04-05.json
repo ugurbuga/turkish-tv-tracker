@@ -1,0 +1,282 @@
+{
+    "date": "2025-04-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:36:55",
+                "rating": 8.01,
+                "share": 20.81
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:02:03",
+                "end_time": "23:54:24",
+                "rating": 4.96,
+                "share": 13.05
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:17",
+                "end_time": "21:00:05",
+                "rating": 3.66,
+                "share": 10.2
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:17",
+                "rating": 3.63,
+                "share": 12.09
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "20:00:04",
+                "rating": 2.71,
+                "share": 9.06
+            },
+            {
+                "rank": 6,
+                "name": "PIYASA",
+                "channel": "KANAL D",
+                "start_time": "20:44:13",
+                "end_time": "23:13:45",
+                "rating": 2.66,
+                "share": 6.75
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:41",
+                "end_time": "19:59:53",
+                "rating": 2.27,
+                "share": 7.58
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:15",
+                "end_time": "23:40:16",
+                "rating": 2.24,
+                "share": 5.96
+            },
+            {
+                "rank": 9,
+                "name": "HER SEY ASK ICIN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:11:42",
+                "end_time": "22:10:27",
+                "rating": 2.21,
+                "share": 5.8
+            },
+            {
+                "rank": 10,
+                "name": "VIZONTELE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:55:43",
+                "end_time": "21:59:00",
+                "rating": 2.21,
+                "share": 5.92
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:36:55",
+                "rating": 5.98,
+                "share": 17.16
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:02:03",
+                "end_time": "23:54:24",
+                "rating": 4.09,
+                "share": 11.91
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:17",
+                "rating": 3.27,
+                "share": 12.95
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:15",
+                "end_time": "23:40:16",
+                "rating": 3.15,
+                "share": 9.34
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:17",
+                "end_time": "21:00:05",
+                "rating": 2.47,
+                "share": 7.82
+            },
+            {
+                "rank": 6,
+                "name": "HER SEY ASK ICIN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:11:42",
+                "end_time": "22:10:27",
+                "rating": 2.37,
+                "share": 6.95
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "20:00:04",
+                "rating": 2.21,
+                "share": 8.8
+            },
+            {
+                "rank": 8,
+                "name": "VIZONTELE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:55:43",
+                "end_time": "21:59:00",
+                "rating": 2.05,
+                "share": 6.2
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:06",
+                "end_time": "18:58:30",
+                "rating": 1.9,
+                "share": 9.38
+            },
+            {
+                "rank": 10,
+                "name": "PIYASA",
+                "channel": "KANAL D",
+                "start_time": "20:44:13",
+                "end_time": "23:13:45",
+                "rating": 1.54,
+                "share": 4.31
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:36:55",
+                "rating": 7.91,
+                "share": 20.52
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "21:02:03",
+                "end_time": "23:54:24",
+                "rating": 5.1,
+                "share": 13.39
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:17",
+                "rating": 3.45,
+                "share": 12.1
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:17",
+                "end_time": "21:00:05",
+                "rating": 3.04,
+                "share": 8.65
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:15",
+                "end_time": "23:40:16",
+                "rating": 2.77,
+                "share": 7.41
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "20:00:04",
+                "rating": 2.46,
+                "share": 8.68
+            },
+            {
+                "rank": 7,
+                "name": "HER SEY ASK ICIN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:11:42",
+                "end_time": "22:10:27",
+                "rating": 2.27,
+                "share": 6.03
+            },
+            {
+                "rank": 8,
+                "name": "VIZONTELE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:55:43",
+                "end_time": "21:59:00",
+                "rating": 2.1,
+                "share": 5.72
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:06",
+                "end_time": "18:58:30",
+                "rating": 1.97,
+                "share": 8.09
+            },
+            {
+                "rank": 10,
+                "name": "PIYASA",
+                "channel": "KANAL D",
+                "start_time": "20:44:13",
+                "end_time": "23:13:45",
+                "rating": 1.97,
+                "share": 5.02
+            }
+        ]
+    }
+}
