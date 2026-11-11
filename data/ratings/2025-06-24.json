@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-24",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:39",
+                "end_time": "18:45:25",
+                "rating": 4.05,
+                "share": 24.75
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:51",
+                "rating": 3.81,
+                "share": 27.2
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:35:08",
+                "end_time": "24:15:26",
+                "rating": 3.6,
+                "share": 13.82
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 2.45,
+                "share": 12.53
+            },
+            {
+                "rank": 5,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "21:05:58",
+                "end_time": "24:16:50",
+                "rating": 2.25,
+                "share": 8.46
+            },
+            {
+                "rank": 6,
+                "name": "GUVEN BANA",
+                "channel": "ATV",
+                "start_time": "20:58:55",
+                "end_time": "23:15:39",
+                "rating": 2.16,
+                "share": 7.75
+            },
+            {
+                "rank": 7,
+                "name": "BENFICA-BAYERN MUNICH FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:55",
+                "end_time": "24:08:03",
+                "rating": 2.15,
+                "share": 8.4
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:00",
+                "end_time": "19:53:50",
+                "rating": 2.09,
+                "share": 10.68
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA OZET",
+                "channel": "ATV",
+                "start_time": "16:15:13",
+                "end_time": "16:21:39",
+                "rating": 1.97,
+                "share": 13.46
+            },
+            {
+                "rank": 10,
+                "name": "GASSAL",
+                "channel": "TRT 1",
+                "start_time": "20:00:40",
+                "end_time": "21:30:26",
+                "rating": 1.88,
+                "share": 7.67
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:35:08",
+                "end_time": "24:15:26",
+                "rating": 2.96,
+                "share": 13.52
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:51",
+                "rating": 2.87,
+                "share": 28.04
+            },
+            {
+                "rank": 3,
+                "name": "BENFICA-BAYERN MUNICH FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:55",
+                "end_time": "24:08:03",
+                "rating": 1.91,
+                "share": 8.75
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 1.81,
+                "share": 11.43
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:39",
+                "end_time": "18:45:25",
+                "rating": 1.74,
+                "share": 14.07
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "24:19:11",
+                "rating": 1.5,
+                "share": 7.01
+            },
+            {
+                "rank": 7,
+                "name": "GUVEN BANA",
+                "channel": "ATV",
+                "start_time": "20:58:55",
+                "end_time": "23:15:39",
+                "rating": 1.48,
+                "share": 6.34
+            },
+            {
+                "rank": 8,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "21:05:58",
+                "end_time": "24:16:50",
+                "rating": 1.48,
+                "share": 6.57
+            },
+            {
+                "rank": 9,
+                "name": "GASSAL",
+                "channel": "TRT 1",
+                "start_time": "20:00:40",
+                "end_time": "21:30:26",
+                "rating": 1.36,
+                "share": 6.84
+            },
+            {
+                "rank": 10,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:02",
+                "end_time": "13:58:16",
+                "rating": 1.25,
+                "share": 10.59
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:35:08",
+                "end_time": "24:15:26",
+                "rating": 3.93,
+                "share": 15.41
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:51",
+                "rating": 3.61,
+                "share": 31.72
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:39",
+                "end_time": "18:45:25",
+                "rating": 3.07,
+                "share": 22.45
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 2.42,
+                "share": 13.7
+            },
+            {
+                "rank": 5,
+                "name": "BENFICA-BAYERN MUNICH FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:55",
+                "end_time": "24:08:03",
+                "rating": 2.28,
+                "share": 8.98
+            },
+            {
+                "rank": 6,
+                "name": "GUVEN BANA",
+                "channel": "ATV",
+                "start_time": "20:58:55",
+                "end_time": "23:15:39",
+                "rating": 2.06,
+                "share": 7.56
+            },
+            {
+                "rank": 7,
+                "name": "GASSAL",
+                "channel": "TRT 1",
+                "start_time": "20:00:40",
+                "end_time": "21:30:26",
+                "rating": 2.01,
+                "share": 8.73
+            },
+            {
+                "rank": 8,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "21:05:58",
+                "end_time": "24:16:50",
+                "rating": 1.84,
+                "share": 7.01
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "24:19:11",
+                "rating": 1.67,
+                "share": 6.7
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:45",
+                "rating": 1.63,
+                "share": 9.09
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-21",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:38",
+                "end_time": "24:30:41",
+                "rating": 2.85,
+                "share": 11.24
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:25",
+                "end_time": "23:45:11",
+                "rating": 2.29,
+                "share": 8.57
+            },
+            {
+                "rank": 3,
+                "name": "RECEP IVEDIK 6 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:23:58",
+                "rating": 2.2,
+                "share": 8.81
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 1.93,
+                "share": 10.2
+            },
+            {
+                "rank": 5,
+                "name": "SAHIPSIZLER (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:15",
+                "end_time": "23:18:07",
+                "rating": 1.66,
+                "share": 6.35
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "20:42:25",
+                "rating": 1.56,
+                "share": 7.03
+            },
+            {
+                "rank": 7,
+                "name": "INTER-URAWA RED DIAMONDS FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:05",
+                "end_time": "23:58:53",
+                "rating": 1.5,
+                "share": 5.8
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:42",
+                "rating": 1.45,
+                "share": 7.62
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:06",
+                "rating": 1.42,
+                "share": 7.47
+            },
+            {
+                "rank": 10,
+                "name": "AILE SAADETI (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "22:51:12",
+                "rating": 1.17,
+                "share": 4.46
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:25",
+                "end_time": "23:45:11",
+                "rating": 2.89,
+                "share": 11.27
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:38",
+                "end_time": "24:30:41",
+                "rating": 2.53,
+                "share": 10.3
+            },
+            {
+                "rank": 3,
+                "name": "RECEP IVEDIK 6 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:23:58",
+                "rating": 1.6,
+                "share": 6.95
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 1.52,
+                "share": 8.85
+            },
+            {
+                "rank": 5,
+                "name": "BUZ DEVRI 4 KITALAR AYRILIYOR (Y.S) (TKR)",
+                "channel": "ATV",
+                "start_time": "10:00:15",
+                "end_time": "11:44:09",
+                "rating": 1.21,
+                "share": 10.5
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "20:42:25",
+                "rating": 1.12,
+                "share": 5.72
+            },
+            {
+                "rank": 7,
+                "name": "SAHIPSIZLER (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:15",
+                "end_time": "23:18:07",
+                "rating": 1.04,
+                "share": 4.27
+            },
+            {
+                "rank": 8,
+                "name": "INTER-URAWA RED DIAMONDS FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:05",
+                "end_time": "23:58:53",
+                "rating": 1.03,
+                "share": 4.08
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:42",
+                "rating": 1.03,
+                "share": 5.91
+            },
+            {
+                "rank": 10,
+                "name": "AILE SAADETI (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "22:51:12",
+                "rating": 1.01,
+                "share": 4.11
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:43:38",
+                "end_time": "24:30:41",
+                "rating": 2.97,
+                "share": 11.66
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:25",
+                "end_time": "23:45:11",
+                "rating": 2.76,
+                "share": 10.38
+            },
+            {
+                "rank": 3,
+                "name": "RECEP IVEDIK 6 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:23:58",
+                "rating": 1.93,
+                "share": 7.97
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:58",
+                "rating": 1.87,
+                "share": 10.41
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "20:42:25",
+                "rating": 1.33,
+                "share": 6.27
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:42",
+                "rating": 1.29,
+                "share": 7.11
+            },
+            {
+                "rank": 7,
+                "name": "AILE SAADETI (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "22:51:12",
+                "rating": 1.27,
+                "share": 4.95
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:06",
+                "rating": 1.16,
+                "share": 6.37
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:45:49",
+                "end_time": "20:43:38",
+                "rating": 1.15,
+                "share": 5.88
+            },
+            {
+                "rank": 10,
+                "name": "SAHIPSIZLER (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:15",
+                "end_time": "23:18:07",
+                "rating": 1.15,
+                "share": 4.5
+            }
+        ]
+    }
+}

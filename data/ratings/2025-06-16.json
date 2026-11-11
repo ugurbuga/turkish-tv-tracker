@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-16",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:25",
+                "end_time": "18:45:05",
+                "rating": 4.3,
+                "share": 26.18
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:52",
+                "rating": 3.56,
+                "share": 26.46
+            },
+            {
+                "rank": 3,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "19:59:41",
+                "end_time": "22:25:04",
+                "rating": 2.83,
+                "share": 10.27
+            },
+            {
+                "rank": 4,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:00:05",
+                "end_time": "22:17:36",
+                "rating": 2.68,
+                "share": 9.9
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:00",
+                "rating": 2.57,
+                "share": 12.49
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:09:40",
+                "end_time": "24:43:09",
+                "rating": 2.53,
+                "share": 9.92
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:59:31",
+                "rating": 2.09,
+                "share": 10.03
+            },
+            {
+                "rank": 8,
+                "name": "YETENEK SIZSINIZ (TKR)",
+                "channel": "NOW",
+                "start_time": "22:17:41",
+                "end_time": "24:30:48",
+                "rating": 1.96,
+                "share": 7.73
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA OZET",
+                "channel": "ATV",
+                "start_time": "16:15:06",
+                "end_time": "16:21:25",
+                "rating": 1.9,
+                "share": 13.85
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:33:44",
+                "end_time": "21:18:05",
+                "rating": 1.9,
+                "share": 7.74
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:00:05",
+                "end_time": "22:17:36",
+                "rating": 2.4,
+                "share": 10.56
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:25",
+                "end_time": "18:45:05",
+                "rating": 2.38,
+                "share": 18.12
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:00",
+                "rating": 2.37,
+                "share": 12.92
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:52",
+                "rating": 2.21,
+                "share": 20.12
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:09:40",
+                "end_time": "24:43:09",
+                "rating": 2.01,
+                "share": 8.95
+            },
+            {
+                "rank": 6,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "19:59:41",
+                "end_time": "22:25:04",
+                "rating": 1.96,
+                "share": 8.43
+            },
+            {
+                "rank": 7,
+                "name": "AILE SAADETI (TKR)",
+                "channel": "ATV",
+                "start_time": "22:26:09",
+                "end_time": "25:23:12",
+                "rating": 1.44,
+                "share": 7.17
+            },
+            {
+                "rank": 8,
+                "name": "YAPRAK DOKUMU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "11:00:23",
+                "end_time": "13:30:17",
+                "rating": 1.37,
+                "share": 12.37
+            },
+            {
+                "rank": 9,
+                "name": "YETENEK SIZSINIZ (TKR)",
+                "channel": "NOW",
+                "start_time": "22:17:41",
+                "end_time": "24:30:48",
+                "rating": 1.35,
+                "share": 5.67
+            },
+            {
+                "rank": 10,
+                "name": "NILS VE UCAN KAZ",
+                "channel": "TRT COCUK",
+                "start_time": "13:28:49",
+                "end_time": "13:52:29",
+                "rating": 1.26,
+                "share": 12.3
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:52",
+                "rating": 3.3,
+                "share": 27.77
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:25",
+                "end_time": "18:45:05",
+                "rating": 2.95,
+                "share": 21.12
+            },
+            {
+                "rank": 3,
+                "name": "YETENEK SIZSINIZ",
+                "channel": "NOW",
+                "start_time": "20:00:05",
+                "end_time": "22:17:36",
+                "rating": 2.93,
+                "share": 11.21
+            },
+            {
+                "rank": 4,
+                "name": "AILE SAADETI",
+                "channel": "ATV",
+                "start_time": "19:59:41",
+                "end_time": "22:25:04",
+                "rating": 2.78,
+                "share": 10.41
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:00",
+                "rating": 2.75,
+                "share": 13.68
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:09:40",
+                "end_time": "24:43:09",
+                "rating": 2.69,
+                "share": 10.6
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:59:31",
+                "rating": 1.71,
+                "share": 8.47
+            },
+            {
+                "rank": 8,
+                "name": "YETENEK SIZSINIZ (TKR)",
+                "channel": "NOW",
+                "start_time": "22:17:41",
+                "end_time": "24:30:48",
+                "rating": 1.67,
+                "share": 6.36
+            },
+            {
+                "rank": 9,
+                "name": "AILE SAADETI (TKR)",
+                "channel": "ATV",
+                "start_time": "22:26:09",
+                "end_time": "25:23:12",
+                "rating": 1.61,
+                "share": 7.22
+            },
+            {
+                "rank": 10,
+                "name": "ESREF RUYA (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "22:53:55",
+                "rating": 1.47,
+                "share": 5.38
+            }
+        ]
+    }
+}
