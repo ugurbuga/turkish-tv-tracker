@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-27",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:12",
+                "end_time": "24:16:30",
+                "rating": 3.89,
+                "share": 16.41
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:03",
+                "end_time": "18:46:00",
+                "rating": 3.83,
+                "share": 23.92
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "12:59:34",
+                "rating": 3.23,
+                "share": 23.97
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:12",
+                "rating": 2.58,
+                "share": 14.01
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:55:10",
+                "rating": 2.2,
+                "share": 11.92
+            },
+            {
+                "rank": 6,
+                "name": "GASSAL",
+                "channel": "TRT 1",
+                "start_time": "20:22:10",
+                "end_time": "21:45:09",
+                "rating": 2.04,
+                "share": 8.64
+            },
+            {
+                "rank": 7,
+                "name": "TOSUN PASA (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:45",
+                "end_time": "21:51:54",
+                "rating": 1.85,
+                "share": 8.12
+            },
+            {
+                "rank": 8,
+                "name": "NURSEL ILE MUTFAK BAHANE",
+                "channel": "ATV",
+                "start_time": "13:58:32",
+                "end_time": "16:00:51",
+                "rating": 1.84,
+                "share": 12.99
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA OZET",
+                "channel": "ATV",
+                "start_time": "16:15:01",
+                "end_time": "16:21:03",
+                "rating": 1.82,
+                "share": 12.48
+            },
+            {
+                "rank": 10,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "12:59:44",
+                "end_time": "13:58:16",
+                "rating": 1.61,
+                "share": 12.06
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:12",
+                "end_time": "24:16:30",
+                "rating": 3.85,
+                "share": 16.85
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:03",
+                "end_time": "18:46:00",
+                "rating": 2.46,
+                "share": 17.27
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "12:59:34",
+                "rating": 2.28,
+                "share": 20.52
+            },
+            {
+                "rank": 4,
+                "name": "GASSAL",
+                "channel": "TRT 1",
+                "start_time": "20:22:10",
+                "end_time": "21:45:09",
+                "rating": 2.15,
+                "share": 10.17
+            },
+            {
+                "rank": 5,
+                "name": "KAOS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:45:23",
+                "end_time": "23:34:33",
+                "rating": 1.59,
+                "share": 6.72
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:12",
+                "rating": 1.49,
+                "share": 9.6
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:59:45",
+                "end_time": "20:56:12",
+                "rating": 1.44,
+                "share": 8.4
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:47",
+                "rating": 1.39,
+                "share": 8.92
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA OZET",
+                "channel": "ATV",
+                "start_time": "16:15:01",
+                "end_time": "16:21:03",
+                "rating": 1.38,
+                "share": 10.65
+            },
+            {
+                "rank": 10,
+                "name": "GUVEN BANA (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:50",
+                "end_time": "22:16:13",
+                "rating": 1.25,
+                "share": 5.96
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:12",
+                "end_time": "24:16:30",
+                "rating": 4.39,
+                "share": 18.6
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "12:59:34",
+                "rating": 3.05,
+                "share": 26.74
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:03",
+                "end_time": "18:46:00",
+                "rating": 2.61,
+                "share": 19.14
+            },
+            {
+                "rank": 4,
+                "name": "GASSAL",
+                "channel": "TRT 1",
+                "start_time": "20:22:10",
+                "end_time": "21:45:09",
+                "rating": 2.42,
+                "share": 10.81
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:12",
+                "rating": 2.24,
+                "share": 13.38
+            },
+            {
+                "rank": 6,
+                "name": "KAOS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:45:23",
+                "end_time": "23:34:33",
+                "rating": 1.62,
+                "share": 6.7
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:59:45",
+                "end_time": "20:56:12",
+                "rating": 1.45,
+                "share": 7.98
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:55:10",
+                "rating": 1.41,
+                "share": 8.43
+            },
+            {
+                "rank": 9,
+                "name": "CICEK ABBAS (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:27:35",
+                "end_time": "24:16:22",
+                "rating": 1.4,
+                "share": 6.31
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:47",
+                "rating": 1.38,
+                "share": 8.29
+            }
+        ]
+    }
+}

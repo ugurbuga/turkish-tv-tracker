@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "CIFT KISILIK ODA",
+                "channel": "NOW",
+                "start_time": "20:49:22",
+                "end_time": "24:18:40",
+                "rating": 3.65,
+                "share": 14.66
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:07",
+                "end_time": "24:20:21",
+                "rating": 3.23,
+                "share": 13.08
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:59",
+                "rating": 2.59,
+                "share": 14.26
+            },
+            {
+                "rank": 4,
+                "name": "HABABAM SINIFI UYANIYOR (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:51",
+                "end_time": "22:01:38",
+                "rating": 2.12,
+                "share": 8.91
+            },
+            {
+                "rank": 5,
+                "name": "KURT VE ASLAN (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:20",
+                "end_time": "22:14:39",
+                "rating": 1.8,
+                "share": 7.5
+            },
+            {
+                "rank": 6,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "13:30:35",
+                "end_time": "16:42:00",
+                "rating": 1.79,
+                "share": 13.39
+            },
+            {
+                "rank": 7,
+                "name": "CIFT KISILIK ODA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:10",
+                "end_time": "20:49:17",
+                "rating": 1.69,
+                "share": 7.68
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:57:35",
+                "end_time": "24:16:05",
+                "rating": 1.58,
+                "share": 6.31
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:55",
+                "rating": 1.41,
+                "share": 7.81
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "19:59:57",
+                "rating": 1.39,
+                "share": 7.64
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:07",
+                "end_time": "24:20:21",
+                "rating": 3.69,
+                "share": 16.11
+            },
+            {
+                "rank": 2,
+                "name": "CIFT KISILIK ODA",
+                "channel": "NOW",
+                "start_time": "20:49:22",
+                "end_time": "24:18:40",
+                "rating": 2.86,
+                "share": 12.41
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:59",
+                "rating": 1.92,
+                "share": 12.27
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "23:46:14",
+                "rating": 1.84,
+                "share": 8.41
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:57:35",
+                "end_time": "24:16:05",
+                "rating": 1.27,
+                "share": 5.45
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:55",
+                "rating": 1.23,
+                "share": 7.92
+            },
+            {
+                "rank": 7,
+                "name": "KURT VE ASLAN (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:20",
+                "end_time": "22:14:39",
+                "rating": 1.23,
+                "share": 5.93
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:51:40",
+                "end_time": "20:58:07",
+                "rating": 1.18,
+                "share": 6.87
+            },
+            {
+                "rank": 9,
+                "name": "CIFT KISILIK ODA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:10",
+                "end_time": "20:49:17",
+                "rating": 1.09,
+                "share": 5.9
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "19:59:57",
+                "rating": 1.05,
+                "share": 6.67
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:07",
+                "end_time": "24:20:21",
+                "rating": 3.36,
+                "share": 14.01
+            },
+            {
+                "rank": 2,
+                "name": "CIFT KISILIK ODA",
+                "channel": "NOW",
+                "start_time": "20:49:22",
+                "end_time": "24:18:40",
+                "rating": 3.36,
+                "share": 13.89
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:59",
+                "rating": 2.39,
+                "share": 14.31
+            },
+            {
+                "rank": 4,
+                "name": "KURT VE ASLAN (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:20",
+                "end_time": "22:14:39",
+                "rating": 1.79,
+                "share": 7.93
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "23:46:14",
+                "rating": 1.51,
+                "share": 6.5
+            },
+            {
+                "rank": 6,
+                "name": "CIFT KISILIK ODA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:10",
+                "end_time": "20:49:17",
+                "rating": 1.45,
+                "share": 7.1
+            },
+            {
+                "rank": 7,
+                "name": "HABABAM SINIFI UYANIYOR (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:51",
+                "end_time": "22:01:38",
+                "rating": 1.44,
+                "share": 6.46
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:57:35",
+                "end_time": "24:16:05",
+                "rating": 1.43,
+                "share": 5.87
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "19:59:55",
+                "rating": 1.39,
+                "share": 8.32
+            },
+            {
+                "rank": 10,
+                "name": "ARICI OLUM KOVANI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:12:48",
+                "end_time": "21:59:16",
+                "rating": 1.32,
+                "share": 5.87
+            }
+        ]
+    }
+}

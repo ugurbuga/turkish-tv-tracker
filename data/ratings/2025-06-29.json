@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-29",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:01",
+                "end_time": "24:17:42",
+                "rating": 3.8,
+                "share": 14.96
+            },
+            {
+                "rank": 2,
+                "name": "GULER MISIN AGLAR MISIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:51:55",
+                "end_time": "23:43:59",
+                "rating": 2.7,
+                "share": 10.28
+            },
+            {
+                "rank": 3,
+                "name": "SARK BULBULU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "21:51:38",
+                "rating": 2.62,
+                "share": 10.96
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:41:28",
+                "end_time": "24:01:30",
+                "rating": 2.22,
+                "share": 8.6
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:50",
+                "rating": 2.0,
+                "share": 10.12
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:00:13",
+                "end_time": "21:44:39",
+                "rating": 1.71,
+                "share": 7.14
+            },
+            {
+                "rank": 7,
+                "name": "FLAMENGO-BAYERN MUNICH FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:50:06",
+                "end_time": "25:10:48",
+                "rating": 1.57,
+                "share": 8.2
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:50",
+                "rating": 1.56,
+                "share": 7.88
+            },
+            {
+                "rank": 9,
+                "name": "PARIS SAINT GERMAN-INTER MIAMI FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:51:24",
+                "end_time": "20:59:13",
+                "rating": 1.46,
+                "share": 6.92
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:46:03",
+                "end_time": "23:31:59",
+                "rating": 1.44,
+                "share": 5.42
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:01",
+                "end_time": "24:17:42",
+                "rating": 3.01,
+                "share": 12.66
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:41:28",
+                "end_time": "24:01:30",
+                "rating": 2.34,
+                "share": 9.72
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "20:41:28",
+                "rating": 1.75,
+                "share": 9.01
+            },
+            {
+                "rank": 4,
+                "name": "GULER MISIN AGLAR MISIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:51:55",
+                "end_time": "23:43:59",
+                "rating": 1.67,
+                "share": 6.71
+            },
+            {
+                "rank": 5,
+                "name": "PARIS SAINT GERMAN-INTER MIAMI FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:51:24",
+                "end_time": "20:59:13",
+                "rating": 1.67,
+                "share": 8.95
+            },
+            {
+                "rank": 6,
+                "name": "FLAMENGO-BAYERN MUNICH FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:50:06",
+                "end_time": "25:10:48",
+                "rating": 1.59,
+                "share": 8.7
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:55:11",
+                "rating": 1.57,
+                "share": 8.82
+            },
+            {
+                "rank": 8,
+                "name": "SARK BULBULU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "21:51:38",
+                "rating": 1.49,
+                "share": 7.07
+            },
+            {
+                "rank": 9,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:50",
+                "rating": 1.39,
+                "share": 7.82
+            },
+            {
+                "rank": 10,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:46:03",
+                "end_time": "23:31:59",
+                "rating": 1.3,
+                "share": 5.17
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:01",
+                "end_time": "24:17:42",
+                "rating": 4.28,
+                "share": 16.37
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:41:28",
+                "end_time": "24:01:30",
+                "rating": 2.38,
+                "share": 8.98
+            },
+            {
+                "rank": 3,
+                "name": "GULER MISIN AGLAR MISIN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:51:55",
+                "end_time": "23:43:59",
+                "rating": 2.09,
+                "share": 7.64
+            },
+            {
+                "rank": 4,
+                "name": "SARK BULBULU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "21:51:38",
+                "rating": 2.03,
+                "share": 8.61
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:50",
+                "rating": 1.92,
+                "share": 9.82
+            },
+            {
+                "rank": 6,
+                "name": "KURALSIZ SOKAKLAR",
+                "channel": "KANAL D",
+                "start_time": "20:00:13",
+                "end_time": "21:44:39",
+                "rating": 1.76,
+                "share": 7.51
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "20:41:28",
+                "rating": 1.76,
+                "share": 8.15
+            },
+            {
+                "rank": 8,
+                "name": "KURALSIZ SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "21:46:03",
+                "end_time": "23:31:59",
+                "rating": 1.66,
+                "share": 6.0
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:50",
+                "rating": 1.66,
+                "share": 8.45
+            },
+            {
+                "rank": 10,
+                "name": "PARIS SAINT GERMAN-INTER MIAMI FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:51:24",
+                "end_time": "20:59:13",
+                "rating": 1.56,
+                "share": 7.58
+            }
+        ]
+    }
+}

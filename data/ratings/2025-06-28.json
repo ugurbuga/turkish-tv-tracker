@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:45",
+                "end_time": "24:15:42",
+                "rating": 3.61,
+                "share": 16.2
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.18,
+                "share": 12.72
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:12",
+                "end_time": "23:50:46",
+                "rating": 1.8,
+                "share": 7.98
+            },
+            {
+                "rank": 4,
+                "name": "BENFICA-CHELSEA FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:51:52",
+                "end_time": "25:00:14",
+                "rating": 1.71,
+                "share": 9.17
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "20:42:12",
+                "rating": 1.44,
+                "share": 7.47
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:19",
+                "end_time": "19:59:50",
+                "rating": 1.4,
+                "share": 8.11
+            },
+            {
+                "rank": 7,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "23:55:55",
+                "end_time": "24:02:56",
+                "rating": 1.33,
+                "share": 7.1
+            },
+            {
+                "rank": 8,
+                "name": "SUIKASTCI (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "21:46:07",
+                "end_time": "23:39:50",
+                "rating": 1.29,
+                "share": 5.63
+            },
+            {
+                "rank": 9,
+                "name": "CANIM KARDESIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:41",
+                "end_time": "21:45:43",
+                "rating": 1.27,
+                "share": 6.2
+            },
+            {
+                "rank": 10,
+                "name": "AILE SAADETI (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:46",
+                "end_time": "22:46:46",
+                "rating": 1.19,
+                "share": 5.48
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:45",
+                "end_time": "24:15:42",
+                "rating": 3.28,
+                "share": 16.26
+            },
+            {
+                "rank": 2,
+                "name": "BENFICA-CHELSEA FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:51:52",
+                "end_time": "25:00:14",
+                "rating": 2.07,
+                "share": 11.95
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:12",
+                "end_time": "23:50:46",
+                "rating": 2.03,
+                "share": 9.88
+            },
+            {
+                "rank": 4,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "23:55:55",
+                "end_time": "24:02:56",
+                "rating": 1.72,
+                "share": 9.89
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "20:42:12",
+                "rating": 1.67,
+                "share": 10.77
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 1.26,
+                "share": 8.81
+            },
+            {
+                "rank": 7,
+                "name": "AILE SAADETI (TKR)",
+                "channel": "ATV",
+                "start_time": "12:50:48",
+                "end_time": "15:36:00",
+                "rating": 1.16,
+                "share": 9.43
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:19",
+                "end_time": "19:59:50",
+                "rating": 1.05,
+                "share": 7.44
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:44:26",
+                "end_time": "20:50:45",
+                "rating": 1.04,
+                "share": 6.98
+            },
+            {
+                "rank": 10,
+                "name": "INATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "23:51:03",
+                "end_time": "25:37:25",
+                "rating": 1.03,
+                "share": 7.99
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:45",
+                "end_time": "24:15:42",
+                "rating": 3.77,
+                "share": 17.63
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:12",
+                "end_time": "23:50:46",
+                "rating": 2.18,
+                "share": 10.07
+            },
+            {
+                "rank": 3,
+                "name": "BENFICA-CHELSEA FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:51:52",
+                "end_time": "25:00:14",
+                "rating": 1.9,
+                "share": 10.47
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 1.84,
+                "share": 12.04
+            },
+            {
+                "rank": 5,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "23:55:55",
+                "end_time": "24:02:56",
+                "rating": 1.71,
+                "share": 9.15
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "20:42:12",
+                "rating": 1.62,
+                "share": 9.34
+            },
+            {
+                "rank": 7,
+                "name": "SUIKASTCI (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "21:46:07",
+                "end_time": "23:39:50",
+                "rating": 1.2,
+                "share": 5.4
+            },
+            {
+                "rank": 8,
+                "name": "CANAVAR (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:47:07",
+                "end_time": "24:24:50",
+                "rating": 1.14,
+                "share": 5.6
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:44:26",
+                "end_time": "20:50:45",
+                "rating": 1.1,
+                "share": 6.75
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:19",
+                "end_time": "19:59:50",
+                "rating": 1.08,
+                "share": 7.06
+            }
+        ]
+    }
+}

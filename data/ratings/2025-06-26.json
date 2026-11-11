@@ -1,0 +1,282 @@
+{
+    "date": "2025-06-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:59",
+                "end_time": "12:59:52",
+                "rating": 4.19,
+                "share": 29.8
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:37",
+                "end_time": "18:44:34",
+                "rating": 4.09,
+                "share": 24.43
+            },
+            {
+                "rank": 3,
+                "name": "CIFT KISILIK ODA",
+                "channel": "NOW",
+                "start_time": "21:01:26",
+                "end_time": "24:17:38",
+                "rating": 3.97,
+                "share": 15.69
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:00",
+                "end_time": "24:21:06",
+                "rating": 3.04,
+                "share": 12.27
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:04",
+                "rating": 2.53,
+                "share": 12.99
+            },
+            {
+                "rank": 6,
+                "name": "GASSAL",
+                "channel": "TRT 1",
+                "start_time": "19:59:48",
+                "end_time": "21:47:52",
+                "rating": 2.19,
+                "share": 9.27
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:56",
+                "end_time": "19:53:04",
+                "rating": 2.18,
+                "share": 11.19
+            },
+            {
+                "rank": 8,
+                "name": "HABABAM SINIFI SINIFTA KALDI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:10",
+                "end_time": "21:58:08",
+                "rating": 2.16,
+                "share": 9.07
+            },
+            {
+                "rank": 9,
+                "name": "CIFT KISILIK ODA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:09",
+                "end_time": "21:01:21",
+                "rating": 2.1,
+                "share": 9.3
+            },
+            {
+                "rank": 10,
+                "name": "ESRA EROL'DA OZET",
+                "channel": "ATV",
+                "start_time": "16:15:15",
+                "end_time": "16:21:37",
+                "rating": 2.09,
+                "share": 13.51
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:59",
+                "end_time": "12:59:52",
+                "rating": 3.4,
+                "share": 27.61
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:37",
+                "end_time": "18:44:34",
+                "rating": 3.08,
+                "share": 23.23
+            },
+            {
+                "rank": 3,
+                "name": "CIFT KISILIK ODA",
+                "channel": "NOW",
+                "start_time": "21:01:26",
+                "end_time": "24:17:38",
+                "rating": 3.01,
+                "share": 12.64
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:00",
+                "end_time": "24:21:06",
+                "rating": 2.57,
+                "share": 11.02
+            },
+            {
+                "rank": 5,
+                "name": "GASSAL",
+                "channel": "TRT 1",
+                "start_time": "19:59:48",
+                "end_time": "21:47:52",
+                "rating": 2.17,
+                "share": 10.7
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:55:55",
+                "end_time": "24:16:32",
+                "rating": 2.11,
+                "share": 8.91
+            },
+            {
+                "rank": 7,
+                "name": "JUVENTUS-MANCHESTER CITY FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:14",
+                "end_time": "24:02:43",
+                "rating": 1.95,
+                "share": 8.22
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA OZET",
+                "channel": "ATV",
+                "start_time": "16:15:15",
+                "end_time": "16:21:37",
+                "rating": 1.9,
+                "share": 16.9
+            },
+            {
+                "rank": 9,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:54:21",
+                "end_time": "22:58:55",
+                "rating": 1.8,
+                "share": 7.18
+            },
+            {
+                "rank": 10,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:04",
+                "rating": 1.74,
+                "share": 10.79
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:59",
+                "end_time": "12:59:52",
+                "rating": 3.99,
+                "share": 32.1
+            },
+            {
+                "rank": 2,
+                "name": "CIFT KISILIK ODA",
+                "channel": "NOW",
+                "start_time": "21:01:26",
+                "end_time": "24:17:38",
+                "rating": 3.67,
+                "share": 14.33
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:00",
+                "end_time": "24:21:06",
+                "rating": 3.42,
+                "share": 13.66
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:37",
+                "end_time": "18:44:34",
+                "rating": 3.42,
+                "share": 24.18
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:04",
+                "rating": 2.39,
+                "share": 13.27
+            },
+            {
+                "rank": 6,
+                "name": "JUVENTUS-MANCHESTER CITY FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:52:14",
+                "end_time": "24:02:43",
+                "rating": 2.31,
+                "share": 9.2
+            },
+            {
+                "rank": 7,
+                "name": "GASSAL",
+                "channel": "TRT 1",
+                "start_time": "19:59:48",
+                "end_time": "21:47:52",
+                "rating": 2.26,
+                "share": 10.01
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:55:55",
+                "end_time": "24:16:32",
+                "rating": 2.11,
+                "share": 8.29
+            },
+            {
+                "rank": 9,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:54:21",
+                "end_time": "22:58:55",
+                "rating": 1.99,
+                "share": 7.69
+            },
+            {
+                "rank": 10,
+                "name": "CIFT KISILIK ODA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:09",
+                "end_time": "21:01:21",
+                "rating": 1.98,
+                "share": 9.42
+            }
+        ]
+    }
+}

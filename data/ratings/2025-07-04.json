@@ -1,0 +1,282 @@
+{
+    "date": "2025-07-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:58",
+                "end_time": "24:18:14",
+                "rating": 3.5,
+                "share": 14.95
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 2.62,
+                "share": 14.59
+            },
+            {
+                "rank": 3,
+                "name": "BUZ DEVRI 3 DINOZORLARIN SAFAGI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "21:50:34",
+                "rating": 2.07,
+                "share": 9.22
+            },
+            {
+                "rank": 4,
+                "name": "SAKAR SAKIR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "21:43:28",
+                "rating": 2.04,
+                "share": 9.11
+            },
+            {
+                "rank": 5,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "13:29:40",
+                "end_time": "16:37:34",
+                "rating": 1.81,
+                "share": 14.06
+            },
+            {
+                "rank": 6,
+                "name": "FLUMINENSE-AL HILAL FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:49",
+                "end_time": "24:15:05",
+                "rating": 1.63,
+                "share": 7.23
+            },
+            {
+                "rank": 7,
+                "name": "SAN ANDREAS FAYI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "21:46:23",
+                "end_time": "24:11:36",
+                "rating": 1.55,
+                "share": 6.54
+            },
+            {
+                "rank": 8,
+                "name": "CAFER'IN CILESI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:43:44",
+                "end_time": "23:28:22",
+                "rating": 1.41,
+                "share": 5.73
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:20:51",
+                "end_time": "26:00:00",
+                "rating": 1.4,
+                "share": 14.08
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:43",
+                "rating": 1.33,
+                "share": 7.41
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:58",
+                "end_time": "24:18:14",
+                "rating": 3.47,
+                "share": 16.34
+            },
+            {
+                "rank": 2,
+                "name": "BUZ DEVRI 3 DINOZORLARIN SAFAGI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "21:50:34",
+                "rating": 2.09,
+                "share": 10.08
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 1.96,
+                "share": 12.51
+            },
+            {
+                "rank": 4,
+                "name": "FLUMINENSE-AL HILAL FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:49",
+                "end_time": "24:15:05",
+                "rating": 1.93,
+                "share": 9.38
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:20:51",
+                "end_time": "26:00:00",
+                "rating": 1.74,
+                "share": 16.89
+            },
+            {
+                "rank": 6,
+                "name": "SAN ANDREAS FAYI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "21:46:23",
+                "end_time": "24:11:36",
+                "rating": 1.31,
+                "share": 6.14
+            },
+            {
+                "rank": 7,
+                "name": "NILS VE UCAN KAZ",
+                "channel": "TRT COCUK",
+                "start_time": "17:40:22",
+                "end_time": "18:04:02",
+                "rating": 1.14,
+                "share": 9.2
+            },
+            {
+                "rank": 8,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "23:00:00",
+                "end_time": "23:06:51",
+                "rating": 1.05,
+                "share": 4.97
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:50:43",
+                "end_time": "20:49:58",
+                "rating": 1.05,
+                "share": 5.87
+            },
+            {
+                "rank": 10,
+                "name": "SAKAR SAKIR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "21:43:28",
+                "rating": 1.03,
+                "share": 4.98
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:49:58",
+                "end_time": "24:18:14",
+                "rating": 3.9,
+                "share": 17.49
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 2.55,
+                "share": 14.96
+            },
+            {
+                "rank": 3,
+                "name": "FLUMINENSE-AL HILAL FIFA KULUPLER DUNYA KUPASI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:49",
+                "end_time": "24:15:05",
+                "rating": 1.78,
+                "share": 8.18
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:20:51",
+                "end_time": "26:00:00",
+                "rating": 1.68,
+                "share": 16.5
+            },
+            {
+                "rank": 5,
+                "name": "SAKAR SAKIR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "21:43:28",
+                "rating": 1.58,
+                "share": 7.44
+            },
+            {
+                "rank": 6,
+                "name": "BUZ DEVRI 3 DINOZORLARIN SAFAGI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "21:50:34",
+                "rating": 1.52,
+                "share": 7.14
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:22",
+                "end_time": "19:59:43",
+                "rating": 1.5,
+                "share": 8.82
+            },
+            {
+                "rank": 8,
+                "name": "SAN ANDREAS FAYI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "21:46:23",
+                "end_time": "24:11:36",
+                "rating": 1.46,
+                "share": 6.46
+            },
+            {
+                "rank": 9,
+                "name": "FIFA KULUPLER DUNYA KUPASI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "23:00:00",
+                "end_time": "23:06:51",
+                "rating": 1.46,
+                "share": 6.52
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:50:43",
+                "end_time": "20:49:58",
+                "rating": 1.29,
+                "share": 6.9
+            }
+        ]
+    }
+}
