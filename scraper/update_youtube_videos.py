@@ -8,7 +8,7 @@ from pathlib import Path
 API_KEY = os.environ["YOUTUBE_API_KEY"]
 
 ROOT = Path(__file__).resolve().parent.parent
-CHANNELS_FILE = ROOT / "data" / "youtube_channels.json"
+CHANNELS_FILE = ROOT / "data" / "tv_series.json"
 OUTPUT_DIR = ROOT / "data" / "youtubevideos"
 
 MAX_RESULTS = 50

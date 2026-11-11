@@ -1,0 +1,282 @@
+{
+    "date": "2025-02-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "AZ ALKMAAR-GALATASARAY UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:55:10",
+                "end_time": "24:57:04",
+                "rating": 9.47,
+                "share": 30.51
+            },
+            {
+                "rank": 2,
+                "name": "FENERBAHCE-ANDERLECHT UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:40:01",
+                "end_time": "22:47:28",
+                "rating": 9.25,
+                "share": 22.06
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:19",
+                "end_time": "18:47:08",
+                "rating": 6.18,
+                "share": 25.16
+            },
+            {
+                "rank": 4,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:59:16",
+                "end_time": "24:18:06",
+                "rating": 5.71,
+                "share": 14.06
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:58",
+                "end_time": "12:59:53",
+                "rating": 4.82,
+                "share": 31.91
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:54",
+                "rating": 4.53,
+                "share": 13.46
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:30",
+                "end_time": "19:57:11",
+                "rating": 4.12,
+                "share": 12.22
+            },
+            {
+                "rank": 8,
+                "name": "BERAT KANDILI DUA",
+                "channel": "KANAL 7",
+                "start_time": "20:39:31",
+                "end_time": "20:56:34",
+                "rating": 3.99,
+                "share": 9.97
+            },
+            {
+                "rank": 9,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:45",
+                "end_time": "24:17:20",
+                "rating": 3.98,
+                "share": 9.82
+            },
+            {
+                "rank": 10,
+                "name": "BASKA BIR GUN",
+                "channel": "ATV",
+                "start_time": "20:43:10",
+                "end_time": "23:18:36",
+                "rating": 3.7,
+                "share": 8.82
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "AZ ALKMAAR-GALATASARAY UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:55:10",
+                "end_time": "24:57:04",
+                "rating": 11.52,
+                "share": 40.81
+            },
+            {
+                "rank": 2,
+                "name": "FENERBAHCE-ANDERLECHT UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:40:01",
+                "end_time": "22:47:28",
+                "rating": 10.78,
+                "share": 27.7
+            },
+            {
+                "rank": 3,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:45",
+                "end_time": "24:17:20",
+                "rating": 4.8,
+                "share": 12.78
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:54",
+                "rating": 4.09,
+                "share": 14.53
+            },
+            {
+                "rank": 5,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:59:16",
+                "end_time": "24:18:06",
+                "rating": 3.58,
+                "share": 9.53
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:58",
+                "end_time": "12:59:53",
+                "rating": 3.27,
+                "share": 26.57
+            },
+            {
+                "rank": 7,
+                "name": "BASKA BIR GUN",
+                "channel": "ATV",
+                "start_time": "20:43:10",
+                "end_time": "23:18:36",
+                "rating": 3.19,
+                "share": 8.18
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:19",
+                "end_time": "18:47:08",
+                "rating": 3.16,
+                "share": 16.51
+            },
+            {
+                "rank": 9,
+                "name": "UEFA AVRUPA LIGI MAC OZEL",
+                "channel": "TRT 1",
+                "start_time": "20:14:46",
+                "end_time": "20:33:25",
+                "rating": 2.85,
+                "share": 8.69
+            },
+            {
+                "rank": 10,
+                "name": "BERAT KANDILI DUA",
+                "channel": "KANAL 7",
+                "start_time": "20:39:31",
+                "end_time": "20:56:34",
+                "rating": 2.44,
+                "share": 6.83
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "AZ ALKMAAR-GALATASARAY UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "22:55:10",
+                "end_time": "24:57:04",
+                "rating": 11.7,
+                "share": 35.51
+            },
+            {
+                "rank": 2,
+                "name": "FENERBAHCE-ANDERLECHT UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:40:01",
+                "end_time": "22:47:28",
+                "rating": 11.32,
+                "share": 25.33
+            },
+            {
+                "rank": 3,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "20:59:45",
+                "end_time": "24:17:20",
+                "rating": 6.02,
+                "share": 13.84
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:19",
+                "end_time": "18:47:08",
+                "rating": 5.07,
+                "share": 22.84
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:54",
+                "rating": 4.91,
+                "share": 15.01
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:58",
+                "end_time": "12:59:53",
+                "rating": 4.56,
+                "share": 31.75
+            },
+            {
+                "rank": 7,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:59:16",
+                "end_time": "24:18:06",
+                "rating": 4.46,
+                "share": 10.24
+            },
+            {
+                "rank": 8,
+                "name": "BASKA BIR GUN",
+                "channel": "ATV",
+                "start_time": "20:43:10",
+                "end_time": "23:18:36",
+                "rating": 3.62,
+                "share": 8.08
+            },
+            {
+                "rank": 9,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "20:59:34",
+                "rating": 3.56,
+                "share": 8.95
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:30",
+                "end_time": "19:57:11",
+                "rating": 3.37,
+                "share": 10.29
+            }
+        ]
+    }
+}

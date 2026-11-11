@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "ugurbuga"
           git config user.email "47065142+ugurbuga@users.noreply.github.com"
-          git add data/series.json data/ratings/ data/youtube_channels.json data/youtubevideos/
+          git add data/weekly_calendar.json data/ratings/ data/tv_series.json data/youtubevideos/
           git diff --cached --quiet || git commit -m "Update TV tracker data"
           git push
