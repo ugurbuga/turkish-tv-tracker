@@ -1,0 +1,282 @@
+{
+    "date": "2025-02-22",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:36",
+                "end_time": "24:21:07",
+                "rating": 8.2,
+                "share": 20.26
+            },
+            {
+                "rank": 2,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:44:00",
+                "end_time": "24:16:33",
+                "rating": 4.93,
+                "share": 12.11
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:41",
+                "end_time": "20:57:36",
+                "rating": 4.51,
+                "share": 11.46
+            },
+            {
+                "rank": 4,
+                "name": "PIYASA",
+                "channel": "KANAL D",
+                "start_time": "19:59:29",
+                "end_time": "22:32:00",
+                "rating": 4.44,
+                "share": 10.83
+            },
+            {
+                "rank": 5,
+                "name": "O SES TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:29:22",
+                "end_time": "24:17:25",
+                "rating": 3.92,
+                "share": 9.76
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 3.61,
+                "share": 10.46
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:41",
+                "end_time": "19:59:43",
+                "rating": 3.21,
+                "share": 9.32
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:08",
+                "end_time": "23:45:26",
+                "rating": 3.01,
+                "share": 7.32
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:11",
+                "rating": 2.91,
+                "share": 8.37
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "20:42:08",
+                "rating": 2.55,
+                "share": 6.6
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:36",
+                "end_time": "24:21:07",
+                "rating": 5.86,
+                "share": 15.13
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:08",
+                "end_time": "23:45:26",
+                "rating": 4.31,
+                "share": 10.96
+            },
+            {
+                "rank": 3,
+                "name": "O SES TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:29:22",
+                "end_time": "24:17:25",
+                "rating": 4.08,
+                "share": 10.6
+            },
+            {
+                "rank": 4,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:44:00",
+                "end_time": "24:16:33",
+                "rating": 3.93,
+                "share": 10.09
+            },
+            {
+                "rank": 5,
+                "name": "PIYASA",
+                "channel": "KANAL D",
+                "start_time": "19:59:29",
+                "end_time": "22:32:00",
+                "rating": 3.4,
+                "share": 8.85
+            },
+            {
+                "rank": 6,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:41",
+                "end_time": "20:57:36",
+                "rating": 3.3,
+                "share": 9.01
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "20:42:08",
+                "rating": 3.18,
+                "share": 8.87
+            },
+            {
+                "rank": 8,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 3.11,
+                "share": 10.1
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:41",
+                "end_time": "19:59:43",
+                "rating": 2.82,
+                "share": 9.2
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:11",
+                "rating": 1.93,
+                "share": 6.22
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:36",
+                "end_time": "24:21:07",
+                "rating": 8.34,
+                "share": 19.82
+            },
+            {
+                "rank": 2,
+                "name": "CAN BORCU",
+                "channel": "ATV",
+                "start_time": "20:44:00",
+                "end_time": "24:16:33",
+                "rating": 4.61,
+                "share": 10.92
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:41",
+                "end_time": "20:57:36",
+                "rating": 4.33,
+                "share": 10.96
+            },
+            {
+                "rank": 4,
+                "name": "O SES TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:29:22",
+                "end_time": "24:17:25",
+                "rating": 4.31,
+                "share": 10.35
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:42:08",
+                "end_time": "23:45:26",
+                "rating": 4.19,
+                "share": 9.82
+            },
+            {
+                "rank": 6,
+                "name": "PIYASA",
+                "channel": "KANAL D",
+                "start_time": "19:59:29",
+                "end_time": "22:32:00",
+                "rating": 4.1,
+                "share": 9.84
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 4.07,
+                "share": 12.4
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:41",
+                "end_time": "19:59:43",
+                "rating": 3.03,
+                "share": 9.25
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "20:42:08",
+                "rating": 2.92,
+                "share": 7.59
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:11",
+                "rating": 2.57,
+                "share": 7.74
+            }
+        ]
+    }
+}
