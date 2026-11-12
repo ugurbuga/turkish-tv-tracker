@@ -1,0 +1,282 @@
+{
+    "date": "2024-10-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:55:21",
+                "end_time": "24:10:39",
+                "rating": 5.89,
+                "share": 18.56
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:46",
+                "end_time": "24:16:50",
+                "rating": 4.14,
+                "share": 13.13
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:08",
+                "end_time": "20:55:21",
+                "rating": 3.8,
+                "share": 12.32
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:47",
+                "rating": 3.39,
+                "share": 13.05
+            },
+            {
+                "rank": 5,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:59:38",
+                "end_time": "24:16:59",
+                "rating": 3.33,
+                "share": 10.53
+            },
+            {
+                "rank": 6,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "20:35:03",
+                "end_time": "23:33:19",
+                "rating": 2.8,
+                "share": 8.52
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:34",
+                "end_time": "19:59:59",
+                "rating": 2.54,
+                "share": 9.77
+            },
+            {
+                "rank": 8,
+                "name": "YALAN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:02",
+                "end_time": "20:59:32",
+                "rating": 2.44,
+                "share": 7.84
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:32",
+                "end_time": "20:00:12",
+                "rating": 2.39,
+                "share": 9.1
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:04",
+                "end_time": "18:58:34",
+                "rating": 1.87,
+                "share": 8.36
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:46",
+                "end_time": "24:16:50",
+                "rating": 4.81,
+                "share": 17.43
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:55:21",
+                "end_time": "24:10:39",
+                "rating": 4.04,
+                "share": 14.54
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:47",
+                "rating": 3.34,
+                "share": 16.7
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:08",
+                "end_time": "20:55:21",
+                "rating": 2.34,
+                "share": 9.57
+            },
+            {
+                "rank": 5,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:59:38",
+                "end_time": "24:16:59",
+                "rating": 2.1,
+                "share": 7.52
+            },
+            {
+                "rank": 6,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "20:35:03",
+                "end_time": "23:33:19",
+                "rating": 1.99,
+                "share": 6.99
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:34",
+                "end_time": "19:59:59",
+                "rating": 1.66,
+                "share": 8.28
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:39:55",
+                "end_time": "21:00:46",
+                "rating": 1.64,
+                "share": 7.62
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:32",
+                "end_time": "20:00:12",
+                "rating": 1.57,
+                "share": 7.76
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:55:14",
+                "rating": 1.54,
+                "share": 7.65
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:55:21",
+                "end_time": "24:10:39",
+                "rating": 6.23,
+                "share": 19.12
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:46",
+                "end_time": "24:16:50",
+                "rating": 5.06,
+                "share": 15.6
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:08",
+                "end_time": "20:55:21",
+                "rating": 3.89,
+                "share": 12.83
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:47",
+                "rating": 3.48,
+                "share": 14.33
+            },
+            {
+                "rank": 5,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:59:38",
+                "end_time": "24:16:59",
+                "rating": 2.63,
+                "share": 8.07
+            },
+            {
+                "rank": 6,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "20:35:03",
+                "end_time": "23:33:19",
+                "rating": 2.55,
+                "share": 7.61
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:34",
+                "end_time": "19:59:59",
+                "rating": 2.33,
+                "share": 9.61
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:32",
+                "end_time": "20:00:12",
+                "rating": 2.09,
+                "share": 8.5
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:39:55",
+                "end_time": "21:00:46",
+                "rating": 1.96,
+                "share": 7.38
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:04",
+                "end_time": "18:58:34",
+                "rating": 1.83,
+                "share": 8.97
+            }
+        ]
+    }
+}

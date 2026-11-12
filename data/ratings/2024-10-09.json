@@ -1,0 +1,282 @@
+{
+    "date": "2024-10-09",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:42:43",
+                "end_time": "24:16:47",
+                "rating": 6.37,
+                "share": 19.07
+            },
+            {
+                "rank": 2,
+                "name": "LEYLA HAYAT... ASK... ADALET...",
+                "channel": "NOW",
+                "start_time": "20:36:58",
+                "end_time": "23:18:30",
+                "rating": 5.53,
+                "share": 15.28
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:51",
+                "end_time": "12:59:49",
+                "rating": 4.02,
+                "share": 33.83
+            },
+            {
+                "rank": 4,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "20:42:43",
+                "rating": 3.82,
+                "share": 11.63
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:29",
+                "end_time": "24:24:34",
+                "rating": 3.77,
+                "share": 11.78
+            },
+            {
+                "rank": 6,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:55:30",
+                "end_time": "24:12:50",
+                "rating": 3.6,
+                "share": 10.77
+            },
+            {
+                "rank": 7,
+                "name": "LEYLA HAYAT... ASK... ADALET... (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:04",
+                "end_time": "20:36:53",
+                "rating": 3.43,
+                "share": 10.54
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:54",
+                "rating": 3.42,
+                "share": 12.79
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:36",
+                "end_time": "18:45:59",
+                "rating": 3.21,
+                "share": 19.7
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:51:25",
+                "rating": 3.11,
+                "share": 11.6
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "LEYLA HAYAT... ASK... ADALET...",
+                "channel": "NOW",
+                "start_time": "20:36:58",
+                "end_time": "23:18:30",
+                "rating": 5.36,
+                "share": 15.69
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:29",
+                "end_time": "24:24:34",
+                "rating": 4.6,
+                "share": 14.98
+            },
+            {
+                "rank": 3,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:42:43",
+                "end_time": "24:16:47",
+                "rating": 4.35,
+                "share": 13.64
+            },
+            {
+                "rank": 4,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:55:30",
+                "end_time": "24:12:50",
+                "rating": 3.33,
+                "share": 10.43
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:54",
+                "rating": 3.16,
+                "share": 13.7
+            },
+            {
+                "rank": 6,
+                "name": "LEYLA HAYAT... ASK... ADALET... (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:04",
+                "end_time": "20:36:53",
+                "rating": 3.03,
+                "share": 10.29
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:51",
+                "end_time": "12:59:49",
+                "rating": 2.93,
+                "share": 26.52
+            },
+            {
+                "rank": 8,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "20:42:43",
+                "rating": 2.49,
+                "share": 8.35
+            },
+            {
+                "rank": 9,
+                "name": "TAS KAGIT MAKAS (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:02",
+                "end_time": "20:59:37",
+                "rating": 2.29,
+                "share": 7.33
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:49",
+                "end_time": "20:55:29",
+                "rating": 2.07,
+                "share": 7.6
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:42:43",
+                "end_time": "24:16:47",
+                "rating": 6.3,
+                "share": 17.65
+            },
+            {
+                "rank": 2,
+                "name": "LEYLA HAYAT... ASK... ADALET...",
+                "channel": "NOW",
+                "start_time": "20:36:58",
+                "end_time": "23:18:30",
+                "rating": 5.6,
+                "share": 14.76
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:29",
+                "end_time": "24:24:34",
+                "rating": 4.32,
+                "share": 12.58
+            },
+            {
+                "rank": 4,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:55:30",
+                "end_time": "24:12:50",
+                "rating": 4.23,
+                "share": 11.84
+            },
+            {
+                "rank": 5,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "20:42:43",
+                "rating": 3.63,
+                "share": 10.97
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:54",
+                "rating": 3.61,
+                "share": 13.83
+            },
+            {
+                "rank": 7,
+                "name": "LEYLA HAYAT... ASK... ADALET... (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:04",
+                "end_time": "20:36:53",
+                "rating": 3.59,
+                "share": 10.96
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:51",
+                "end_time": "12:59:49",
+                "rating": 3.48,
+                "share": 29.41
+            },
+            {
+                "rank": 9,
+                "name": "SANDIK KOKUSU (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:59",
+                "end_time": "20:55:30",
+                "rating": 2.43,
+                "share": 7.03
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:48",
+                "rating": 2.42,
+                "share": 9.28
+            }
+        ]
+    }
+}
