@@ -1,0 +1,282 @@
+{
+    "date": "2024-04-07",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GALATASARAY-FENERBAHCE TURKCELL SUPER KUPA KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "21:17:15",
+                "end_time": "22:15:54",
+                "rating": 8.31,
+                "share": 23.22
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:04:07",
+                "end_time": "24:27:21",
+                "rating": 5.55,
+                "share": 16.51
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:02",
+                "end_time": "23:54:34",
+                "rating": 4.65,
+                "share": 13.1
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "20:00:09",
+                "rating": 4.03,
+                "share": 14.12
+            },
+            {
+                "rank": 5,
+                "name": "TITANIC (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:37",
+                "end_time": "23:53:36",
+                "rating": 3.8,
+                "share": 10.98
+            },
+            {
+                "rank": 6,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:48:58",
+                "end_time": "20:20:34",
+                "rating": 2.83,
+                "share": 9.16
+            },
+            {
+                "rank": 7,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "21:47:00",
+                "rating": 2.61,
+                "share": 7.89
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "19:59:54",
+                "rating": 2.57,
+                "share": 9.02
+            },
+            {
+                "rank": 9,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:20:47",
+                "end_time": "20:56:02",
+                "rating": 2.43,
+                "share": 7.3
+            },
+            {
+                "rank": 10,
+                "name": "PRESTIJ MESELESI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:12",
+                "end_time": "22:41:30",
+                "rating": 2.33,
+                "share": 6.73
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GALATASARAY-FENERBAHCE TURKCELL SUPER KUPA KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "21:17:15",
+                "end_time": "22:15:54",
+                "rating": 7.98,
+                "share": 26.92
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:04:07",
+                "end_time": "24:27:21",
+                "rating": 4.53,
+                "share": 15.53
+            },
+            {
+                "rank": 3,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "20:00:09",
+                "rating": 3.35,
+                "share": 14.42
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:02",
+                "end_time": "23:54:34",
+                "rating": 3.2,
+                "share": 10.4
+            },
+            {
+                "rank": 5,
+                "name": "TITANIC (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:37",
+                "end_time": "23:53:36",
+                "rating": 2.66,
+                "share": 9.08
+            },
+            {
+                "rank": 6,
+                "name": "PRESTIJ MESELESI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:12",
+                "end_time": "22:41:30",
+                "rating": 2.11,
+                "share": 7.41
+            },
+            {
+                "rank": 7,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:48:58",
+                "end_time": "20:20:34",
+                "rating": 2.04,
+                "share": 8.13
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "22:16:15",
+                "end_time": "24:19:00",
+                "rating": 1.92,
+                "share": 6.3
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "19:59:54",
+                "rating": 1.92,
+                "share": 8.3
+            },
+            {
+                "rank": 10,
+                "name": "SUPER KUPA OZEL",
+                "channel": "ATV",
+                "start_time": "20:03:08",
+                "end_time": "21:07:12",
+                "rating": 1.91,
+                "share": 7.28
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GALATASARAY-FENERBAHCE TURKCELL SUPER KUPA KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "21:17:15",
+                "end_time": "22:15:54",
+                "rating": 8.9,
+                "share": 24.57
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:04:07",
+                "end_time": "24:27:21",
+                "rating": 5.14,
+                "share": 14.89
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:02",
+                "end_time": "23:54:34",
+                "rating": 4.0,
+                "share": 11.03
+            },
+            {
+                "rank": 4,
+                "name": "TITANIC (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:37",
+                "end_time": "23:53:36",
+                "rating": 3.75,
+                "share": 10.72
+            },
+            {
+                "rank": 5,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "20:00:09",
+                "rating": 3.7,
+                "share": 13.45
+            },
+            {
+                "rank": 6,
+                "name": "PRESTIJ MESELESI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:12",
+                "end_time": "22:41:30",
+                "rating": 2.92,
+                "share": 8.5
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "22:16:15",
+                "end_time": "24:19:00",
+                "rating": 2.65,
+                "share": 7.5
+            },
+            {
+                "rank": 8,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:48:58",
+                "end_time": "20:20:34",
+                "rating": 2.65,
+                "share": 8.86
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "19:59:54",
+                "rating": 2.39,
+                "share": 8.7
+            },
+            {
+                "rank": 10,
+                "name": "TOKATCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "21:47:00",
+                "rating": 2.13,
+                "share": 6.57
+            }
+        ]
+    }
+}
