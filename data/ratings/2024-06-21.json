@@ -1,0 +1,282 @@
+{
+    "date": "2024-06-21",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "HOLLANDA-FRANSA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:34",
+                "end_time": "24:06:06",
+                "rating": 5.71,
+                "share": 23.06
+            },
+            {
+                "rank": 2,
+                "name": "POLONYA-AVUSTURYA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:22",
+                "end_time": "21:05:42",
+                "rating": 3.29,
+                "share": 16.99
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:53",
+                "rating": 3.15,
+                "share": 24.37
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:57",
+                "end_time": "24:35:08",
+                "rating": 2.75,
+                "share": 11.64
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:09",
+                "end_time": "18:44:48",
+                "rating": 2.68,
+                "share": 17.03
+            },
+            {
+                "rank": 6,
+                "name": "ARKA SOKAKLAR (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:45",
+                "end_time": "23:16:34",
+                "rating": 2.27,
+                "share": 9.48
+            },
+            {
+                "rank": 7,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:06:10",
+                "end_time": "21:40:40",
+                "rating": 1.95,
+                "share": 7.97
+            },
+            {
+                "rank": 8,
+                "name": "VAHSETIN CAGRISI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:34",
+                "end_time": "21:57:05",
+                "rating": 1.93,
+                "share": 8.61
+            },
+            {
+                "rank": 9,
+                "name": "SLOVAKYA-UKRAYNA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "15:49:31",
+                "end_time": "18:04:13",
+                "rating": 1.78,
+                "share": 11.74
+            },
+            {
+                "rank": 10,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:09",
+                "rating": 1.71,
+                "share": 9.31
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "HOLLANDA-FRANSA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:34",
+                "end_time": "24:06:06",
+                "rating": 8.0,
+                "share": 37.62
+            },
+            {
+                "rank": 2,
+                "name": "POLONYA-AVUSTURYA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:22",
+                "end_time": "21:05:42",
+                "rating": 4.25,
+                "share": 25.61
+            },
+            {
+                "rank": 3,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:06:10",
+                "end_time": "21:40:40",
+                "rating": 2.92,
+                "share": 14.91
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:57",
+                "end_time": "24:35:08",
+                "rating": 2.9,
+                "share": 14.62
+            },
+            {
+                "rank": 5,
+                "name": "SLOVAKYA-UKRAYNA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "15:49:31",
+                "end_time": "18:04:13",
+                "rating": 2.22,
+                "share": 19.26
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:53",
+                "rating": 1.81,
+                "share": 18.89
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:09",
+                "end_time": "18:44:48",
+                "rating": 1.68,
+                "share": 13.07
+            },
+            {
+                "rank": 8,
+                "name": "VAHSETIN CAGRISI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:34",
+                "end_time": "21:57:05",
+                "rating": 1.67,
+                "share": 8.96
+            },
+            {
+                "rank": 9,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:09",
+                "rating": 1.32,
+                "share": 8.53
+            },
+            {
+                "rank": 10,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "18:04:33",
+                "end_time": "18:35:09",
+                "rating": 1.16,
+                "share": 8.46
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "HOLLANDA-FRANSA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:34",
+                "end_time": "24:06:06",
+                "rating": 7.56,
+                "share": 30.4
+            },
+            {
+                "rank": 2,
+                "name": "POLONYA-AVUSTURYA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:22",
+                "end_time": "21:05:42",
+                "rating": 3.97,
+                "share": 21.26
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:57",
+                "end_time": "24:35:08",
+                "rating": 3.28,
+                "share": 14.08
+            },
+            {
+                "rank": 4,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:06:10",
+                "end_time": "21:40:40",
+                "rating": 2.74,
+                "share": 11.93
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "12:59:53",
+                "rating": 2.69,
+                "share": 23.79
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:09",
+                "end_time": "18:44:48",
+                "rating": 2.0,
+                "share": 14.24
+            },
+            {
+                "rank": 7,
+                "name": "SLOVAKYA-UKRAYNA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "15:49:31",
+                "end_time": "18:04:13",
+                "rating": 1.84,
+                "share": 14.08
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:09",
+                "rating": 1.72,
+                "share": 9.66
+            },
+            {
+                "rank": 9,
+                "name": "VAHSETIN CAGRISI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:34",
+                "end_time": "21:57:05",
+                "rating": 1.56,
+                "share": 7.3
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:36",
+                "end_time": "19:59:59",
+                "rating": 1.53,
+                "share": 8.61
+            }
+        ]
+    }
+}
