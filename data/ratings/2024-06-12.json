@@ -1,0 +1,282 @@
+{
+    "date": "2024-06-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:45:01",
+                "end_time": "24:17:54",
+                "rating": 5.75,
+                "share": 18.99
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:58",
+                "end_time": "24:32:00",
+                "rating": 4.73,
+                "share": 16.33
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "13:00:05",
+                "rating": 4.21,
+                "share": 32.77
+            },
+            {
+                "rank": 4,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:57:14",
+                "end_time": "24:18:15",
+                "rating": 3.9,
+                "share": 12.84
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:10",
+                "end_time": "18:44:19",
+                "rating": 2.94,
+                "share": 18.56
+            },
+            {
+                "rank": 6,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:58",
+                "end_time": "18:31:26",
+                "rating": 2.4,
+                "share": 15.5
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "18:59:59",
+                "end_time": "19:59:59",
+                "rating": 2.38,
+                "share": 12.38
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:03",
+                "end_time": "19:54:56",
+                "rating": 2.15,
+                "share": 11.18
+            },
+            {
+                "rank": 9,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:02",
+                "end_time": "22:19:44",
+                "rating": 2.1,
+                "share": 7.56
+            },
+            {
+                "rank": 10,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:39",
+                "end_time": "20:45:01",
+                "rating": 2.05,
+                "share": 8.78
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:45:01",
+                "end_time": "24:17:54",
+                "rating": 4.48,
+                "share": 16.4
+            },
+            {
+                "rank": 2,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:57:14",
+                "end_time": "24:18:15",
+                "rating": 3.9,
+                "share": 14.11
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:58",
+                "end_time": "24:32:00",
+                "rating": 3.73,
+                "share": 14.21
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "13:00:05",
+                "rating": 2.79,
+                "share": 26.72
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "18:59:59",
+                "end_time": "19:59:59",
+                "rating": 2.22,
+                "share": 13.38
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:10",
+                "end_time": "18:44:19",
+                "rating": 1.92,
+                "share": 15.66
+            },
+            {
+                "rank": 7,
+                "name": "SANDIK KOKUSU (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "20:57:14",
+                "rating": 1.63,
+                "share": 7.7
+            },
+            {
+                "rank": 8,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:39",
+                "end_time": "20:45:01",
+                "rating": 1.55,
+                "share": 7.67
+            },
+            {
+                "rank": 9,
+                "name": "TOM VE JERRY (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:59",
+                "end_time": "22:17:28",
+                "rating": 1.51,
+                "share": 6.32
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:17",
+                "rating": 1.5,
+                "share": 8.91
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:45:01",
+                "end_time": "24:17:54",
+                "rating": 5.13,
+                "share": 17.6
+            },
+            {
+                "rank": 2,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:57:14",
+                "end_time": "24:18:15",
+                "rating": 4.25,
+                "share": 14.54
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:58",
+                "end_time": "24:32:00",
+                "rating": 4.25,
+                "share": 15.19
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "13:00:05",
+                "rating": 3.8,
+                "share": 32.2
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "18:59:59",
+                "end_time": "19:59:59",
+                "rating": 2.86,
+                "share": 15.51
+            },
+            {
+                "rank": 6,
+                "name": "SANDIK KOKUSU (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "20:57:14",
+                "rating": 2.32,
+                "share": 9.99
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:10",
+                "end_time": "18:44:19",
+                "rating": 2.19,
+                "share": 16.0
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:17",
+                "rating": 1.82,
+                "share": 9.69
+            },
+            {
+                "rank": 9,
+                "name": "TOM VE JERRY (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:59",
+                "end_time": "22:17:28",
+                "rating": 1.77,
+                "share": 6.73
+            },
+            {
+                "rank": 10,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:39",
+                "end_time": "20:45:01",
+                "rating": 1.73,
+                "share": 7.8
+            }
+        ]
+    }
+}
