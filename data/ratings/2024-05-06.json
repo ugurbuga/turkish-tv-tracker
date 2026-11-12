@@ -1,0 +1,282 @@
+{
+    "date": "2024-05-06",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KIZIL GONCALAR",
+                "channel": "NOW",
+                "start_time": "20:47:04",
+                "end_time": "24:18:16",
+                "rating": 7.04,
+                "share": 19.85
+            },
+            {
+                "rank": 2,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "20:59:50",
+                "end_time": "23:45:26",
+                "rating": 4.89,
+                "share": 13.37
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:36",
+                "end_time": "24:23:17",
+                "rating": 4.53,
+                "share": 13.39
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:56",
+                "end_time": "13:00:01",
+                "rating": 4.19,
+                "share": 34.49
+            },
+            {
+                "rank": 5,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:22:50",
+                "end_time": "24:16:41",
+                "rating": 3.73,
+                "share": 10.62
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "19:59:50",
+                "rating": 3.44,
+                "share": 13.41
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:38",
+                "end_time": "18:43:58",
+                "rating": 3.37,
+                "share": 19.6
+            },
+            {
+                "rank": 8,
+                "name": "KIZIL GONCALAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:00",
+                "end_time": "20:46:59",
+                "rating": 3.22,
+                "share": 9.71
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:01",
+                "end_time": "19:55:08",
+                "rating": 2.9,
+                "share": 11.33
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:41",
+                "end_time": "20:00:03",
+                "rating": 2.58,
+                "share": 10.07
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KIZIL GONCALAR",
+                "channel": "NOW",
+                "start_time": "20:47:04",
+                "end_time": "24:18:16",
+                "rating": 9.2,
+                "share": 26.87
+            },
+            {
+                "rank": 2,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "20:59:50",
+                "end_time": "23:45:26",
+                "rating": 4.03,
+                "share": 11.36
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "19:59:50",
+                "rating": 3.7,
+                "share": 17.58
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:36",
+                "end_time": "24:23:17",
+                "rating": 3.42,
+                "share": 10.42
+            },
+            {
+                "rank": 5,
+                "name": "KIZIL GONCALAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:00",
+                "end_time": "20:46:59",
+                "rating": 3.39,
+                "share": 11.76
+            },
+            {
+                "rank": 6,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:22:50",
+                "end_time": "24:16:41",
+                "rating": 3.29,
+                "share": 9.82
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:56",
+                "end_time": "13:00:01",
+                "rating": 2.79,
+                "share": 30.15
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:38",
+                "end_time": "18:43:58",
+                "rating": 2.26,
+                "share": 18.87
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:01",
+                "end_time": "19:55:08",
+                "rating": 2.14,
+                "share": 10.19
+            },
+            {
+                "rank": 10,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:46",
+                "end_time": "20:59:50",
+                "rating": 1.91,
+                "share": 6.49
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KIZIL GONCALAR",
+                "channel": "NOW",
+                "start_time": "20:47:04",
+                "end_time": "24:18:16",
+                "rating": 10.05,
+                "share": 26.4
+            },
+            {
+                "rank": 2,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "20:59:50",
+                "end_time": "23:45:26",
+                "rating": 4.34,
+                "share": 10.99
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:56",
+                "end_time": "13:00:01",
+                "rating": 4.29,
+                "share": 34.89
+            },
+            {
+                "rank": 4,
+                "name": "KIZIL GONCALAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:00",
+                "end_time": "20:46:59",
+                "rating": 4.03,
+                "share": 12.39
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:36",
+                "end_time": "24:23:17",
+                "rating": 4.0,
+                "share": 10.93
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "19:59:50",
+                "rating": 3.85,
+                "share": 15.98
+            },
+            {
+                "rank": 7,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:22:50",
+                "end_time": "24:16:41",
+                "rating": 3.68,
+                "share": 9.86
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:38",
+                "end_time": "18:43:58",
+                "rating": 2.89,
+                "share": 19.0
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:41",
+                "end_time": "20:00:03",
+                "rating": 2.37,
+                "share": 9.86
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:01",
+                "end_time": "19:55:08",
+                "rating": 2.37,
+                "share": 9.82
+            }
+        ]
+    }
+}
