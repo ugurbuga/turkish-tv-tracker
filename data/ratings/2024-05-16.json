@@ -1,0 +1,282 @@
+{
+    "date": "2024-05-16",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "21:04:05",
+                "end_time": "24:16:27",
+                "rating": 5.88,
+                "share": 16.47
+            },
+            {
+                "rank": 2,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:59:11",
+                "end_time": "23:45:56",
+                "rating": 5.19,
+                "share": 14.09
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:47:20",
+                "end_time": "24:35:11",
+                "rating": 4.98,
+                "share": 15.0
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:59",
+                "end_time": "13:00:01",
+                "rating": 4.68,
+                "share": 38.69
+            },
+            {
+                "rank": 5,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:45:41",
+                "end_time": "24:16:25",
+                "rating": 4.32,
+                "share": 12.03
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:20",
+                "end_time": "18:44:54",
+                "rating": 3.7,
+                "share": 21.81
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "19:59:55",
+                "rating": 3.48,
+                "share": 13.7
+            },
+            {
+                "rank": 8,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "21:03:54",
+                "rating": 3.29,
+                "share": 9.81
+            },
+            {
+                "rank": 9,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:00",
+                "end_time": "20:59:06",
+                "rating": 2.96,
+                "share": 8.88
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:58",
+                "end_time": "19:51:25",
+                "rating": 2.75,
+                "share": 10.8
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "21:04:05",
+                "end_time": "24:16:27",
+                "rating": 7.32,
+                "share": 22.4
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:47:20",
+                "end_time": "24:35:11",
+                "rating": 4.33,
+                "share": 14.39
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:59",
+                "end_time": "13:00:01",
+                "rating": 3.75,
+                "share": 35.5
+            },
+            {
+                "rank": 4,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "21:03:54",
+                "rating": 3.63,
+                "share": 12.91
+            },
+            {
+                "rank": 5,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:45:41",
+                "end_time": "24:16:25",
+                "rating": 3.11,
+                "share": 9.61
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "19:59:55",
+                "rating": 2.95,
+                "share": 13.89
+            },
+            {
+                "rank": 7,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:59:11",
+                "end_time": "23:45:56",
+                "rating": 2.73,
+                "share": 8.18
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:41",
+                "end_time": "20:00:06",
+                "rating": 2.62,
+                "share": 12.28
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:20",
+                "end_time": "18:44:54",
+                "rating": 2.47,
+                "share": 19.22
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:14",
+                "end_time": "19:59:48",
+                "rating": 2.05,
+                "share": 9.71
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "21:04:05",
+                "end_time": "24:16:27",
+                "rating": 8.14,
+                "share": 21.84
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:47:20",
+                "end_time": "24:35:11",
+                "rating": 5.06,
+                "share": 14.68
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:59",
+                "end_time": "13:00:01",
+                "rating": 4.97,
+                "share": 38.76
+            },
+            {
+                "rank": 4,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:59:11",
+                "end_time": "23:45:56",
+                "rating": 4.24,
+                "share": 11.11
+            },
+            {
+                "rank": 5,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "21:03:54",
+                "rating": 4.21,
+                "share": 13.26
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "19:59:55",
+                "rating": 3.74,
+                "share": 15.39
+            },
+            {
+                "rank": 7,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:45:41",
+                "end_time": "24:16:25",
+                "rating": 3.51,
+                "share": 9.48
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:20",
+                "end_time": "18:44:54",
+                "rating": 3.08,
+                "share": 19.68
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:14",
+                "end_time": "19:59:48",
+                "rating": 2.46,
+                "share": 10.15
+            },
+            {
+                "rank": 10,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:00",
+                "end_time": "20:59:06",
+                "rating": 2.42,
+                "share": 7.7
+            }
+        ]
+    }
+}

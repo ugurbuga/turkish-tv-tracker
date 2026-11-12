@@ -1,0 +1,282 @@
+{
+    "date": "2024-05-19",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:59:51",
+                "end_time": "23:50:23",
+                "rating": 4.6,
+                "share": 12.94
+            },
+            {
+                "rank": 2,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:59:06",
+                "end_time": "24:17:24",
+                "rating": 4.54,
+                "share": 13.11
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:15",
+                "end_time": "24:33:07",
+                "rating": 4.24,
+                "share": 13.08
+            },
+            {
+                "rank": 4,
+                "name": "KIRLI SEPETI",
+                "channel": "NOW",
+                "start_time": "21:01:06",
+                "end_time": "24:17:46",
+                "rating": 3.68,
+                "share": 10.62
+            },
+            {
+                "rank": 5,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:51",
+                "rating": 2.32,
+                "share": 9.0
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:41",
+                "end_time": "20:59:51",
+                "rating": 2.02,
+                "share": 6.29
+            },
+            {
+                "rank": 7,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:59",
+                "end_time": "20:58:55",
+                "rating": 2.02,
+                "share": 6.28
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "20:00:14",
+                "rating": 1.83,
+                "share": 6.98
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:34",
+                "end_time": "24:17:59",
+                "rating": 1.82,
+                "share": 5.25
+            },
+            {
+                "rank": 10,
+                "name": "KIRLI SEPETI (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:56",
+                "end_time": "21:01:01",
+                "rating": 1.77,
+                "share": 5.5
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:59:06",
+                "end_time": "24:17:24",
+                "rating": 5.42,
+                "share": 17.55
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:59:51",
+                "end_time": "23:50:23",
+                "rating": 4.44,
+                "share": 13.97
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:15",
+                "end_time": "24:33:07",
+                "rating": 2.9,
+                "share": 10.11
+            },
+            {
+                "rank": 4,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:59",
+                "end_time": "20:58:55",
+                "rating": 2.08,
+                "share": 7.25
+            },
+            {
+                "rank": 5,
+                "name": "FENERBAHCELI FUTBOLCU MERT HAKAN YANDAS ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "22:21:38",
+                "end_time": "22:24:11",
+                "rating": 2.06,
+                "share": 6.24
+            },
+            {
+                "rank": 6,
+                "name": "KIRLI SEPETI",
+                "channel": "NOW",
+                "start_time": "21:01:06",
+                "end_time": "24:17:46",
+                "rating": 1.71,
+                "share": 5.53
+            },
+            {
+                "rank": 7,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "21:04:06",
+                "end_time": "24:00:49",
+                "rating": 1.68,
+                "share": 5.41
+            },
+            {
+                "rank": 8,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:51",
+                "rating": 1.62,
+                "share": 7.06
+            },
+            {
+                "rank": 9,
+                "name": "FENERBAHCE BASKANI ALI KOC VE YONETICI SELAHATTIN BAKI ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:33:36",
+                "end_time": "24:51:42",
+                "rating": 1.49,
+                "share": 12.34
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:37",
+                "end_time": "19:59:56",
+                "rating": 1.44,
+                "share": 6.29
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:59:06",
+                "end_time": "24:17:24",
+                "rating": 6.02,
+                "share": 16.17
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:59:51",
+                "end_time": "23:50:23",
+                "rating": 4.37,
+                "share": 11.43
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:15",
+                "end_time": "24:33:07",
+                "rating": 3.95,
+                "share": 11.35
+            },
+            {
+                "rank": 4,
+                "name": "KIRLI SEPETI",
+                "channel": "NOW",
+                "start_time": "21:01:06",
+                "end_time": "24:17:46",
+                "rating": 3.18,
+                "share": 8.52
+            },
+            {
+                "rank": 5,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:59",
+                "end_time": "20:58:55",
+                "rating": 2.39,
+                "share": 7.16
+            },
+            {
+                "rank": 6,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:51",
+                "rating": 2.38,
+                "share": 8.88
+            },
+            {
+                "rank": 7,
+                "name": "FENERBAHCELI FUTBOLCU MERT HAKAN YANDAS ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "22:21:38",
+                "end_time": "22:24:11",
+                "rating": 2.21,
+                "share": 5.54
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:41",
+                "end_time": "20:59:51",
+                "rating": 1.79,
+                "share": 5.35
+            },
+            {
+                "rank": 9,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "21:04:06",
+                "end_time": "24:00:49",
+                "rating": 1.76,
+                "share": 4.7
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:34",
+                "end_time": "24:17:59",
+                "rating": 1.74,
+                "share": 4.66
+            }
+        ]
+    }
+}
