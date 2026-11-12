@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:01:28",
+                "end_time": "24:23:49",
+                "rating": 4.05,
+                "share": 16.94
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:04",
+                "end_time": "20:00:08",
+                "rating": 2.37,
+                "share": 12.99
+            },
+            {
+                "rank": 3,
+                "name": "COPCULER KRALI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:42",
+                "end_time": "21:45:02",
+                "rating": 2.32,
+                "share": 9.98
+            },
+            {
+                "rank": 4,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:46:22",
+                "end_time": "23:32:24",
+                "rating": 2.02,
+                "share": 8.11
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:27",
+                "end_time": "19:59:44",
+                "rating": 1.59,
+                "share": 8.7
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:51",
+                "end_time": "23:43:13",
+                "rating": 1.56,
+                "share": 6.46
+            },
+            {
+                "rank": 7,
+                "name": "TURNIKE OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:28",
+                "end_time": "20:46:17",
+                "rating": 1.52,
+                "share": 6.86
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:46",
+                "end_time": "19:59:40",
+                "rating": 1.47,
+                "share": 8.09
+            },
+            {
+                "rank": 9,
+                "name": "CELIK YUMRUKLAR (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:34",
+                "end_time": "22:42:34",
+                "rating": 1.41,
+                "share": 5.81
+            },
+            {
+                "rank": 10,
+                "name": "OLMADI KACARIZ T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:38",
+                "end_time": "22:25:57",
+                "rating": 1.31,
+                "share": 5.46
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:01:28",
+                "end_time": "24:23:49",
+                "rating": 4.21,
+                "share": 18.01
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:04",
+                "end_time": "20:00:08",
+                "rating": 1.95,
+                "share": 11.44
+            },
+            {
+                "rank": 3,
+                "name": "COPCULER KRALI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:42",
+                "end_time": "21:45:02",
+                "rating": 1.93,
+                "share": 8.56
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:51",
+                "end_time": "23:43:13",
+                "rating": 1.88,
+                "share": 7.96
+            },
+            {
+                "rank": 5,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:05",
+                "end_time": "18:58:46",
+                "rating": 1.8,
+                "share": 12.94
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:27",
+                "end_time": "19:59:44",
+                "rating": 1.49,
+                "share": 8.71
+            },
+            {
+                "rank": 7,
+                "name": "OLMADI KACARIZ T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:38",
+                "end_time": "22:25:57",
+                "rating": 1.46,
+                "share": 6.19
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:46",
+                "end_time": "19:59:40",
+                "rating": 1.39,
+                "share": 8.21
+            },
+            {
+                "rank": 9,
+                "name": "TURNIKE OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:28",
+                "end_time": "20:46:17",
+                "rating": 1.37,
+                "share": 6.59
+            },
+            {
+                "rank": 10,
+                "name": "CELIK YUMRUKLAR (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:34",
+                "end_time": "22:42:34",
+                "rating": 1.22,
+                "share": 5.1
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:01:28",
+                "end_time": "24:23:49",
+                "rating": 4.71,
+                "share": 18.66
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:04",
+                "end_time": "20:00:08",
+                "rating": 2.11,
+                "share": 11.85
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:51",
+                "end_time": "23:43:13",
+                "rating": 1.91,
+                "share": 7.54
+            },
+            {
+                "rank": 4,
+                "name": "COPCULER KRALI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:42",
+                "end_time": "21:45:02",
+                "rating": 1.75,
+                "share": 7.33
+            },
+            {
+                "rank": 5,
+                "name": "CELIK YUMRUKLAR (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:34",
+                "end_time": "22:42:34",
+                "rating": 1.75,
+                "share": 6.85
+            },
+            {
+                "rank": 6,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:46:22",
+                "end_time": "23:32:24",
+                "rating": 1.7,
+                "share": 6.45
+            },
+            {
+                "rank": 7,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:05",
+                "end_time": "18:58:46",
+                "rating": 1.63,
+                "share": 11.46
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:46",
+                "end_time": "19:59:40",
+                "rating": 1.62,
+                "share": 9.11
+            },
+            {
+                "rank": 9,
+                "name": "TURNIKE OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:28",
+                "end_time": "20:46:17",
+                "rating": 1.58,
+                "share": 7.04
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:34:55",
+                "end_time": "21:01:23",
+                "rating": 1.48,
+                "share": 7.51
+            }
+        ]
+    }
+}

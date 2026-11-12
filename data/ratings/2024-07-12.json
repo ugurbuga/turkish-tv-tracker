@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:23",
+                "end_time": "24:21:40",
+                "rating": 3.97,
+                "share": 17.18
+            },
+            {
+                "rank": 2,
+                "name": "HIZLI VE OFKELI 9 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:34",
+                "end_time": "22:47:38",
+                "rating": 2.33,
+                "share": 10.09
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:48",
+                "rating": 2.24,
+                "share": 13.57
+            },
+            {
+                "rank": 4,
+                "name": "BUZ DEVRI 5 BUYUK CARPISMA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "21:48:50",
+                "rating": 1.58,
+                "share": 7.35
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:40",
+                "end_time": "19:59:52",
+                "rating": 1.5,
+                "share": 9.07
+            },
+            {
+                "rank": 6,
+                "name": "MAGARA (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:49:11",
+                "end_time": "23:43:26",
+                "rating": 1.5,
+                "share": 6.15
+            },
+            {
+                "rank": 7,
+                "name": "DANGAL (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:20",
+                "end_time": "23:17:24",
+                "rating": 1.48,
+                "share": 6.41
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:10",
+                "rating": 1.35,
+                "share": 8.11
+            },
+            {
+                "rank": 9,
+                "name": "HAVA MUHALEFETI (T.S)",
+                "channel": "NOW",
+                "start_time": "19:59:53",
+                "end_time": "22:16:42",
+                "rating": 1.32,
+                "share": 6.05
+            },
+            {
+                "rank": 10,
+                "name": "KATIL AVCISI (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "22:26:50",
+                "rating": 1.28,
+                "share": 5.76
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:23",
+                "end_time": "24:21:40",
+                "rating": 4.59,
+                "share": 19.87
+            },
+            {
+                "rank": 2,
+                "name": "HIZLI VE OFKELI 9 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:34",
+                "end_time": "22:47:38",
+                "rating": 2.0,
+                "share": 8.71
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:48",
+                "rating": 1.99,
+                "share": 14.27
+            },
+            {
+                "rank": 4,
+                "name": "DANGAL (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:20",
+                "end_time": "23:17:24",
+                "rating": 1.88,
+                "share": 8.17
+            },
+            {
+                "rank": 5,
+                "name": "KATIL AVCISI (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "22:26:50",
+                "rating": 1.42,
+                "share": 6.47
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:49:15",
+                "end_time": "20:57:23",
+                "rating": 1.38,
+                "share": 8.26
+            },
+            {
+                "rank": 7,
+                "name": "HAVA MUHALEFETI (T.S)",
+                "channel": "NOW",
+                "start_time": "19:59:53",
+                "end_time": "22:16:42",
+                "rating": 1.36,
+                "share": 6.32
+            },
+            {
+                "rank": 8,
+                "name": "MAGARA (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:49:11",
+                "end_time": "23:43:26",
+                "rating": 1.25,
+                "share": 5.16
+            },
+            {
+                "rank": 9,
+                "name": "BUZ DEVRI 5 BUYUK CARPISMA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "21:48:50",
+                "rating": 1.24,
+                "share": 5.91
+            },
+            {
+                "rank": 10,
+                "name": "HAVA MUHALEFETI (T.S) (TKR)",
+                "channel": "NOW",
+                "start_time": "22:16:47",
+                "end_time": "24:19:14",
+                "rating": 1.12,
+                "share": 4.94
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:23",
+                "end_time": "24:21:40",
+                "rating": 5.35,
+                "share": 21.55
+            },
+            {
+                "rank": 2,
+                "name": "HIZLI VE OFKELI 9 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:34",
+                "end_time": "22:47:38",
+                "rating": 2.39,
+                "share": 9.9
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:48",
+                "rating": 1.85,
+                "share": 12.31
+            },
+            {
+                "rank": 4,
+                "name": "MAGARA (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:49:11",
+                "end_time": "23:43:26",
+                "rating": 1.57,
+                "share": 6.01
+            },
+            {
+                "rank": 5,
+                "name": "DANGAL (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:20",
+                "end_time": "23:17:24",
+                "rating": 1.45,
+                "share": 5.95
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:49:15",
+                "end_time": "20:57:23",
+                "rating": 1.44,
+                "share": 8.03
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:10",
+                "rating": 1.41,
+                "share": 9.16
+            },
+            {
+                "rank": 8,
+                "name": "HAVA MUHALEFETI (T.S)",
+                "channel": "NOW",
+                "start_time": "19:59:53",
+                "end_time": "22:16:42",
+                "rating": 1.4,
+                "share": 6.21
+            },
+            {
+                "rank": 9,
+                "name": "KATIL AVCISI (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:03",
+                "end_time": "22:26:50",
+                "rating": 1.39,
+                "share": 6.02
+            },
+            {
+                "rank": 10,
+                "name": "BUZ DEVRI 5 BUYUK CARPISMA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "21:48:50",
+                "rating": 1.35,
+                "share": 6.05
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:06:51",
+                "end_time": "24:38:04",
+                "rating": 3.4,
+                "share": 14.87
+            },
+            {
+                "rank": 2,
+                "name": "BEN VE BABAM VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:03",
+                "end_time": "23:21:37",
+                "rating": 2.72,
+                "share": 11.28
+            },
+            {
+                "rank": 3,
+                "name": "15 TEMMUZ SEHITLERI ANMA PROGRAMI",
+                "channel": "TRT 1",
+                "start_time": "21:36:41",
+                "end_time": "22:05:10",
+                "rating": 2.65,
+                "share": 10.24
+            },
+            {
+                "rank": 4,
+                "name": "15 TEMMUZ SEHITLERI ANMA DEMOKRASI VE MILLI BIRLIK GUNU",
+                "channel": "TV8",
+                "start_time": "21:39:58",
+                "end_time": "22:05:06",
+                "rating": 2.24,
+                "share": 8.62
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 1.8,
+                "share": 10.52
+            },
+            {
+                "rank": 6,
+                "name": "15 TEMMUZ MILLETIN ZAFERI",
+                "channel": "SHOW TV",
+                "start_time": "21:43:56",
+                "end_time": "22:06:29",
+                "rating": 1.67,
+                "share": 6.42
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "21:43:56",
+                "rating": 1.57,
+                "share": 6.88
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:33:36",
+                "end_time": "21:06:51",
+                "rating": 1.46,
+                "share": 7.68
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:46",
+                "rating": 1.45,
+                "share": 8.5
+            },
+            {
+                "rank": 10,
+                "name": "JOHN WICK 4 (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:11:03",
+                "end_time": "23:53:48",
+                "rating": 1.43,
+                "share": 6.01
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:06:51",
+                "end_time": "24:38:04",
+                "rating": 3.39,
+                "share": 15.36
+            },
+            {
+                "rank": 2,
+                "name": "BEN VE BABAM VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:03",
+                "end_time": "23:21:37",
+                "rating": 2.95,
+                "share": 12.48
+            },
+            {
+                "rank": 3,
+                "name": "15 TEMMUZ SEHITLERI ANMA PROGRAMI",
+                "channel": "TRT 1",
+                "start_time": "21:36:41",
+                "end_time": "22:05:10",
+                "rating": 2.48,
+                "share": 9.67
+            },
+            {
+                "rank": 4,
+                "name": "15 TEMMUZ SEHITLERI ANMA DEMOKRASI VE MILLI BIRLIK GUNU",
+                "channel": "TV8",
+                "start_time": "21:39:58",
+                "end_time": "22:05:06",
+                "rating": 1.98,
+                "share": 7.7
+            },
+            {
+                "rank": 5,
+                "name": "15 TEMMUZ MILLETIN ZAFERI",
+                "channel": "SHOW TV",
+                "start_time": "21:43:56",
+                "end_time": "22:06:29",
+                "rating": 1.89,
+                "share": 7.38
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 1.77,
+                "share": 11.6
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:33:36",
+                "end_time": "21:06:51",
+                "rating": 1.7,
+                "share": 9.52
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "21:43:56",
+                "rating": 1.52,
+                "share": 6.8
+            },
+            {
+                "rank": 9,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:14",
+                "end_time": "18:58:32",
+                "rating": 1.31,
+                "share": 9.94
+            },
+            {
+                "rank": 10,
+                "name": "JOHN WICK 4 (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:11:03",
+                "end_time": "23:53:48",
+                "rating": 1.17,
+                "share": 5.06
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:06:51",
+                "end_time": "24:38:04",
+                "rating": 4.19,
+                "share": 17.29
+            },
+            {
+                "rank": 2,
+                "name": "BEN VE BABAM VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:03",
+                "end_time": "23:21:37",
+                "rating": 2.99,
+                "share": 11.91
+            },
+            {
+                "rank": 3,
+                "name": "15 TEMMUZ SEHITLERI ANMA PROGRAMI",
+                "channel": "TRT 1",
+                "start_time": "21:36:41",
+                "end_time": "22:05:10",
+                "rating": 2.6,
+                "share": 9.85
+            },
+            {
+                "rank": 4,
+                "name": "15 TEMMUZ SEHITLERI ANMA DEMOKRASI VE MILLI BIRLIK GUNU",
+                "channel": "TV8",
+                "start_time": "21:39:58",
+                "end_time": "22:05:06",
+                "rating": 2.29,
+                "share": 8.67
+            },
+            {
+                "rank": 5,
+                "name": "15 TEMMUZ MILLETIN ZAFERI",
+                "channel": "SHOW TV",
+                "start_time": "21:43:56",
+                "end_time": "22:06:29",
+                "rating": 2.11,
+                "share": 7.96
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "21:43:56",
+                "rating": 1.74,
+                "share": 7.4
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:33:36",
+                "end_time": "21:06:51",
+                "rating": 1.69,
+                "share": 8.72
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 1.67,
+                "share": 9.85
+            },
+            {
+                "rank": 9,
+                "name": "JOHN WICK 4 (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:11:03",
+                "end_time": "23:53:48",
+                "rating": 1.62,
+                "share": 6.5
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:46",
+                "rating": 1.6,
+                "share": 9.43
+            }
+        ]
+    }
+}

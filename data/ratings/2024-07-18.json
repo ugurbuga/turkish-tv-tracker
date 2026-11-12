@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-18",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:35",
+                "end_time": "24:23:38",
+                "rating": 4.26,
+                "share": 17.83
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.43,
+                "share": 13.45
+            },
+            {
+                "rank": 3,
+                "name": "FENERBAHCE-HULL CITY HAZIRLIK MACI KARSILASMASI",
+                "channel": "TV8,5",
+                "start_time": "20:08:19",
+                "end_time": "22:38:48",
+                "rating": 1.96,
+                "share": 8.1
+            },
+            {
+                "rank": 4,
+                "name": "HABABAM SINIFI ASKERDE (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:21",
+                "end_time": "22:33:06",
+                "rating": 1.91,
+                "share": 8.09
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:34",
+                "end_time": "19:59:47",
+                "rating": 1.82,
+                "share": 10.09
+            },
+            {
+                "rank": 6,
+                "name": "KARA BELA (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:37",
+                "end_time": "22:20:09",
+                "rating": 1.67,
+                "share": 7.2
+            },
+            {
+                "rank": 7,
+                "name": "ALAN",
+                "channel": "ATV",
+                "start_time": "20:43:42",
+                "end_time": "24:15:39",
+                "rating": 1.51,
+                "share": 6.24
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:40",
+                "end_time": "20:00:03",
+                "rating": 1.48,
+                "share": 8.17
+            },
+            {
+                "rank": 9,
+                "name": "KOD ADI OLYMPUS (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "22:24:29",
+                "rating": 1.4,
+                "share": 6.04
+            },
+            {
+                "rank": 10,
+                "name": "CEHENNEM MELEKLERI 2 (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:24:45",
+                "end_time": "24:20:02",
+                "rating": 1.36,
+                "share": 5.92
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:35",
+                "end_time": "24:23:38",
+                "rating": 4.41,
+                "share": 18.92
+            },
+            {
+                "rank": 2,
+                "name": "FENERBAHCE-HULL CITY HAZIRLIK MACI KARSILASMASI",
+                "channel": "TV8,5",
+                "start_time": "20:08:19",
+                "end_time": "22:38:48",
+                "rating": 2.83,
+                "share": 12.0
+            },
+            {
+                "rank": 3,
+                "name": "KARA BELA (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:37",
+                "end_time": "22:20:09",
+                "rating": 2.11,
+                "share": 9.3
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.08,
+                "share": 12.66
+            },
+            {
+                "rank": 5,
+                "name": "ALAN",
+                "channel": "ATV",
+                "start_time": "20:43:42",
+                "end_time": "24:15:39",
+                "rating": 1.94,
+                "share": 8.2
+            },
+            {
+                "rank": 6,
+                "name": "CEHENNEM MELEKLERI 2 (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:24:45",
+                "end_time": "24:20:02",
+                "rating": 1.51,
+                "share": 6.76
+            },
+            {
+                "rank": 7,
+                "name": "KARA BELA (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:20:32",
+                "end_time": "24:24:43",
+                "rating": 1.41,
+                "share": 6.36
+            },
+            {
+                "rank": 8,
+                "name": "KOD ADI OLYMPUS (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "22:24:29",
+                "rating": 1.18,
+                "share": 5.21
+            },
+            {
+                "rank": 9,
+                "name": "ALAN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:37",
+                "end_time": "20:43:42",
+                "rating": 1.09,
+                "share": 5.32
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:42:30",
+                "end_time": "20:59:30",
+                "rating": 1.08,
+                "share": 5.92
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:35",
+                "end_time": "24:23:38",
+                "rating": 5.06,
+                "share": 20.67
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.39,
+                "share": 13.33
+            },
+            {
+                "rank": 3,
+                "name": "FENERBAHCE-HULL CITY HAZIRLIK MACI KARSILASMASI",
+                "channel": "TV8,5",
+                "start_time": "20:08:19",
+                "end_time": "22:38:48",
+                "rating": 2.15,
+                "share": 8.74
+            },
+            {
+                "rank": 4,
+                "name": "ALAN",
+                "channel": "ATV",
+                "start_time": "20:43:42",
+                "end_time": "24:15:39",
+                "rating": 2.03,
+                "share": 8.17
+            },
+            {
+                "rank": 5,
+                "name": "KARA BELA (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:37",
+                "end_time": "22:20:09",
+                "rating": 1.86,
+                "share": 7.92
+            },
+            {
+                "rank": 6,
+                "name": "KOD ADI OLYMPUS (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:58",
+                "end_time": "22:24:29",
+                "rating": 1.78,
+                "share": 7.6
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:34",
+                "end_time": "19:59:47",
+                "rating": 1.67,
+                "share": 9.37
+            },
+            {
+                "rank": 8,
+                "name": "HABABAM SINIFI ASKERDE (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:21",
+                "end_time": "22:33:06",
+                "rating": 1.33,
+                "share": 5.54
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:42:30",
+                "end_time": "20:59:30",
+                "rating": 1.32,
+                "share": 6.93
+            },
+            {
+                "rank": 10,
+                "name": "CEHENNEM MELEKLERI 2 (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:24:45",
+                "end_time": "24:20:02",
+                "rating": 1.28,
+                "share": 5.48
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:50",
+                "end_time": "24:22:24",
+                "rating": 3.93,
+                "share": 18.15
+            },
+            {
+                "rank": 2,
+                "name": "ALFA KURT (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:35:54",
+                "end_time": "24:28:49",
+                "rating": 1.89,
+                "share": 8.95
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:21",
+                "rating": 1.81,
+                "share": 11.84
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:11",
+                "end_time": "23:42:36",
+                "rating": 1.62,
+                "share": 7.65
+            },
+            {
+                "rank": 5,
+                "name": "ORUMCEK ADAM EVDEN UZAKTA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "22:35:33",
+                "rating": 1.51,
+                "share": 7.46
+            },
+            {
+                "rank": 6,
+                "name": "GOL KRALI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:45",
+                "end_time": "21:41:44",
+                "rating": 1.31,
+                "share": 6.71
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "20:00:00",
+                "rating": 1.3,
+                "share": 8.54
+            },
+            {
+                "rank": 8,
+                "name": "IBO SHOW OZEL",
+                "channel": "STAR TV",
+                "start_time": "20:57:57",
+                "end_time": "23:46:56",
+                "rating": 1.16,
+                "share": 5.23
+            },
+            {
+                "rank": 9,
+                "name": "TURNIKE (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:40",
+                "end_time": "22:40:43",
+                "rating": 1.13,
+                "share": 5.51
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:20:15",
+                "end_time": "20:57:50",
+                "rating": 1.06,
+                "share": 6.66
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:50",
+                "end_time": "24:22:24",
+                "rating": 4.53,
+                "share": 21.81
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:11",
+                "end_time": "23:42:36",
+                "rating": 1.96,
+                "share": 9.8
+            },
+            {
+                "rank": 3,
+                "name": "RAFADAN TAYFA GOBEKLI TEPE (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:08:34",
+                "end_time": "21:43:47",
+                "rating": 1.55,
+                "share": 9.08
+            },
+            {
+                "rank": 4,
+                "name": "BABA (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:43:55",
+                "end_time": "24:45:19",
+                "rating": 1.37,
+                "share": 6.85
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:22:39",
+                "end_time": "26:00:00",
+                "rating": 1.26,
+                "share": 12.17
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:21",
+                "rating": 1.25,
+                "share": 10.04
+            },
+            {
+                "rank": 7,
+                "name": "ALFA KURT (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:35:54",
+                "end_time": "24:28:49",
+                "rating": 1.12,
+                "share": 5.46
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "20:00:00",
+                "rating": 1.09,
+                "share": 8.79
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:20:15",
+                "end_time": "20:57:50",
+                "rating": 1.05,
+                "share": 7.83
+            },
+            {
+                "rank": 10,
+                "name": "TURGAY BASYAYLA ILE LEZZETLI TAVSIYE (TKR)",
+                "channel": "TRT 1",
+                "start_time": "12:42:53",
+                "end_time": "13:55:09",
+                "rating": 1.02,
+                "share": 8.29
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:50",
+                "end_time": "24:22:24",
+                "rating": 4.35,
+                "share": 19.72
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:11",
+                "end_time": "23:42:36",
+                "rating": 2.06,
+                "share": 9.61
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:21",
+                "rating": 1.79,
+                "share": 12.18
+            },
+            {
+                "rank": 4,
+                "name": "ALFA KURT (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:35:54",
+                "end_time": "24:28:49",
+                "rating": 1.77,
+                "share": 8.18
+            },
+            {
+                "rank": 5,
+                "name": "ORUMCEK ADAM EVDEN UZAKTA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "22:35:33",
+                "rating": 1.55,
+                "share": 7.66
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "20:00:00",
+                "rating": 1.31,
+                "share": 8.98
+            },
+            {
+                "rank": 7,
+                "name": "BABA (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:43:55",
+                "end_time": "24:45:19",
+                "rating": 1.24,
+                "share": 5.87
+            },
+            {
+                "rank": 8,
+                "name": "GOL KRALI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:45",
+                "end_time": "21:41:44",
+                "rating": 1.22,
+                "share": 6.41
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:20:15",
+                "end_time": "20:57:50",
+                "rating": 1.19,
+                "share": 7.77
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:32",
+                "rating": 1.16,
+                "share": 9.04
+            }
+        ]
+    }
+}

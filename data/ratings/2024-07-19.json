@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-19",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:20",
+                "end_time": "24:21:40",
+                "rating": 4.03,
+                "share": 17.65
+            },
+            {
+                "rank": 2,
+                "name": "GURBETCI SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:52",
+                "end_time": "21:53:02",
+                "rating": 2.2,
+                "share": 9.77
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:17",
+                "rating": 2.12,
+                "share": 12.03
+            },
+            {
+                "rank": 4,
+                "name": "OLANLAR OLDU (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:52",
+                "end_time": "22:21:43",
+                "rating": 1.85,
+                "share": 8.22
+            },
+            {
+                "rank": 5,
+                "name": "DEMIR MASKE (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "22:29:40",
+                "rating": 1.63,
+                "share": 7.23
+            },
+            {
+                "rank": 6,
+                "name": "OLANLAR OLDU (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:22:06",
+                "end_time": "24:27:16",
+                "rating": 1.52,
+                "share": 7.01
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:40",
+                "end_time": "19:59:45",
+                "rating": 1.43,
+                "share": 8.15
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "19:59:57",
+                "rating": 1.39,
+                "share": 7.88
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:27",
+                "end_time": "20:55:15",
+                "rating": 1.33,
+                "share": 7.06
+            },
+            {
+                "rank": 10,
+                "name": "CAGLA ILE BU YAZ",
+                "channel": "NOW",
+                "start_time": "21:53:12",
+                "end_time": "23:46:19",
+                "rating": 1.28,
+                "share": 5.49
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:20",
+                "end_time": "24:21:40",
+                "rating": 4.51,
+                "share": 20.61
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:27",
+                "end_time": "20:55:15",
+                "rating": 1.9,
+                "share": 11.67
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:17",
+                "rating": 1.62,
+                "share": 10.82
+            },
+            {
+                "rank": 4,
+                "name": "DEMIR MASKE (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "22:29:40",
+                "rating": 1.52,
+                "share": 7.54
+            },
+            {
+                "rank": 5,
+                "name": "OLANLAR OLDU (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:52",
+                "end_time": "22:21:43",
+                "rating": 1.49,
+                "share": 7.44
+            },
+            {
+                "rank": 6,
+                "name": "CAGLA ILE BU YAZ",
+                "channel": "NOW",
+                "start_time": "21:53:12",
+                "end_time": "23:46:19",
+                "rating": 1.39,
+                "share": 6.11
+            },
+            {
+                "rank": 7,
+                "name": "GURBETCI SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:52",
+                "end_time": "21:53:02",
+                "rating": 1.17,
+                "share": 5.91
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "19:59:57",
+                "rating": 1.0,
+                "share": 6.63
+            },
+            {
+                "rank": 9,
+                "name": "OLANLAR OLDU (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:22:06",
+                "end_time": "24:27:16",
+                "rating": 1.0,
+                "share": 4.59
+            },
+            {
+                "rank": 10,
+                "name": "HABABAM SINIFI ASKERDE (T.S) (TKR)",
+                "channel": "NOW",
+                "start_time": "13:47:53",
+                "end_time": "16:22:12",
+                "rating": 0.97,
+                "share": 10.2
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:20",
+                "end_time": "24:21:40",
+                "rating": 4.84,
+                "share": 20.78
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:17",
+                "rating": 1.88,
+                "share": 11.74
+            },
+            {
+                "rank": 3,
+                "name": "DEMIR MASKE (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "22:29:40",
+                "rating": 1.84,
+                "share": 8.53
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:27",
+                "end_time": "20:55:15",
+                "rating": 1.7,
+                "share": 9.8
+            },
+            {
+                "rank": 5,
+                "name": "OLANLAR OLDU (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:52",
+                "end_time": "22:21:43",
+                "rating": 1.63,
+                "share": 7.64
+            },
+            {
+                "rank": 6,
+                "name": "GURBETCI SABAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:52",
+                "end_time": "21:53:02",
+                "rating": 1.54,
+                "share": 7.33
+            },
+            {
+                "rank": 7,
+                "name": "CAGLA ILE BU YAZ",
+                "channel": "NOW",
+                "start_time": "21:53:12",
+                "end_time": "23:46:19",
+                "rating": 1.35,
+                "share": 5.55
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:40",
+                "end_time": "19:59:45",
+                "rating": 1.25,
+                "share": 7.86
+            },
+            {
+                "rank": 9,
+                "name": "SUCLULAR TAKIMI (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:29:56",
+                "end_time": "25:15:37",
+                "rating": 1.22,
+                "share": 6.07
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:21:55",
+                "end_time": "26:00:00",
+                "rating": 1.22,
+                "share": 11.86
+            }
+        ]
+    }
+}
