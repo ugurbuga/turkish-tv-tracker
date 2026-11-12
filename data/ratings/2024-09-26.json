@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-UNION SAINT-GILLOISE UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:34:11",
+                "end_time": "21:46:37",
+                "rating": 9.05,
+                "share": 26.78
+            },
+            {
+                "rank": 2,
+                "name": "AJAX-BESIKTAS UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:24",
+                "end_time": "23:56:25",
+                "rating": 7.6,
+                "share": 24.49
+            },
+            {
+                "rank": 3,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:31:59",
+                "end_time": "23:41:01",
+                "rating": 4.9,
+                "share": 14.3
+            },
+            {
+                "rank": 4,
+                "name": "UEFA AVRUPA LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:53:57",
+                "end_time": "22:59:13",
+                "rating": 4.69,
+                "share": 15.05
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:56",
+                "rating": 4.11,
+                "share": 34.6
+            },
+            {
+                "rank": 6,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:59:17",
+                "end_time": "23:48:31",
+                "rating": 3.89,
+                "share": 11.62
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:13",
+                "end_time": "24:21:11",
+                "rating": 3.53,
+                "share": 11.11
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:26",
+                "rating": 3.34,
+                "share": 12.8
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:56",
+                "end_time": "18:45:38",
+                "rating": 3.22,
+                "share": 20.52
+            },
+            {
+                "rank": 10,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:36",
+                "end_time": "20:59:12",
+                "rating": 2.96,
+                "share": 8.67
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-UNION SAINT-GILLOISE UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:34:11",
+                "end_time": "21:46:37",
+                "rating": 11.76,
+                "share": 37.79
+            },
+            {
+                "rank": 2,
+                "name": "AJAX-BESIKTAS UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:24",
+                "end_time": "23:56:25",
+                "rating": 10.87,
+                "share": 35.72
+            },
+            {
+                "rank": 3,
+                "name": "UEFA AVRUPA LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:53:57",
+                "end_time": "22:59:13",
+                "rating": 7.85,
+                "share": 25.07
+            },
+            {
+                "rank": 4,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:31:59",
+                "end_time": "23:41:01",
+                "rating": 4.22,
+                "share": 12.89
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:13",
+                "end_time": "24:21:11",
+                "rating": 3.69,
+                "share": 11.99
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:56",
+                "rating": 2.71,
+                "share": 30.07
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:26",
+                "rating": 2.41,
+                "share": 10.51
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:57:35",
+                "end_time": "20:58:13",
+                "rating": 1.92,
+                "share": 7.1
+            },
+            {
+                "rank": 9,
+                "name": "SIYAH KALP (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:15",
+                "end_time": "20:31:59",
+                "rating": 1.86,
+                "share": 6.23
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "20:00:03",
+                "rating": 1.69,
+                "share": 7.18
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-UNION SAINT-GILLOISE UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "19:34:11",
+                "end_time": "21:46:37",
+                "rating": 11.63,
+                "share": 33.52
+            },
+            {
+                "rank": 2,
+                "name": "AJAX-BESIKTAS UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:24",
+                "end_time": "23:56:25",
+                "rating": 10.11,
+                "share": 29.93
+            },
+            {
+                "rank": 3,
+                "name": "UEFA AVRUPA LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:53:57",
+                "end_time": "22:59:13",
+                "rating": 6.87,
+                "share": 20.04
+            },
+            {
+                "rank": 4,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:31:59",
+                "end_time": "23:41:01",
+                "rating": 5.16,
+                "share": 14.19
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:58:13",
+                "end_time": "24:21:11",
+                "rating": 4.23,
+                "share": 12.38
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:56",
+                "rating": 3.66,
+                "share": 30.49
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:26",
+                "rating": 3.22,
+                "share": 12.78
+            },
+            {
+                "rank": 8,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:59:17",
+                "end_time": "23:48:31",
+                "rating": 3.02,
+                "share": 8.38
+            },
+            {
+                "rank": 9,
+                "name": "SIYAH KALP (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:15",
+                "end_time": "20:31:59",
+                "rating": 2.47,
+                "share": 7.34
+            },
+            {
+                "rank": 10,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:56",
+                "end_time": "18:45:38",
+                "rating": 2.33,
+                "share": 15.83
+            }
+        ]
+    }
+}

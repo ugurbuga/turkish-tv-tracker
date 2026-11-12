@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-21",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:06",
+                "end_time": "24:10:40",
+                "rating": 5.79,
+                "share": 17.5
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:01",
+                "end_time": "21:00:06",
+                "rating": 3.64,
+                "share": 10.97
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:59",
+                "end_time": "24:21:40",
+                "rating": 3.55,
+                "share": 10.96
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:42",
+                "rating": 3.01,
+                "share": 11.36
+            },
+            {
+                "rank": 5,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "20:45:07",
+                "end_time": "23:57:39",
+                "rating": 2.47,
+                "share": 7.41
+            },
+            {
+                "rank": 6,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:44:23",
+                "end_time": "23:49:08",
+                "rating": 2.44,
+                "share": 7.27
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "19:59:40",
+                "rating": 2.37,
+                "share": 8.97
+            },
+            {
+                "rank": 8,
+                "name": "KOR NOKTA",
+                "channel": "ATV",
+                "start_time": "19:59:45",
+                "end_time": "22:37:37",
+                "rating": 2.16,
+                "share": 6.33
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:29",
+                "end_time": "20:00:07",
+                "rating": 1.93,
+                "share": 7.16
+            },
+            {
+                "rank": 10,
+                "name": "YABANI (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:47",
+                "end_time": "20:45:02",
+                "rating": 1.75,
+                "share": 5.32
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:06",
+                "end_time": "24:10:40",
+                "rating": 5.06,
+                "share": 15.6
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:59",
+                "end_time": "24:21:40",
+                "rating": 4.31,
+                "share": 13.58
+            },
+            {
+                "rank": 3,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "19:59:40",
+                "rating": 2.65,
+                "share": 11.9
+            },
+            {
+                "rank": 4,
+                "name": "FENERBAHCE ASBASKANI ACUN ILICALI ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "23:15:59",
+                "end_time": "23:21:35",
+                "rating": 2.65,
+                "share": 8.32
+            },
+            {
+                "rank": 5,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "21:49:53",
+                "end_time": "23:59:51",
+                "rating": 2.25,
+                "share": 7.0
+            },
+            {
+                "rank": 6,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:01",
+                "end_time": "21:00:06",
+                "rating": 2.16,
+                "share": 7.13
+            },
+            {
+                "rank": 7,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:42",
+                "rating": 1.89,
+                "share": 8.43
+            },
+            {
+                "rank": 8,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:31",
+                "rating": 1.72,
+                "share": 9.52
+            },
+            {
+                "rank": 9,
+                "name": "KOR NOKTA",
+                "channel": "ATV",
+                "start_time": "19:59:45",
+                "end_time": "22:37:37",
+                "rating": 1.69,
+                "share": 5.33
+            },
+            {
+                "rank": 10,
+                "name": "SIYAH KALP (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:51",
+                "end_time": "22:59:33",
+                "rating": 1.68,
+                "share": 5.28
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "21:00:06",
+                "end_time": "24:10:40",
+                "rating": 5.73,
+                "share": 16.87
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:59",
+                "end_time": "24:21:40",
+                "rating": 4.57,
+                "share": 13.71
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:42",
+                "rating": 2.76,
+                "share": 10.72
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:01",
+                "end_time": "21:00:06",
+                "rating": 2.72,
+                "share": 8.19
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "19:59:40",
+                "rating": 2.18,
+                "share": 8.48
+            },
+            {
+                "rank": 6,
+                "name": "FENERBAHCE ASBASKANI ACUN ILICALI ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "23:15:59",
+                "end_time": "23:21:35",
+                "rating": 2.04,
+                "share": 6.31
+            },
+            {
+                "rank": 7,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "20:45:07",
+                "end_time": "23:57:39",
+                "rating": 2.01,
+                "share": 5.91
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:37:09",
+                "end_time": "20:57:59",
+                "rating": 1.98,
+                "share": 7.06
+            },
+            {
+                "rank": 9,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:44:23",
+                "end_time": "23:49:08",
+                "rating": 1.85,
+                "share": 5.39
+            },
+            {
+                "rank": 10,
+                "name": "KOR NOKTA",
+                "channel": "ATV",
+                "start_time": "19:59:45",
+                "end_time": "22:37:37",
+                "rating": 1.83,
+                "share": 5.32
+            }
+        ]
+    }
+}

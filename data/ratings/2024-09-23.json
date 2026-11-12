@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-23",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:38",
+                "end_time": "24:24:12",
+                "rating": 4.28,
+                "share": 14.65
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:07",
+                "end_time": "12:59:54",
+                "rating": 4.02,
+                "share": 34.17
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:54",
+                "end_time": "18:44:39",
+                "rating": 3.56,
+                "share": 20.25
+            },
+            {
+                "rank": 4,
+                "name": "RECEP IVEDIK 7 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:40:19",
+                "rating": 3.45,
+                "share": 10.25
+            },
+            {
+                "rank": 5,
+                "name": "GUZEL ASKLAR DIYARI",
+                "channel": "KANAL D",
+                "start_time": "19:58:14",
+                "end_time": "22:20:18",
+                "rating": 3.33,
+                "share": 9.81
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 3.26,
+                "share": 12.19
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:39",
+                "end_time": "19:59:38",
+                "rating": 3.23,
+                "share": 12.09
+            },
+            {
+                "rank": 8,
+                "name": "KARADUT",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "22:48:08",
+                "rating": 2.96,
+                "share": 8.79
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:59:33",
+                "rating": 2.55,
+                "share": 9.39
+            },
+            {
+                "rank": 10,
+                "name": "DEHA (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:49",
+                "end_time": "22:56:20",
+                "rating": 2.42,
+                "share": 7.26
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:38",
+                "end_time": "24:24:12",
+                "rating": 5.15,
+                "share": 18.05
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:07",
+                "end_time": "12:59:54",
+                "rating": 3.47,
+                "share": 30.29
+            },
+            {
+                "rank": 3,
+                "name": "DEHA (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:49",
+                "end_time": "22:56:20",
+                "rating": 3.05,
+                "share": 9.57
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 2.93,
+                "share": 12.82
+            },
+            {
+                "rank": 5,
+                "name": "RECEP IVEDIK 7 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:40:19",
+                "rating": 2.44,
+                "share": 7.62
+            },
+            {
+                "rank": 6,
+                "name": "KARADUT",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "22:48:08",
+                "rating": 2.36,
+                "share": 7.31
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "19:57:56",
+                "rating": 2.22,
+                "share": 9.46
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (TKR)",
+                "channel": "TRT 1",
+                "start_time": "19:59:29",
+                "end_time": "23:09:56",
+                "rating": 2.19,
+                "share": 6.87
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:01:37",
+                "end_time": "20:50:38",
+                "rating": 2.05,
+                "share": 7.63
+            },
+            {
+                "rank": 10,
+                "name": "GUZEL ASKLAR DIYARI",
+                "channel": "KANAL D",
+                "start_time": "19:58:14",
+                "end_time": "22:20:18",
+                "rating": 1.95,
+                "share": 6.05
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:38",
+                "end_time": "24:24:12",
+                "rating": 5.61,
+                "share": 17.62
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:07",
+                "end_time": "12:59:54",
+                "rating": 4.13,
+                "share": 32.49
+            },
+            {
+                "rank": 3,
+                "name": "KARADUT",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "22:48:08",
+                "rating": 3.29,
+                "share": 9.08
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:03",
+                "rating": 3.24,
+                "share": 12.32
+            },
+            {
+                "rank": 5,
+                "name": "DEHA (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:49",
+                "end_time": "22:56:20",
+                "rating": 3.13,
+                "share": 8.73
+            },
+            {
+                "rank": 6,
+                "name": "RECEP IVEDIK 7 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:40:19",
+                "rating": 3.11,
+                "share": 8.61
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:54",
+                "end_time": "18:44:39",
+                "rating": 2.91,
+                "share": 18.17
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:39",
+                "end_time": "19:59:38",
+                "rating": 2.88,
+                "share": 10.97
+            },
+            {
+                "rank": 9,
+                "name": "GUZEL ASKLAR DIYARI",
+                "channel": "KANAL D",
+                "start_time": "19:58:14",
+                "end_time": "22:20:18",
+                "rating": 2.58,
+                "share": 7.1
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:59:33",
+                "rating": 2.44,
+                "share": 9.09
+            }
+        ]
+    }
+}
