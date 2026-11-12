@@ -1,0 +1,282 @@
+{
+    "date": "2024-08-24",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:08:43",
+                "end_time": "24:24:44",
+                "rating": 4.21,
+                "share": 18.94
+            },
+            {
+                "rank": 2,
+                "name": "TERMINATOR 2 MAHSER GUNU (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:56:56",
+                "end_time": "22:43:02",
+                "rating": 2.07,
+                "share": 9.23
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:09",
+                "rating": 1.73,
+                "share": 10.15
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "23:42:05",
+                "rating": 1.46,
+                "share": 6.46
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:39",
+                "end_time": "20:00:08",
+                "rating": 1.45,
+                "share": 8.49
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:30:48",
+                "end_time": "21:08:43",
+                "rating": 1.44,
+                "share": 7.64
+            },
+            {
+                "rank": 7,
+                "name": "YESIL DENIZ MILENYUM",
+                "channel": "TRT 1",
+                "start_time": "21:00:06",
+                "end_time": "23:18:24",
+                "rating": 1.35,
+                "share": 5.75
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:18",
+                "rating": 1.19,
+                "share": 6.9
+            },
+            {
+                "rank": 9,
+                "name": "IKI GONUL BIR OLUVERSIN GARI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:36",
+                "end_time": "23:00:43",
+                "rating": 1.07,
+                "share": 4.69
+            },
+            {
+                "rank": 10,
+                "name": "SUCLULAR TAKIMI (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "23:42:21",
+                "end_time": "26:00:00",
+                "rating": 1.06,
+                "share": 8.26
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:08:43",
+                "end_time": "24:24:44",
+                "rating": 4.84,
+                "share": 23.79
+            },
+            {
+                "rank": 2,
+                "name": "YESIL DENIZ MILENYUM",
+                "channel": "TRT 1",
+                "start_time": "21:00:06",
+                "end_time": "23:18:24",
+                "rating": 1.93,
+                "share": 8.96
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "23:42:05",
+                "rating": 1.58,
+                "share": 7.77
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:09",
+                "rating": 1.48,
+                "share": 10.6
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:30:48",
+                "end_time": "21:08:43",
+                "rating": 1.26,
+                "share": 7.94
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:39",
+                "end_time": "20:00:08",
+                "rating": 1.04,
+                "share": 7.44
+            },
+            {
+                "rank": 7,
+                "name": "IKI GONUL BIR OLUVERSIN GARI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:36",
+                "end_time": "23:00:43",
+                "rating": 0.93,
+                "share": 4.57
+            },
+            {
+                "rank": 8,
+                "name": "YESIL DENIZ MILENYUM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:52",
+                "end_time": "21:00:06",
+                "rating": 0.92,
+                "share": 5.22
+            },
+            {
+                "rank": 9,
+                "name": "GONUL DAGI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "15:59:52",
+                "end_time": "18:59:55",
+                "rating": 0.9,
+                "share": 7.92
+            },
+            {
+                "rank": 10,
+                "name": "YUMURCAK KOPRUALTI COCUGU (T.S)",
+                "channel": "KANAL D",
+                "start_time": "13:00:36",
+                "end_time": "14:50:12",
+                "rating": 0.89,
+                "share": 8.29
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:08:43",
+                "end_time": "24:24:44",
+                "rating": 5.54,
+                "share": 24.01
+            },
+            {
+                "rank": 2,
+                "name": "TERMINATOR 2 MAHSER GUNU (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:56:56",
+                "end_time": "22:43:02",
+                "rating": 1.9,
+                "share": 8.49
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "23:42:05",
+                "rating": 1.65,
+                "share": 7.13
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:09",
+                "rating": 1.61,
+                "share": 10.07
+            },
+            {
+                "rank": 5,
+                "name": "YESIL DENIZ MILENYUM",
+                "channel": "TRT 1",
+                "start_time": "21:00:06",
+                "end_time": "23:18:24",
+                "rating": 1.54,
+                "share": 6.37
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:30:48",
+                "end_time": "21:08:43",
+                "rating": 1.52,
+                "share": 8.34
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:39",
+                "end_time": "20:00:08",
+                "rating": 1.46,
+                "share": 9.03
+            },
+            {
+                "rank": 8,
+                "name": "SUCLULAR TAKIMI (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "23:42:21",
+                "end_time": "26:00:00",
+                "rating": 1.15,
+                "share": 8.81
+            },
+            {
+                "rank": 9,
+                "name": "YUMURCAK KOPRUALTI COCUGU (T.S)",
+                "channel": "KANAL D",
+                "start_time": "13:00:36",
+                "end_time": "14:50:12",
+                "rating": 1.09,
+                "share": 9.5
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:34",
+                "end_time": "20:00:18",
+                "rating": 1.02,
+                "share": 6.3
+            }
+        ]
+    }
+}

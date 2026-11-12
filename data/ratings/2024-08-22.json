@@ -1,0 +1,282 @@
+{
+    "date": "2024-08-22",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:09:50",
+                "end_time": "24:14:30",
+                "rating": 4.22,
+                "share": 17.32
+            },
+            {
+                "rank": 2,
+                "name": "ST. GALLEN-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "21:50:09",
+                "end_time": "24:14:37",
+                "rating": 2.63,
+                "share": 10.98
+            },
+            {
+                "rank": 3,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:55",
+                "rating": 1.95,
+                "share": 11.18
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:08",
+                "rating": 1.94,
+                "share": 11.16
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:16",
+                "end_time": "23:46:05",
+                "rating": 1.78,
+                "share": 7.33
+            },
+            {
+                "rank": 6,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:09",
+                "end_time": "18:39:32",
+                "rating": 1.75,
+                "share": 12.93
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:36:02",
+                "end_time": "21:09:50",
+                "rating": 1.69,
+                "share": 8.4
+            },
+            {
+                "rank": 8,
+                "name": "SERVET OPERASYONU (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:51",
+                "end_time": "22:07:19",
+                "rating": 1.66,
+                "share": 6.92
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:21",
+                "end_time": "20:00:03",
+                "rating": 1.46,
+                "share": 8.28
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:43:49",
+                "end_time": "18:58:24",
+                "rating": 1.41,
+                "share": 9.04
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:09:50",
+                "end_time": "24:14:30",
+                "rating": 4.39,
+                "share": 19.44
+            },
+            {
+                "rank": 2,
+                "name": "ST. GALLEN-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "21:50:09",
+                "end_time": "24:14:37",
+                "rating": 2.74,
+                "share": 11.97
+            },
+            {
+                "rank": 3,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:55:22",
+                "end_time": "23:52:33",
+                "rating": 1.86,
+                "share": 8.09
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:08",
+                "rating": 1.83,
+                "share": 12.61
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:55",
+                "rating": 1.57,
+                "share": 10.79
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:16",
+                "end_time": "23:46:05",
+                "rating": 1.51,
+                "share": 6.86
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:36:02",
+                "end_time": "21:09:50",
+                "rating": 1.42,
+                "share": 8.43
+            },
+            {
+                "rank": 8,
+                "name": "SERVET OPERASYONU (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:51",
+                "end_time": "22:07:19",
+                "rating": 1.39,
+                "share": 6.81
+            },
+            {
+                "rank": 9,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:09",
+                "end_time": "18:39:32",
+                "rating": 1.17,
+                "share": 10.87
+            },
+            {
+                "rank": 10,
+                "name": "SERVET OPERASYONU (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:07:42",
+                "end_time": "24:02:30",
+                "rating": 1.11,
+                "share": 4.9
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:09:50",
+                "end_time": "24:14:30",
+                "rating": 5.13,
+                "share": 19.66
+            },
+            {
+                "rank": 2,
+                "name": "ST. GALLEN-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "21:50:09",
+                "end_time": "24:14:37",
+                "rating": 2.85,
+                "share": 11.06
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:08",
+                "rating": 2.19,
+                "share": 12.72
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:36:02",
+                "end_time": "21:09:50",
+                "rating": 1.99,
+                "share": 9.81
+            },
+            {
+                "rank": 5,
+                "name": "SERVET OPERASYONU (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "19:59:51",
+                "end_time": "22:07:19",
+                "rating": 1.79,
+                "share": 7.19
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:55",
+                "rating": 1.75,
+                "share": 10.15
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:16",
+                "end_time": "23:46:05",
+                "rating": 1.71,
+                "share": 6.66
+            },
+            {
+                "rank": 8,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:55:22",
+                "end_time": "23:52:33",
+                "rating": 1.59,
+                "share": 5.99
+            },
+            {
+                "rank": 9,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:09",
+                "end_time": "18:39:32",
+                "rating": 1.36,
+                "share": 11.05
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:21",
+                "end_time": "20:00:03",
+                "rating": 1.24,
+                "share": 7.11
+            }
+        ]
+    }
+}
