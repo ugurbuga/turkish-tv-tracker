@@ -1,0 +1,282 @@
+{
+    "date": "2024-08-11",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:11:09",
+                "end_time": "24:24:54",
+                "rating": 4.04,
+                "share": 17.13
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.11,
+                "share": 11.85
+            },
+            {
+                "rank": 3,
+                "name": "TITANIC (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "23:38:50",
+                "rating": 2.1,
+                "share": 8.8
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:59:41",
+                "end_time": "24:00:35",
+                "rating": 2.08,
+                "share": 8.52
+            },
+            {
+                "rank": 5,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:43:37",
+                "rating": 1.78,
+                "share": 7.82
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:02",
+                "end_time": "20:59:41",
+                "rating": 1.36,
+                "share": 6.17
+            },
+            {
+                "rank": 7,
+                "name": "KESISME IYI KI VARSIN EREN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:53",
+                "end_time": "21:57:50",
+                "rating": 1.31,
+                "share": 5.53
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:58",
+                "rating": 1.26,
+                "share": 7.05
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:28:19",
+                "end_time": "21:11:09",
+                "rating": 1.25,
+                "share": 6.35
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:38",
+                "end_time": "20:00:04",
+                "rating": 1.18,
+                "share": 6.6
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:11:09",
+                "end_time": "24:24:54",
+                "rating": 4.52,
+                "share": 22.01
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:59:41",
+                "end_time": "24:00:35",
+                "rating": 1.82,
+                "share": 8.59
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:28:19",
+                "end_time": "21:11:09",
+                "rating": 1.25,
+                "share": 7.89
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 1.24,
+                "share": 8.85
+            },
+            {
+                "rank": 5,
+                "name": "TITANIC (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "23:38:50",
+                "rating": 1.17,
+                "share": 5.79
+            },
+            {
+                "rank": 6,
+                "name": "CELAL ILE CEREN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:36",
+                "end_time": "22:19:35",
+                "rating": 1.17,
+                "share": 6.02
+            },
+            {
+                "rank": 7,
+                "name": "KESISME IYI KI VARSIN EREN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:53",
+                "end_time": "21:57:50",
+                "rating": 1.05,
+                "share": 5.49
+            },
+            {
+                "rank": 8,
+                "name": "BIZANS OYUNLARI GEYM OF BIZANS (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:43:53",
+                "end_time": "23:29:15",
+                "rating": 1.03,
+                "share": 4.7
+            },
+            {
+                "rank": 9,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:43:37",
+                "rating": 1.0,
+                "share": 5.44
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:58:26",
+                "rating": 0.93,
+                "share": 7.44
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:11:09",
+                "end_time": "24:24:54",
+                "rating": 4.97,
+                "share": 20.6
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:05",
+                "rating": 2.4,
+                "share": 12.49
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:59:41",
+                "end_time": "24:00:35",
+                "rating": 2.07,
+                "share": 8.33
+            },
+            {
+                "rank": 4,
+                "name": "KAPICILAR KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:43:37",
+                "rating": 2.01,
+                "share": 8.71
+            },
+            {
+                "rank": 5,
+                "name": "TITANIC (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "23:38:50",
+                "rating": 1.78,
+                "share": 7.3
+            },
+            {
+                "rank": 6,
+                "name": "KESISME IYI KI VARSIN EREN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:53",
+                "end_time": "21:57:50",
+                "rating": 1.67,
+                "share": 6.97
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:28:19",
+                "end_time": "21:11:09",
+                "rating": 1.64,
+                "share": 7.91
+            },
+            {
+                "rank": 8,
+                "name": "EVRIM AKIN ILE EV GEZMESI",
+                "channel": "KANAL D",
+                "start_time": "13:02:07",
+                "end_time": "14:01:24",
+                "rating": 1.44,
+                "share": 9.33
+            },
+            {
+                "rank": 9,
+                "name": "BIZANS OYUNLARI GEYM OF BIZANS (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:43:53",
+                "end_time": "23:29:15",
+                "rating": 1.4,
+                "share": 5.52
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:58",
+                "rating": 1.32,
+                "share": 6.88
+            }
+        ]
+    }
+}

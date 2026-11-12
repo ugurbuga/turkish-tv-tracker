@@ -1,0 +1,282 @@
+{
+    "date": "2024-08-14",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:53:49",
+                "end_time": "24:16:58",
+                "rating": 5.28,
+                "share": 21.45
+            },
+            {
+                "rank": 2,
+                "name": "REAL MADRID-ATALANTA UEFA SUPER KUPA KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:16",
+                "end_time": "23:54:58",
+                "rating": 3.86,
+                "share": 15.39
+            },
+            {
+                "rank": 3,
+                "name": "RAMBO SON KAN (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:33",
+                "end_time": "21:51:12",
+                "rating": 2.09,
+                "share": 8.8
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 1.94,
+                "share": 11.23
+            },
+            {
+                "rank": 5,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:46:07",
+                "end_time": "23:39:34",
+                "rating": 1.76,
+                "share": 6.89
+            },
+            {
+                "rank": 6,
+                "name": "UEFA SUPER KUPA KUPA TORENI",
+                "channel": "TRT 1",
+                "start_time": "23:58:12",
+                "end_time": "24:10:19",
+                "rating": 1.73,
+                "share": 9.71
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:40",
+                "end_time": "19:59:42",
+                "rating": 1.55,
+                "share": 8.97
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:34:45",
+                "end_time": "20:53:44",
+                "rating": 1.51,
+                "share": 7.84
+            },
+            {
+                "rank": 9,
+                "name": "TURNIKE OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:53",
+                "end_time": "20:45:57",
+                "rating": 1.42,
+                "share": 6.47
+            },
+            {
+                "rank": 10,
+                "name": "RAMPAGE BUYUK YIKIM (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:51:33",
+                "end_time": "23:56:41",
+                "rating": 1.41,
+                "share": 5.52
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "REAL MADRID-ATALANTA UEFA SUPER KUPA KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:16",
+                "end_time": "23:54:58",
+                "rating": 6.0,
+                "share": 25.33
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:53:49",
+                "end_time": "24:16:58",
+                "rating": 5.54,
+                "share": 24.15
+            },
+            {
+                "rank": 3,
+                "name": "UEFA SUPER KUPA KUPA TORENI",
+                "channel": "TRT 1",
+                "start_time": "23:58:12",
+                "end_time": "24:10:19",
+                "rating": 3.06,
+                "share": 16.72
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 2.0,
+                "share": 11.93
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:34:45",
+                "end_time": "20:53:44",
+                "rating": 1.74,
+                "share": 9.72
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "23:58:49",
+                "rating": 1.36,
+                "share": 6.1
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:40",
+                "end_time": "19:59:42",
+                "rating": 1.26,
+                "share": 7.51
+            },
+            {
+                "rank": 8,
+                "name": "RAMBO SON KAN (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:33",
+                "end_time": "21:51:12",
+                "rating": 1.15,
+                "share": 5.49
+            },
+            {
+                "rank": 9,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:46:07",
+                "end_time": "23:39:34",
+                "rating": 0.94,
+                "share": 4.08
+            },
+            {
+                "rank": 10,
+                "name": "SALAK MILYONER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:49",
+                "end_time": "21:49:16",
+                "rating": 0.89,
+                "share": 4.24
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:53:49",
+                "end_time": "24:16:58",
+                "rating": 5.79,
+                "share": 23.72
+            },
+            {
+                "rank": 2,
+                "name": "REAL MADRID-ATALANTA UEFA SUPER KUPA KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:50:16",
+                "end_time": "23:54:58",
+                "rating": 5.1,
+                "share": 20.35
+            },
+            {
+                "rank": 3,
+                "name": "UEFA SUPER KUPA KUPA TORENI",
+                "channel": "TRT 1",
+                "start_time": "23:58:12",
+                "end_time": "24:10:19",
+                "rating": 2.25,
+                "share": 11.75
+            },
+            {
+                "rank": 4,
+                "name": "RAMBO SON KAN (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:33",
+                "end_time": "21:51:12",
+                "rating": 2.15,
+                "share": 9.5
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:09",
+                "rating": 1.87,
+                "share": 10.75
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:34:45",
+                "end_time": "20:53:44",
+                "rating": 1.76,
+                "share": 9.31
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:40",
+                "end_time": "19:59:42",
+                "rating": 1.57,
+                "share": 9.03
+            },
+            {
+                "rank": 8,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:46:07",
+                "end_time": "23:39:34",
+                "rating": 1.33,
+                "share": 5.4
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "23:58:49",
+                "rating": 1.32,
+                "share": 5.51
+            },
+            {
+                "rank": 10,
+                "name": "RAMPAGE BUYUK YIKIM (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:51:33",
+                "end_time": "23:56:41",
+                "rating": 1.27,
+                "share": 5.02
+            }
+        ]
+    }
+}
