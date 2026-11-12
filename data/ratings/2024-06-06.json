@@ -1,0 +1,282 @@
+{
+    "date": "2024-06-06",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:02",
+                "end_time": "24:33:25",
+                "rating": 4.98,
+                "share": 17.49
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:54",
+                "rating": 4.58,
+                "share": 35.94
+            },
+            {
+                "rank": 3,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:23:27",
+                "end_time": "24:17:59",
+                "rating": 4.23,
+                "share": 14.3
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:17",
+                "end_time": "18:44:18",
+                "rating": 2.94,
+                "share": 17.92
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:51",
+                "rating": 2.86,
+                "share": 13.95
+            },
+            {
+                "rank": 6,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:56",
+                "end_time": "18:34:57",
+                "rating": 2.42,
+                "share": 15.37
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:55:29",
+                "rating": 2.32,
+                "share": 11.32
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "19:59:21",
+                "rating": 2.15,
+                "share": 10.52
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:32",
+                "end_time": "24:18:17",
+                "rating": 2.01,
+                "share": 7.02
+            },
+            {
+                "rank": 10,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "12:59:59",
+                "end_time": "13:57:53",
+                "rating": 2.0,
+                "share": 15.59
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:02",
+                "end_time": "24:33:25",
+                "rating": 3.58,
+                "share": 14.21
+            },
+            {
+                "rank": 2,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:23:27",
+                "end_time": "24:17:59",
+                "rating": 3.25,
+                "share": 12.43
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:51",
+                "rating": 3.21,
+                "share": 16.57
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:54",
+                "rating": 3.12,
+                "share": 28.57
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:32",
+                "end_time": "24:18:17",
+                "rating": 2.1,
+                "share": 8.24
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:17",
+                "end_time": "18:44:18",
+                "rating": 1.67,
+                "share": 12.15
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "19:59:50",
+                "rating": 1.59,
+                "share": 8.24
+            },
+            {
+                "rank": 8,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:57:14",
+                "end_time": "18:43:14",
+                "rating": 1.54,
+                "share": 11.46
+            },
+            {
+                "rank": 9,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:44:13",
+                "end_time": "24:24:08",
+                "rating": 1.44,
+                "share": 5.44
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "19:59:21",
+                "rating": 1.43,
+                "share": 7.38
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:02",
+                "end_time": "24:33:25",
+                "rating": 4.64,
+                "share": 16.09
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:54",
+                "rating": 4.43,
+                "share": 34.66
+            },
+            {
+                "rank": 3,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:23:27",
+                "end_time": "24:17:59",
+                "rating": 3.88,
+                "share": 12.97
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:51",
+                "rating": 3.15,
+                "share": 15.33
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:32",
+                "end_time": "24:18:17",
+                "rating": 2.18,
+                "share": 7.54
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:17",
+                "end_time": "18:44:18",
+                "rating": 2.02,
+                "share": 13.41
+            },
+            {
+                "rank": 7,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:56",
+                "end_time": "18:34:57",
+                "rating": 1.79,
+                "share": 12.42
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:21",
+                "end_time": "19:59:21",
+                "rating": 1.75,
+                "share": 8.55
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:00:39",
+                "end_time": "23:33:47",
+                "rating": 1.69,
+                "share": 5.73
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "19:59:50",
+                "rating": 1.69,
+                "share": 8.19
+            }
+        ]
+    }
+}

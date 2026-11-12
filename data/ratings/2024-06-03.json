@@ -1,0 +1,282 @@
+{
+    "date": "2024-06-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:38",
+                "end_time": "24:32:05",
+                "rating": 4.85,
+                "share": 16.31
+            },
+            {
+                "rank": 2,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "20:59:08",
+                "end_time": "23:53:59",
+                "rating": 4.76,
+                "share": 14.75
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "13:00:11",
+                "rating": 4.33,
+                "share": 37.76
+            },
+            {
+                "rank": 4,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:38:22",
+                "end_time": "23:18:24",
+                "rating": 3.96,
+                "share": 12.15
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:57",
+                "rating": 2.98,
+                "share": 13.93
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:59",
+                "end_time": "18:44:10",
+                "rating": 2.79,
+                "share": 17.75
+            },
+            {
+                "rank": 7,
+                "name": "MULAN (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:45",
+                "end_time": "22:23:54",
+                "rating": 2.53,
+                "share": 8.47
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:38",
+                "end_time": "19:59:49",
+                "rating": 2.42,
+                "share": 11.32
+            },
+            {
+                "rank": 9,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:41:04",
+                "end_time": "18:33:31",
+                "rating": 2.4,
+                "share": 16.14
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:00",
+                "end_time": "19:55:13",
+                "rating": 2.04,
+                "share": 9.51
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:38",
+                "end_time": "24:32:05",
+                "rating": 4.13,
+                "share": 15.46
+            },
+            {
+                "rank": 2,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "20:59:08",
+                "end_time": "23:53:59",
+                "rating": 3.38,
+                "share": 11.67
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "13:00:11",
+                "rating": 2.92,
+                "share": 29.95
+            },
+            {
+                "rank": 4,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:38:22",
+                "end_time": "23:18:24",
+                "rating": 2.9,
+                "share": 10.13
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:57",
+                "rating": 2.41,
+                "share": 13.65
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:38",
+                "end_time": "19:59:49",
+                "rating": 1.98,
+                "share": 11.22
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "24:18:35",
+                "rating": 1.81,
+                "share": 6.74
+            },
+            {
+                "rank": 8,
+                "name": "MULAN (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:45",
+                "end_time": "22:23:54",
+                "rating": 1.75,
+                "share": 6.76
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:59",
+                "end_time": "18:44:10",
+                "rating": 1.56,
+                "share": 13.23
+            },
+            {
+                "rank": 10,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:56:03",
+                "end_time": "18:46:03",
+                "rating": 1.48,
+                "share": 12.73
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:38",
+                "end_time": "24:32:05",
+                "rating": 4.73,
+                "share": 15.91
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "13:00:11",
+                "rating": 4.47,
+                "share": 38.31
+            },
+            {
+                "rank": 3,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "20:59:08",
+                "end_time": "23:53:59",
+                "rating": 3.58,
+                "share": 11.13
+            },
+            {
+                "rank": 4,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:38:22",
+                "end_time": "23:18:24",
+                "rating": 3.35,
+                "share": 10.45
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:57",
+                "rating": 2.9,
+                "share": 14.14
+            },
+            {
+                "rank": 6,
+                "name": "MULAN (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:45",
+                "end_time": "22:23:54",
+                "rating": 2.76,
+                "share": 9.52
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:38",
+                "end_time": "19:59:49",
+                "rating": 2.37,
+                "share": 11.6
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:00",
+                "end_time": "24:18:35",
+                "rating": 2.34,
+                "share": 7.86
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:59",
+                "end_time": "18:44:10",
+                "rating": 2.16,
+                "share": 15.21
+            },
+            {
+                "rank": 10,
+                "name": "CAKALLARLA DANS 6 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:02",
+                "end_time": "22:30:38",
+                "rating": 1.94,
+                "share": 6.6
+            }
+        ]
+    }
+}
