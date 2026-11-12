@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-20",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:14:33",
+                "end_time": "24:23:21",
+                "rating": 4.2,
+                "share": 19.45
+            },
+            {
+                "rank": 2,
+                "name": "MUHTESEM YEDILI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:43",
+                "end_time": "22:44:54",
+                "rating": 1.91,
+                "share": 9.3
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 1.67,
+                "share": 10.25
+            },
+            {
+                "rank": 4,
+                "name": "TERMINATOR 5 YENIDEN DOGUS (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:45:15",
+                "end_time": "25:22:53",
+                "rating": 1.54,
+                "share": 8.54
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:32",
+                "end_time": "20:00:12",
+                "rating": 1.52,
+                "share": 9.37
+            },
+            {
+                "rank": 6,
+                "name": "BEN VE BABAM VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "22:56:37",
+                "rating": 1.34,
+                "share": 6.52
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:21:45",
+                "end_time": "21:14:33",
+                "rating": 1.25,
+                "share": 7.3
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "23:46:32",
+                "rating": 1.25,
+                "share": 5.96
+            },
+            {
+                "rank": 9,
+                "name": "BICKIN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:37",
+                "end_time": "21:50:09",
+                "rating": 1.18,
+                "share": 6.0
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:23:36",
+                "end_time": "26:00:00",
+                "rating": 1.16,
+                "share": 10.67
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:14:33",
+                "end_time": "24:23:21",
+                "rating": 4.0,
+                "share": 21.18
+            },
+            {
+                "rank": 2,
+                "name": "BEN VE BABAM VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "22:56:37",
+                "rating": 1.58,
+                "share": 9.29
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "23:46:32",
+                "rating": 1.39,
+                "share": 7.75
+            },
+            {
+                "rank": 4,
+                "name": "MUHTESEM YEDILI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:43",
+                "end_time": "22:44:54",
+                "rating": 1.37,
+                "share": 8.07
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:23:36",
+                "end_time": "26:00:00",
+                "rating": 1.18,
+                "share": 11.31
+            },
+            {
+                "rank": 6,
+                "name": "TERMINATOR 5 YENIDEN DOGUS (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:45:15",
+                "end_time": "25:22:53",
+                "rating": 1.17,
+                "share": 7.08
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:21:45",
+                "end_time": "21:14:33",
+                "rating": 1.16,
+                "share": 8.62
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 1.12,
+                "share": 8.98
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:38",
+                "end_time": "19:59:51",
+                "rating": 1.04,
+                "share": 8.35
+            },
+            {
+                "rank": 10,
+                "name": "KIZILCIK SERBETI (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "14:50:53",
+                "end_time": "18:18:43",
+                "rating": 0.78,
+                "share": 6.95
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:14:33",
+                "end_time": "24:23:21",
+                "rating": 5.07,
+                "share": 23.55
+            },
+            {
+                "rank": 2,
+                "name": "MUHTESEM YEDILI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:43",
+                "end_time": "22:44:54",
+                "rating": 1.82,
+                "share": 9.33
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:08",
+                "rating": 1.53,
+                "share": 10.73
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:02",
+                "end_time": "23:46:32",
+                "rating": 1.5,
+                "share": 7.31
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:23:36",
+                "end_time": "26:00:00",
+                "rating": 1.44,
+                "share": 11.97
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:21:45",
+                "end_time": "21:14:33",
+                "rating": 1.44,
+                "share": 9.3
+            },
+            {
+                "rank": 7,
+                "name": "TERMINATOR 5 YENIDEN DOGUS (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:45:15",
+                "end_time": "25:22:53",
+                "rating": 1.39,
+                "share": 7.27
+            },
+            {
+                "rank": 8,
+                "name": "BEN VE BABAM VATAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "22:56:37",
+                "rating": 1.32,
+                "share": 6.75
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:38",
+                "end_time": "19:59:51",
+                "rating": 1.27,
+                "share": 8.94
+            },
+            {
+                "rank": 10,
+                "name": "BICKIN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:37",
+                "end_time": "21:50:09",
+                "rating": 1.12,
+                "share": 6.01
+            }
+        ]
+    }
+}

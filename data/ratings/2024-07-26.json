@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:20",
+                "end_time": "24:21:13",
+                "rating": 4.02,
+                "share": 16.55
+            },
+            {
+                "rank": 2,
+                "name": "YUZ NUMARALI ADAM (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:58",
+                "end_time": "21:49:55",
+                "rating": 2.39,
+                "share": 9.98
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:17",
+                "rating": 2.09,
+                "share": 11.81
+            },
+            {
+                "rank": 4,
+                "name": "PI'NIN YASAMI (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:08",
+                "end_time": "22:34:08",
+                "rating": 1.79,
+                "share": 7.37
+            },
+            {
+                "rank": 5,
+                "name": "TURIST (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:38",
+                "end_time": "22:15:38",
+                "rating": 1.55,
+                "share": 6.52
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:35",
+                "end_time": "20:00:27",
+                "rating": 1.55,
+                "share": 8.76
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "19:59:50",
+                "rating": 1.45,
+                "share": 8.14
+            },
+            {
+                "rank": 8,
+                "name": "KOLONYA CUMHURIYETI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:30",
+                "end_time": "22:19:30",
+                "rating": 1.45,
+                "share": 6.02
+            },
+            {
+                "rank": 9,
+                "name": "GRI KURT (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:15:54",
+                "end_time": "24:20:58",
+                "rating": 1.41,
+                "share": 6.09
+            },
+            {
+                "rank": 10,
+                "name": "KOLONYA CUMHURIYETI (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:19:53",
+                "end_time": "24:21:01",
+                "rating": 1.35,
+                "share": 5.93
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:20",
+                "end_time": "24:21:13",
+                "rating": 5.09,
+                "share": 21.82
+            },
+            {
+                "rank": 2,
+                "name": "TURIST (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:38",
+                "end_time": "22:15:38",
+                "rating": 1.88,
+                "share": 8.76
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:17",
+                "rating": 1.72,
+                "share": 11.06
+            },
+            {
+                "rank": 4,
+                "name": "KOLONYA CUMHURIYETI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:30",
+                "end_time": "22:19:30",
+                "rating": 1.68,
+                "share": 7.68
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "19:59:50",
+                "rating": 1.54,
+                "share": 9.79
+            },
+            {
+                "rank": 6,
+                "name": "YUZ NUMARALI ADAM (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:58",
+                "end_time": "21:49:55",
+                "rating": 1.4,
+                "share": 6.53
+            },
+            {
+                "rank": 7,
+                "name": "PARIS 2024 OLIMPIYAT OYUNLARI ACILIS TORENI",
+                "channel": "TRT SPOR",
+                "start_time": "20:30:09",
+                "end_time": "24:30:04",
+                "rating": 1.38,
+                "share": 6.26
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:35",
+                "end_time": "20:00:27",
+                "rating": 1.28,
+                "share": 8.29
+            },
+            {
+                "rank": 9,
+                "name": "GRI KURT (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:15:54",
+                "end_time": "24:20:58",
+                "rating": 1.12,
+                "share": 4.91
+            },
+            {
+                "rank": 10,
+                "name": "PI'NIN YASAMI (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:08",
+                "end_time": "22:34:08",
+                "rating": 1.11,
+                "share": 4.99
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:20",
+                "end_time": "24:21:13",
+                "rating": 5.07,
+                "share": 20.29
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:17",
+                "rating": 1.91,
+                "share": 11.59
+            },
+            {
+                "rank": 3,
+                "name": "TURIST (Y.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:38",
+                "end_time": "22:15:38",
+                "rating": 1.88,
+                "share": 8.16
+            },
+            {
+                "rank": 4,
+                "name": "YUZ NUMARALI ADAM (T.S)",
+                "channel": "NOW",
+                "start_time": "20:13:58",
+                "end_time": "21:49:55",
+                "rating": 1.83,
+                "share": 7.9
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:35",
+                "end_time": "20:00:27",
+                "rating": 1.77,
+                "share": 10.78
+            },
+            {
+                "rank": 6,
+                "name": "PI'NIN YASAMI (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:08",
+                "end_time": "22:34:08",
+                "rating": 1.74,
+                "share": 7.28
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:54",
+                "end_time": "20:59:20",
+                "rating": 1.39,
+                "share": 7.59
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:26",
+                "end_time": "19:59:50",
+                "rating": 1.33,
+                "share": 7.96
+            },
+            {
+                "rank": 9,
+                "name": "PASSWORD",
+                "channel": "KANAL D",
+                "start_time": "20:55:13",
+                "end_time": "23:18:04",
+                "rating": 1.25,
+                "share": 4.78
+            },
+            {
+                "rank": 10,
+                "name": "ADAM ASMACA (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:34:29",
+                "end_time": "24:31:31",
+                "rating": 1.18,
+                "share": 5.08
+            }
+        ]
+    }
+}

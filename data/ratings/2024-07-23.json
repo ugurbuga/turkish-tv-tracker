@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-23",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:02",
+                "end_time": "24:22:16",
+                "rating": 4.06,
+                "share": 16.82
+            },
+            {
+                "rank": 2,
+                "name": "TASIYICI 3 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:52",
+                "end_time": "21:55:41",
+                "rating": 2.4,
+                "share": 10.01
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:02",
+                "rating": 2.15,
+                "share": 12.03
+            },
+            {
+                "rank": 4,
+                "name": "ASLAN BACANAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:21:37",
+                "end_time": "24:16:31",
+                "rating": 1.82,
+                "share": 7.96
+            },
+            {
+                "rank": 5,
+                "name": "YILDIZLAR DA KAYAR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "22:21:21",
+                "rating": 1.8,
+                "share": 7.59
+            },
+            {
+                "rank": 6,
+                "name": "ORGANIZE ISLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:58",
+                "end_time": "22:20:40",
+                "rating": 1.75,
+                "share": 7.29
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:33",
+                "end_time": "19:59:56",
+                "rating": 1.55,
+                "share": 8.6
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:29",
+                "end_time": "19:59:42",
+                "rating": 1.53,
+                "share": 8.59
+            },
+            {
+                "rank": 9,
+                "name": "OYLESINE DERIN",
+                "channel": "KANAL 7",
+                "start_time": "21:29:46",
+                "end_time": "23:17:55",
+                "rating": 1.47,
+                "share": 5.63
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:40:55",
+                "end_time": "20:59:57",
+                "rating": 1.45,
+                "share": 7.36
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:02",
+                "end_time": "24:22:16",
+                "rating": 4.19,
+                "share": 18.93
+            },
+            {
+                "rank": 2,
+                "name": "TASIYICI 3 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:52",
+                "end_time": "21:55:41",
+                "rating": 1.83,
+                "share": 8.63
+            },
+            {
+                "rank": 3,
+                "name": "ORGANIZE ISLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:58",
+                "end_time": "22:20:40",
+                "rating": 1.78,
+                "share": 8.33
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:40:55",
+                "end_time": "20:59:57",
+                "rating": 1.58,
+                "share": 9.81
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:29",
+                "end_time": "19:59:42",
+                "rating": 1.48,
+                "share": 11.13
+            },
+            {
+                "rank": 6,
+                "name": "MILYONER AILE",
+                "channel": "ATV",
+                "start_time": "20:41:20",
+                "end_time": "23:17:56",
+                "rating": 1.43,
+                "share": 6.16
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:02",
+                "rating": 1.37,
+                "share": 10.22
+            },
+            {
+                "rank": 8,
+                "name": "YILDIZLAR DA KAYAR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "22:21:21",
+                "rating": 1.29,
+                "share": 6.15
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:58:29",
+                "rating": 1.13,
+                "share": 10.3
+            },
+            {
+                "rank": 10,
+                "name": "KIRALIK ASK (TKR)",
+                "channel": "STAR TV",
+                "start_time": "13:31:04",
+                "end_time": "16:17:25",
+                "rating": 1.1,
+                "share": 12.1
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:02",
+                "end_time": "24:22:16",
+                "rating": 4.65,
+                "share": 19.25
+            },
+            {
+                "rank": 2,
+                "name": "TASIYICI 3 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:52",
+                "end_time": "21:55:41",
+                "rating": 2.29,
+                "share": 10.07
+            },
+            {
+                "rank": 3,
+                "name": "ORGANIZE ISLER (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:58",
+                "end_time": "22:20:40",
+                "rating": 1.83,
+                "share": 7.96
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "20:00:02",
+                "rating": 1.66,
+                "share": 10.34
+            },
+            {
+                "rank": 5,
+                "name": "YILDIZLAR DA KAYAR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:53",
+                "end_time": "22:21:21",
+                "rating": 1.6,
+                "share": 7.05
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:29",
+                "end_time": "19:59:42",
+                "rating": 1.58,
+                "share": 9.89
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:40:55",
+                "end_time": "20:59:57",
+                "rating": 1.58,
+                "share": 8.67
+            },
+            {
+                "rank": 8,
+                "name": "ASLAN BACANAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:21:37",
+                "end_time": "24:16:31",
+                "rating": 1.32,
+                "share": 5.64
+            },
+            {
+                "rank": 9,
+                "name": "ORGANIZE ISLER (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:21:03",
+                "end_time": "24:27:12",
+                "rating": 1.31,
+                "share": 5.75
+            },
+            {
+                "rank": 10,
+                "name": "MILYONER AILE",
+                "channel": "ATV",
+                "start_time": "20:41:20",
+                "end_time": "23:17:56",
+                "rating": 1.1,
+                "share": 4.34
+            }
+        ]
+    }
+}

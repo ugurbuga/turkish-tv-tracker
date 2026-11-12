@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:49",
+                "end_time": "24:21:23",
+                "rating": 3.92,
+                "share": 16.35
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 2.24,
+                "share": 12.85
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:47:03",
+                "end_time": "24:16:08",
+                "rating": 1.86,
+                "share": 7.63
+            },
+            {
+                "rank": 4,
+                "name": "SAHTE KABADAYI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "21:44:36",
+                "rating": 1.82,
+                "share": 8.5
+            },
+            {
+                "rank": 5,
+                "name": "PETROL KRALLARI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:53",
+                "end_time": "23:36:57",
+                "rating": 1.61,
+                "share": 6.41
+            },
+            {
+                "rank": 6,
+                "name": "COK GUZEL HAREKETLER 2 OZEL",
+                "channel": "STAR TV",
+                "start_time": "20:00:51",
+                "end_time": "23:06:42",
+                "rating": 1.34,
+                "share": 5.7
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:37",
+                "end_time": "20:00:08",
+                "rating": 1.32,
+                "share": 7.61
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:55",
+                "end_time": "20:47:03",
+                "rating": 1.28,
+                "share": 6.49
+            },
+            {
+                "rank": 9,
+                "name": "OYLESINE DERIN",
+                "channel": "KANAL 7",
+                "start_time": "21:19:04",
+                "end_time": "23:17:47",
+                "rating": 1.27,
+                "share": 4.99
+            },
+            {
+                "rank": 10,
+                "name": "BUZ YOLU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:33",
+                "end_time": "22:12:47",
+                "rating": 1.24,
+                "share": 5.48
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:49",
+                "end_time": "24:21:23",
+                "rating": 4.92,
+                "share": 22.26
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 2.23,
+                "share": 15.05
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:47:03",
+                "end_time": "24:16:08",
+                "rating": 1.83,
+                "share": 8.14
+            },
+            {
+                "rank": 4,
+                "name": "PETROL KRALLARI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:53",
+                "end_time": "23:36:57",
+                "rating": 1.48,
+                "share": 6.41
+            },
+            {
+                "rank": 5,
+                "name": "ROMANTIK KOMEDI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:27",
+                "end_time": "22:05:41",
+                "rating": 1.46,
+                "share": 7.08
+            },
+            {
+                "rank": 6,
+                "name": "BUZ YOLU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:33",
+                "end_time": "22:12:47",
+                "rating": 1.46,
+                "share": 7.1
+            },
+            {
+                "rank": 7,
+                "name": "SAHTE KABADAYI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "21:44:36",
+                "rating": 1.14,
+                "share": 5.9
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:55",
+                "end_time": "20:47:03",
+                "rating": 1.12,
+                "share": 6.4
+            },
+            {
+                "rank": 9,
+                "name": "COK GUZEL HAREKETLER 2 OZEL",
+                "channel": "STAR TV",
+                "start_time": "20:00:51",
+                "end_time": "23:06:42",
+                "rating": 1.11,
+                "share": 5.17
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:52:42",
+                "rating": 1.06,
+                "share": 7.15
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:49",
+                "end_time": "24:21:23",
+                "rating": 4.85,
+                "share": 19.92
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:11",
+                "rating": 2.32,
+                "share": 13.67
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:47:03",
+                "end_time": "24:16:08",
+                "rating": 1.96,
+                "share": 7.96
+            },
+            {
+                "rank": 4,
+                "name": "COK GUZEL HAREKETLER 2 OZEL",
+                "channel": "STAR TV",
+                "start_time": "20:00:51",
+                "end_time": "23:06:42",
+                "rating": 1.53,
+                "share": 6.57
+            },
+            {
+                "rank": 5,
+                "name": "BUZ YOLU (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:33",
+                "end_time": "22:12:47",
+                "rating": 1.43,
+                "share": 6.53
+            },
+            {
+                "rank": 6,
+                "name": "LABIRENT ALEV DENEYLERI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "22:12:55",
+                "end_time": "24:26:52",
+                "rating": 1.42,
+                "share": 6.02
+            },
+            {
+                "rank": 7,
+                "name": "PETROL KRALLARI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:53",
+                "end_time": "23:36:57",
+                "rating": 1.32,
+                "share": 5.18
+            },
+            {
+                "rank": 8,
+                "name": "ROMANTIK KOMEDI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:27",
+                "end_time": "22:05:41",
+                "rating": 1.24,
+                "share": 5.65
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:25:23",
+                "end_time": "20:57:49",
+                "rating": 1.24,
+                "share": 7.0
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:37",
+                "rating": 1.18,
+                "share": 7.65
+            }
+        ]
+    }
+}

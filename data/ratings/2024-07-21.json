@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-21",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:16",
+                "end_time": "24:21:26",
+                "rating": 4.21,
+                "share": 18.7
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "21:00:24",
+                "end_time": "24:15:28",
+                "rating": 2.14,
+                "share": 9.26
+            },
+            {
+                "rank": 3,
+                "name": "NAMUSLU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:10",
+                "end_time": "24:19:30",
+                "rating": 1.92,
+                "share": 8.65
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 1.91,
+                "share": 11.26
+            },
+            {
+                "rank": 5,
+                "name": "HIZ TUZAGI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:20",
+                "end_time": "22:20:18",
+                "rating": 1.8,
+                "share": 8.33
+            },
+            {
+                "rank": 6,
+                "name": "NASIPSE OLUR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "22:21:54",
+                "rating": 1.78,
+                "share": 8.3
+            },
+            {
+                "rank": 7,
+                "name": "LOGAN (Y.S)",
+                "channel": "NOW",
+                "start_time": "20:00:05",
+                "end_time": "22:42:34",
+                "rating": 1.74,
+                "share": 7.97
+            },
+            {
+                "rank": 8,
+                "name": "LABIRENT OLUMCUL KACIS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "22:20:26",
+                "end_time": "24:02:54",
+                "rating": 1.52,
+                "share": 6.86
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:37",
+                "end_time": "20:00:06",
+                "rating": 1.34,
+                "share": 7.8
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:45",
+                "end_time": "19:59:56",
+                "rating": 1.33,
+                "share": 7.84
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:16",
+                "end_time": "24:21:26",
+                "rating": 4.88,
+                "share": 23.47
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "21:00:24",
+                "end_time": "24:15:28",
+                "rating": 2.02,
+                "share": 9.42
+            },
+            {
+                "rank": 3,
+                "name": "LABIRENT OLUMCUL KACIS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "22:20:26",
+                "end_time": "24:02:54",
+                "rating": 1.86,
+                "share": 8.97
+            },
+            {
+                "rank": 4,
+                "name": "HIZ TUZAGI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:20",
+                "end_time": "22:20:18",
+                "rating": 1.65,
+                "share": 8.72
+            },
+            {
+                "rank": 5,
+                "name": "NAMUSLU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:10",
+                "end_time": "24:19:30",
+                "rating": 1.63,
+                "share": 7.88
+            },
+            {
+                "rank": 6,
+                "name": "NASIPSE OLUR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "22:21:54",
+                "rating": 1.4,
+                "share": 7.46
+            },
+            {
+                "rank": 7,
+                "name": "LOGAN (Y.S)",
+                "channel": "NOW",
+                "start_time": "20:00:05",
+                "end_time": "22:42:34",
+                "rating": 1.26,
+                "share": 6.57
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 1.23,
+                "share": 9.04
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "21:00:24",
+                "rating": 1.11,
+                "share": 6.61
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:37",
+                "end_time": "20:00:06",
+                "rating": 1.08,
+                "share": 7.91
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:56:16",
+                "end_time": "24:21:26",
+                "rating": 5.36,
+                "share": 22.94
+            },
+            {
+                "rank": 2,
+                "name": "NAMUSLU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:10",
+                "end_time": "24:19:30",
+                "rating": 2.07,
+                "share": 8.86
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "21:00:24",
+                "end_time": "24:15:28",
+                "rating": 2.06,
+                "share": 8.52
+            },
+            {
+                "rank": 4,
+                "name": "LOGAN (Y.S)",
+                "channel": "NOW",
+                "start_time": "20:00:05",
+                "end_time": "22:42:34",
+                "rating": 1.96,
+                "share": 8.86
+            },
+            {
+                "rank": 5,
+                "name": "LABIRENT OLUMCUL KACIS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "22:20:26",
+                "end_time": "24:02:54",
+                "rating": 1.84,
+                "share": 7.85
+            },
+            {
+                "rank": 6,
+                "name": "NASIPSE OLUR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "22:21:54",
+                "rating": 1.84,
+                "share": 8.55
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 1.76,
+                "share": 11.06
+            },
+            {
+                "rank": 8,
+                "name": "HIZ TUZAGI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:11:20",
+                "end_time": "22:20:18",
+                "rating": 1.47,
+                "share": 6.77
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:45",
+                "end_time": "19:59:56",
+                "rating": 1.29,
+                "share": 8.11
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:45",
+                "rating": 1.23,
+                "share": 8.47
+            }
+        ]
+    }
+}
