@@ -1,0 +1,282 @@
+{
+    "date": "2024-10-24",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-MANCHESTER UNITED UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:54:32",
+                "end_time": "24:02:52",
+                "rating": 9.7,
+                "share": 28.41
+            },
+            {
+                "rank": 2,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:55:37",
+                "end_time": "23:00:09",
+                "rating": 5.08,
+                "share": 14.72
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:56",
+                "rating": 4.32,
+                "share": 13.65
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:19:40",
+                "end_time": "18:52:23",
+                "rating": 4.06,
+                "share": 21.31
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:31:11",
+                "end_time": "23:19:08",
+                "rating": 3.94,
+                "share": 10.44
+            },
+            {
+                "rank": 6,
+                "name": "HUDUTSUZ SEVDA (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:07",
+                "end_time": "22:13:34",
+                "rating": 3.65,
+                "share": 9.65
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:55",
+                "end_time": "12:59:56",
+                "rating": 3.65,
+                "share": 29.12
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:49",
+                "end_time": "19:59:34",
+                "rating": 3.57,
+                "share": 11.22
+            },
+            {
+                "rank": 9,
+                "name": "INCI TANELERI (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:10",
+                "end_time": "22:20:49",
+                "rating": 3.34,
+                "share": 8.75
+            },
+            {
+                "rank": 10,
+                "name": "LYON-BESIKTAS UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:53:19",
+                "end_time": "24:04:06",
+                "rating": 2.52,
+                "share": 7.45
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-MANCHESTER UNITED UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:54:32",
+                "end_time": "24:02:52",
+                "rating": 12.22,
+                "share": 35.28
+            },
+            {
+                "rank": 2,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:55:37",
+                "end_time": "23:00:09",
+                "rating": 7.63,
+                "share": 21.43
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:31:11",
+                "end_time": "23:19:08",
+                "rating": 4.01,
+                "share": 11.2
+            },
+            {
+                "rank": 4,
+                "name": "INCI TANELERI (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:10",
+                "end_time": "22:20:49",
+                "rating": 3.78,
+                "share": 10.88
+            },
+            {
+                "rank": 5,
+                "name": "LYON-BESIKTAS UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:53:19",
+                "end_time": "24:04:06",
+                "rating": 3.67,
+                "share": 10.71
+            },
+            {
+                "rank": 6,
+                "name": "BESIKTAS KALECISI ERSIN DESTANOGLU ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:10:06",
+                "end_time": "24:12:20",
+                "rating": 3.32,
+                "share": 17.46
+            },
+            {
+                "rank": 7,
+                "name": "MAC OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "22:55:24",
+                "end_time": "23:02:39",
+                "rating": 3.26,
+                "share": 9.16
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:56",
+                "rating": 3.04,
+                "share": 11.68
+            },
+            {
+                "rank": 9,
+                "name": "LYON TEKNIK DIREKTORU GIOVANNI VAN BRONCKHORST ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:15:58",
+                "end_time": "24:21:44",
+                "rating": 2.85,
+                "share": 16.19
+            },
+            {
+                "rank": 10,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:55",
+                "end_time": "12:59:56",
+                "rating": 2.54,
+                "share": 22.67
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-MANCHESTER UNITED UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:54:32",
+                "end_time": "24:02:52",
+                "rating": 12.48,
+                "share": 33.01
+            },
+            {
+                "rank": 2,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:55:37",
+                "end_time": "23:00:09",
+                "rating": 7.29,
+                "share": 18.93
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:31:11",
+                "end_time": "23:19:08",
+                "rating": 5.22,
+                "share": 12.82
+            },
+            {
+                "rank": 4,
+                "name": "INCI TANELERI (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:10",
+                "end_time": "22:20:49",
+                "rating": 4.56,
+                "share": 11.32
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:56",
+                "rating": 4.08,
+                "share": 13.16
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:55",
+                "end_time": "12:59:56",
+                "rating": 3.78,
+                "share": 29.04
+            },
+            {
+                "rank": 7,
+                "name": "BESIKTAS KALECISI ERSIN DESTANOGLU ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:10:06",
+                "end_time": "24:12:20",
+                "rating": 3.11,
+                "share": 15.06
+            },
+            {
+                "rank": 8,
+                "name": "LYON-BESIKTAS UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:53:19",
+                "end_time": "24:04:06",
+                "rating": 3.05,
+                "share": 8.17
+            },
+            {
+                "rank": 9,
+                "name": "HUDUTSUZ SEVDA (TKR)",
+                "channel": "NOW",
+                "start_time": "20:00:07",
+                "end_time": "22:13:34",
+                "rating": 3.04,
+                "share": 7.65
+            },
+            {
+                "rank": 10,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:19:40",
+                "end_time": "18:52:23",
+                "rating": 2.95,
+                "share": 16.64
+            }
+        ]
+    }
+}
