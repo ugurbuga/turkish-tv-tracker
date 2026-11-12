@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-01",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:53:18",
+                "end_time": "24:27:20",
+                "rating": 4.52,
+                "share": 17.78
+            },
+            {
+                "rank": 2,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "21:44:58",
+                "rating": 3.0,
+                "share": 11.26
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 2.41,
+                "share": 11.6
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:46",
+                "end_time": "19:59:50",
+                "rating": 2.39,
+                "share": 11.44
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:17",
+                "end_time": "24:01:48",
+                "rating": 2.21,
+                "share": 8.32
+            },
+            {
+                "rank": 6,
+                "name": "JUMANJI YENI SEVIYE (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:15:02",
+                "end_time": "22:32:39",
+                "rating": 2.14,
+                "share": 7.76
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:37",
+                "end_time": "20:44:17",
+                "rating": 1.73,
+                "share": 6.84
+            },
+            {
+                "rank": 8,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:46",
+                "rating": 1.49,
+                "share": 8.55
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:29:49",
+                "end_time": "20:53:18",
+                "rating": 1.47,
+                "share": 6.57
+            },
+            {
+                "rank": 10,
+                "name": "ILLEGAL HAYATLAR (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:33",
+                "end_time": "21:59:28",
+                "rating": 1.43,
+                "share": 5.27
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:53:18",
+                "end_time": "24:27:20",
+                "rating": 5.62,
+                "share": 23.07
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:17",
+                "end_time": "24:01:48",
+                "rating": 2.31,
+                "share": 9.13
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 2.28,
+                "share": 11.41
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:29:49",
+                "end_time": "20:53:18",
+                "rating": 1.77,
+                "share": 8.58
+            },
+            {
+                "rank": 5,
+                "name": "ILLEGAL HAYATLAR (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:33",
+                "end_time": "21:59:28",
+                "rating": 1.75,
+                "share": 7.18
+            },
+            {
+                "rank": 6,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "21:44:58",
+                "rating": 1.75,
+                "share": 7.34
+            },
+            {
+                "rank": 7,
+                "name": "IKINCI SANS (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:14",
+                "end_time": "23:40:21",
+                "rating": 1.56,
+                "share": 6.03
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:46",
+                "end_time": "19:59:50",
+                "rating": 1.45,
+                "share": 7.24
+            },
+            {
+                "rank": 9,
+                "name": "ZOR OLUM (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "19:59:18",
+                "end_time": "22:30:55",
+                "rating": 1.3,
+                "share": 5.26
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:37",
+                "end_time": "20:44:17",
+                "rating": 1.28,
+                "share": 5.73
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:53:18",
+                "end_time": "24:27:20",
+                "rating": 5.52,
+                "share": 20.29
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:04",
+                "rating": 2.64,
+                "share": 11.81
+            },
+            {
+                "rank": 3,
+                "name": "JUMANJI YENI SEVIYE (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:15:02",
+                "end_time": "22:32:39",
+                "rating": 2.6,
+                "share": 9.0
+            },
+            {
+                "rank": 4,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "21:44:58",
+                "rating": 2.51,
+                "share": 9.06
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:46",
+                "end_time": "19:59:50",
+                "rating": 2.38,
+                "share": 10.66
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:17",
+                "end_time": "24:01:48",
+                "rating": 2.31,
+                "share": 8.17
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:29:49",
+                "end_time": "20:53:18",
+                "rating": 1.87,
+                "share": 7.94
+            },
+            {
+                "rank": 8,
+                "name": "ILLEGAL HAYATLAR (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:33",
+                "end_time": "21:59:28",
+                "rating": 1.86,
+                "share": 6.52
+            },
+            {
+                "rank": 9,
+                "name": "IKINCI SANS (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:14",
+                "end_time": "23:40:21",
+                "rating": 1.66,
+                "share": 5.79
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:37",
+                "end_time": "20:44:17",
+                "rating": 1.63,
+                "share": 6.17
+            }
+        ]
+    }
+}

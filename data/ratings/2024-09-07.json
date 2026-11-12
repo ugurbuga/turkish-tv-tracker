@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-07",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:59:03",
+                "end_time": "24:15:47",
+                "rating": 5.41,
+                "share": 20.17
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:07",
+                "end_time": "24:24:31",
+                "rating": 4.91,
+                "share": 18.87
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:47",
+                "end_time": "20:59:03",
+                "rating": 3.4,
+                "share": 13.28
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:09",
+                "rating": 2.56,
+                "share": 12.94
+            },
+            {
+                "rank": 5,
+                "name": "CENGIZ HAN DESTANI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:28",
+                "end_time": "22:36:48",
+                "rating": 2.05,
+                "share": 7.54
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:41",
+                "end_time": "19:59:56",
+                "rating": 1.85,
+                "share": 9.39
+            },
+            {
+                "rank": 7,
+                "name": "BIR GECE MASALI (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:45",
+                "end_time": "23:17:06",
+                "rating": 1.69,
+                "share": 6.23
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "23:45:13",
+                "rating": 1.62,
+                "share": 6.06
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:25:15",
+                "end_time": "20:54:02",
+                "rating": 1.44,
+                "share": 6.7
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "20:00:01",
+                "rating": 1.42,
+                "share": 7.07
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:59:03",
+                "end_time": "24:15:47",
+                "rating": 5.48,
+                "share": 21.22
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:07",
+                "end_time": "24:24:31",
+                "rating": 4.33,
+                "share": 17.32
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:47",
+                "end_time": "20:59:03",
+                "rating": 3.11,
+                "share": 14.31
+            },
+            {
+                "rank": 4,
+                "name": "CENGIZ HAN DESTANI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:28",
+                "end_time": "22:36:48",
+                "rating": 1.74,
+                "share": 7.19
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "23:45:13",
+                "rating": 1.73,
+                "share": 6.96
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:09",
+                "rating": 1.23,
+                "share": 7.39
+            },
+            {
+                "rank": 7,
+                "name": "BIR GECE MASALI (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:45",
+                "end_time": "23:17:06",
+                "rating": 1.21,
+                "share": 4.92
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:25:15",
+                "end_time": "20:54:02",
+                "rating": 1.19,
+                "share": 6.56
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "20:00:01",
+                "rating": 1.14,
+                "share": 6.87
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:41",
+                "end_time": "19:59:56",
+                "rating": 1.09,
+                "share": 6.61
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:59:03",
+                "end_time": "24:15:47",
+                "rating": 6.45,
+                "share": 22.95
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:07",
+                "end_time": "24:24:31",
+                "rating": 5.14,
+                "share": 18.93
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:47",
+                "end_time": "20:59:03",
+                "rating": 3.45,
+                "share": 13.75
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:09",
+                "rating": 1.99,
+                "share": 10.7
+            },
+            {
+                "rank": 5,
+                "name": "CENGIZ HAN DESTANI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:28",
+                "end_time": "22:36:48",
+                "rating": 1.85,
+                "share": 6.78
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:41",
+                "end_time": "19:59:56",
+                "rating": 1.84,
+                "share": 9.94
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "23:45:13",
+                "rating": 1.78,
+                "share": 6.49
+            },
+            {
+                "rank": 8,
+                "name": "BIR GECE MASALI (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:45",
+                "end_time": "23:17:06",
+                "rating": 1.62,
+                "share": 5.87
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:25:15",
+                "end_time": "20:54:02",
+                "rating": 1.52,
+                "share": 7.4
+            },
+            {
+                "rank": 10,
+                "name": "KOTU KAN (TKR)",
+                "channel": "NOW",
+                "start_time": "20:14:07",
+                "end_time": "22:39:25",
+                "rating": 1.47,
+                "share": 5.42
+            }
+        ]
+    }
+}

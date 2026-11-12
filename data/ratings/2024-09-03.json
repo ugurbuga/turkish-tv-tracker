@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:48:42",
+                "end_time": "24:19:07",
+                "rating": 5.24,
+                "share": 19.21
+            },
+            {
+                "rank": 2,
+                "name": "BIR GECE MASALI",
+                "channel": "ATV",
+                "start_time": "19:59:33",
+                "end_time": "22:33:47",
+                "rating": 4.67,
+                "share": 16.58
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:45",
+                "end_time": "13:04:16",
+                "rating": 4.03,
+                "share": 33.03
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:03",
+                "end_time": "18:43:58",
+                "rating": 2.57,
+                "share": 16.7
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:53",
+                "rating": 2.49,
+                "share": 12.35
+            },
+            {
+                "rank": 6,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:04:26",
+                "end_time": "13:59:53",
+                "rating": 2.39,
+                "share": 18.38
+            },
+            {
+                "rank": 7,
+                "name": "BIR GECE MASALI (TKR)",
+                "channel": "ATV",
+                "start_time": "22:34:08",
+                "end_time": "25:40:09",
+                "rating": 2.22,
+                "share": 11.72
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:41",
+                "end_time": "19:59:17",
+                "rating": 2.14,
+                "share": 10.44
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:44",
+                "end_time": "20:00:01",
+                "rating": 2.01,
+                "share": 9.94
+            },
+            {
+                "rank": 10,
+                "name": "AYBUKE OGRETMEN OLDUM BEN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:50",
+                "end_time": "22:08:22",
+                "rating": 1.94,
+                "share": 6.83
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:48:42",
+                "end_time": "24:19:07",
+                "rating": 5.71,
+                "share": 21.64
+            },
+            {
+                "rank": 2,
+                "name": "BIR GECE MASALI",
+                "channel": "ATV",
+                "start_time": "19:59:33",
+                "end_time": "22:33:47",
+                "rating": 4.48,
+                "share": 16.58
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:45",
+                "end_time": "13:04:16",
+                "rating": 2.81,
+                "share": 27.74
+            },
+            {
+                "rank": 4,
+                "name": "AYBUKE OGRETMEN OLDUM BEN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:50",
+                "end_time": "22:08:22",
+                "rating": 2.08,
+                "share": 7.66
+            },
+            {
+                "rank": 5,
+                "name": "AYBUKE OGRETMEN OLDUM BEN (T.S) (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:08:30",
+                "end_time": "24:01:38",
+                "rating": 2.01,
+                "share": 8.13
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:02:00",
+                "end_time": "20:48:42",
+                "rating": 1.97,
+                "share": 9.19
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:53",
+                "rating": 1.87,
+                "share": 10.39
+            },
+            {
+                "rank": 8,
+                "name": "YEDI BELA HUSNU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:50:58",
+                "rating": 1.72,
+                "share": 6.55
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:41",
+                "end_time": "19:59:17",
+                "rating": 1.67,
+                "share": 9.01
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:44",
+                "end_time": "20:00:01",
+                "rating": 1.64,
+                "share": 9.04
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:48:42",
+                "end_time": "24:19:07",
+                "rating": 6.05,
+                "share": 21.55
+            },
+            {
+                "rank": 2,
+                "name": "BIR GECE MASALI",
+                "channel": "ATV",
+                "start_time": "19:59:33",
+                "end_time": "22:33:47",
+                "rating": 4.84,
+                "share": 16.99
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:45",
+                "end_time": "13:04:16",
+                "rating": 4.16,
+                "share": 37.68
+            },
+            {
+                "rank": 4,
+                "name": "AYBUKE OGRETMEN OLDUM BEN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:50",
+                "end_time": "22:08:22",
+                "rating": 2.32,
+                "share": 8.11
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:03",
+                "end_time": "18:43:58",
+                "rating": 2.11,
+                "share": 15.49
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:53",
+                "rating": 2.1,
+                "share": 10.81
+            },
+            {
+                "rank": 7,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:04:26",
+                "end_time": "13:59:53",
+                "rating": 1.99,
+                "share": 17.51
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:02:00",
+                "end_time": "20:48:42",
+                "rating": 1.94,
+                "share": 8.52
+            },
+            {
+                "rank": 9,
+                "name": "BIR GECE MASALI (TKR)",
+                "channel": "ATV",
+                "start_time": "22:34:08",
+                "end_time": "25:40:09",
+                "rating": 1.92,
+                "share": 10.03
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:41",
+                "end_time": "19:59:17",
+                "rating": 1.92,
+                "share": 9.69
+            }
+        ]
+    }
+}

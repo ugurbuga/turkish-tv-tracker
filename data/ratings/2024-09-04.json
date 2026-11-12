@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:55",
+                "end_time": "24:26:50",
+                "rating": 5.31,
+                "share": 20.74
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:46",
+                "rating": 4.81,
+                "share": 37.29
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:00",
+                "end_time": "18:44:24",
+                "rating": 2.9,
+                "share": 18.76
+            },
+            {
+                "rank": 4,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:50:26",
+                "rating": 2.3,
+                "share": 10.82
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "20:00:19",
+                "rating": 2.27,
+                "share": 10.81
+            },
+            {
+                "rank": 6,
+                "name": "OH OLSUN (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:30",
+                "end_time": "21:51:24",
+                "rating": 2.22,
+                "share": 8.11
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:30",
+                "end_time": "23:48:41",
+                "rating": 2.19,
+                "share": 8.21
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:47",
+                "rating": 2.12,
+                "share": 10.05
+            },
+            {
+                "rank": 9,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "12:59:56",
+                "end_time": "13:59:30",
+                "rating": 2.1,
+                "share": 15.71
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:24",
+                "end_time": "20:57:55",
+                "rating": 2.08,
+                "share": 8.69
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:55",
+                "end_time": "24:26:50",
+                "rating": 7.03,
+                "share": 28.26
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:46",
+                "rating": 2.57,
+                "share": 27.65
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:24",
+                "end_time": "20:57:55",
+                "rating": 2.54,
+                "share": 12.43
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:30",
+                "end_time": "23:48:41",
+                "rating": 2.36,
+                "share": 9.46
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:47",
+                "rating": 2.35,
+                "share": 13.34
+            },
+            {
+                "rank": 6,
+                "name": "GOKDELEN (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:45",
+                "end_time": "22:01:48",
+                "rating": 1.78,
+                "share": 7.07
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:00",
+                "end_time": "18:44:24",
+                "rating": 1.7,
+                "share": 13.96
+            },
+            {
+                "rank": 8,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:44:00",
+                "end_time": "18:58:25",
+                "rating": 1.62,
+                "share": 11.02
+            },
+            {
+                "rank": 9,
+                "name": "OH OLSUN (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:30",
+                "end_time": "21:51:24",
+                "rating": 1.59,
+                "share": 6.53
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "20:00:19",
+                "rating": 1.54,
+                "share": 8.82
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:55",
+                "end_time": "24:26:50",
+                "rating": 6.59,
+                "share": 23.89
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:46",
+                "rating": 4.28,
+                "share": 39.18
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:24",
+                "end_time": "20:57:55",
+                "rating": 2.48,
+                "share": 10.69
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:30",
+                "end_time": "23:48:41",
+                "rating": 2.47,
+                "share": 8.86
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:47",
+                "rating": 2.36,
+                "share": 11.73
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:00",
+                "end_time": "18:44:24",
+                "rating": 2.29,
+                "share": 16.32
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:25",
+                "end_time": "20:00:19",
+                "rating": 2.22,
+                "share": 11.1
+            },
+            {
+                "rank": 8,
+                "name": "GOKDELEN (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:15:45",
+                "end_time": "22:01:48",
+                "rating": 1.99,
+                "share": 7.05
+            },
+            {
+                "rank": 9,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "12:59:56",
+                "end_time": "13:59:30",
+                "rating": 1.86,
+                "share": 16.34
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:50:26",
+                "rating": 1.82,
+                "share": 8.99
+            }
+        ]
+    }
+}
