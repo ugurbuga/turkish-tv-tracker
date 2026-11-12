@@ -1,0 +1,282 @@
+{
+    "date": "2024-10-31",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:58:53",
+                "end_time": "23:45:32",
+                "rating": 6.1,
+                "share": 16.24
+            },
+            {
+                "rank": 2,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "21:00:11",
+                "end_time": "24:14:24",
+                "rating": 6.09,
+                "share": 16.88
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:45",
+                "rating": 4.85,
+                "share": 14.82
+            },
+            {
+                "rank": 4,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:55",
+                "end_time": "20:58:48",
+                "rating": 4.23,
+                "share": 11.22
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:19:38",
+                "end_time": "18:51:41",
+                "rating": 4.18,
+                "share": 19.81
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:09",
+                "end_time": "12:59:50",
+                "rating": 4.16,
+                "share": 32.63
+            },
+            {
+                "rank": 7,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:58:25",
+                "end_time": "23:58:32",
+                "rating": 3.86,
+                "share": 10.62
+            },
+            {
+                "rank": 8,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "21:00:00",
+                "rating": 3.85,
+                "share": 10.21
+            },
+            {
+                "rank": 9,
+                "name": "MURAT GOGEBAKAN KALBIM YARALI (T.S)",
+                "channel": "ATV",
+                "start_time": "19:59:50",
+                "end_time": "22:39:56",
+                "rating": 3.76,
+                "share": 9.72
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:55",
+                "end_time": "24:27:27",
+                "rating": 3.76,
+                "share": 11.1
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "21:00:11",
+                "end_time": "24:14:24",
+                "rating": 7.12,
+                "share": 21.04
+            },
+            {
+                "rank": 2,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "21:00:00",
+                "rating": 4.15,
+                "share": 11.74
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:45",
+                "rating": 3.96,
+                "share": 13.21
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:55",
+                "end_time": "24:27:27",
+                "rating": 3.86,
+                "share": 12.22
+            },
+            {
+                "rank": 5,
+                "name": "MURAT GOGEBAKAN KALBIM YARALI (T.S)",
+                "channel": "ATV",
+                "start_time": "19:59:50",
+                "end_time": "22:39:56",
+                "rating": 3.71,
+                "share": 10.23
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:09",
+                "end_time": "12:59:50",
+                "rating": 3.16,
+                "share": 29.87
+            },
+            {
+                "rank": 7,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:58:53",
+                "end_time": "23:45:32",
+                "rating": 3.01,
+                "share": 8.55
+            },
+            {
+                "rank": 8,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:58:25",
+                "end_time": "23:58:32",
+                "rating": 2.79,
+                "share": 8.2
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:19:38",
+                "end_time": "18:51:41",
+                "rating": 2.63,
+                "share": 14.86
+            },
+            {
+                "rank": 10,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:55",
+                "end_time": "20:58:48",
+                "rating": 2.32,
+                "share": 6.56
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "INCI TANELERI",
+                "channel": "KANAL D",
+                "start_time": "21:00:11",
+                "end_time": "24:14:24",
+                "rating": 8.08,
+                "share": 20.95
+            },
+            {
+                "rank": 2,
+                "name": "INCI TANELERI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "21:00:00",
+                "rating": 5.05,
+                "share": 12.88
+            },
+            {
+                "rank": 3,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "NOW",
+                "start_time": "20:58:53",
+                "end_time": "23:45:32",
+                "rating": 4.91,
+                "share": 12.27
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:45",
+                "rating": 4.83,
+                "share": 14.9
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:55",
+                "end_time": "24:27:27",
+                "rating": 4.27,
+                "share": 11.84
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:09",
+                "end_time": "12:59:50",
+                "rating": 4.22,
+                "share": 32.94
+            },
+            {
+                "rank": 7,
+                "name": "MURAT GOGEBAKAN KALBIM YARALI (T.S)",
+                "channel": "ATV",
+                "start_time": "19:59:50",
+                "end_time": "22:39:56",
+                "rating": 4.05,
+                "share": 9.96
+            },
+            {
+                "rank": 8,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:58:25",
+                "end_time": "23:58:32",
+                "rating": 3.64,
+                "share": 9.38
+            },
+            {
+                "rank": 9,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:55",
+                "end_time": "20:58:48",
+                "rating": 3.34,
+                "share": 8.51
+            },
+            {
+                "rank": 10,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:19:38",
+                "end_time": "18:51:41",
+                "rating": 3.28,
+                "share": 16.37
+            }
+        ]
+    }
+}

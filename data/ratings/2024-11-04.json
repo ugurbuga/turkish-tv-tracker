@@ -1,0 +1,282 @@
+{
+    "date": "2024-11-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KIZIL GONCALAR",
+                "channel": "NOW",
+                "start_time": "20:44:05",
+                "end_time": "23:53:52",
+                "rating": 6.12,
+                "share": 16.76
+            },
+            {
+                "rank": 2,
+                "name": "KALPAZAN",
+                "channel": "SHOW TV",
+                "start_time": "20:59:38",
+                "end_time": "23:48:02",
+                "rating": 4.69,
+                "share": 12.76
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:10",
+                "end_time": "18:45:13",
+                "rating": 4.58,
+                "share": 21.24
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 4.46,
+                "share": 13.15
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "12:59:55",
+                "rating": 4.26,
+                "share": 32.24
+            },
+            {
+                "rank": 6,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:43:26",
+                "rating": 4.17,
+                "share": 11.3
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:53",
+                "end_time": "24:30:18",
+                "rating": 4.13,
+                "share": 12.39
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:55:45",
+                "rating": 3.83,
+                "share": 11.32
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:54",
+                "rating": 3.76,
+                "share": 11.14
+            },
+            {
+                "rank": 10,
+                "name": "KIZIL GONCALAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:16",
+                "end_time": "20:44:00",
+                "rating": 3.67,
+                "share": 9.7
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KIZIL GONCALAR",
+                "channel": "NOW",
+                "start_time": "20:44:05",
+                "end_time": "23:53:52",
+                "rating": 7.6,
+                "share": 21.56
+            },
+            {
+                "rank": 2,
+                "name": "KALPAZAN",
+                "channel": "SHOW TV",
+                "start_time": "20:59:38",
+                "end_time": "23:48:02",
+                "rating": 4.25,
+                "share": 11.9
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 4.15,
+                "share": 14.82
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:53",
+                "end_time": "24:30:18",
+                "rating": 4.14,
+                "share": 12.83
+            },
+            {
+                "rank": 5,
+                "name": "KIZIL GONCALAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:16",
+                "end_time": "20:44:00",
+                "rating": 3.94,
+                "share": 12.14
+            },
+            {
+                "rank": 6,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:43:26",
+                "rating": 3.74,
+                "share": 10.45
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:10",
+                "end_time": "18:45:13",
+                "rating": 2.85,
+                "share": 17.05
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "12:59:55",
+                "rating": 2.62,
+                "share": 24.98
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:54",
+                "rating": 2.56,
+                "share": 9.19
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:00",
+                "rating": 2.42,
+                "share": 8.61
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KIZIL GONCALAR",
+                "channel": "NOW",
+                "start_time": "20:44:05",
+                "end_time": "23:53:52",
+                "rating": 8.4,
+                "share": 20.51
+            },
+            {
+                "rank": 2,
+                "name": "KALPAZAN",
+                "channel": "SHOW TV",
+                "start_time": "20:59:38",
+                "end_time": "23:48:02",
+                "rating": 5.34,
+                "share": 12.88
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 4.82,
+                "share": 14.32
+            },
+            {
+                "rank": 4,
+                "name": "KIZIL GONCALAR (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:16",
+                "end_time": "20:44:00",
+                "rating": 4.72,
+                "share": 12.02
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:54:53",
+                "end_time": "24:30:18",
+                "rating": 4.62,
+                "share": 12.39
+            },
+            {
+                "rank": 6,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI",
+                "channel": "TRT 1",
+                "start_time": "21:00:05",
+                "end_time": "23:43:26",
+                "rating": 4.22,
+                "share": 10.15
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "12:59:55",
+                "rating": 4.12,
+                "share": 30.07
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:54",
+                "rating": 3.82,
+                "share": 11.44
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:10",
+                "end_time": "18:45:13",
+                "rating": 3.64,
+                "share": 18.14
+            },
+            {
+                "rank": 10,
+                "name": "KALPAZAN (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "20:59:38",
+                "rating": 3.28,
+                "share": 8.22
+            }
+        ]
+    }
+}
