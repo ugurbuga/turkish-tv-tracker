@@ -1,0 +1,282 @@
+{
+    "date": "2024-04-11",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:58:41",
+                "end_time": "23:59:11",
+                "rating": 5.81,
+                "share": 21.01
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "20:00:03",
+                "rating": 2.93,
+                "share": 14.43
+            },
+            {
+                "rank": 3,
+                "name": "SAKAR SAKIR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:02",
+                "end_time": "23:18:37",
+                "rating": 2.62,
+                "share": 9.24
+            },
+            {
+                "rank": 4,
+                "name": "SAHTE KABADAYI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:04",
+                "end_time": "21:43:46",
+                "rating": 2.23,
+                "share": 8.74
+            },
+            {
+                "rank": 5,
+                "name": "HUDUTSUZ SEVDA (TKR)",
+                "channel": "NOW",
+                "start_time": "22:00:44",
+                "end_time": "24:27:35",
+                "rating": 1.94,
+                "share": 7.61
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:15",
+                "end_time": "18:46:13",
+                "rating": 1.92,
+                "share": 13.59
+            },
+            {
+                "rank": 7,
+                "name": "KIRK YALAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:00:34",
+                "rating": 1.84,
+                "share": 7.1
+            },
+            {
+                "rank": 8,
+                "name": "ORUMCEK ADAM EVDEN UZAKTA (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:02",
+                "end_time": "22:34:13",
+                "rating": 1.84,
+                "share": 6.97
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:03",
+                "end_time": "19:54:55",
+                "rating": 1.8,
+                "share": 8.81
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:54:56",
+                "end_time": "20:58:41",
+                "rating": 1.76,
+                "share": 7.93
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:58:41",
+                "end_time": "23:59:11",
+                "rating": 4.21,
+                "share": 19.79
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "20:00:03",
+                "rating": 2.14,
+                "share": 14.94
+            },
+            {
+                "rank": 3,
+                "name": "SAHTE KABADAYI (T.S) (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "23:18:54",
+                "end_time": "24:44:39",
+                "rating": 1.32,
+                "share": 7.01
+            },
+            {
+                "rank": 4,
+                "name": "SAKAR SAKIR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:02",
+                "end_time": "23:18:37",
+                "rating": 1.3,
+                "share": 5.89
+            },
+            {
+                "rank": 5,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:15:50",
+                "end_time": "23:35:45",
+                "rating": 1.26,
+                "share": 6.09
+            },
+            {
+                "rank": 6,
+                "name": "KIRK YALAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:00:34",
+                "rating": 1.23,
+                "share": 6.77
+            },
+            {
+                "rank": 7,
+                "name": "CEVAP VER TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:00:09",
+                "end_time": "25:39:11",
+                "rating": 1.17,
+                "share": 9.12
+            },
+            {
+                "rank": 8,
+                "name": "BANDIRMA FUZE KULUBU (T.S) (TKR)",
+                "channel": "TRT 1",
+                "start_time": "21:38:30",
+                "end_time": "23:39:22",
+                "rating": 1.13,
+                "share": 5.08
+            },
+            {
+                "rank": 9,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:54:56",
+                "end_time": "20:58:41",
+                "rating": 1.11,
+                "share": 7.15
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:03",
+                "end_time": "19:54:55",
+                "rating": 1.01,
+                "share": 7.02
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:58:41",
+                "end_time": "23:59:11",
+                "rating": 5.43,
+                "share": 20.8
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "20:00:03",
+                "rating": 2.24,
+                "share": 12.8
+            },
+            {
+                "rank": 3,
+                "name": "ORUMCEK ADAM EVDEN UZAKTA (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:02",
+                "end_time": "22:34:13",
+                "rating": 1.84,
+                "share": 7.71
+            },
+            {
+                "rank": 4,
+                "name": "KIRK YALAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:00:34",
+                "rating": 1.77,
+                "share": 7.59
+            },
+            {
+                "rank": 5,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:15:50",
+                "end_time": "23:35:45",
+                "rating": 1.7,
+                "share": 6.66
+            },
+            {
+                "rank": 6,
+                "name": "SAKAR SAKIR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:02",
+                "end_time": "23:18:37",
+                "rating": 1.69,
+                "share": 6.24
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:54:56",
+                "end_time": "20:58:41",
+                "rating": 1.68,
+                "share": 8.61
+            },
+            {
+                "rank": 8,
+                "name": "VENOM ZEHIRLI OFKE (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:34:35",
+                "end_time": "24:23:14",
+                "rating": 1.43,
+                "share": 5.5
+            },
+            {
+                "rank": 9,
+                "name": "SAHTE KABADAYI (T.S) (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "23:18:54",
+                "end_time": "24:44:39",
+                "rating": 1.37,
+                "share": 6.15
+            },
+            {
+                "rank": 10,
+                "name": "SAHTE KABADAYI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:04",
+                "end_time": "21:43:46",
+                "rating": 1.37,
+                "share": 6.07
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2024-04-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:03:20",
+                "end_time": "24:16:55",
+                "rating": 6.31,
+                "share": 21.73
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "20:00:04",
+                "rating": 3.04,
+                "share": 14.55
+            },
+            {
+                "rank": 3,
+                "name": "KARA AGAC DESTANI",
+                "channel": "TRT 1",
+                "start_time": "20:56:37",
+                "end_time": "23:41:42",
+                "rating": 2.99,
+                "share": 9.9
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "23:44:44",
+                "rating": 2.39,
+                "share": 8.2
+            },
+            {
+                "rank": 5,
+                "name": "YALI CAPKINI (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:21",
+                "end_time": "22:47:22",
+                "rating": 2.28,
+                "share": 7.98
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:00",
+                "end_time": "18:45:56",
+                "rating": 2.24,
+                "share": 15.0
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:59:24",
+                "end_time": "21:03:15",
+                "rating": 2.22,
+                "share": 9.32
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:54:19",
+                "rating": 2.07,
+                "share": 9.79
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:42",
+                "end_time": "19:59:45",
+                "rating": 2.04,
+                "share": 9.66
+            },
+            {
+                "rank": 10,
+                "name": "BUMBLEBEE (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "22:25:15",
+                "rating": 1.8,
+                "share": 6.37
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:03:20",
+                "end_time": "24:16:55",
+                "rating": 5.58,
+                "share": 23.58
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "20:00:04",
+                "rating": 2.54,
+                "share": 17.36
+            },
+            {
+                "rank": 3,
+                "name": "KARA AGAC DESTANI",
+                "channel": "TRT 1",
+                "start_time": "20:56:37",
+                "end_time": "23:41:42",
+                "rating": 2.3,
+                "share": 9.48
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:59:24",
+                "end_time": "21:03:15",
+                "rating": 2.17,
+                "share": 12.37
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "23:44:44",
+                "rating": 1.84,
+                "share": 7.95
+            },
+            {
+                "rank": 6,
+                "name": "KARA AGAC DESTANI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:15",
+                "end_time": "20:56:37",
+                "rating": 1.26,
+                "share": 6.21
+            },
+            {
+                "rank": 7,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ (TKR)",
+                "channel": "TV8",
+                "start_time": "24:18:05",
+                "end_time": "26:00:00",
+                "rating": 1.18,
+                "share": 10.35
+            },
+            {
+                "rank": 8,
+                "name": "TAY 2 (T.S)",
+                "channel": "TRT COCUK",
+                "start_time": "20:06:05",
+                "end_time": "21:30:57",
+                "rating": 0.98,
+                "share": 4.66
+            },
+            {
+                "rank": 9,
+                "name": "GADDAR (TKR)",
+                "channel": "NOW",
+                "start_time": "21:59:54",
+                "end_time": "24:51:15",
+                "rating": 0.93,
+                "share": 4.13
+            },
+            {
+                "rank": 10,
+                "name": "AFARA (TKR)",
+                "channel": "KANAL D",
+                "start_time": "22:42:28",
+                "end_time": "24:46:31",
+                "rating": 0.92,
+                "share": 4.06
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:03:20",
+                "end_time": "24:16:55",
+                "rating": 6.62,
+                "share": 22.71
+            },
+            {
+                "rank": 2,
+                "name": "KARA AGAC DESTANI",
+                "channel": "TRT 1",
+                "start_time": "20:56:37",
+                "end_time": "23:41:42",
+                "rating": 3.13,
+                "share": 10.41
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "20:00:04",
+                "rating": 2.95,
+                "share": 15.22
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:59:24",
+                "end_time": "21:03:15",
+                "rating": 2.33,
+                "share": 10.31
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "23:44:44",
+                "rating": 2.07,
+                "share": 7.16
+            },
+            {
+                "rank": 6,
+                "name": "YALI CAPKINI (TKR)",
+                "channel": "STAR TV",
+                "start_time": "20:00:21",
+                "end_time": "22:47:22",
+                "rating": 1.63,
+                "share": 5.86
+            },
+            {
+                "rank": 7,
+                "name": "BUMBLEBEE (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "22:25:15",
+                "rating": 1.6,
+                "share": 5.87
+            },
+            {
+                "rank": 8,
+                "name": "KARA AGAC DESTANI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:15",
+                "end_time": "20:56:37",
+                "rating": 1.59,
+                "share": 6.12
+            },
+            {
+                "rank": 9,
+                "name": "ILLEGAL HAYATLAR (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:53",
+                "end_time": "21:59:44",
+                "rating": 1.54,
+                "share": 5.61
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:54:19",
+                "rating": 1.46,
+                "share": 7.41
+            }
+        ]
+    }
+}
