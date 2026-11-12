@@ -1,0 +1,282 @@
+{
+    "date": "2024-03-23",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:19",
+                "end_time": "24:05:19",
+                "rating": 8.02,
+                "share": 21.27
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:53:40",
+                "end_time": "24:28:16",
+                "rating": 5.92,
+                "share": 16.29
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:55",
+                "end_time": "20:57:19",
+                "rating": 4.68,
+                "share": 13.88
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "19:59:50",
+                "rating": 4.48,
+                "share": 15.14
+            },
+            {
+                "rank": 5,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:58:09",
+                "end_time": "24:18:49",
+                "rating": 3.77,
+                "share": 10.04
+            },
+            {
+                "rank": 6,
+                "name": "YAN ODA",
+                "channel": "STAR TV",
+                "start_time": "21:00:46",
+                "end_time": "23:25:12",
+                "rating": 3.04,
+                "share": 7.91
+            },
+            {
+                "rank": 7,
+                "name": "KORKMA BEN YANINDAYIM",
+                "channel": "NOW",
+                "start_time": "21:00:11",
+                "end_time": "23:41:02",
+                "rating": 2.81,
+                "share": 7.36
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:43",
+                "end_time": "19:59:41",
+                "rating": 2.72,
+                "share": 9.21
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "20:41:53",
+                "rating": 2.54,
+                "share": 7.67
+            },
+            {
+                "rank": 10,
+                "name": "KORKMA BEN YANINDAYIM (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:55",
+                "end_time": "21:00:06",
+                "rating": 2.5,
+                "share": 7.45
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:19",
+                "end_time": "24:05:19",
+                "rating": 6.0,
+                "share": 17.84
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:53:40",
+                "end_time": "24:28:16",
+                "rating": 5.33,
+                "share": 16.38
+            },
+            {
+                "rank": 3,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "19:59:50",
+                "rating": 3.96,
+                "share": 16.61
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:55",
+                "end_time": "20:57:19",
+                "rating": 3.26,
+                "share": 11.35
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:41:53",
+                "end_time": "23:45:27",
+                "rating": 2.76,
+                "share": 8.23
+            },
+            {
+                "rank": 6,
+                "name": "YAN ODA",
+                "channel": "STAR TV",
+                "start_time": "21:00:46",
+                "end_time": "23:25:12",
+                "rating": 2.75,
+                "share": 8.13
+            },
+            {
+                "rank": 7,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:33:27",
+                "end_time": "20:00:42",
+                "rating": 2.56,
+                "share": 10.1
+            },
+            {
+                "rank": 8,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "18:15:51",
+                "end_time": "19:33:22",
+                "rating": 2.53,
+                "share": 11.53
+            },
+            {
+                "rank": 9,
+                "name": "KORKMA BEN YANINDAYIM",
+                "channel": "NOW",
+                "start_time": "21:00:11",
+                "end_time": "23:41:02",
+                "rating": 2.41,
+                "share": 7.17
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "20:41:53",
+                "rating": 2.12,
+                "share": 7.6
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:19",
+                "end_time": "24:05:19",
+                "rating": 8.18,
+                "share": 21.05
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:53:40",
+                "end_time": "24:28:16",
+                "rating": 6.14,
+                "share": 16.38
+            },
+            {
+                "rank": 3,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:03",
+                "end_time": "19:59:50",
+                "rating": 4.52,
+                "share": 15.91
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:55",
+                "end_time": "20:57:19",
+                "rating": 3.91,
+                "share": 11.68
+            },
+            {
+                "rank": 5,
+                "name": "YAN ODA",
+                "channel": "STAR TV",
+                "start_time": "21:00:46",
+                "end_time": "23:25:12",
+                "rating": 3.0,
+                "share": 7.67
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:41:53",
+                "end_time": "23:45:27",
+                "rating": 2.88,
+                "share": 7.42
+            },
+            {
+                "rank": 7,
+                "name": "KORKMA BEN YANINDAYIM",
+                "channel": "NOW",
+                "start_time": "21:00:11",
+                "end_time": "23:41:02",
+                "rating": 2.73,
+                "share": 6.99
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "20:41:53",
+                "rating": 2.61,
+                "share": 7.97
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:55:06",
+                "end_time": "19:59:51",
+                "rating": 2.57,
+                "share": 9.02
+            },
+            {
+                "rank": 10,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:58:09",
+                "end_time": "24:18:49",
+                "rating": 2.49,
+                "share": 6.46
+            }
+        ]
+    }
+}
