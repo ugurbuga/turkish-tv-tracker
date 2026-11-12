@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-07",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:25",
+                "end_time": "24:27:15",
+                "rating": 3.43,
+                "share": 15.22
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:07",
+                "end_time": "24:15:50",
+                "rating": 2.2,
+                "share": 9.35
+            },
+            {
+                "rank": 3,
+                "name": "ESKIYA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "22:36:33",
+                "rating": 1.96,
+                "share": 8.84
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 1.95,
+                "share": 11.08
+            },
+            {
+                "rank": 5,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:47:51",
+                "end_time": "23:32:27",
+                "rating": 1.81,
+                "share": 7.71
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:44",
+                "rating": 1.71,
+                "share": 9.79
+            },
+            {
+                "rank": 7,
+                "name": "ZAFERE KACIS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:50:27",
+                "end_time": "24:15:29",
+                "rating": 1.41,
+                "share": 6.09
+            },
+            {
+                "rank": 8,
+                "name": "AILE HUKUMETI (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:17",
+                "end_time": "22:22:06",
+                "rating": 1.4,
+                "share": 6.39
+            },
+            {
+                "rank": 9,
+                "name": "DEHA (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:09:30",
+                "end_time": "21:50:19",
+                "rating": 1.3,
+                "share": 6.09
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "20:44:07",
+                "rating": 1.28,
+                "share": 6.58
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:25",
+                "end_time": "24:27:15",
+                "rating": 3.78,
+                "share": 18.6
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:07",
+                "end_time": "24:15:50",
+                "rating": 2.3,
+                "share": 10.85
+            },
+            {
+                "rank": 3,
+                "name": "ESKIYA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "22:36:33",
+                "rating": 1.89,
+                "share": 9.86
+            },
+            {
+                "rank": 4,
+                "name": "DEHA (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:09:30",
+                "end_time": "21:50:19",
+                "rating": 1.45,
+                "share": 7.88
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 1.33,
+                "share": 9.46
+            },
+            {
+                "rank": 6,
+                "name": "TURGAY BASYAYLA ILE LEZZETLI TAVSIYE (TKR)",
+                "channel": "TRT 1",
+                "start_time": "13:01:34",
+                "end_time": "14:06:59",
+                "rating": 1.28,
+                "share": 9.69
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:44",
+                "rating": 1.28,
+                "share": 9.09
+            },
+            {
+                "rank": 8,
+                "name": "COK GUZEL HAREKETLER 2 OZEL",
+                "channel": "STAR TV",
+                "start_time": "20:00:13",
+                "end_time": "23:20:42",
+                "rating": 1.22,
+                "share": 6.11
+            },
+            {
+                "rank": 9,
+                "name": "ZAFERE KACIS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:50:27",
+                "end_time": "24:15:29",
+                "rating": 1.14,
+                "share": 5.41
+            },
+            {
+                "rank": 10,
+                "name": "NASREDDIN HOCA ZAMAN YOLCUSU",
+                "channel": "TRT COCUK",
+                "start_time": "13:55:24",
+                "end_time": "14:20:52",
+                "rating": 1.0,
+                "share": 7.43
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:25",
+                "end_time": "24:27:15",
+                "rating": 4.38,
+                "share": 19.06
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:44:07",
+                "end_time": "24:15:50",
+                "rating": 2.23,
+                "share": 9.31
+            },
+            {
+                "rank": 3,
+                "name": "ESKIYA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "22:36:33",
+                "rating": 2.14,
+                "share": 9.54
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 1.95,
+                "share": 10.59
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:32",
+                "end_time": "19:59:44",
+                "rating": 1.89,
+                "share": 10.3
+            },
+            {
+                "rank": 6,
+                "name": "ZAFERE KACIS (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:50:27",
+                "end_time": "24:15:29",
+                "rating": 1.64,
+                "share": 6.88
+            },
+            {
+                "rank": 7,
+                "name": "DEHA (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:09:30",
+                "end_time": "21:50:19",
+                "rating": 1.63,
+                "share": 7.46
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:05:56",
+                "end_time": "20:52:25",
+                "rating": 1.6,
+                "share": 8.63
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "20:44:07",
+                "rating": 1.32,
+                "share": 6.4
+            },
+            {
+                "rank": 10,
+                "name": "COK GUZEL HAREKETLER 2 OZEL",
+                "channel": "STAR TV",
+                "start_time": "20:00:13",
+                "end_time": "23:20:42",
+                "rating": 1.32,
+                "share": 5.7
+            }
+        ]
+    }
+}

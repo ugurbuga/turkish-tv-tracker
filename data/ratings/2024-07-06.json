@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-06",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "HOLLANDA-TURKIYE UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:53:02",
+                "end_time": "24:05:45",
+                "rating": 20.4,
+                "share": 60.63
+            },
+            {
+                "rank": 2,
+                "name": "INGILTERE-ISVICRE UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:56",
+                "end_time": "21:41:22",
+                "rating": 4.33,
+                "share": 19.79
+            },
+            {
+                "rank": 3,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "24:06:07",
+                "end_time": "25:49:52",
+                "rating": 2.2,
+                "share": 14.25
+            },
+            {
+                "rank": 4,
+                "name": "AVRUPA SAMPIYONASI OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "22:48:11",
+                "end_time": "23:02:00",
+                "rating": 1.88,
+                "share": 5.52
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:04",
+                "end_time": "24:16:42",
+                "rating": 1.85,
+                "share": 5.99
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:20",
+                "rating": 1.84,
+                "share": 9.94
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:16:57",
+                "end_time": "26:00:00",
+                "rating": 1.56,
+                "share": 11.03
+            },
+            {
+                "rank": 8,
+                "name": "SANGAY SOVALYELERI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:49",
+                "end_time": "22:16:30",
+                "rating": 1.51,
+                "share": 6.18
+            },
+            {
+                "rank": 9,
+                "name": "MILLI FUTBOLCU HAKAN CALHANOGLU ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:22:02",
+                "end_time": "24:24:44",
+                "rating": 1.44,
+                "share": 6.94
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "20:00:04",
+                "rating": 1.39,
+                "share": 7.54
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "HOLLANDA-TURKIYE UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:53:02",
+                "end_time": "24:05:45",
+                "rating": 26.08,
+                "share": 73.42
+            },
+            {
+                "rank": 2,
+                "name": "INGILTERE-ISVICRE UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:56",
+                "end_time": "21:41:22",
+                "rating": 6.75,
+                "share": 34.33
+            },
+            {
+                "rank": 3,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "24:06:07",
+                "end_time": "25:49:52",
+                "rating": 3.27,
+                "share": 19.86
+            },
+            {
+                "rank": 4,
+                "name": "AVRUPA SAMPIYONASI OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "22:48:11",
+                "end_time": "23:02:00",
+                "rating": 2.77,
+                "share": 7.96
+            },
+            {
+                "rank": 5,
+                "name": "MILLI FUTBOLCU HAKAN CALHANOGLU ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:22:02",
+                "end_time": "24:24:44",
+                "rating": 2.32,
+                "share": 9.83
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:04",
+                "end_time": "24:16:42",
+                "rating": 2.01,
+                "share": 6.34
+            },
+            {
+                "rank": 7,
+                "name": "MILLI TAKIM TEKNIK DIREKTORU VINCENZO MONTELLA ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:34:30",
+                "end_time": "24:40:00",
+                "rating": 1.95,
+                "share": 9.82
+            },
+            {
+                "rank": 8,
+                "name": "TFF BASKANI MEHMET BUYUKEKSI ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:44:51",
+                "end_time": "24:49:36",
+                "rating": 1.55,
+                "share": 8.81
+            },
+            {
+                "rank": 9,
+                "name": "AVRUPA SAMPIYONASI OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "23:55:26",
+                "end_time": "26:00:00",
+                "rating": 1.41,
+                "share": 8.15
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:16:57",
+                "end_time": "26:00:00",
+                "rating": 1.21,
+                "share": 8.1
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "HOLLANDA-TURKIYE UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:53:02",
+                "end_time": "24:05:45",
+                "rating": 25.41,
+                "share": 68.77
+            },
+            {
+                "rank": 2,
+                "name": "INGILTERE-ISVICRE UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:49:56",
+                "end_time": "21:41:22",
+                "rating": 5.79,
+                "share": 25.97
+            },
+            {
+                "rank": 3,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "24:06:07",
+                "end_time": "25:49:52",
+                "rating": 3.1,
+                "share": 18.8
+            },
+            {
+                "rank": 4,
+                "name": "AVRUPA SAMPIYONASI OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "22:48:11",
+                "end_time": "23:02:00",
+                "rating": 2.42,
+                "share": 6.53
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:04",
+                "end_time": "24:16:42",
+                "rating": 2.05,
+                "share": 6.12
+            },
+            {
+                "rank": 6,
+                "name": "MILLI FUTBOLCU HAKAN CALHANOGLU ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:22:02",
+                "end_time": "24:24:44",
+                "rating": 1.68,
+                "share": 7.34
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "20:00:04",
+                "rating": 1.58,
+                "share": 8.58
+            },
+            {
+                "rank": 8,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:20",
+                "rating": 1.58,
+                "share": 8.54
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:16:57",
+                "end_time": "26:00:00",
+                "rating": 1.57,
+                "share": 10.47
+            },
+            {
+                "rank": 10,
+                "name": "MILLI TAKIM TEKNIK DIREKTORU VINCENZO MONTELLA ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "24:34:30",
+                "end_time": "24:40:00",
+                "rating": 1.48,
+                "share": 7.8
+            }
+        ]
+    }
+}

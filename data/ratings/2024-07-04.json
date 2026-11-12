@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:33:12",
+                "end_time": "24:22:59",
+                "rating": 3.99,
+                "share": 15.65
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 2.49,
+                "share": 12.93
+            },
+            {
+                "rank": 3,
+                "name": "ALAN",
+                "channel": "ATV",
+                "start_time": "21:00:06",
+                "end_time": "24:15:34",
+                "rating": 2.35,
+                "share": 9.01
+            },
+            {
+                "rank": 4,
+                "name": "YOL ARKADASIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:44",
+                "end_time": "22:30:40",
+                "rating": 2.05,
+                "share": 7.98
+            },
+            {
+                "rank": 5,
+                "name": "DUNYA GUZELLERIM TATILDE",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "22:13:17",
+                "rating": 1.95,
+                "share": 7.67
+            },
+            {
+                "rank": 6,
+                "name": "ESKI KOYE YENI ADET (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:19:10",
+                "rating": 1.81,
+                "share": 7.16
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "20:00:06",
+                "rating": 1.68,
+                "share": 8.72
+            },
+            {
+                "rank": 8,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:59:08",
+                "end_time": "23:54:13",
+                "rating": 1.55,
+                "share": 5.87
+            },
+            {
+                "rank": 9,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "12:59:14",
+                "end_time": "15:57:31",
+                "rating": 1.48,
+                "share": 12.24
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:57",
+                "rating": 1.45,
+                "share": 7.56
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:33:12",
+                "end_time": "24:22:59",
+                "rating": 4.2,
+                "share": 17.21
+            },
+            {
+                "rank": 2,
+                "name": "ALAN",
+                "channel": "ATV",
+                "start_time": "21:00:06",
+                "end_time": "24:15:34",
+                "rating": 2.62,
+                "share": 10.46
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 1.88,
+                "share": 11.86
+            },
+            {
+                "rank": 4,
+                "name": "YOL ARKADASIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:44",
+                "end_time": "22:30:40",
+                "rating": 1.84,
+                "share": 7.93
+            },
+            {
+                "rank": 5,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:59:08",
+                "end_time": "23:54:13",
+                "rating": 1.59,
+                "share": 6.31
+            },
+            {
+                "rank": 6,
+                "name": "ESKI KOYE YENI ADET (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:19:10",
+                "rating": 1.55,
+                "share": 6.76
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:23:14",
+                "end_time": "26:00:00",
+                "rating": 1.39,
+                "share": 15.16
+            },
+            {
+                "rank": 8,
+                "name": "ALAN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:54",
+                "end_time": "21:00:06",
+                "rating": 1.34,
+                "share": 6.15
+            },
+            {
+                "rank": 9,
+                "name": "YOL ARKADASIM (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:31:03",
+                "end_time": "24:45:53",
+                "rating": 1.07,
+                "share": 4.94
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:57",
+                "rating": 1.02,
+                "share": 6.41
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:33:12",
+                "end_time": "24:22:59",
+                "rating": 4.58,
+                "share": 17.45
+            },
+            {
+                "rank": 2,
+                "name": "ALAN",
+                "channel": "ATV",
+                "start_time": "21:00:06",
+                "end_time": "24:15:34",
+                "rating": 2.93,
+                "share": 10.86
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:03",
+                "rating": 2.31,
+                "share": 12.63
+            },
+            {
+                "rank": 4,
+                "name": "YOL ARKADASIM (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:44",
+                "end_time": "22:30:40",
+                "rating": 2.13,
+                "share": 8.29
+            },
+            {
+                "rank": 5,
+                "name": "DUNYA GUZELLERIM TATILDE",
+                "channel": "SHOW TV",
+                "start_time": "20:00:08",
+                "end_time": "22:13:17",
+                "rating": 2.05,
+                "share": 8.05
+            },
+            {
+                "rank": 6,
+                "name": "ALAN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:54",
+                "end_time": "21:00:06",
+                "rating": 1.53,
+                "share": 6.47
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:57",
+                "rating": 1.53,
+                "share": 8.29
+            },
+            {
+                "rank": 8,
+                "name": "ESKI KOYE YENI ADET (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:08",
+                "end_time": "22:19:10",
+                "rating": 1.53,
+                "share": 6.06
+            },
+            {
+                "rank": 9,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:59:08",
+                "end_time": "23:54:13",
+                "rating": 1.43,
+                "share": 5.25
+            },
+            {
+                "rank": 10,
+                "name": "YOL ARKADASIM (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:31:03",
+                "end_time": "24:45:53",
+                "rating": 1.36,
+                "share": 5.89
+            }
+        ]
+    }
+}

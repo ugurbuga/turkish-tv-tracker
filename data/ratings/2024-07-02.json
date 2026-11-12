@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-02",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "AVUSTURYA-TURKIYE UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:06",
+                "end_time": "24:11:33",
+                "rating": 18.55,
+                "share": 54.56
+            },
+            {
+                "rank": 2,
+                "name": "ROMANYA-HOLLANDA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:03",
+                "end_time": "21:02:09",
+                "rating": 3.55,
+                "share": 15.96
+            },
+            {
+                "rank": 3,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:02:38",
+                "end_time": "21:35:40",
+                "rating": 3.51,
+                "share": 12.18
+            },
+            {
+                "rank": 4,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "24:11:41",
+                "end_time": "25:49:57",
+                "rating": 2.61,
+                "share": 17.78
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:47:02",
+                "end_time": "24:29:48",
+                "rating": 2.42,
+                "share": 7.56
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:59",
+                "rating": 2.36,
+                "share": 11.74
+            },
+            {
+                "rank": 7,
+                "name": "AY LAV YU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:56:56",
+                "rating": 1.94,
+                "share": 7.19
+            },
+            {
+                "rank": 8,
+                "name": "BLACK PANTHER (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:30",
+                "end_time": "22:41:53",
+                "rating": 1.9,
+                "share": 6.47
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "20:00:01",
+                "rating": 1.78,
+                "share": 8.85
+            },
+            {
+                "rank": 10,
+                "name": "AVRUPA SAMPIYONASI OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "23:52:28",
+                "end_time": "26:00:00",
+                "rating": 1.56,
+                "share": 9.39
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "AVUSTURYA-TURKIYE UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:06",
+                "end_time": "24:11:33",
+                "rating": 24.2,
+                "share": 67.87
+            },
+            {
+                "rank": 2,
+                "name": "ROMANYA-HOLLANDA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:03",
+                "end_time": "21:02:09",
+                "rating": 5.04,
+                "share": 24.16
+            },
+            {
+                "rank": 3,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:02:38",
+                "end_time": "21:35:40",
+                "rating": 4.74,
+                "share": 17.07
+            },
+            {
+                "rank": 4,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "24:11:41",
+                "end_time": "25:49:57",
+                "rating": 3.63,
+                "share": 23.87
+            },
+            {
+                "rank": 5,
+                "name": "AVRUPA SAMPIYONASI OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "23:52:28",
+                "end_time": "26:00:00",
+                "rating": 2.36,
+                "share": 13.42
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:47:02",
+                "end_time": "24:29:48",
+                "rating": 2.32,
+                "share": 7.03
+            },
+            {
+                "rank": 7,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:59",
+                "rating": 2.29,
+                "share": 12.7
+            },
+            {
+                "rank": 8,
+                "name": "AVRUPA SAMPIYONASI OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "22:47:04",
+                "end_time": "23:00:07",
+                "rating": 1.97,
+                "share": 5.33
+            },
+            {
+                "rank": 9,
+                "name": "TOLGSHOW FILTRESIZ",
+                "channel": "NOW",
+                "start_time": "20:00:04",
+                "end_time": "21:02:09",
+                "rating": 1.5,
+                "share": 6.29
+            },
+            {
+                "rank": 10,
+                "name": "AY LAV YU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:56:56",
+                "rating": 1.43,
+                "share": 5.46
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "AVUSTURYA-TURKIYE UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:06",
+                "end_time": "24:11:33",
+                "rating": 23.92,
+                "share": 61.64
+            },
+            {
+                "rank": 2,
+                "name": "ROMANYA-HOLLANDA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:03",
+                "end_time": "21:02:09",
+                "rating": 4.93,
+                "share": 21.22
+            },
+            {
+                "rank": 3,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:02:38",
+                "end_time": "21:35:40",
+                "rating": 4.75,
+                "share": 15.12
+            },
+            {
+                "rank": 4,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "24:11:41",
+                "end_time": "25:49:57",
+                "rating": 3.69,
+                "share": 22.76
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:47:02",
+                "end_time": "24:29:48",
+                "rating": 3.0,
+                "share": 8.28
+            },
+            {
+                "rank": 6,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:59",
+                "rating": 2.25,
+                "share": 11.28
+            },
+            {
+                "rank": 7,
+                "name": "AVRUPA SAMPIYONASI OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "23:52:28",
+                "end_time": "26:00:00",
+                "rating": 2.18,
+                "share": 11.63
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "20:00:01",
+                "rating": 1.83,
+                "share": 9.18
+            },
+            {
+                "rank": 9,
+                "name": "AVRUPA SAMPIYONASI OZEL",
+                "channel": "TRT SPOR",
+                "start_time": "22:47:04",
+                "end_time": "23:00:07",
+                "rating": 1.82,
+                "share": 4.55
+            },
+            {
+                "rank": 10,
+                "name": "AY LAV YU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "21:56:56",
+                "rating": 1.73,
+                "share": 5.86
+            }
+        ]
+    }
+}

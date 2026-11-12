@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:35:09",
+                "end_time": "24:20:54",
+                "rating": 3.71,
+                "share": 15.36
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "19:59:53",
+                "rating": 2.65,
+                "share": 14.32
+            },
+            {
+                "rank": 3,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:45:51",
+                "end_time": "23:25:44",
+                "rating": 2.36,
+                "share": 9.26
+            },
+            {
+                "rank": 4,
+                "name": "KOYDEN INDIM SEHRE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "21:46:51",
+                "rating": 1.93,
+                "share": 8.3
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:44",
+                "rating": 1.81,
+                "share": 9.83
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "19:59:54",
+                "rating": 1.81,
+                "share": 9.74
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "23:45:55",
+                "rating": 1.7,
+                "share": 6.93
+            },
+            {
+                "rank": 8,
+                "name": "TENET (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "23:00:49",
+                "rating": 1.5,
+                "share": 6.1
+            },
+            {
+                "rank": 9,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "12:59:57",
+                "end_time": "15:59:53",
+                "rating": 1.44,
+                "share": 11.15
+            },
+            {
+                "rank": 10,
+                "name": "YANLIS ANLAMA 2 (T.S)",
+                "channel": "NOW",
+                "start_time": "19:59:58",
+                "end_time": "22:17:41",
+                "rating": 1.41,
+                "share": 5.99
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:35:09",
+                "end_time": "24:20:54",
+                "rating": 4.18,
+                "share": 18.05
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "19:59:53",
+                "rating": 1.79,
+                "share": 11.78
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "23:45:55",
+                "rating": 1.71,
+                "share": 7.5
+            },
+            {
+                "rank": 4,
+                "name": "DELILER FATIH'IN FERMANI (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:07:56",
+                "end_time": "22:39:32",
+                "rating": 1.56,
+                "share": 7.08
+            },
+            {
+                "rank": 5,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:45:51",
+                "end_time": "23:25:44",
+                "rating": 1.51,
+                "share": 6.33
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:28:01",
+                "end_time": "20:35:09",
+                "rating": 1.33,
+                "share": 8.44
+            },
+            {
+                "rank": 7,
+                "name": "KOYDEN INDIM SEHRE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "21:46:51",
+                "rating": 1.26,
+                "share": 6.13
+            },
+            {
+                "rank": 8,
+                "name": "MUSLUM (T.S)",
+                "channel": "NOW",
+                "start_time": "22:17:46",
+                "end_time": "24:51:26",
+                "rating": 1.12,
+                "share": 5.26
+            },
+            {
+                "rank": 9,
+                "name": "YANLIS ANLAMA 2 (T.S)",
+                "channel": "NOW",
+                "start_time": "19:59:58",
+                "end_time": "22:17:41",
+                "rating": 1.09,
+                "share": 5.23
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:21:09",
+                "end_time": "26:00:00",
+                "rating": 1.06,
+                "share": 12.15
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:35:09",
+                "end_time": "24:20:54",
+                "rating": 4.84,
+                "share": 19.02
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:05",
+                "end_time": "19:59:53",
+                "rating": 2.06,
+                "share": 12.16
+            },
+            {
+                "rank": 3,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:45:51",
+                "end_time": "23:25:44",
+                "rating": 1.96,
+                "share": 7.33
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:55",
+                "end_time": "23:45:55",
+                "rating": 1.93,
+                "share": 7.59
+            },
+            {
+                "rank": 5,
+                "name": "KOYDEN INDIM SEHRE (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "21:46:51",
+                "rating": 1.73,
+                "share": 7.56
+            },
+            {
+                "rank": 6,
+                "name": "TENET (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "23:00:49",
+                "rating": 1.72,
+                "share": 6.84
+            },
+            {
+                "rank": 7,
+                "name": "DELILER FATIH'IN FERMANI (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:07:56",
+                "end_time": "22:39:32",
+                "rating": 1.45,
+                "share": 5.84
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:44",
+                "rating": 1.44,
+                "share": 8.56
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "19:59:54",
+                "rating": 1.41,
+                "share": 8.35
+            },
+            {
+                "rank": 10,
+                "name": "MUSLUM (T.S)",
+                "channel": "NOW",
+                "start_time": "22:17:46",
+                "end_time": "24:51:26",
+                "rating": 1.39,
+                "share": 6.09
+            }
+        ]
+    }
+}

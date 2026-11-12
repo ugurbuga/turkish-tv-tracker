@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:32",
+                "end_time": "24:20:00",
+                "rating": 3.91,
+                "share": 15.26
+            },
+            {
+                "rank": 2,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:55:58",
+                "end_time": "24:17:29",
+                "rating": 3.8,
+                "share": 14.74
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:00",
+                "end_time": "20:00:01",
+                "rating": 2.51,
+                "share": 12.89
+            },
+            {
+                "rank": 4,
+                "name": "YALAN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:04",
+                "end_time": "20:55:47",
+                "rating": 2.07,
+                "share": 8.95
+            },
+            {
+                "rank": 5,
+                "name": "RECEP IVEDIK 3 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:06",
+                "end_time": "22:18:00",
+                "rating": 1.86,
+                "share": 7.62
+            },
+            {
+                "rank": 6,
+                "name": "1917 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:12",
+                "end_time": "22:19:11",
+                "rating": 1.73,
+                "share": 6.92
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:38",
+                "end_time": "20:00:20",
+                "rating": 1.71,
+                "share": 8.75
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "23:45:00",
+                "rating": 1.65,
+                "share": 6.44
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:46",
+                "rating": 1.59,
+                "share": 8.17
+            },
+            {
+                "rank": 10,
+                "name": "SERVET OPERASYONU (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:33",
+                "end_time": "22:22:06",
+                "rating": 1.56,
+                "share": 6.3
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:32",
+                "end_time": "24:20:00",
+                "rating": 4.95,
+                "share": 20.28
+            },
+            {
+                "rank": 2,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:55:58",
+                "end_time": "24:17:29",
+                "rating": 2.62,
+                "share": 10.65
+            },
+            {
+                "rank": 3,
+                "name": "YALAN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:04",
+                "end_time": "20:55:47",
+                "rating": 2.13,
+                "share": 10.0
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:00",
+                "end_time": "20:00:01",
+                "rating": 2.08,
+                "share": 12.48
+            },
+            {
+                "rank": 5,
+                "name": "1917 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:12",
+                "end_time": "22:19:11",
+                "rating": 1.82,
+                "share": 7.86
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "23:45:00",
+                "rating": 1.82,
+                "share": 7.52
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:22:30",
+                "end_time": "20:57:32",
+                "rating": 1.76,
+                "share": 9.91
+            },
+            {
+                "rank": 8,
+                "name": "RECEP IVEDIK 3 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:06",
+                "end_time": "22:18:00",
+                "rating": 1.45,
+                "share": 6.52
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:38",
+                "end_time": "20:00:20",
+                "rating": 1.32,
+                "share": 7.94
+            },
+            {
+                "rank": 10,
+                "name": "SERVET OPERASYONU (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:22:29",
+                "end_time": "24:30:18",
+                "rating": 1.31,
+                "share": 5.73
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:32",
+                "end_time": "24:20:00",
+                "rating": 5.03,
+                "share": 19.13
+            },
+            {
+                "rank": 2,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "20:55:58",
+                "end_time": "24:17:29",
+                "rating": 3.07,
+                "share": 11.57
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:00",
+                "end_time": "20:00:01",
+                "rating": 2.54,
+                "share": 13.16
+            },
+            {
+                "rank": 4,
+                "name": "1917 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:10:12",
+                "end_time": "22:19:11",
+                "rating": 2.24,
+                "share": 8.97
+            },
+            {
+                "rank": 5,
+                "name": "YALAN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:04",
+                "end_time": "20:55:47",
+                "rating": 1.94,
+                "share": 8.5
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "23:45:00",
+                "rating": 1.76,
+                "share": 6.76
+            },
+            {
+                "rank": 7,
+                "name": "SERVET OPERASYONU (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:22:29",
+                "end_time": "24:30:18",
+                "rating": 1.63,
+                "share": 6.56
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:22:30",
+                "end_time": "20:57:32",
+                "rating": 1.62,
+                "share": 8.11
+            },
+            {
+                "rank": 9,
+                "name": "RECEP IVEDIK 3 (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:06",
+                "end_time": "22:18:00",
+                "rating": 1.58,
+                "share": 6.53
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:38",
+                "end_time": "20:00:20",
+                "rating": 1.58,
+                "share": 8.18
+            }
+        ]
+    }
+}

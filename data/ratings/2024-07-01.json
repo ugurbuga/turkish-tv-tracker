@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-01",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "21:00:01",
+                "end_time": "24:16:24",
+                "rating": 4.05,
+                "share": 15.12
+            },
+            {
+                "rank": 2,
+                "name": "PORTEKIZ-SLOVENYA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:48",
+                "end_time": "24:55:12",
+                "rating": 3.46,
+                "share": 14.59
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:36:45",
+                "end_time": "24:28:39",
+                "rating": 3.03,
+                "share": 11.67
+            },
+            {
+                "rank": 4,
+                "name": "FRANSA-BELCIKA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:33",
+                "end_time": "21:03:36",
+                "rating": 2.67,
+                "share": 12.64
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:01",
+                "rating": 2.38,
+                "share": 12.36
+            },
+            {
+                "rank": 6,
+                "name": "YALAN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "20:59:50",
+                "rating": 2.1,
+                "share": 8.68
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:55",
+                "rating": 1.96,
+                "share": 10.21
+            },
+            {
+                "rank": 8,
+                "name": "EMEKLILIK PLANI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "22:20:20",
+                "rating": 1.77,
+                "share": 6.93
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "23:44:49",
+                "rating": 1.75,
+                "share": 6.66
+            },
+            {
+                "rank": 10,
+                "name": "KOLPACINO 3. DEVRE (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "21:43:35",
+                "end_time": "23:24:58",
+                "rating": 1.55,
+                "share": 5.56
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "PORTEKIZ-SLOVENYA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:48",
+                "end_time": "24:55:12",
+                "rating": 6.28,
+                "share": 25.75
+            },
+            {
+                "rank": 2,
+                "name": "FRANSA-BELCIKA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:33",
+                "end_time": "21:03:36",
+                "rating": 3.71,
+                "share": 21.28
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:36:45",
+                "end_time": "24:28:39",
+                "rating": 3.13,
+                "share": 12.64
+            },
+            {
+                "rank": 4,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "21:00:01",
+                "end_time": "24:16:24",
+                "rating": 2.08,
+                "share": 8.12
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:01",
+                "rating": 1.89,
+                "share": 11.93
+            },
+            {
+                "rank": 6,
+                "name": "EURO 2024 KUPA SAATI",
+                "channel": "TRT 1",
+                "start_time": "21:04:05",
+                "end_time": "21:38:56",
+                "rating": 1.85,
+                "share": 8.24
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "23:44:49",
+                "rating": 1.48,
+                "share": 6.17
+            },
+            {
+                "rank": 8,
+                "name": "3 TE 3",
+                "channel": "TRT 1",
+                "start_time": "24:55:45",
+                "end_time": "26:00:00",
+                "rating": 1.41,
+                "share": 16.4
+            },
+            {
+                "rank": 9,
+                "name": "EMEKLILIK PLANI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "22:20:20",
+                "rating": 1.09,
+                "share": 5.13
+            },
+            {
+                "rank": 10,
+                "name": "YALAN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "20:59:50",
+                "rating": 1.09,
+                "share": 5.42
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "PORTEKIZ-SLOVENYA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:49:48",
+                "end_time": "24:55:12",
+                "rating": 5.18,
+                "share": 19.48
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:36:45",
+                "end_time": "24:28:39",
+                "rating": 3.95,
+                "share": 13.88
+            },
+            {
+                "rank": 3,
+                "name": "FRANSA-BELCIKA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:33",
+                "end_time": "21:03:36",
+                "rating": 3.35,
+                "share": 15.38
+            },
+            {
+                "rank": 4,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "21:00:01",
+                "end_time": "24:16:24",
+                "rating": 3.04,
+                "share": 10.36
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:01",
+                "rating": 2.6,
+                "share": 13.29
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "23:44:49",
+                "rating": 1.99,
+                "share": 7.02
+            },
+            {
+                "rank": 7,
+                "name": "EMEKLILIK PLANI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "22:20:20",
+                "rating": 1.83,
+                "share": 6.83
+            },
+            {
+                "rank": 8,
+                "name": "YALAN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "20:59:50",
+                "rating": 1.77,
+                "share": 6.92
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:55",
+                "rating": 1.77,
+                "share": 9.07
+            },
+            {
+                "rank": 10,
+                "name": "KOLPACINO 3. DEVRE (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "21:43:35",
+                "end_time": "23:24:58",
+                "rating": 1.7,
+                "share": 5.55
+            }
+        ]
+    }
+}

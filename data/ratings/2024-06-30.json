@@ -1,0 +1,282 @@
+{
+    "date": "2024-06-30",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ISPANYA-GURCISTAN UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:55",
+                "end_time": "24:06:03",
+                "rating": 4.71,
+                "share": 19.06
+            },
+            {
+                "rank": 2,
+                "name": "INGILTERE-SLOVAKYA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:23",
+                "end_time": "21:41:25",
+                "rating": 3.84,
+                "share": 17.64
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:38:24",
+                "end_time": "24:31:16",
+                "rating": 3.17,
+                "share": 13.26
+            },
+            {
+                "rank": 4,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 2.04,
+                "share": 10.53
+            },
+            {
+                "rank": 5,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:46",
+                "end_time": "24:17:29",
+                "rating": 1.97,
+                "share": 7.86
+            },
+            {
+                "rank": 6,
+                "name": "KIBAR FEYZO (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:49:48",
+                "end_time": "23:34:32",
+                "rating": 1.91,
+                "share": 7.42
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:33",
+                "end_time": "19:59:55",
+                "rating": 1.72,
+                "share": 8.86
+            },
+            {
+                "rank": 8,
+                "name": "GERZEK SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "21:49:32",
+                "rating": 1.66,
+                "share": 7.11
+            },
+            {
+                "rank": 9,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:00:59",
+                "end_time": "22:39:11",
+                "rating": 1.54,
+                "share": 6.24
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:39:25",
+                "end_time": "21:17:14",
+                "rating": 1.36,
+                "share": 6.3
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "ISPANYA-GURCISTAN UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:55",
+                "end_time": "24:06:03",
+                "rating": 7.62,
+                "share": 30.55
+            },
+            {
+                "rank": 2,
+                "name": "INGILTERE-SLOVAKYA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:23",
+                "end_time": "21:41:25",
+                "rating": 6.13,
+                "share": 31.28
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:38:24",
+                "end_time": "24:31:16",
+                "rating": 3.31,
+                "share": 14.18
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:46",
+                "end_time": "24:17:29",
+                "rating": 1.95,
+                "share": 8.06
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 1.82,
+                "share": 10.48
+            },
+            {
+                "rank": 6,
+                "name": "KIBAR FEYZO (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:49:48",
+                "end_time": "23:34:32",
+                "rating": 1.35,
+                "share": 5.41
+            },
+            {
+                "rank": 7,
+                "name": "MUFREZE (T.S)",
+                "channel": "TRT 1",
+                "start_time": "24:06:31",
+                "end_time": "25:46:50",
+                "rating": 1.16,
+                "share": 10.48
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE (TKR)",
+                "channel": "TV8",
+                "start_time": "24:31:31",
+                "end_time": "26:00:00",
+                "rating": 1.1,
+                "share": 12.7
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "20:00:10",
+                "rating": 1.09,
+                "share": 6.29
+            },
+            {
+                "rank": 10,
+                "name": "GERZEK SABAN (T.S) (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "23:34:49",
+                "end_time": "25:25:13",
+                "rating": 0.91,
+                "share": 5.73
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "ISPANYA-GURCISTAN UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "21:51:55",
+                "end_time": "24:06:03",
+                "rating": 6.63,
+                "share": 24.49
+            },
+            {
+                "rank": 2,
+                "name": "INGILTERE-SLOVAKYA UEFA EURO 2024 KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "18:50:23",
+                "end_time": "21:41:25",
+                "rating": 5.06,
+                "share": 22.45
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:38:24",
+                "end_time": "24:31:16",
+                "rating": 4.44,
+                "share": 17.14
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:46",
+                "end_time": "24:17:29",
+                "rating": 2.11,
+                "share": 7.77
+            },
+            {
+                "rank": 5,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:00",
+                "rating": 2.04,
+                "share": 10.54
+            },
+            {
+                "rank": 6,
+                "name": "KIBAR FEYZO (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:49:48",
+                "end_time": "23:34:32",
+                "rating": 1.45,
+                "share": 5.17
+            },
+            {
+                "rank": 7,
+                "name": "TURNIKE",
+                "channel": "KANAL D",
+                "start_time": "20:00:59",
+                "end_time": "22:39:11",
+                "rating": 1.43,
+                "share": 5.46
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:33",
+                "end_time": "19:59:55",
+                "rating": 1.38,
+                "share": 7.13
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "20:00:10",
+                "rating": 1.22,
+                "share": 6.26
+            },
+            {
+                "rank": 10,
+                "name": "GERZEK SABAN (T.S) (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "23:34:49",
+                "end_time": "25:25:13",
+                "rating": 1.2,
+                "share": 7.1
+            }
+        ]
+    }
+}
