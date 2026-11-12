@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:04",
+                "end_time": "24:19:18",
+                "rating": 5.2,
+                "share": 18.82
+            },
+            {
+                "rank": 2,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "22:29:52",
+                "rating": 4.03,
+                "share": 13.47
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:41",
+                "end_time": "12:59:49",
+                "rating": 3.98,
+                "share": 33.23
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:59",
+                "rating": 2.82,
+                "share": 12.45
+            },
+            {
+                "rank": 5,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:21",
+                "end_time": "18:31:49",
+                "rating": 2.7,
+                "share": 18.04
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:37",
+                "end_time": "18:45:36",
+                "rating": 2.53,
+                "share": 15.64
+            },
+            {
+                "rank": 7,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "12:59:59",
+                "end_time": "13:59:32",
+                "rating": 2.51,
+                "share": 21.84
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:02",
+                "end_time": "19:55:04",
+                "rating": 2.35,
+                "share": 10.36
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "20:00:01",
+                "rating": 2.3,
+                "share": 9.96
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:43:58",
+                "end_time": "18:58:23",
+                "rating": 2.18,
+                "share": 10.92
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:04",
+                "end_time": "24:19:18",
+                "rating": 5.8,
+                "share": 22.25
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:41",
+                "end_time": "12:59:49",
+                "rating": 2.87,
+                "share": 28.04
+            },
+            {
+                "rank": 3,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "22:29:52",
+                "rating": 2.83,
+                "share": 10.29
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:59",
+                "rating": 2.24,
+                "share": 11.4
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:37",
+                "end_time": "18:45:36",
+                "rating": 1.8,
+                "share": 13.9
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:01:06",
+                "end_time": "20:56:59",
+                "rating": 1.79,
+                "share": 7.79
+            },
+            {
+                "rank": 7,
+                "name": "DEMIR KADIN NESLICAN",
+                "channel": "KANAL D",
+                "start_time": "20:15:12",
+                "end_time": "23:16:23",
+                "rating": 1.64,
+                "share": 5.9
+            },
+            {
+                "rank": 8,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:21",
+                "end_time": "18:31:49",
+                "rating": 1.62,
+                "share": 13.89
+            },
+            {
+                "rank": 9,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "12:59:59",
+                "end_time": "13:59:32",
+                "rating": 1.49,
+                "share": 14.29
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "20:00:01",
+                "rating": 1.47,
+                "share": 7.31
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:04",
+                "end_time": "24:19:18",
+                "rating": 6.18,
+                "share": 20.32
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:41",
+                "end_time": "12:59:49",
+                "rating": 4.18,
+                "share": 33.4
+            },
+            {
+                "rank": 3,
+                "name": "SIYAH KALP",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "22:29:52",
+                "rating": 3.82,
+                "share": 11.98
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:59",
+                "rating": 2.77,
+                "share": 12.54
+            },
+            {
+                "rank": 5,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:21",
+                "end_time": "18:31:49",
+                "rating": 2.09,
+                "share": 15.37
+            },
+            {
+                "rank": 6,
+                "name": "DEMIR KADIN NESLICAN",
+                "channel": "KANAL D",
+                "start_time": "20:15:12",
+                "end_time": "23:16:23",
+                "rating": 2.07,
+                "share": 6.4
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:23",
+                "end_time": "20:00:01",
+                "rating": 2.04,
+                "share": 8.94
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:01:06",
+                "end_time": "20:56:59",
+                "rating": 2.02,
+                "share": 7.63
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:37",
+                "end_time": "18:45:36",
+                "rating": 1.96,
+                "share": 13.13
+            },
+            {
+                "rank": 10,
+                "name": "DEDEMIN FISI (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:42",
+                "end_time": "22:20:28",
+                "rating": 1.92,
+                "share": 6.05
+            }
+        ]
+    }
+}

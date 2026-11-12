@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-14",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:37:06",
+                "end_time": "23:39:10",
+                "rating": 4.44,
+                "share": 15.56
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:03",
+                "end_time": "24:22:41",
+                "rating": 2.97,
+                "share": 10.85
+            },
+            {
+                "rank": 3,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "21:00:02",
+                "end_time": "24:18:53",
+                "rating": 2.76,
+                "share": 9.93
+            },
+            {
+                "rank": 4,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:41",
+                "rating": 2.64,
+                "share": 12.71
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:43:13",
+                "end_time": "20:37:06",
+                "rating": 2.13,
+                "share": 8.12
+            },
+            {
+                "rank": 6,
+                "name": "MEVLID KANDILI DUA",
+                "channel": "KANAL 7",
+                "start_time": "20:48:58",
+                "end_time": "21:21:45",
+                "rating": 1.97,
+                "share": 6.9
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "19:59:46",
+                "rating": 1.76,
+                "share": 8.52
+            },
+            {
+                "rank": 8,
+                "name": "YABANI (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:46",
+                "end_time": "20:59:57",
+                "rating": 1.74,
+                "share": 6.44
+            },
+            {
+                "rank": 9,
+                "name": "MEVLID KANDILI OZEL",
+                "channel": "KANAL 7",
+                "start_time": "19:19:25",
+                "end_time": "20:35:20",
+                "rating": 1.39,
+                "share": 5.78
+            },
+            {
+                "rank": 10,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE MEVLID KANDILI",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:58:40",
+                "rating": 1.39,
+                "share": 4.97
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:37:06",
+                "end_time": "23:39:10",
+                "rating": 3.84,
+                "share": 14.42
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:03",
+                "end_time": "24:22:41",
+                "rating": 3.64,
+                "share": 13.98
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:41",
+                "rating": 2.45,
+                "share": 13.24
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "19:59:46",
+                "rating": 2.24,
+                "share": 12.16
+            },
+            {
+                "rank": 5,
+                "name": "GALATASARAY YONETICISI IBRAHIM HATIPOGLU ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "23:15:57",
+                "end_time": "23:25:47",
+                "rating": 1.55,
+                "share": 5.87
+            },
+            {
+                "rank": 6,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:43:13",
+                "end_time": "20:37:06",
+                "rating": 1.51,
+                "share": 6.84
+            },
+            {
+                "rank": 7,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "21:00:02",
+                "end_time": "24:18:53",
+                "rating": 1.43,
+                "share": 5.4
+            },
+            {
+                "rank": 8,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "21:57:35",
+                "end_time": "23:58:45",
+                "rating": 1.35,
+                "share": 5.13
+            },
+            {
+                "rank": 9,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE MEVLID KANDILI",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:58:40",
+                "rating": 1.3,
+                "share": 5.28
+            },
+            {
+                "rank": 10,
+                "name": "SIYAH KALP (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "22:55:38",
+                "rating": 1.3,
+                "share": 5.16
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:37:06",
+                "end_time": "23:39:10",
+                "rating": 4.45,
+                "share": 15.26
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:50:03",
+                "end_time": "24:22:41",
+                "rating": 3.47,
+                "share": 12.16
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:41",
+                "rating": 2.47,
+                "share": 12.62
+            },
+            {
+                "rank": 4,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "21:00:02",
+                "end_time": "24:18:53",
+                "rating": 2.23,
+                "share": 7.67
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:30",
+                "end_time": "19:59:46",
+                "rating": 1.92,
+                "share": 9.85
+            },
+            {
+                "rank": 6,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:43:13",
+                "end_time": "20:37:06",
+                "rating": 1.75,
+                "share": 6.95
+            },
+            {
+                "rank": 7,
+                "name": "SIYAH KALP (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "22:55:38",
+                "rating": 1.64,
+                "share": 5.85
+            },
+            {
+                "rank": 8,
+                "name": "YABANI (OZET)",
+                "channel": "NOW",
+                "start_time": "19:59:46",
+                "end_time": "20:59:57",
+                "rating": 1.62,
+                "share": 6.22
+            },
+            {
+                "rank": 9,
+                "name": "MEVLID KANDILI DUA",
+                "channel": "KANAL 7",
+                "start_time": "20:48:58",
+                "end_time": "21:21:45",
+                "rating": 1.46,
+                "share": 5.17
+            },
+            {
+                "rank": 10,
+                "name": "GALATASARAY YONETICISI IBRAHIM HATIPOGLU ACIKLAMA YAPIYOR",
+                "channel": "TRT SPOR",
+                "start_time": "23:15:57",
+                "end_time": "23:25:47",
+                "rating": 1.41,
+                "share": 4.85
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-10",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "BIR GECE MASALI",
+                "channel": "ATV",
+                "start_time": "20:45:30",
+                "end_time": "23:18:52",
+                "rating": 8.64,
+                "share": 26.37
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:02",
+                "end_time": "24:22:19",
+                "rating": 4.56,
+                "share": 15.69
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:49",
+                "rating": 3.85,
+                "share": 33.09
+            },
+            {
+                "rank": 4,
+                "name": "BIR GECE MASALI (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "20:45:30",
+                "rating": 3.8,
+                "share": 12.71
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:55",
+                "end_time": "18:44:13",
+                "rating": 2.79,
+                "share": 17.2
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:54:45",
+                "rating": 2.76,
+                "share": 11.68
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 2.75,
+                "share": 11.67
+            },
+            {
+                "rank": 8,
+                "name": "SAKAR SAKIR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:21",
+                "end_time": "21:44:40",
+                "rating": 2.28,
+                "share": 7.39
+            },
+            {
+                "rank": 9,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "12:59:59",
+                "end_time": "13:59:04",
+                "rating": 2.17,
+                "share": 19.79
+            },
+            {
+                "rank": 10,
+                "name": "DIDEM ARSLAN YILMAZ'LA VAZGECME",
+                "channel": "SHOW TV",
+                "start_time": "15:38:30",
+                "end_time": "18:34:04",
+                "rating": 2.1,
+                "share": 13.83
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "BIR GECE MASALI",
+                "channel": "ATV",
+                "start_time": "20:45:30",
+                "end_time": "23:18:52",
+                "rating": 6.97,
+                "share": 22.53
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:02",
+                "end_time": "24:22:19",
+                "rating": 4.9,
+                "share": 17.74
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:49",
+                "rating": 3.14,
+                "share": 29.46
+            },
+            {
+                "rank": 4,
+                "name": "BIR GECE MASALI (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "20:45:30",
+                "rating": 2.57,
+                "share": 9.92
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 2.54,
+                "share": 13.36
+            },
+            {
+                "rank": 6,
+                "name": "BURSA BULBULU (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:31",
+                "end_time": "22:40:38",
+                "rating": 2.14,
+                "share": 7.22
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:14",
+                "end_time": "20:58:57",
+                "rating": 1.96,
+                "share": 8.54
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:55",
+                "end_time": "18:44:13",
+                "rating": 1.89,
+                "share": 15.13
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:42",
+                "end_time": "20:00:10",
+                "rating": 1.77,
+                "share": 9.33
+            },
+            {
+                "rank": 10,
+                "name": "SUURSUZ ASK (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:37",
+                "end_time": "22:19:51",
+                "rating": 1.61,
+                "share": 5.55
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "BIR GECE MASALI",
+                "channel": "ATV",
+                "start_time": "20:45:30",
+                "end_time": "23:18:52",
+                "rating": 8.3,
+                "share": 24.17
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:59:02",
+                "end_time": "24:22:19",
+                "rating": 5.55,
+                "share": 17.87
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:49",
+                "rating": 4.01,
+                "share": 32.86
+            },
+            {
+                "rank": 4,
+                "name": "BIR GECE MASALI (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "20:45:30",
+                "rating": 3.51,
+                "share": 11.91
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:07",
+                "rating": 2.5,
+                "share": 11.26
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:55",
+                "end_time": "18:44:13",
+                "rating": 2.32,
+                "share": 15.71
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:42",
+                "end_time": "20:00:10",
+                "rating": 2.29,
+                "share": 10.34
+            },
+            {
+                "rank": 8,
+                "name": "BURSA BULBULU (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:31",
+                "end_time": "22:40:38",
+                "rating": 2.2,
+                "share": 6.69
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "19:00:14",
+                "end_time": "20:58:57",
+                "rating": 2.01,
+                "share": 7.63
+            },
+            {
+                "rank": 10,
+                "name": "SAKAR SAKIR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:21",
+                "end_time": "21:44:40",
+                "rating": 1.98,
+                "share": 6.44
+            }
+        ]
+    }
+}

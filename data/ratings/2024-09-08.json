@@ -1,0 +1,282 @@
+{
+    "date": "2024-09-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:26",
+                "end_time": "24:30:52",
+                "rating": 4.6,
+                "share": 17.64
+            },
+            {
+                "rank": 2,
+                "name": "7. KOGUSTAKI MUCIZE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:20",
+                "end_time": "22:44:37",
+                "rating": 2.67,
+                "share": 9.1
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.61,
+                "share": 11.27
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "23:19:53",
+                "rating": 2.23,
+                "share": 7.6
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:33",
+                "end_time": "20:00:09",
+                "rating": 2.2,
+                "share": 9.52
+            },
+            {
+                "rank": 6,
+                "name": "KANDAHAR (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:09",
+                "end_time": "22:34:27",
+                "rating": 2.03,
+                "share": 6.84
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:31:01",
+                "end_time": "20:55:26",
+                "rating": 1.76,
+                "share": 6.99
+            },
+            {
+                "rank": 8,
+                "name": "YERALTI CANAVARI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:14:38",
+                "end_time": "21:56:58",
+                "rating": 1.69,
+                "share": 5.73
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:53:47",
+                "rating": 1.62,
+                "share": 6.99
+            },
+            {
+                "rank": 10,
+                "name": "GELIN",
+                "channel": "KANAL 7",
+                "start_time": "19:44:29",
+                "end_time": "21:17:33",
+                "rating": 1.6,
+                "share": 5.67
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:26",
+                "end_time": "24:30:52",
+                "rating": 5.2,
+                "share": 20.45
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "23:19:53",
+                "rating": 2.22,
+                "share": 7.92
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.05,
+                "share": 9.89
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:31:01",
+                "end_time": "20:55:26",
+                "rating": 1.97,
+                "share": 8.55
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:53:47",
+                "rating": 1.89,
+                "share": 9.11
+            },
+            {
+                "rank": 6,
+                "name": "7. KOGUSTAKI MUCIZE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:20",
+                "end_time": "22:44:37",
+                "rating": 1.85,
+                "share": 6.64
+            },
+            {
+                "rank": 7,
+                "name": "KANDAHAR (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:09",
+                "end_time": "22:34:27",
+                "rating": 1.7,
+                "share": 6.05
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:33",
+                "end_time": "20:00:09",
+                "rating": 1.56,
+                "share": 7.55
+            },
+            {
+                "rank": 9,
+                "name": "SANGAY SOVALYELERI (Y.S)",
+                "channel": "ATV",
+                "start_time": "16:59:33",
+                "end_time": "18:43:56",
+                "rating": 1.36,
+                "share": 7.98
+            },
+            {
+                "rank": 10,
+                "name": "ARAMIZDA KALSIN (TKR)",
+                "channel": "STAR TV",
+                "start_time": "14:14:21",
+                "end_time": "16:30:28",
+                "rating": 1.34,
+                "share": 9.3
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:55:26",
+                "end_time": "24:30:52",
+                "rating": 5.56,
+                "share": 19.53
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:10",
+                "rating": 2.67,
+                "share": 11.35
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "23:19:53",
+                "rating": 2.44,
+                "share": 7.87
+            },
+            {
+                "rank": 4,
+                "name": "7. KOGUSTAKI MUCIZE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:20",
+                "end_time": "22:44:37",
+                "rating": 2.43,
+                "share": 7.87
+            },
+            {
+                "rank": 5,
+                "name": "KANDAHAR (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:09",
+                "end_time": "22:34:27",
+                "rating": 2.25,
+                "share": 7.25
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:33",
+                "end_time": "20:00:09",
+                "rating": 2.17,
+                "share": 9.26
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:31:01",
+                "end_time": "20:55:26",
+                "rating": 1.91,
+                "share": 7.49
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:53:47",
+                "rating": 1.87,
+                "share": 7.94
+            },
+            {
+                "rank": 9,
+                "name": "SANGAY SOVALYELERI (Y.S)",
+                "channel": "ATV",
+                "start_time": "16:59:33",
+                "end_time": "18:43:56",
+                "rating": 1.52,
+                "share": 8.4
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:38",
+                "end_time": "20:00:10",
+                "rating": 1.5,
+                "share": 6.32
+            }
+        ]
+    }
+}
