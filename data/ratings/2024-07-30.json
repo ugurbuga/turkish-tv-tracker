@@ -1,0 +1,282 @@
+{
+    "date": "2024-07-30",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:11",
+                "end_time": "23:59:57",
+                "rating": 4.95,
+                "share": 18.91
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:41",
+                "rating": 2.36,
+                "share": 11.99
+            },
+            {
+                "rank": 3,
+                "name": "HER GONULDE BIR ASLAN YATAR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:57:15",
+                "end_time": "23:38:29",
+                "rating": 1.85,
+                "share": 7.02
+            },
+            {
+                "rank": 4,
+                "name": "EN BUYUK SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:56:59",
+                "rating": 1.74,
+                "share": 6.73
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:33",
+                "end_time": "20:00:03",
+                "rating": 1.71,
+                "share": 8.67
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:51",
+                "end_time": "19:59:55",
+                "rating": 1.52,
+                "share": 7.66
+            },
+            {
+                "rank": 7,
+                "name": "MEKANIK (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:15:06",
+                "end_time": "21:47:39",
+                "rating": 1.51,
+                "share": 5.79
+            },
+            {
+                "rank": 8,
+                "name": "KATILIN YUZU (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:24:30",
+                "end_time": "24:19:34",
+                "rating": 1.41,
+                "share": 5.97
+            },
+            {
+                "rank": 9,
+                "name": "IKIZLER PROJESI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "22:24:09",
+                "rating": 1.38,
+                "share": 5.28
+            },
+            {
+                "rank": 10,
+                "name": "G.O.R.A (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "22:31:00",
+                "rating": 1.32,
+                "share": 4.99
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:11",
+                "end_time": "23:59:57",
+                "rating": 5.69,
+                "share": 23.15
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:41",
+                "rating": 1.73,
+                "share": 10.17
+            },
+            {
+                "rank": 3,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:33",
+                "end_time": "20:00:03",
+                "rating": 1.5,
+                "share": 8.81
+            },
+            {
+                "rank": 4,
+                "name": "G.O.R.A (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "22:31:00",
+                "rating": 1.47,
+                "share": 6.44
+            },
+            {
+                "rank": 5,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:04",
+                "end_time": "18:58:33",
+                "rating": 1.27,
+                "share": 9.72
+            },
+            {
+                "rank": 6,
+                "name": "EN BUYUK SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:56:59",
+                "rating": 1.24,
+                "share": 5.58
+            },
+            {
+                "rank": 7,
+                "name": "HER GONULDE BIR ASLAN YATAR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:57:15",
+                "end_time": "23:38:29",
+                "rating": 1.18,
+                "share": 4.64
+            },
+            {
+                "rank": 8,
+                "name": "G.O.R.A (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:31:23",
+                "end_time": "24:46:46",
+                "rating": 1.18,
+                "share": 5.72
+            },
+            {
+                "rank": 9,
+                "name": "MEKANIK (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:15:06",
+                "end_time": "21:47:39",
+                "rating": 1.17,
+                "share": 5.25
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:51",
+                "end_time": "19:59:55",
+                "rating": 1.17,
+                "share": 6.83
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:00:11",
+                "end_time": "23:59:57",
+                "rating": 6.23,
+                "share": 22.55
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "19:59:41",
+                "rating": 2.24,
+                "share": 11.16
+            },
+            {
+                "rank": 3,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:33",
+                "end_time": "20:00:03",
+                "rating": 1.91,
+                "share": 9.5
+            },
+            {
+                "rank": 4,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:04",
+                "end_time": "18:58:33",
+                "rating": 1.55,
+                "share": 9.95
+            },
+            {
+                "rank": 5,
+                "name": "IKIZLER PROJESI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:57",
+                "end_time": "22:24:09",
+                "rating": 1.54,
+                "share": 5.71
+            },
+            {
+                "rank": 6,
+                "name": "G.O.R.A (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:24",
+                "end_time": "22:31:00",
+                "rating": 1.48,
+                "share": 5.42
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:34:11",
+                "end_time": "21:00:11",
+                "rating": 1.47,
+                "share": 6.64
+            },
+            {
+                "rank": 8,
+                "name": "HER GONULDE BIR ASLAN YATAR (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:57:15",
+                "end_time": "23:38:29",
+                "rating": 1.45,
+                "share": 5.14
+            },
+            {
+                "rank": 9,
+                "name": "KATILIN YUZU (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:24:30",
+                "end_time": "24:19:34",
+                "rating": 1.44,
+                "share": 5.61
+            },
+            {
+                "rank": 10,
+                "name": "EN BUYUK SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:56:59",
+                "rating": 1.42,
+                "share": 5.32
+            }
+        ]
+    }
+}

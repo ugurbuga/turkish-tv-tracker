@@ -1,0 +1,282 @@
+{
+    "date": "2024-08-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:31",
+                "end_time": "24:22:57",
+                "rating": 4.37,
+                "share": 17.39
+            },
+            {
+                "rank": 2,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "21:00:28",
+                "end_time": "24:13:52",
+                "rating": 3.27,
+                "share": 12.7
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:08",
+                "rating": 2.21,
+                "share": 11.97
+            },
+            {
+                "rank": 4,
+                "name": "MISIR TANRILARI (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:07",
+                "end_time": "22:37:30",
+                "rating": 1.92,
+                "share": 7.42
+            },
+            {
+                "rank": 5,
+                "name": "YALAN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:41",
+                "end_time": "21:00:17",
+                "rating": 1.87,
+                "share": 7.63
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "19:59:57",
+                "rating": 1.59,
+                "share": 8.47
+            },
+            {
+                "rank": 7,
+                "name": "RECEP IVEDIK (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:13",
+                "end_time": "22:19:59",
+                "rating": 1.58,
+                "share": 6.26
+            },
+            {
+                "rank": 8,
+                "name": "PARIS 2024 OLIMPIYAT OYUNLARI",
+                "channel": "TRT SPOR",
+                "start_time": "19:53:14",
+                "end_time": "23:23:54",
+                "rating": 1.4,
+                "share": 5.44
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "23:45:18",
+                "rating": 1.38,
+                "share": 5.34
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:33",
+                "end_time": "20:57:31",
+                "rating": 1.36,
+                "share": 6.53
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:31",
+                "end_time": "24:22:57",
+                "rating": 5.17,
+                "share": 21.68
+            },
+            {
+                "rank": 2,
+                "name": "PARIS 2024 OLIMPIYAT OYUNLARI",
+                "channel": "TRT SPOR",
+                "start_time": "19:53:14",
+                "end_time": "23:23:54",
+                "rating": 2.56,
+                "share": 10.6
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:08",
+                "rating": 2.17,
+                "share": 12.65
+            },
+            {
+                "rank": 4,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "21:00:28",
+                "end_time": "24:13:52",
+                "rating": 2.04,
+                "share": 8.3
+            },
+            {
+                "rank": 5,
+                "name": "RECEP IVEDIK (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:13",
+                "end_time": "22:19:59",
+                "rating": 1.74,
+                "share": 7.49
+            },
+            {
+                "rank": 6,
+                "name": "KACAK (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:00:20",
+                "end_time": "22:16:31",
+                "rating": 1.58,
+                "share": 6.65
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:33",
+                "end_time": "20:57:31",
+                "rating": 1.57,
+                "share": 8.23
+            },
+            {
+                "rank": 8,
+                "name": "NON-STOP (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:24:29",
+                "end_time": "24:29:58",
+                "rating": 1.35,
+                "share": 5.87
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:34",
+                "end_time": "20:00:08",
+                "rating": 1.1,
+                "share": 6.41
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:35",
+                "end_time": "19:59:57",
+                "rating": 1.06,
+                "share": 6.08
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:57:31",
+                "end_time": "24:22:57",
+                "rating": 5.01,
+                "share": 19.58
+            },
+            {
+                "rank": 2,
+                "name": "YALAN",
+                "channel": "KANAL D",
+                "start_time": "21:00:28",
+                "end_time": "24:13:52",
+                "rating": 2.53,
+                "share": 9.57
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:06",
+                "end_time": "20:00:08",
+                "rating": 2.32,
+                "share": 12.73
+            },
+            {
+                "rank": 4,
+                "name": "PARIS 2024 OLIMPIYAT OYUNLARI",
+                "channel": "TRT SPOR",
+                "start_time": "19:53:14",
+                "end_time": "23:23:54",
+                "rating": 2.23,
+                "share": 8.65
+            },
+            {
+                "rank": 5,
+                "name": "MISIR TANRILARI (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:07",
+                "end_time": "22:37:30",
+                "rating": 2.0,
+                "share": 7.82
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "23:45:18",
+                "rating": 1.58,
+                "share": 6.07
+            },
+            {
+                "rank": 7,
+                "name": "KACAK (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:00:20",
+                "end_time": "22:16:31",
+                "rating": 1.51,
+                "share": 5.99
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:33",
+                "end_time": "20:57:31",
+                "rating": 1.51,
+                "share": 7.45
+            },
+            {
+                "rank": 9,
+                "name": "NON-STOP (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:24:29",
+                "end_time": "24:29:58",
+                "rating": 1.48,
+                "share": 5.98
+            },
+            {
+                "rank": 10,
+                "name": "RECEP IVEDIK (T.S)",
+                "channel": "NOW",
+                "start_time": "20:00:13",
+                "end_time": "22:19:59",
+                "rating": 1.34,
+                "share": 5.43
+            }
+        ]
+    }
+}

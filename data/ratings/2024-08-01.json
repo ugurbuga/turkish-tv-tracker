@@ -1,0 +1,282 @@
+{
+    "date": "2024-08-01",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:01:11",
+                "end_time": "24:22:00",
+                "rating": 3.98,
+                "share": 17.09
+            },
+            {
+                "rank": 2,
+                "name": "KORUYUCU (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:32",
+                "end_time": "21:51:12",
+                "rating": 2.14,
+                "share": 9.37
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:04",
+                "rating": 2.07,
+                "share": 11.66
+            },
+            {
+                "rank": 4,
+                "name": "ALAN",
+                "channel": "ATV",
+                "start_time": "20:45:28",
+                "end_time": "24:16:14",
+                "rating": 1.55,
+                "share": 6.51
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:41",
+                "end_time": "20:00:11",
+                "rating": 1.52,
+                "share": 8.48
+            },
+            {
+                "rank": 6,
+                "name": "TATLI VATAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:31",
+                "end_time": "22:40:15",
+                "rating": 1.36,
+                "share": 5.74
+            },
+            {
+                "rank": 7,
+                "name": "KORUYUCU (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "21:51:35",
+                "end_time": "23:41:58",
+                "rating": 1.31,
+                "share": 5.42
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:29",
+                "end_time": "19:59:42",
+                "rating": 1.26,
+                "share": 7.13
+            },
+            {
+                "rank": 9,
+                "name": "ALAN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "20:45:28",
+                "rating": 1.22,
+                "share": 5.75
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:44",
+                "end_time": "21:01:06",
+                "rating": 1.18,
+                "share": 6.03
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:01:11",
+                "end_time": "24:22:00",
+                "rating": 4.76,
+                "share": 21.36
+            },
+            {
+                "rank": 2,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:04",
+                "rating": 1.99,
+                "share": 12.73
+            },
+            {
+                "rank": 3,
+                "name": "TURKIYE-DOMINIK CUMHURIYETI PARIS 2024 OLIMPIYAT OYUNLARI KADINLAR VOLEYBOL KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "09:51:53",
+                "end_time": "11:51:29",
+                "rating": 1.77,
+                "share": 19.28
+            },
+            {
+                "rank": 4,
+                "name": "KORUYUCU (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:32",
+                "end_time": "21:51:12",
+                "rating": 1.63,
+                "share": 7.56
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:41",
+                "end_time": "20:00:11",
+                "rating": 1.45,
+                "share": 9.11
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:44",
+                "end_time": "21:01:06",
+                "rating": 1.3,
+                "share": 7.26
+            },
+            {
+                "rank": 7,
+                "name": "ALAN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "20:45:28",
+                "rating": 1.25,
+                "share": 6.23
+            },
+            {
+                "rank": 8,
+                "name": "PARIS 2024 OLIMPIYAT OYUNLARI (TKR)",
+                "channel": "TRT SPOR",
+                "start_time": "22:32:22",
+                "end_time": "22:43:36",
+                "rating": 1.2,
+                "share": 5.2
+            },
+            {
+                "rank": 9,
+                "name": "SET SAYISI",
+                "channel": "TRT SPOR",
+                "start_time": "11:51:47",
+                "end_time": "12:07:47",
+                "rating": 1.11,
+                "share": 10.42
+            },
+            {
+                "rank": 10,
+                "name": "ALAN",
+                "channel": "ATV",
+                "start_time": "20:45:28",
+                "end_time": "24:16:14",
+                "rating": 1.06,
+                "share": 4.65
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "21:01:11",
+                "end_time": "24:22:00",
+                "rating": 4.8,
+                "share": 19.52
+            },
+            {
+                "rank": 2,
+                "name": "KORUYUCU (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:32",
+                "end_time": "21:51:12",
+                "rating": 1.86,
+                "share": 7.89
+            },
+            {
+                "rank": 3,
+                "name": "NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:07",
+                "end_time": "20:00:04",
+                "rating": 1.73,
+                "share": 10.1
+            },
+            {
+                "rank": 4,
+                "name": "TURKIYE-DOMINIK CUMHURIYETI PARIS 2024 OLIMPIYAT OYUNLARI KADINLAR VOLEYBOL KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "09:51:53",
+                "end_time": "11:51:29",
+                "rating": 1.66,
+                "share": 17.97
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE OZET",
+                "channel": "TV8",
+                "start_time": "18:35:44",
+                "end_time": "21:01:06",
+                "rating": 1.6,
+                "share": 8.21
+            },
+            {
+                "rank": 6,
+                "name": "ALAN",
+                "channel": "ATV",
+                "start_time": "20:45:28",
+                "end_time": "24:16:14",
+                "rating": 1.57,
+                "share": 6.26
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:41",
+                "end_time": "20:00:11",
+                "rating": 1.48,
+                "share": 8.54
+            },
+            {
+                "rank": 8,
+                "name": "ALAN OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:53",
+                "end_time": "20:45:28",
+                "rating": 1.35,
+                "share": 6.23
+            },
+            {
+                "rank": 9,
+                "name": "KORUYUCU (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "21:51:35",
+                "end_time": "23:41:58",
+                "rating": 1.31,
+                "share": 5.16
+            },
+            {
+                "rank": 10,
+                "name": "TATLI VATAN (T.S)",
+                "channel": "NOW",
+                "start_time": "20:14:31",
+                "end_time": "22:40:15",
+                "rating": 1.29,
+                "share": 5.21
+            }
+        ]
+    }
+}
