@@ -1,0 +1,282 @@
+{
+    "date": "2024-03-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:48:07",
+                "end_time": "24:18:00",
+                "rating": 6.48,
+                "share": 17.16
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:13",
+                "end_time": "24:19:57",
+                "rating": 6.19,
+                "share": 16.83
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:58",
+                "rating": 4.83,
+                "share": 13.78
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:36",
+                "end_time": "18:39:42",
+                "rating": 4.72,
+                "share": 20.59
+            },
+            {
+                "rank": 5,
+                "name": "TAS KAGIT MAKAS",
+                "channel": "KANAL D",
+                "start_time": "20:44:48",
+                "end_time": "23:18:37",
+                "rating": 4.18,
+                "share": 10.61
+            },
+            {
+                "rank": 6,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:58:58",
+                "end_time": "24:17:10",
+                "rating": 4.17,
+                "share": 11.07
+            },
+            {
+                "rank": 7,
+                "name": "SAHANE HAYATIM",
+                "channel": "NOW",
+                "start_time": "20:43:03",
+                "end_time": "23:51:22",
+                "rating": 3.88,
+                "share": 10.21
+            },
+            {
+                "rank": 8,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "20:02:13",
+                "end_time": "20:48:07",
+                "rating": 3.86,
+                "share": 10.67
+            },
+            {
+                "rank": 9,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:44",
+                "end_time": "13:00:01",
+                "rating": 3.75,
+                "share": 33.49
+            },
+            {
+                "rank": 10,
+                "name": "HIKAYELERLE 40 HADIS",
+                "channel": "ATV",
+                "start_time": "19:59:54",
+                "end_time": "20:01:56",
+                "rating": 3.59,
+                "share": 9.86
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:13",
+                "end_time": "24:19:57",
+                "rating": 5.38,
+                "share": 15.93
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:58",
+                "rating": 4.72,
+                "share": 15.96
+            },
+            {
+                "rank": 3,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:48:07",
+                "end_time": "24:18:00",
+                "rating": 4.36,
+                "share": 12.55
+            },
+            {
+                "rank": 4,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:58:58",
+                "end_time": "24:17:10",
+                "rating": 4.07,
+                "share": 11.74
+            },
+            {
+                "rank": 5,
+                "name": "TAS KAGIT MAKAS",
+                "channel": "KANAL D",
+                "start_time": "20:44:48",
+                "end_time": "23:18:37",
+                "rating": 3.61,
+                "share": 9.96
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:36",
+                "end_time": "18:39:42",
+                "rating": 3.12,
+                "share": 18.5
+            },
+            {
+                "rank": 7,
+                "name": "SAHANE HAYATIM",
+                "channel": "NOW",
+                "start_time": "20:43:03",
+                "end_time": "23:51:22",
+                "rating": 3.08,
+                "share": 8.81
+            },
+            {
+                "rank": 8,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "18:15:15",
+                "end_time": "19:22:21",
+                "rating": 2.99,
+                "share": 11.82
+            },
+            {
+                "rank": 9,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:22:28",
+                "end_time": "19:56:07",
+                "rating": 2.85,
+                "share": 9.31
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:45:44",
+                "end_time": "20:46:13",
+                "rating": 2.84,
+                "share": 9.11
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:13",
+                "end_time": "24:19:57",
+                "rating": 6.1,
+                "share": 15.57
+            },
+            {
+                "rank": 2,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:48:07",
+                "end_time": "24:18:00",
+                "rating": 6.01,
+                "share": 14.94
+            },
+            {
+                "rank": 3,
+                "name": "TAS KAGIT MAKAS",
+                "channel": "KANAL D",
+                "start_time": "20:44:48",
+                "end_time": "23:18:37",
+                "rating": 5.28,
+                "share": 12.66
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:58",
+                "rating": 5.03,
+                "share": 14.76
+            },
+            {
+                "rank": 5,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:58:58",
+                "end_time": "24:17:10",
+                "rating": 4.76,
+                "share": 11.84
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:36",
+                "end_time": "18:39:42",
+                "rating": 4.27,
+                "share": 20.52
+            },
+            {
+                "rank": 7,
+                "name": "SAHANE HAYATIM",
+                "channel": "NOW",
+                "start_time": "20:43:03",
+                "end_time": "23:51:22",
+                "rating": 3.95,
+                "share": 9.77
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:44",
+                "end_time": "13:00:01",
+                "rating": 3.87,
+                "share": 33.59
+            },
+            {
+                "rank": 9,
+                "name": "TAS KAGIT MAKAS (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:51",
+                "end_time": "20:44:37",
+                "rating": 3.79,
+                "share": 10.25
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:31",
+                "end_time": "19:59:48",
+                "rating": 3.43,
+                "share": 10.08
+            }
+        ]
+    }
+}

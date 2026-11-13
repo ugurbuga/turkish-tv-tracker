@@ -1,0 +1,282 @@
+{
+    "date": "2024-03-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:57",
+                "end_time": "24:22:57",
+                "rating": 5.78,
+                "share": 15.5
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:44",
+                "end_time": "24:01:12",
+                "rating": 5.33,
+                "share": 13.82
+            },
+            {
+                "rank": 3,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "21:00:14",
+                "end_time": "24:16:12",
+                "rating": 5.11,
+                "share": 13.35
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "20:00:05",
+                "rating": 4.54,
+                "share": 14.19
+            },
+            {
+                "rank": 5,
+                "name": "KIRLI SEPETI",
+                "channel": "NOW",
+                "start_time": "20:58:18",
+                "end_time": "23:59:02",
+                "rating": 4.12,
+                "share": 10.7
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:52:47",
+                "end_time": "20:56:57",
+                "rating": 3.15,
+                "share": 9.33
+            },
+            {
+                "rank": 7,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE IFTAR",
+                "channel": "ATV",
+                "start_time": "19:08:28",
+                "end_time": "20:00:22",
+                "rating": 2.83,
+                "share": 8.77
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:34",
+                "end_time": "19:59:31",
+                "rating": 2.77,
+                "share": 8.68
+            },
+            {
+                "rank": 9,
+                "name": "BIZIM AILE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:42",
+                "end_time": "21:59:46",
+                "rating": 2.58,
+                "share": 7.05
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:39",
+                "end_time": "20:00:04",
+                "rating": 2.54,
+                "share": 7.92
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "21:00:14",
+                "end_time": "24:16:12",
+                "rating": 6.68,
+                "share": 18.56
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:44",
+                "end_time": "24:01:12",
+                "rating": 4.98,
+                "share": 13.73
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:57",
+                "end_time": "24:22:57",
+                "rating": 4.13,
+                "share": 11.84
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "20:00:05",
+                "rating": 4.07,
+                "share": 14.66
+            },
+            {
+                "rank": 5,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "21:00:03",
+                "rating": 2.75,
+                "share": 8.77
+            },
+            {
+                "rank": 6,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:26:24",
+                "end_time": "19:59:22",
+                "rating": 2.54,
+                "share": 8.95
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:52:47",
+                "end_time": "20:56:57",
+                "rating": 2.35,
+                "share": 7.92
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:35",
+                "end_time": "20:56:44",
+                "rating": 2.25,
+                "share": 7.19
+            },
+            {
+                "rank": 9,
+                "name": "KIRLI SEPETI",
+                "channel": "NOW",
+                "start_time": "20:58:18",
+                "end_time": "23:59:02",
+                "rating": 2.13,
+                "share": 5.9
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:36:46",
+                "end_time": "24:00:43",
+                "rating": 2.07,
+                "share": 5.82
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "21:00:14",
+                "end_time": "24:16:12",
+                "rating": 6.25,
+                "share": 15.54
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:57",
+                "end_time": "24:22:57",
+                "rating": 5.48,
+                "share": 14.01
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:44",
+                "end_time": "24:01:12",
+                "rating": 5.44,
+                "share": 13.44
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "20:00:05",
+                "rating": 4.6,
+                "share": 14.71
+            },
+            {
+                "rank": 5,
+                "name": "KIRLI SEPETI",
+                "channel": "NOW",
+                "start_time": "20:58:18",
+                "end_time": "23:59:02",
+                "rating": 3.24,
+                "share": 8.03
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:52:47",
+                "end_time": "20:56:57",
+                "rating": 2.96,
+                "share": 8.74
+            },
+            {
+                "rank": 7,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:26:24",
+                "end_time": "19:59:22",
+                "rating": 2.75,
+                "share": 8.39
+            },
+            {
+                "rank": 8,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "21:00:03",
+                "rating": 2.69,
+                "share": 7.45
+            },
+            {
+                "rank": 9,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:35",
+                "end_time": "20:56:44",
+                "rating": 2.68,
+                "share": 7.42
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:34",
+                "end_time": "19:59:31",
+                "rating": 2.67,
+                "share": 8.54
+            }
+        ]
+    }
+}

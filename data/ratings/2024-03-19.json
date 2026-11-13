@@ -1,0 +1,282 @@
+{
+    "date": "2024-03-19",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "BAHAR",
+                "channel": "SHOW TV",
+                "start_time": "20:57:45",
+                "end_time": "24:17:13",
+                "rating": 11.35,
+                "share": 28.53
+            },
+            {
+                "rank": 2,
+                "name": "BAHAR (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:04",
+                "end_time": "20:57:45",
+                "rating": 6.9,
+                "share": 18.29
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:38",
+                "end_time": "24:47:07",
+                "rating": 5.57,
+                "share": 15.44
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:59",
+                "rating": 4.59,
+                "share": 13.94
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:51",
+                "end_time": "18:39:27",
+                "rating": 4.14,
+                "share": 19.44
+            },
+            {
+                "rank": 6,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "20:25:23",
+                "end_time": "23:38:31",
+                "rating": 4.05,
+                "share": 10.11
+            },
+            {
+                "rank": 7,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "21:00:04",
+                "end_time": "24:19:16",
+                "rating": 3.89,
+                "share": 9.78
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:54",
+                "rating": 3.62,
+                "share": 33.53
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:53",
+                "rating": 3.6,
+                "share": 10.95
+            },
+            {
+                "rank": 10,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:58:24",
+                "end_time": "23:39:04",
+                "rating": 3.59,
+                "share": 8.8
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "BAHAR",
+                "channel": "SHOW TV",
+                "start_time": "20:57:45",
+                "end_time": "24:17:13",
+                "rating": 14.18,
+                "share": 38.73
+            },
+            {
+                "rank": 2,
+                "name": "BAHAR (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:04",
+                "end_time": "20:57:45",
+                "rating": 8.07,
+                "share": 25.33
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:38",
+                "end_time": "24:47:07",
+                "rating": 4.35,
+                "share": 13.19
+            },
+            {
+                "rank": 4,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:58:24",
+                "end_time": "23:39:04",
+                "rating": 4.18,
+                "share": 11.23
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:59",
+                "rating": 3.68,
+                "share": 14.37
+            },
+            {
+                "rank": 6,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "20:25:23",
+                "end_time": "23:38:31",
+                "rating": 2.52,
+                "share": 7.01
+            },
+            {
+                "rank": 7,
+                "name": "KIZILCIK SERBETI (TKR-GECE)",
+                "channel": "SHOW TV",
+                "start_time": "24:17:30",
+                "end_time": "26:00:00",
+                "rating": 2.5,
+                "share": 19.91
+            },
+            {
+                "rank": 8,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "18:15:15",
+                "end_time": "19:29:08",
+                "rating": 2.49,
+                "share": 10.84
+            },
+            {
+                "rank": 9,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "19:29:14",
+                "end_time": "19:59:32",
+                "rating": 2.48,
+                "share": 9.03
+            },
+            {
+                "rank": 10,
+                "name": "IDDIALARIN AKSINE",
+                "channel": "TRT 1",
+                "start_time": "19:59:40",
+                "end_time": "20:03:17",
+                "rating": 2.44,
+                "share": 8.48
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "BAHAR",
+                "channel": "SHOW TV",
+                "start_time": "20:57:45",
+                "end_time": "24:17:13",
+                "rating": 14.66,
+                "share": 34.31
+            },
+            {
+                "rank": 2,
+                "name": "BAHAR (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:04",
+                "end_time": "20:57:45",
+                "rating": 8.64,
+                "share": 22.25
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:38",
+                "end_time": "24:47:07",
+                "rating": 5.64,
+                "share": 14.59
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:02",
+                "end_time": "19:59:59",
+                "rating": 4.58,
+                "share": 14.6
+            },
+            {
+                "rank": 5,
+                "name": "MEHMED FETIHLER SULTANI",
+                "channel": "TRT 1",
+                "start_time": "20:58:24",
+                "end_time": "23:39:04",
+                "rating": 4.16,
+                "share": 9.55
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:53",
+                "rating": 3.84,
+                "share": 12.23
+            },
+            {
+                "rank": 7,
+                "name": "YABANI",
+                "channel": "NOW",
+                "start_time": "20:25:23",
+                "end_time": "23:38:31",
+                "rating": 3.48,
+                "share": 8.18
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:51",
+                "end_time": "18:39:27",
+                "rating": 3.36,
+                "share": 17.37
+            },
+            {
+                "rank": 9,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "21:00:04",
+                "end_time": "24:19:16",
+                "rating": 3.14,
+                "share": 7.34
+            },
+            {
+                "rank": 10,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:01",
+                "end_time": "12:59:54",
+                "rating": 2.94,
+                "share": 28.9
+            }
+        ]
+    }
+}
