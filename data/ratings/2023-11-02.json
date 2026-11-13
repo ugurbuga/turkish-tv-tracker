@@ -1,0 +1,282 @@
+{
+    "date": "2023-11-02",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "FOX",
+                "start_time": "20:57:56",
+                "end_time": "23:30:17",
+                "rating": 5.34,
+                "share": 14.39
+            },
+            {
+                "rank": 2,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:36:08",
+                "end_time": "24:17:54",
+                "rating": 5.18,
+                "share": 14.91
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:34",
+                "end_time": "18:44:20",
+                "rating": 4.99,
+                "share": 23.46
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "13:00:06",
+                "rating": 4.74,
+                "share": 34.85
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:17",
+                "end_time": "24:21:25",
+                "rating": 4.51,
+                "share": 13.25
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:50:17",
+                "rating": 4.48,
+                "share": 13.8
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "19:59:59",
+                "rating": 4.38,
+                "share": 13.53
+            },
+            {
+                "rank": 8,
+                "name": "ALDATMAK (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:08",
+                "end_time": "20:36:08",
+                "rating": 3.64,
+                "share": 10.01
+            },
+            {
+                "rank": 9,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:09",
+                "end_time": "20:57:51",
+                "rating": 3.5,
+                "share": 9.34
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:09",
+                "end_time": "20:00:11",
+                "rating": 3.24,
+                "share": 9.91
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:17",
+                "end_time": "24:21:25",
+                "rating": 5.25,
+                "share": 15.79
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "19:59:59",
+                "rating": 4.2,
+                "share": 15.29
+            },
+            {
+                "rank": 3,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "FOX",
+                "start_time": "20:57:56",
+                "end_time": "23:30:17",
+                "rating": 4.08,
+                "share": 11.33
+            },
+            {
+                "rank": 4,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:36:08",
+                "end_time": "24:17:54",
+                "rating": 4.08,
+                "share": 12.04
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "13:00:06",
+                "rating": 3.57,
+                "share": 32.02
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:50:17",
+                "rating": 3.05,
+                "share": 11.08
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:34",
+                "end_time": "18:44:20",
+                "rating": 2.92,
+                "share": 16.59
+            },
+            {
+                "rank": 8,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:00:06",
+                "end_time": "22:33:55",
+                "rating": 2.66,
+                "share": 7.63
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:09",
+                "end_time": "20:00:11",
+                "rating": 2.29,
+                "share": 8.25
+            },
+            {
+                "rank": 10,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:09",
+                "end_time": "20:57:51",
+                "rating": 2.26,
+                "share": 6.95
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:17",
+                "end_time": "24:21:25",
+                "rating": 5.89,
+                "share": 15.57
+            },
+            {
+                "rank": 2,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "FOX",
+                "start_time": "20:57:56",
+                "end_time": "23:30:17",
+                "rating": 5.68,
+                "share": 13.87
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:06",
+                "end_time": "13:00:06",
+                "rating": 4.9,
+                "share": 33.31
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "19:59:59",
+                "rating": 4.84,
+                "share": 15.19
+            },
+            {
+                "rank": 5,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:36:08",
+                "end_time": "24:17:54",
+                "rating": 4.38,
+                "share": 11.34
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:34",
+                "end_time": "18:44:20",
+                "rating": 3.86,
+                "share": 18.88
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:50:17",
+                "rating": 3.78,
+                "share": 11.84
+            },
+            {
+                "rank": 8,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:09",
+                "end_time": "20:57:51",
+                "rating": 3.72,
+                "share": 9.56
+            },
+            {
+                "rank": 9,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:00:06",
+                "end_time": "22:33:55",
+                "rating": 3.11,
+                "share": 7.68
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:04",
+                "end_time": "24:16:57",
+                "rating": 2.83,
+                "share": 7.36
+            }
+        ]
+    }
+}
