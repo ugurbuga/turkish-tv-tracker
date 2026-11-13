@@ -1,0 +1,282 @@
+{
+    "date": "2023-08-19",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:52",
+                "end_time": "24:17:36",
+                "rating": 4.01,
+                "share": 17.25
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:25",
+                "end_time": "24:15:54",
+                "rating": 1.83,
+                "share": 8.01
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:06",
+                "rating": 1.75,
+                "share": 10.77
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:57",
+                "end_time": "20:00:14",
+                "rating": 1.57,
+                "share": 9.63
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:41",
+                "end_time": "20:00:19",
+                "rating": 1.39,
+                "share": 8.46
+            },
+            {
+                "rank": 6,
+                "name": "ALTINA HUCUM (T.S)",
+                "channel": "FOX",
+                "start_time": "20:00:11",
+                "end_time": "22:32:47",
+                "rating": 1.33,
+                "share": 6.02
+            },
+            {
+                "rank": 7,
+                "name": "BUZ DEVRI 5 BUYUK CARPISMA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "21:49:39",
+                "rating": 1.33,
+                "share": 6.18
+            },
+            {
+                "rank": 8,
+                "name": "EVDE TEK BASINA (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:53:59",
+                "end_time": "23:55:25",
+                "rating": 1.24,
+                "share": 5.25
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:35:35",
+                "end_time": "20:56:52",
+                "rating": 1.22,
+                "share": 6.74
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:58:57",
+                "rating": 1.12,
+                "share": 7.97
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:52",
+                "end_time": "24:17:36",
+                "rating": 5.99,
+                "share": 25.27
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:06",
+                "rating": 1.8,
+                "share": 11.39
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:25",
+                "end_time": "24:15:54",
+                "rating": 1.63,
+                "share": 7.07
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:35:35",
+                "end_time": "20:56:52",
+                "rating": 1.6,
+                "share": 8.96
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:41",
+                "end_time": "20:00:19",
+                "rating": 1.4,
+                "share": 8.71
+            },
+            {
+                "rank": 6,
+                "name": "%100 FUTBOL (TKR)",
+                "channel": "TV8",
+                "start_time": "24:19:22",
+                "end_time": "25:22:55",
+                "rating": 1.3,
+                "share": 9.03
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:57",
+                "end_time": "20:00:14",
+                "rating": 1.29,
+                "share": 8.18
+            },
+            {
+                "rank": 8,
+                "name": "BUZ DEVRI 5 BUYUK CARPISMA (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "21:49:39",
+                "rating": 1.11,
+                "share": 5.12
+            },
+            {
+                "rank": 9,
+                "name": "DENIZDE DEHSET 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:50:01",
+                "end_time": "23:33:16",
+                "rating": 1.07,
+                "share": 4.43
+            },
+            {
+                "rank": 10,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "23:52:48",
+                "end_time": "25:29:26",
+                "rating": 1.04,
+                "share": 6.91
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:52",
+                "end_time": "24:17:36",
+                "rating": 5.28,
+                "share": 20.87
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:06",
+                "rating": 2.16,
+                "share": 12.49
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:25",
+                "end_time": "24:15:54",
+                "rating": 1.84,
+                "share": 7.5
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:35:35",
+                "end_time": "20:56:52",
+                "rating": 1.53,
+                "share": 8.07
+            },
+            {
+                "rank": 5,
+                "name": "EVDE TEK BASINA (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "21:53:59",
+                "end_time": "23:55:25",
+                "rating": 1.45,
+                "share": 5.63
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:57",
+                "end_time": "20:00:14",
+                "rating": 1.27,
+                "share": 7.32
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:41",
+                "end_time": "20:00:19",
+                "rating": 1.25,
+                "share": 7.19
+            },
+            {
+                "rank": 8,
+                "name": "DENIZDE DEHSET 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:50:01",
+                "end_time": "23:33:16",
+                "rating": 1.22,
+                "share": 4.7
+            },
+            {
+                "rank": 9,
+                "name": "ALTINA HUCUM (T.S)",
+                "channel": "FOX",
+                "start_time": "20:00:11",
+                "end_time": "22:32:47",
+                "rating": 1.21,
+                "share": 5.2
+            },
+            {
+                "rank": 10,
+                "name": "STADYUM",
+                "channel": "TRT SPOR",
+                "start_time": "23:52:48",
+                "end_time": "25:29:26",
+                "rating": 1.18,
+                "share": 7.5
+            }
+        ]
+    }
+}

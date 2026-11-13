@@ -1,0 +1,282 @@
+{
+    "date": "2023-08-18",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:44:11",
+                "end_time": "24:16:06",
+                "rating": 4.26,
+                "share": 17.59
+            },
+            {
+                "rank": 2,
+                "name": "HAYATIMIN NESESI",
+                "channel": "TRT 1",
+                "start_time": "20:59:32",
+                "end_time": "23:45:37",
+                "rating": 2.02,
+                "share": 8.09
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:00",
+                "rating": 2.0,
+                "share": 12.03
+            },
+            {
+                "rank": 4,
+                "name": "KISMET",
+                "channel": "FOX",
+                "start_time": "20:58:15",
+                "end_time": "23:49:32",
+                "rating": 1.96,
+                "share": 7.88
+            },
+            {
+                "rank": 5,
+                "name": "DEMIR MASKE (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:51",
+                "end_time": "22:37:42",
+                "rating": 1.87,
+                "share": 7.79
+            },
+            {
+                "rank": 6,
+                "name": "CANAVAR AVCISI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:38",
+                "end_time": "21:56:16",
+                "rating": 1.59,
+                "share": 6.94
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:02",
+                "end_time": "20:00:05",
+                "rating": 1.54,
+                "share": 9.27
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:55",
+                "end_time": "20:00:03",
+                "rating": 1.52,
+                "share": 8.95
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:01:15",
+                "end_time": "18:14:38",
+                "rating": 1.34,
+                "share": 11.1
+            },
+            {
+                "rank": 10,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "13:16:17",
+                "end_time": "16:00:51",
+                "rating": 1.33,
+                "share": 11.84
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:44:11",
+                "end_time": "24:16:06",
+                "rating": 5.33,
+                "share": 23.77
+            },
+            {
+                "rank": 2,
+                "name": "HAYATIMIN NESESI",
+                "channel": "TRT 1",
+                "start_time": "20:59:32",
+                "end_time": "23:45:37",
+                "rating": 2.47,
+                "share": 10.7
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:00",
+                "rating": 1.96,
+                "share": 13.07
+            },
+            {
+                "rank": 4,
+                "name": "KISMET",
+                "channel": "FOX",
+                "start_time": "20:58:15",
+                "end_time": "23:49:32",
+                "rating": 1.63,
+                "share": 7.1
+            },
+            {
+                "rank": 5,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:01",
+                "end_time": "18:59:02",
+                "rating": 1.46,
+                "share": 11.34
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:02",
+                "end_time": "20:00:05",
+                "rating": 1.41,
+                "share": 9.41
+            },
+            {
+                "rank": 7,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:01:15",
+                "end_time": "18:14:38",
+                "rating": 1.36,
+                "share": 13.61
+            },
+            {
+                "rank": 8,
+                "name": "DEMIR MASKE (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:51",
+                "end_time": "22:37:42",
+                "rating": 1.24,
+                "share": 5.71
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:55",
+                "end_time": "20:00:03",
+                "rating": 1.17,
+                "share": 7.74
+            },
+            {
+                "rank": 10,
+                "name": "TURKIYE-ISVEC CEV KADINLAR VOLEYBOL AVRUPA SAMPIYONASI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "17:51:59",
+                "end_time": "19:29:02",
+                "rating": 1.12,
+                "share": 8.81
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:44:11",
+                "end_time": "24:16:06",
+                "rating": 5.54,
+                "share": 22.22
+            },
+            {
+                "rank": 2,
+                "name": "HAYATIMIN NESESI",
+                "channel": "TRT 1",
+                "start_time": "20:59:32",
+                "end_time": "23:45:37",
+                "rating": 2.29,
+                "share": 8.87
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:00",
+                "rating": 2.27,
+                "share": 13.43
+            },
+            {
+                "rank": 4,
+                "name": "KISMET",
+                "channel": "FOX",
+                "start_time": "20:58:15",
+                "end_time": "23:49:32",
+                "rating": 1.88,
+                "share": 7.29
+            },
+            {
+                "rank": 5,
+                "name": "DEMIR MASKE (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:51",
+                "end_time": "22:37:42",
+                "rating": 1.75,
+                "share": 7.24
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:55",
+                "end_time": "20:00:03",
+                "rating": 1.45,
+                "share": 8.45
+            },
+            {
+                "rank": 7,
+                "name": "CANAVAR AVCISI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:38",
+                "end_time": "21:56:16",
+                "rating": 1.4,
+                "share": 6.11
+            },
+            {
+                "rank": 8,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:01:15",
+                "end_time": "18:14:38",
+                "rating": 1.35,
+                "share": 12.8
+            },
+            {
+                "rank": 9,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:01",
+                "end_time": "18:59:02",
+                "rating": 1.35,
+                "share": 9.61
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:02",
+                "end_time": "20:00:05",
+                "rating": 1.34,
+                "share": 7.95
+            }
+        ]
+    }
+}

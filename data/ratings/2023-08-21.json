@@ -1,0 +1,282 @@
+{
+    "date": "2023-08-21",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:48:34",
+                "end_time": "24:26:08",
+                "rating": 3.92,
+                "share": 15.53
+            },
+            {
+                "rank": 2,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:14",
+                "end_time": "24:18:39",
+                "rating": 2.47,
+                "share": 9.52
+            },
+            {
+                "rank": 3,
+                "name": "RUHUN DUYMAZ",
+                "channel": "FOX",
+                "start_time": "20:58:24",
+                "end_time": "24:01:00",
+                "rating": 2.16,
+                "share": 8.24
+            },
+            {
+                "rank": 4,
+                "name": "MUHTESEM YEDILI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:54",
+                "end_time": "22:45:50",
+                "rating": 2.09,
+                "share": 8.04
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "20:00:05",
+                "rating": 1.87,
+                "share": 10.48
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:49",
+                "end_time": "20:00:09",
+                "rating": 1.68,
+                "share": 9.21
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "24:16:50",
+                "rating": 1.66,
+                "share": 6.46
+            },
+            {
+                "rank": 8,
+                "name": "RUHUN DUYMAZ (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:15",
+                "end_time": "20:58:19",
+                "rating": 1.53,
+                "share": 6.25
+            },
+            {
+                "rank": 9,
+                "name": "VEDA MEKTUBU (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "21:00:03",
+                "rating": 1.42,
+                "share": 5.8
+            },
+            {
+                "rank": 10,
+                "name": "GELINIM MUTFAKTA",
+                "channel": "KANAL D",
+                "start_time": "13:13:40",
+                "end_time": "15:59:57",
+                "rating": 1.37,
+                "share": 11.1
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:48:34",
+                "end_time": "24:26:08",
+                "rating": 5.07,
+                "share": 21.39
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "20:00:05",
+                "rating": 2.23,
+                "share": 12.61
+            },
+            {
+                "rank": 3,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:14",
+                "end_time": "24:18:39",
+                "rating": 1.8,
+                "share": 7.46
+            },
+            {
+                "rank": 4,
+                "name": "RUHUN DUYMAZ",
+                "channel": "FOX",
+                "start_time": "20:58:24",
+                "end_time": "24:01:00",
+                "rating": 1.8,
+                "share": 7.34
+            },
+            {
+                "rank": 5,
+                "name": "MUHTESEM YEDILI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:54",
+                "end_time": "22:45:50",
+                "rating": 1.75,
+                "share": 7.33
+            },
+            {
+                "rank": 6,
+                "name": "RUHUN DUYMAZ (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:15",
+                "end_time": "20:58:19",
+                "rating": 1.7,
+                "share": 7.5
+            },
+            {
+                "rank": 7,
+                "name": "CEKYA-TURKIYE CEV KADINLAR AVRUPA VOLEYBOL SAMPIYONASI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "17:53:06",
+                "end_time": "20:07:19",
+                "rating": 1.43,
+                "share": 8.58
+            },
+            {
+                "rank": 8,
+                "name": "KIZILELMA BIR FETIH OYKUSU",
+                "channel": "TRT 1",
+                "start_time": "21:43:39",
+                "end_time": "22:52:39",
+                "rating": 1.38,
+                "share": 5.42
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:56:30",
+                "rating": 1.36,
+                "share": 7.67
+            },
+            {
+                "rank": 10,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "24:16:50",
+                "rating": 1.35,
+                "share": 5.65
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:48:34",
+                "end_time": "24:26:08",
+                "rating": 4.98,
+                "share": 18.82
+            },
+            {
+                "rank": 2,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:14",
+                "end_time": "24:18:39",
+                "rating": 2.55,
+                "share": 9.38
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "20:00:05",
+                "rating": 2.42,
+                "share": 13.26
+            },
+            {
+                "rank": 4,
+                "name": "RUHUN DUYMAZ",
+                "channel": "FOX",
+                "start_time": "20:58:24",
+                "end_time": "24:01:00",
+                "rating": 1.99,
+                "share": 7.21
+            },
+            {
+                "rank": 5,
+                "name": "MUHTESEM YEDILI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:54",
+                "end_time": "22:45:50",
+                "rating": 1.96,
+                "share": 7.35
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:54",
+                "end_time": "24:16:50",
+                "rating": 1.79,
+                "share": 6.65
+            },
+            {
+                "rank": 7,
+                "name": "VEDA MEKTUBU (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "21:00:03",
+                "rating": 1.66,
+                "share": 6.65
+            },
+            {
+                "rank": 8,
+                "name": "RUHUN DUYMAZ (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:15",
+                "end_time": "20:58:19",
+                "rating": 1.63,
+                "share": 6.55
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:49",
+                "end_time": "20:00:09",
+                "rating": 1.46,
+                "share": 7.9
+            },
+            {
+                "rank": 10,
+                "name": "CEKYA-TURKIYE CEV KADINLAR AVRUPA VOLEYBOL SAMPIYONASI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "17:53:06",
+                "end_time": "20:07:19",
+                "rating": 1.35,
+                "share": 8.02
+            }
+        ]
+    }
+}
