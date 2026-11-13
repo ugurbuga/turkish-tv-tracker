@@ -1,0 +1,282 @@
+{
+    "date": "2024-01-09",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:23",
+                "end_time": "18:44:10",
+                "rating": 6.2,
+                "share": 24.33
+            },
+            {
+                "rank": 2,
+                "name": "YABANI",
+                "channel": "FOX",
+                "start_time": "20:59:58",
+                "end_time": "24:18:22",
+                "rating": 6.01,
+                "share": 15.06
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:22",
+                "end_time": "24:25:15",
+                "rating": 5.79,
+                "share": 14.96
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:53",
+                "rating": 5.01,
+                "share": 13.96
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:59",
+                "rating": 4.77,
+                "share": 32.05
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:50:59",
+                "rating": 4.61,
+                "share": 12.85
+            },
+            {
+                "rank": 7,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:49:28",
+                "end_time": "24:19:24",
+                "rating": 4.6,
+                "share": 11.5
+            },
+            {
+                "rank": 8,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:50:09",
+                "end_time": "24:16:22",
+                "rating": 3.86,
+                "share": 9.65
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:35",
+                "rating": 3.5,
+                "share": 9.75
+            },
+            {
+                "rank": 10,
+                "name": "YABANI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:03",
+                "end_time": "20:59:53",
+                "rating": 3.49,
+                "share": 8.53
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:22",
+                "end_time": "24:25:15",
+                "rating": 5.3,
+                "share": 15.43
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:53",
+                "rating": 3.98,
+                "share": 13.34
+            },
+            {
+                "rank": 3,
+                "name": "AILE",
+                "channel": "SHOW TV",
+                "start_time": "20:58:13",
+                "end_time": "24:16:56",
+                "rating": 3.98,
+                "share": 11.19
+            },
+            {
+                "rank": 4,
+                "name": "YABANI",
+                "channel": "FOX",
+                "start_time": "20:59:58",
+                "end_time": "24:18:22",
+                "rating": 3.44,
+                "share": 9.59
+            },
+            {
+                "rank": 5,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:49:28",
+                "end_time": "24:19:24",
+                "rating": 3.4,
+                "share": 9.54
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:59",
+                "rating": 3.33,
+                "share": 30.75
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:23",
+                "end_time": "18:44:10",
+                "rating": 3.14,
+                "share": 16.68
+            },
+            {
+                "rank": 8,
+                "name": "EVDE TEK BASINA 2 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:42",
+                "end_time": "22:38:30",
+                "rating": 3.14,
+                "share": 8.6
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:36",
+                "end_time": "19:59:56",
+                "rating": 2.73,
+                "share": 9.05
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:50:59",
+                "rating": 2.67,
+                "share": 8.91
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:22",
+                "end_time": "24:25:15",
+                "rating": 5.91,
+                "share": 14.52
+            },
+            {
+                "rank": 2,
+                "name": "YABANI",
+                "channel": "FOX",
+                "start_time": "20:59:58",
+                "end_time": "24:18:22",
+                "rating": 5.44,
+                "share": 12.86
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:53",
+                "rating": 4.9,
+                "share": 13.92
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:23",
+                "end_time": "18:44:10",
+                "rating": 4.85,
+                "share": 21.11
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:59",
+                "rating": 4.6,
+                "share": 30.73
+            },
+            {
+                "rank": 6,
+                "name": "AILE",
+                "channel": "SHOW TV",
+                "start_time": "20:58:13",
+                "end_time": "24:16:56",
+                "rating": 4.17,
+                "share": 9.91
+            },
+            {
+                "rank": 7,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:49:28",
+                "end_time": "24:19:24",
+                "rating": 3.72,
+                "share": 8.82
+            },
+            {
+                "rank": 8,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:50:09",
+                "end_time": "24:16:22",
+                "rating": 3.55,
+                "share": 8.41
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:50:59",
+                "rating": 3.42,
+                "share": 9.68
+            },
+            {
+                "rank": 10,
+                "name": "EVDE TEK BASINA 2 (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:42",
+                "end_time": "22:38:30",
+                "rating": 3.23,
+                "share": 7.44
+            }
+        ]
+    }
+}

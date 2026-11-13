@@ -1,0 +1,282 @@
+{
+    "date": "2024-01-11",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "FOX",
+                "start_time": "20:58:56",
+                "end_time": "24:17:57",
+                "rating": 6.97,
+                "share": 18.53
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:13",
+                "end_time": "18:44:01",
+                "rating": 5.21,
+                "share": 21.1
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:45",
+                "rating": 4.78,
+                "share": 14.36
+            },
+            {
+                "rank": 4,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:48:34",
+                "end_time": "24:19:34",
+                "rating": 4.78,
+                "share": 12.63
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:49",
+                "rating": 4.62,
+                "share": 32.39
+            },
+            {
+                "rank": 6,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:59:06",
+                "end_time": "24:17:52",
+                "rating": 4.48,
+                "share": 12.03
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:51:35",
+                "rating": 4.05,
+                "share": 12.16
+            },
+            {
+                "rank": 8,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "FOX",
+                "start_time": "19:59:55",
+                "end_time": "20:58:51",
+                "rating": 3.92,
+                "share": 10.15
+            },
+            {
+                "rank": 9,
+                "name": "REGAIB GECESI",
+                "channel": "TRT 1",
+                "start_time": "20:04:47",
+                "end_time": "21:59:17",
+                "rating": 3.41,
+                "share": 8.54
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:37",
+                "rating": 3.13,
+                "share": 9.41
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "FOX",
+                "start_time": "20:58:56",
+                "end_time": "24:17:57",
+                "rating": 3.97,
+                "share": 12.05
+            },
+            {
+                "rank": 2,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:59:06",
+                "end_time": "24:17:52",
+                "rating": 3.79,
+                "share": 11.64
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:45",
+                "rating": 3.67,
+                "share": 13.96
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:13",
+                "end_time": "18:44:01",
+                "rating": 3.16,
+                "share": 18.1
+            },
+            {
+                "rank": 5,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:48:34",
+                "end_time": "24:19:34",
+                "rating": 3.15,
+                "share": 9.56
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:49",
+                "rating": 2.93,
+                "share": 30.2
+            },
+            {
+                "rank": 7,
+                "name": "REGAIB GECESI",
+                "channel": "TRT 1",
+                "start_time": "20:04:47",
+                "end_time": "21:59:17",
+                "rating": 2.72,
+                "share": 8.0
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:51:35",
+                "rating": 2.16,
+                "share": 8.21
+            },
+            {
+                "rank": 9,
+                "name": "KARA (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:48",
+                "end_time": "20:21:34",
+                "rating": 2.13,
+                "share": 7.18
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:37",
+                "rating": 2.0,
+                "share": 7.63
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "FOX",
+                "start_time": "20:58:56",
+                "end_time": "24:17:57",
+                "rating": 5.97,
+                "share": 15.35
+            },
+            {
+                "rank": 2,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:59:06",
+                "end_time": "24:17:52",
+                "rating": 4.76,
+                "share": 12.38
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:45",
+                "rating": 4.35,
+                "share": 14.02
+            },
+            {
+                "rank": 4,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:48:34",
+                "end_time": "24:19:34",
+                "rating": 4.21,
+                "share": 10.82
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:04",
+                "end_time": "12:59:49",
+                "rating": 4.17,
+                "share": 31.67
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:13",
+                "end_time": "18:44:01",
+                "rating": 4.05,
+                "share": 18.89
+            },
+            {
+                "rank": 7,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "FOX",
+                "start_time": "19:59:55",
+                "end_time": "20:58:51",
+                "rating": 3.32,
+                "share": 8.72
+            },
+            {
+                "rank": 8,
+                "name": "REGAIB GECESI",
+                "channel": "TRT 1",
+                "start_time": "20:04:47",
+                "end_time": "21:59:17",
+                "rating": 3.3,
+                "share": 8.23
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:51:35",
+                "rating": 3.07,
+                "share": 9.88
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:37",
+                "rating": 2.77,
+                "share": 8.94
+            }
+        ]
+    }
+}

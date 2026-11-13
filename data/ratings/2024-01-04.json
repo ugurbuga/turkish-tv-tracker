@@ -1,0 +1,282 @@
+{
+    "date": "2024-01-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:59:59",
+                "end_time": "23:19:57",
+                "rating": 6.61,
+                "share": 16.5
+            },
+            {
+                "rank": 2,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:39:53",
+                "end_time": "24:19:21",
+                "rating": 5.55,
+                "share": 14.66
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:05",
+                "end_time": "18:44:24",
+                "rating": 5.13,
+                "share": 21.21
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:00",
+                "rating": 4.83,
+                "share": 13.84
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:09",
+                "end_time": "13:00:00",
+                "rating": 4.52,
+                "share": 30.5
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:50:41",
+                "rating": 4.3,
+                "share": 12.32
+            },
+            {
+                "rank": 7,
+                "name": "SAKLA BENI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:27",
+                "end_time": "20:59:59",
+                "rating": 4.14,
+                "share": 10.51
+            },
+            {
+                "rank": 8,
+                "name": "KUTSAL DAMACANA 4 (T.S)",
+                "channel": "FOX",
+                "start_time": "20:00:05",
+                "end_time": "22:18:05",
+                "rating": 4.11,
+                "share": 10.2
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:57",
+                "end_time": "19:59:33",
+                "rating": 3.25,
+                "share": 9.36
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "20:00:19",
+                "rating": 3.14,
+                "share": 8.97
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:59:59",
+                "end_time": "23:19:57",
+                "rating": 5.07,
+                "share": 14.11
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:00",
+                "rating": 4.46,
+                "share": 14.83
+            },
+            {
+                "rank": 3,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:39:53",
+                "end_time": "24:19:21",
+                "rating": 4.46,
+                "share": 13.13
+            },
+            {
+                "rank": 4,
+                "name": "KUTSAL DAMACANA 4 (T.S)",
+                "channel": "FOX",
+                "start_time": "20:00:05",
+                "end_time": "22:18:05",
+                "rating": 3.4,
+                "share": 9.49
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:09",
+                "end_time": "13:00:00",
+                "rating": 3.39,
+                "share": 29.3
+            },
+            {
+                "rank": 6,
+                "name": "SAKLA BENI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:27",
+                "end_time": "20:59:59",
+                "rating": 3.11,
+                "share": 8.93
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "20:00:19",
+                "rating": 3.08,
+                "share": 10.19
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:57",
+                "end_time": "19:59:33",
+                "rating": 2.69,
+                "share": 8.98
+            },
+            {
+                "rank": 9,
+                "name": "KENDI DUSEN AGLAMAZ",
+                "channel": "TRT 1",
+                "start_time": "20:58:32",
+                "end_time": "23:53:34",
+                "rating": 2.35,
+                "share": 6.84
+            },
+            {
+                "rank": 10,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:05",
+                "end_time": "18:44:24",
+                "rating": 2.34,
+                "share": 12.86
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:59:59",
+                "end_time": "23:19:57",
+                "rating": 6.14,
+                "share": 14.56
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:00",
+                "rating": 5.2,
+                "share": 15.1
+            },
+            {
+                "rank": 3,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:39:53",
+                "end_time": "24:19:21",
+                "rating": 5.2,
+                "share": 13.1
+            },
+            {
+                "rank": 4,
+                "name": "KUTSAL DAMACANA 4 (T.S)",
+                "channel": "FOX",
+                "start_time": "20:00:05",
+                "end_time": "22:18:05",
+                "rating": 4.66,
+                "share": 11.25
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:09",
+                "end_time": "13:00:00",
+                "rating": 4.15,
+                "share": 29.01
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:05",
+                "end_time": "18:44:24",
+                "rating": 3.87,
+                "share": 18.42
+            },
+            {
+                "rank": 7,
+                "name": "SAKLA BENI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:27",
+                "end_time": "20:59:59",
+                "rating": 3.56,
+                "share": 8.92
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:50:41",
+                "rating": 3.49,
+                "share": 10.13
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:57",
+                "end_time": "19:59:33",
+                "rating": 2.99,
+                "share": 8.71
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:31",
+                "end_time": "20:00:19",
+                "rating": 2.98,
+                "share": 8.63
+            }
+        ]
+    }
+}
