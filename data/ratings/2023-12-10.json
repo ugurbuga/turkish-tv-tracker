@@ -1,0 +1,282 @@
+{
+    "date": "2023-12-10",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:33",
+                "end_time": "23:47:55",
+                "rating": 6.41,
+                "share": 15.8
+            },
+            {
+                "rank": 2,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "21:01:06",
+                "end_time": "24:16:59",
+                "rating": 6.0,
+                "share": 15.18
+            },
+            {
+                "rank": 3,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:58:36",
+                "end_time": "23:56:33",
+                "rating": 5.25,
+                "share": 13.13
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:27:07",
+                "end_time": "24:30:04",
+                "rating": 4.83,
+                "share": 12.61
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:58",
+                "rating": 4.13,
+                "share": 11.51
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR ALL STAR 2024 TAKIMLAR BELLI OLUYOR",
+                "channel": "TV8",
+                "start_time": "19:30:56",
+                "end_time": "20:26:57",
+                "rating": 3.79,
+                "share": 10.06
+            },
+            {
+                "rank": 7,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:50",
+                "end_time": "21:00:55",
+                "rating": 3.75,
+                "share": 9.24
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:19",
+                "end_time": "20:58:33",
+                "rating": 3.7,
+                "share": 9.15
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:18",
+                "end_time": "19:59:42",
+                "rating": 3.55,
+                "share": 9.92
+            },
+            {
+                "rank": 10,
+                "name": "KIRLI SEPETI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:03",
+                "end_time": "20:58:31",
+                "rating": 3.25,
+                "share": 8.04
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "21:01:06",
+                "end_time": "24:16:59",
+                "rating": 7.44,
+                "share": 20.59
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:33",
+                "end_time": "23:47:55",
+                "rating": 6.1,
+                "share": 16.49
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:27:07",
+                "end_time": "24:30:04",
+                "rating": 5.14,
+                "share": 14.95
+            },
+            {
+                "rank": 4,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:50",
+                "end_time": "21:00:55",
+                "rating": 4.62,
+                "share": 13.27
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:58",
+                "rating": 4.42,
+                "share": 14.67
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR ALL STAR 2024 TAKIMLAR BELLI OLUYOR",
+                "channel": "TV8",
+                "start_time": "19:30:56",
+                "end_time": "20:26:57",
+                "rating": 3.6,
+                "share": 11.14
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:18",
+                "end_time": "19:59:42",
+                "rating": 2.98,
+                "share": 9.93
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:00",
+                "end_time": "20:00:05",
+                "rating": 2.91,
+                "share": 9.67
+            },
+            {
+                "rank": 9,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:58:36",
+                "end_time": "23:56:33",
+                "rating": 2.63,
+                "share": 7.2
+            },
+            {
+                "rank": 10,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:19",
+                "end_time": "20:58:33",
+                "rating": 2.21,
+                "share": 6.37
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "21:01:06",
+                "end_time": "24:16:59",
+                "rating": 7.5,
+                "share": 18.21
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:33",
+                "end_time": "23:47:55",
+                "rating": 6.07,
+                "share": 14.38
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:27:07",
+                "end_time": "24:30:04",
+                "rating": 5.32,
+                "share": 13.46
+            },
+            {
+                "rank": 4,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:58:36",
+                "end_time": "23:56:33",
+                "rating": 4.41,
+                "share": 10.58
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:58",
+                "rating": 4.39,
+                "share": 12.52
+            },
+            {
+                "rank": 6,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:50",
+                "end_time": "21:00:55",
+                "rating": 4.37,
+                "share": 10.79
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR ALL STAR 2024 TAKIMLAR BELLI OLUYOR",
+                "channel": "TV8",
+                "start_time": "19:30:56",
+                "end_time": "20:26:57",
+                "rating": 4.02,
+                "share": 10.81
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:18",
+                "end_time": "19:59:42",
+                "rating": 3.76,
+                "share": 10.75
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:00",
+                "end_time": "20:00:05",
+                "rating": 3.21,
+                "share": 9.12
+            },
+            {
+                "rank": 10,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:19",
+                "end_time": "20:58:33",
+                "rating": 3.12,
+                "share": 7.73
+            }
+        ]
+    }
+}

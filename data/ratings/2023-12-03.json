@@ -1,0 +1,282 @@
+{
+    "date": "2023-12-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "21:00:30",
+                "end_time": "24:18:39",
+                "rating": 5.93,
+                "share": 15.44
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:58",
+                "end_time": "23:54:54",
+                "rating": 5.55,
+                "share": 14.23
+            },
+            {
+                "rank": 3,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:58:13",
+                "end_time": "23:43:27",
+                "rating": 5.1,
+                "share": 12.87
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:58",
+                "rating": 4.29,
+                "share": 12.7
+            },
+            {
+                "rank": 5,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:49:54",
+                "end_time": "21:00:19",
+                "rating": 3.86,
+                "share": 9.46
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:59:26",
+                "end_time": "24:33:43",
+                "rating": 3.8,
+                "share": 10.39
+            },
+            {
+                "rank": 7,
+                "name": "PANTENE ALTIN KELEBEK ODULLERI",
+                "channel": "KANAL D",
+                "start_time": "19:59:59",
+                "end_time": "20:49:41",
+                "rating": 3.47,
+                "share": 8.85
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:31",
+                "rating": 3.47,
+                "share": 10.27
+            },
+            {
+                "rank": 9,
+                "name": "ATLA GEL SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:42",
+                "end_time": "21:49:35",
+                "rating": 3.18,
+                "share": 7.92
+            },
+            {
+                "rank": 10,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "20:57:58",
+                "rating": 3.12,
+                "share": 7.82
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "21:00:30",
+                "end_time": "24:18:39",
+                "rating": 7.01,
+                "share": 20.21
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:58",
+                "end_time": "23:54:54",
+                "rating": 4.84,
+                "share": 13.71
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:59:26",
+                "end_time": "24:33:43",
+                "rating": 4.76,
+                "share": 14.44
+            },
+            {
+                "rank": 4,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:49:54",
+                "end_time": "21:00:19",
+                "rating": 4.54,
+                "share": 12.82
+            },
+            {
+                "rank": 5,
+                "name": "PANTENE ALTIN KELEBEK ODULLERI",
+                "channel": "KANAL D",
+                "start_time": "19:59:59",
+                "end_time": "20:49:41",
+                "rating": 4.21,
+                "share": 12.42
+            },
+            {
+                "rank": 6,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:58",
+                "rating": 3.23,
+                "share": 11.33
+            },
+            {
+                "rank": 7,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:58:13",
+                "end_time": "23:43:27",
+                "rating": 2.74,
+                "share": 7.66
+            },
+            {
+                "rank": 8,
+                "name": "PANTENE ALTIN KELEBEK ODULLERI KIRMIZI HALI",
+                "channel": "KANAL D",
+                "start_time": "19:30:17",
+                "end_time": "19:47:11",
+                "rating": 2.23,
+                "share": 7.44
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:46",
+                "end_time": "19:30:11",
+                "rating": 2.1,
+                "share": 7.57
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:45:46",
+                "end_time": "20:59:26",
+                "rating": 2.1,
+                "share": 6.59
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "21:00:30",
+                "end_time": "24:18:39",
+                "rating": 7.25,
+                "share": 17.47
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:58",
+                "end_time": "23:54:54",
+                "rating": 5.83,
+                "share": 13.8
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:59:26",
+                "end_time": "24:33:43",
+                "rating": 4.81,
+                "share": 12.14
+            },
+            {
+                "rank": 4,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:49:54",
+                "end_time": "21:00:19",
+                "rating": 4.51,
+                "share": 10.86
+            },
+            {
+                "rank": 5,
+                "name": "PANTENE ALTIN KELEBEK ODULLERI",
+                "channel": "KANAL D",
+                "start_time": "19:59:59",
+                "end_time": "20:49:41",
+                "rating": 4.13,
+                "share": 10.32
+            },
+            {
+                "rank": 6,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:58:13",
+                "end_time": "23:43:27",
+                "rating": 4.11,
+                "share": 9.6
+            },
+            {
+                "rank": 7,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:58",
+                "rating": 4.07,
+                "share": 11.97
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:31",
+                "rating": 2.99,
+                "share": 8.81
+            },
+            {
+                "rank": 9,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "20:57:58",
+                "rating": 2.61,
+                "share": 6.43
+            },
+            {
+                "rank": 10,
+                "name": "KIRLI SEPETI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:09",
+                "end_time": "20:58:08",
+                "rating": 2.56,
+                "share": 6.31
+            }
+        ]
+    }
+}

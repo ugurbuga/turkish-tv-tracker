@@ -1,0 +1,282 @@
+{
+    "date": "2023-12-07",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:51:25",
+                "end_time": "23:16:59",
+                "rating": 6.1,
+                "share": 15.18
+            },
+            {
+                "rank": 2,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "FOX",
+                "start_time": "20:59:01",
+                "end_time": "24:18:45",
+                "rating": 6.06,
+                "share": 16.23
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:19",
+                "end_time": "18:44:05",
+                "rating": 5.88,
+                "share": 23.88
+            },
+            {
+                "rank": 4,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:49:56",
+                "end_time": "24:18:07",
+                "rating": 5.14,
+                "share": 13.7
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:52",
+                "rating": 4.62,
+                "share": 13.98
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:10",
+                "end_time": "13:00:02",
+                "rating": 4.6,
+                "share": 31.3
+            },
+            {
+                "rank": 7,
+                "name": "SAKLA BENI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:15",
+                "end_time": "20:51:25",
+                "rating": 4.25,
+                "share": 11.33
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:52:18",
+                "rating": 4.06,
+                "share": 12.27
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:52:01",
+                "end_time": "24:23:54",
+                "rating": 3.99,
+                "share": 10.89
+            },
+            {
+                "rank": 10,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:03",
+                "end_time": "20:58:56",
+                "rating": 3.72,
+                "share": 9.73
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:52:01",
+                "end_time": "24:23:54",
+                "rating": 5.08,
+                "share": 15.07
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:52",
+                "rating": 4.59,
+                "share": 17.04
+            },
+            {
+                "rank": 3,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:49:56",
+                "end_time": "24:18:07",
+                "rating": 4.48,
+                "share": 12.93
+            },
+            {
+                "rank": 4,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:51:25",
+                "end_time": "23:16:59",
+                "rating": 4.15,
+                "share": 11.06
+            },
+            {
+                "rank": 5,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "FOX",
+                "start_time": "20:59:01",
+                "end_time": "24:18:45",
+                "rating": 4.03,
+                "share": 11.7
+            },
+            {
+                "rank": 6,
+                "name": "SAKLA BENI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:15",
+                "end_time": "20:51:25",
+                "rating": 3.19,
+                "share": 9.64
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:19",
+                "end_time": "18:44:05",
+                "rating": 3.17,
+                "share": 18.92
+            },
+            {
+                "rank": 8,
+                "name": "ALDATMAK (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:59",
+                "end_time": "20:49:56",
+                "rating": 3.15,
+                "share": 9.35
+            },
+            {
+                "rank": 9,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:03",
+                "end_time": "20:58:56",
+                "rating": 2.7,
+                "share": 7.91
+            },
+            {
+                "rank": 10,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:10",
+                "end_time": "13:00:02",
+                "rating": 2.69,
+                "share": 26.24
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "HUDUTSUZ SEVDA",
+                "channel": "FOX",
+                "start_time": "20:59:01",
+                "end_time": "24:18:45",
+                "rating": 5.64,
+                "share": 14.17
+            },
+            {
+                "rank": 2,
+                "name": "SAKLA BENI",
+                "channel": "STAR TV",
+                "start_time": "20:51:25",
+                "end_time": "23:16:59",
+                "rating": 5.4,
+                "share": 12.78
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:52",
+                "rating": 5.35,
+                "share": 17.38
+            },
+            {
+                "rank": 4,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:49:56",
+                "end_time": "24:18:07",
+                "rating": 5.33,
+                "share": 13.4
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:52:01",
+                "end_time": "24:23:54",
+                "rating": 5.29,
+                "share": 13.57
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:19",
+                "end_time": "18:44:05",
+                "rating": 4.56,
+                "share": 21.16
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:10",
+                "end_time": "13:00:02",
+                "rating": 4.35,
+                "share": 29.64
+            },
+            {
+                "rank": 8,
+                "name": "ALDATMAK (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:59",
+                "end_time": "20:49:56",
+                "rating": 3.85,
+                "share": 10.24
+            },
+            {
+                "rank": 9,
+                "name": "SAKLA BENI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:15",
+                "end_time": "20:51:25",
+                "rating": 3.76,
+                "share": 10.15
+            },
+            {
+                "rank": 10,
+                "name": "HUDUTSUZ SEVDA (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:03",
+                "end_time": "20:58:56",
+                "rating": 3.49,
+                "share": 9.17
+            }
+        ]
+    }
+}

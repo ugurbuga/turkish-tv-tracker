@@ -1,0 +1,282 @@
+{
+    "date": "2023-12-11",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:18",
+                "end_time": "18:44:04",
+                "rating": 6.31,
+                "share": 26.4
+            },
+            {
+                "rank": 2,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:39:12",
+                "end_time": "24:17:29",
+                "rating": 5.98,
+                "share": 15.94
+            },
+            {
+                "rank": 3,
+                "name": "SAFIR",
+                "channel": "ATV",
+                "start_time": "20:59:36",
+                "end_time": "24:16:55",
+                "rating": 4.59,
+                "share": 12.21
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:33",
+                "end_time": "13:00:01",
+                "rating": 4.52,
+                "share": 32.39
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "19:59:52",
+                "rating": 4.29,
+                "share": 12.54
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:52",
+                "end_time": "19:55:54",
+                "rating": 4.24,
+                "share": 12.39
+            },
+            {
+                "rank": 7,
+                "name": "CAKALLARLA DANS 6 (T.S)",
+                "channel": "FOX",
+                "start_time": "20:14:44",
+                "end_time": "22:27:54",
+                "rating": 4.09,
+                "share": 10.03
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:59:08",
+                "end_time": "24:22:33",
+                "rating": 4.03,
+                "share": 11.04
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:33",
+                "end_time": "19:59:45",
+                "rating": 3.43,
+                "share": 10.05
+            },
+            {
+                "rank": 10,
+                "name": "NE GEMILER YAKTIM",
+                "channel": "SHOW TV",
+                "start_time": "20:24:51",
+                "end_time": "22:42:18",
+                "rating": 3.31,
+                "share": 8.1
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:39:12",
+                "end_time": "24:17:29",
+                "rating": 6.58,
+                "share": 19.92
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:59:08",
+                "end_time": "24:22:33",
+                "rating": 4.75,
+                "share": 14.65
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "19:59:52",
+                "rating": 3.89,
+                "share": 13.68
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:18",
+                "end_time": "18:44:04",
+                "rating": 3.32,
+                "share": 19.5
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:52",
+                "end_time": "19:55:54",
+                "rating": 3.23,
+                "share": 11.36
+            },
+            {
+                "rank": 6,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:58:29",
+                "end_time": "20:39:12",
+                "rating": 3.13,
+                "share": 9.69
+            },
+            {
+                "rank": 7,
+                "name": "CAKALLARLA DANS 6 (T.S)",
+                "channel": "FOX",
+                "start_time": "20:14:44",
+                "end_time": "22:27:54",
+                "rating": 2.85,
+                "share": 8.08
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:33",
+                "end_time": "13:00:01",
+                "rating": 2.79,
+                "share": 27.02
+            },
+            {
+                "rank": 9,
+                "name": "NE GEMILER YAKTIM",
+                "channel": "SHOW TV",
+                "start_time": "20:24:51",
+                "end_time": "22:42:18",
+                "rating": 2.56,
+                "share": 7.22
+            },
+            {
+                "rank": 10,
+                "name": "KUDUS FATIHI SELAHADDIN EYYUBI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "19:59:42",
+                "end_time": "23:02:58",
+                "rating": 2.34,
+                "share": 6.74
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:39:12",
+                "end_time": "24:17:29",
+                "rating": 6.99,
+                "share": 17.82
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:59:08",
+                "end_time": "24:22:33",
+                "rating": 4.86,
+                "share": 12.62
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:18",
+                "end_time": "18:44:04",
+                "rating": 4.8,
+                "share": 22.59
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:33",
+                "end_time": "13:00:01",
+                "rating": 4.5,
+                "share": 31.57
+            },
+            {
+                "rank": 5,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:58:29",
+                "end_time": "20:39:12",
+                "rating": 4.01,
+                "share": 10.36
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "19:59:52",
+                "rating": 3.93,
+                "share": 11.83
+            },
+            {
+                "rank": 7,
+                "name": "CAKALLARLA DANS 6 (T.S)",
+                "channel": "FOX",
+                "start_time": "20:14:44",
+                "end_time": "22:27:54",
+                "rating": 3.85,
+                "share": 9.26
+            },
+            {
+                "rank": 8,
+                "name": "SAFIR",
+                "channel": "ATV",
+                "start_time": "20:59:36",
+                "end_time": "24:16:55",
+                "rating": 3.69,
+                "share": 9.38
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:52",
+                "end_time": "19:55:54",
+                "rating": 3.53,
+                "share": 10.63
+            },
+            {
+                "rank": 10,
+                "name": "NE GEMILER YAKTIM",
+                "channel": "SHOW TV",
+                "start_time": "20:24:51",
+                "end_time": "22:42:18",
+                "rating": 3.27,
+                "share": 7.8
+            }
+        ]
+    }
+}
