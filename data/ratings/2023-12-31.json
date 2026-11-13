@@ -1,0 +1,282 @@
+{
+    "date": "2023-12-31",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "O SES TURKIYE YILBASI OZEL",
+                "channel": "TV8",
+                "start_time": "19:23:01",
+                "end_time": "25:28:47",
+                "rating": 8.57,
+                "share": 22.03
+            },
+            {
+                "rank": 2,
+                "name": "MILLI PIYANGO YILBASI OZEL",
+                "channel": "KANAL D",
+                "start_time": "23:15:28",
+                "end_time": "23:25:51",
+                "rating": 5.53,
+                "share": 13.18
+            },
+            {
+                "rank": 3,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:59",
+                "rating": 4.42,
+                "share": 12.49
+            },
+            {
+                "rank": 4,
+                "name": "IBO SHOW YILBASI",
+                "channel": "STAR TV",
+                "start_time": "20:54:19",
+                "end_time": "24:35:30",
+                "rating": 4.36,
+                "share": 10.49
+            },
+            {
+                "rank": 5,
+                "name": "SARKILAR BIZI SOYLER",
+                "channel": "KANAL D",
+                "start_time": "20:14:18",
+                "end_time": "25:13:30",
+                "rating": 4.21,
+                "share": 10.59
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "19:59:14",
+                "end_time": "24:56:59",
+                "rating": 4.11,
+                "share": 10.26
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:40",
+                "end_time": "19:59:02",
+                "rating": 3.59,
+                "share": 10.13
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "20:00:14",
+                "rating": 3.42,
+                "share": 9.61
+            },
+            {
+                "rank": 9,
+                "name": "RAFADAN TAYFA GALAKTIK TAYFA (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:20:50",
+                "end_time": "21:59:34",
+                "rating": 3.4,
+                "share": 8.09
+            },
+            {
+                "rank": 10,
+                "name": "IBO SHOW UNUTULMAYANLAR",
+                "channel": "STAR TV",
+                "start_time": "19:47:26",
+                "end_time": "20:54:19",
+                "rating": 3.35,
+                "share": 8.42
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "O SES TURKIYE YILBASI OZEL",
+                "channel": "TV8",
+                "start_time": "19:23:01",
+                "end_time": "25:28:47",
+                "rating": 11.26,
+                "share": 28.83
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "19:59:14",
+                "end_time": "24:56:59",
+                "rating": 4.79,
+                "share": 11.82
+            },
+            {
+                "rank": 3,
+                "name": "MILLI PIYANGO YILBASI OZEL",
+                "channel": "KANAL D",
+                "start_time": "23:15:28",
+                "end_time": "23:25:51",
+                "rating": 4.32,
+                "share": 9.96
+            },
+            {
+                "rank": 4,
+                "name": "O SES TURKIYE YILBASI OZEL OZET",
+                "channel": "TV8",
+                "start_time": "18:28:10",
+                "end_time": "19:23:01",
+                "rating": 3.63,
+                "share": 13.63
+            },
+            {
+                "rank": 5,
+                "name": "SARKILAR BIZI SOYLER",
+                "channel": "KANAL D",
+                "start_time": "20:14:18",
+                "end_time": "25:13:30",
+                "rating": 3.61,
+                "share": 8.95
+            },
+            {
+                "rank": 6,
+                "name": "RAFADAN TAYFA GALAKTIK TAYFA (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:20:50",
+                "end_time": "21:59:34",
+                "rating": 3.53,
+                "share": 8.56
+            },
+            {
+                "rank": 7,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:59",
+                "rating": 3.46,
+                "share": 11.36
+            },
+            {
+                "rank": 8,
+                "name": "IBO SHOW YILBASI",
+                "channel": "STAR TV",
+                "start_time": "20:54:19",
+                "end_time": "24:35:30",
+                "rating": 3.17,
+                "share": 7.51
+            },
+            {
+                "rank": 9,
+                "name": "IBO SHOW UNUTULMAYANLAR",
+                "channel": "STAR TV",
+                "start_time": "19:47:26",
+                "end_time": "20:54:19",
+                "rating": 2.93,
+                "share": 7.76
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:40",
+                "end_time": "19:59:02",
+                "rating": 2.92,
+                "share": 9.55
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "O SES TURKIYE YILBASI OZEL",
+                "channel": "TV8",
+                "start_time": "19:23:01",
+                "end_time": "25:28:47",
+                "rating": 10.91,
+                "share": 26.54
+            },
+            {
+                "rank": 2,
+                "name": "MILLI PIYANGO YILBASI OZEL",
+                "channel": "KANAL D",
+                "start_time": "23:15:28",
+                "end_time": "23:25:51",
+                "rating": 5.39,
+                "share": 11.91
+            },
+            {
+                "rank": 3,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "19:59:14",
+                "end_time": "24:56:59",
+                "rating": 5.02,
+                "share": 11.85
+            },
+            {
+                "rank": 4,
+                "name": "SARKILAR BIZI SOYLER",
+                "channel": "KANAL D",
+                "start_time": "20:14:18",
+                "end_time": "25:13:30",
+                "rating": 4.44,
+                "share": 10.52
+            },
+            {
+                "rank": 5,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:59",
+                "rating": 4.03,
+                "share": 11.79
+            },
+            {
+                "rank": 6,
+                "name": "IBO SHOW YILBASI",
+                "channel": "STAR TV",
+                "start_time": "20:54:19",
+                "end_time": "24:35:30",
+                "rating": 3.75,
+                "share": 8.49
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:40",
+                "end_time": "19:59:02",
+                "rating": 3.37,
+                "share": 9.83
+            },
+            {
+                "rank": 8,
+                "name": "RAFADAN TAYFA GALAKTIK TAYFA (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:20:50",
+                "end_time": "21:59:34",
+                "rating": 3.23,
+                "share": 7.45
+            },
+            {
+                "rank": 9,
+                "name": "IBO SHOW UNUTULMAYANLAR",
+                "channel": "STAR TV",
+                "start_time": "19:47:26",
+                "end_time": "20:54:19",
+                "rating": 3.14,
+                "share": 7.8
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:30",
+                "end_time": "20:00:14",
+                "rating": 3.11,
+                "share": 9.03
+            }
+        ]
+    }
+}
