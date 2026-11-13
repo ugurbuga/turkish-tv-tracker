@@ -1,0 +1,282 @@
+{
+    "date": "2023-08-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:00:26",
+                "end_time": "24:25:56",
+                "rating": 3.81,
+                "share": 15.67
+            },
+            {
+                "rank": 2,
+                "name": "JURASSIC WORLD (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:53",
+                "end_time": "22:30:24",
+                "rating": 2.18,
+                "share": 8.91
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:01",
+                "rating": 2.16,
+                "share": 12.01
+            },
+            {
+                "rank": 4,
+                "name": "HABABAM SINIFI SINIFTA KALDI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "22:17:08",
+                "rating": 2.14,
+                "share": 9.05
+            },
+            {
+                "rank": 5,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "20:44:40",
+                "end_time": "24:18:26",
+                "rating": 1.97,
+                "share": 7.86
+            },
+            {
+                "rank": 6,
+                "name": "YAZ SARKISI",
+                "channel": "FOX",
+                "start_time": "20:58:08",
+                "end_time": "23:58:02",
+                "rating": 1.95,
+                "share": 7.72
+            },
+            {
+                "rank": 7,
+                "name": "AILE SEREFI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:17:24",
+                "end_time": "24:18:47",
+                "rating": 1.73,
+                "share": 7.09
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:04",
+                "end_time": "20:00:06",
+                "rating": 1.71,
+                "share": 9.53
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:39",
+                "end_time": "19:59:44",
+                "rating": 1.62,
+                "share": 8.96
+            },
+            {
+                "rank": 10,
+                "name": "BABA BIZI EVERSENE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "16:24:44",
+                "end_time": "18:17:29",
+                "rating": 1.5,
+                "share": 10.32
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:00:26",
+                "end_time": "24:25:56",
+                "rating": 4.14,
+                "share": 17.99
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:01",
+                "rating": 2.1,
+                "share": 12.11
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:47:24",
+                "end_time": "21:00:21",
+                "rating": 1.76,
+                "share": 9.01
+            },
+            {
+                "rank": 4,
+                "name": "JURASSIC WORLD (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:53",
+                "end_time": "22:30:24",
+                "rating": 1.7,
+                "share": 7.45
+            },
+            {
+                "rank": 5,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "20:44:40",
+                "end_time": "24:18:26",
+                "rating": 1.51,
+                "share": 6.4
+            },
+            {
+                "rank": 6,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:01",
+                "end_time": "18:59:04",
+                "rating": 1.41,
+                "share": 9.19
+            },
+            {
+                "rank": 7,
+                "name": "UMUDUNU KAYBETME (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:31",
+                "end_time": "22:33:37",
+                "rating": 1.41,
+                "share": 6.2
+            },
+            {
+                "rank": 8,
+                "name": "YAZ SARKISI",
+                "channel": "FOX",
+                "start_time": "20:58:08",
+                "end_time": "23:58:02",
+                "rating": 1.38,
+                "share": 5.82
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:39",
+                "end_time": "19:59:44",
+                "rating": 1.21,
+                "share": 6.98
+            },
+            {
+                "rank": 10,
+                "name": "HABABAM SINIFI SINIFTA KALDI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "22:17:08",
+                "rating": 1.17,
+                "share": 5.36
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:00:26",
+                "end_time": "24:25:56",
+                "rating": 4.87,
+                "share": 18.93
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:01",
+                "rating": 2.58,
+                "share": 13.68
+            },
+            {
+                "rank": 3,
+                "name": "JURASSIC WORLD (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:53",
+                "end_time": "22:30:24",
+                "rating": 1.96,
+                "share": 7.82
+            },
+            {
+                "rank": 4,
+                "name": "YAZ SARKISI",
+                "channel": "FOX",
+                "start_time": "20:58:08",
+                "end_time": "23:58:02",
+                "rating": 1.9,
+                "share": 7.13
+            },
+            {
+                "rank": 5,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "20:44:40",
+                "end_time": "24:18:26",
+                "rating": 1.8,
+                "share": 6.82
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:47:24",
+                "end_time": "21:00:21",
+                "rating": 1.72,
+                "share": 8.13
+            },
+            {
+                "rank": 7,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:01",
+                "end_time": "18:59:04",
+                "rating": 1.64,
+                "share": 9.65
+            },
+            {
+                "rank": 8,
+                "name": "HABABAM SINIFI SINIFTA KALDI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "22:17:08",
+                "rating": 1.56,
+                "share": 6.47
+            },
+            {
+                "rank": 9,
+                "name": "UMUDUNU KAYBETME (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "20:13:31",
+                "end_time": "22:33:37",
+                "rating": 1.53,
+                "share": 6.09
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:39",
+                "end_time": "19:59:44",
+                "rating": 1.52,
+                "share": 8.04
+            }
+        ]
+    }
+}

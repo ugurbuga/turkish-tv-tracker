@@ -1,0 +1,282 @@
+{
+    "date": "2023-08-09",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:50:40",
+                "end_time": "24:23:59",
+                "rating": 4.45,
+                "share": 18.53
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:59:11",
+                "end_time": "24:18:14",
+                "rating": 2.7,
+                "share": 10.87
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:59",
+                "end_time": "20:00:07",
+                "rating": 2.6,
+                "share": 13.38
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:06",
+                "end_time": "19:59:56",
+                "rating": 1.98,
+                "share": 10.19
+            },
+            {
+                "rank": 5,
+                "name": "BELALI TANIK 2 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:43",
+                "end_time": "22:25:31",
+                "rating": 1.87,
+                "share": 7.27
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:59",
+                "end_time": "20:00:07",
+                "rating": 1.73,
+                "share": 8.83
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:27:47",
+                "rating": 1.64,
+                "share": 6.53
+            },
+            {
+                "rank": 8,
+                "name": "BUMBLEBEE (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "22:27:36",
+                "rating": 1.62,
+                "share": 6.38
+            },
+            {
+                "rank": 9,
+                "name": "ARI MAYA (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:00:38",
+                "end_time": "21:44:06",
+                "rating": 1.59,
+                "share": 6.37
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:06",
+                "end_time": "18:59:06",
+                "rating": 1.5,
+                "share": 9.31
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:50:40",
+                "end_time": "24:23:59",
+                "rating": 4.87,
+                "share": 23.81
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:59",
+                "end_time": "20:00:07",
+                "rating": 2.33,
+                "share": 15.69
+            },
+            {
+                "rank": 3,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:59:11",
+                "end_time": "24:18:14",
+                "rating": 2.06,
+                "share": 9.74
+            },
+            {
+                "rank": 4,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:00:27",
+                "end_time": "18:13:54",
+                "rating": 1.48,
+                "share": 14.11
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:27:47",
+                "rating": 1.31,
+                "share": 6.56
+            },
+            {
+                "rank": 6,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:57",
+                "end_time": "20:59:11",
+                "rating": 1.29,
+                "share": 6.63
+            },
+            {
+                "rank": 7,
+                "name": "TOMB RAIDER (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:27:58",
+                "end_time": "24:45:27",
+                "rating": 1.28,
+                "share": 7.04
+            },
+            {
+                "rank": 8,
+                "name": "BELALI TANIK 2 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:43",
+                "end_time": "22:25:31",
+                "rating": 1.26,
+                "share": 5.96
+            },
+            {
+                "rank": 9,
+                "name": "BUMBLEBEE (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "22:27:36",
+                "rating": 1.14,
+                "share": 5.58
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:59",
+                "end_time": "20:00:07",
+                "rating": 1.14,
+                "share": 7.51
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:50:40",
+                "end_time": "24:23:59",
+                "rating": 5.58,
+                "share": 22.79
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:59:11",
+                "end_time": "24:18:14",
+                "rating": 2.97,
+                "share": 11.7
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:59",
+                "end_time": "20:00:07",
+                "rating": 2.79,
+                "share": 15.33
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:07",
+                "end_time": "21:27:47",
+                "rating": 1.77,
+                "share": 7.27
+            },
+            {
+                "rank": 5,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:57",
+                "end_time": "20:59:11",
+                "rating": 1.67,
+                "share": 7.05
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:59",
+                "end_time": "20:00:07",
+                "rating": 1.64,
+                "share": 8.91
+            },
+            {
+                "rank": 7,
+                "name": "BELALI TANIK 2 (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:43",
+                "end_time": "22:25:31",
+                "rating": 1.59,
+                "share": 6.23
+            },
+            {
+                "rank": 8,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:00:27",
+                "end_time": "18:13:54",
+                "rating": 1.43,
+                "share": 11.69
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:35:06",
+                "end_time": "20:50:35",
+                "rating": 1.4,
+                "share": 7.05
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:11",
+                "end_time": "18:57:59",
+                "rating": 1.37,
+                "share": 9.08
+            }
+        ]
+    }
+}
