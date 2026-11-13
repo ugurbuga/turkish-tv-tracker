@@ -1,0 +1,282 @@
+{
+    "date": "2023-10-07",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:48:43",
+                "end_time": "24:20:21",
+                "rating": 7.53,
+                "share": 22.14
+            },
+            {
+                "rank": 2,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:43:38",
+                "end_time": "24:17:44",
+                "rating": 5.38,
+                "share": 15.79
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:40:20",
+                "end_time": "24:17:28",
+                "rating": 3.98,
+                "share": 11.84
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:43:28",
+                "end_time": "20:48:43",
+                "rating": 3.87,
+                "share": 11.98
+            },
+            {
+                "rank": 5,
+                "name": "KARDESLERIM (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:40",
+                "end_time": "20:43:38",
+                "rating": 3.38,
+                "share": 10.61
+            },
+            {
+                "rank": 6,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:00",
+                "rating": 3.28,
+                "share": 12.21
+            },
+            {
+                "rank": 7,
+                "name": "KADER BAGLARI",
+                "channel": "FOX",
+                "start_time": "20:20:05",
+                "end_time": "22:34:01",
+                "rating": 2.61,
+                "share": 7.45
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:08",
+                "rating": 2.38,
+                "share": 8.77
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:53:22",
+                "rating": 2.16,
+                "share": 8.03
+            },
+            {
+                "rank": 10,
+                "name": "CENGIZ HAN DESTANI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:11:55",
+                "end_time": "22:37:04",
+                "rating": 2.11,
+                "share": 6.06
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:48:43",
+                "end_time": "24:20:21",
+                "rating": 7.5,
+                "share": 24.0
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:40:20",
+                "end_time": "24:17:28",
+                "rating": 4.82,
+                "share": 15.68
+            },
+            {
+                "rank": 3,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:43:38",
+                "end_time": "24:17:44",
+                "rating": 3.01,
+                "share": 9.62
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:43:28",
+                "end_time": "20:48:43",
+                "rating": 2.77,
+                "share": 9.99
+            },
+            {
+                "rank": 5,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:00",
+                "rating": 2.58,
+                "share": 10.93
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:02",
+                "rating": 1.94,
+                "share": 8.26
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:13",
+                "end_time": "24:19:16",
+                "rating": 1.82,
+                "share": 5.93
+            },
+            {
+                "rank": 8,
+                "name": "KADER BAGLARI",
+                "channel": "FOX",
+                "start_time": "20:20:05",
+                "end_time": "22:34:01",
+                "rating": 1.79,
+                "share": 5.8
+            },
+            {
+                "rank": 9,
+                "name": "KARDESLERIM (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:40",
+                "end_time": "20:43:38",
+                "rating": 1.71,
+                "share": 6.26
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:53:22",
+                "rating": 1.49,
+                "share": 6.31
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:48:43",
+                "end_time": "24:20:21",
+                "rating": 8.0,
+                "share": 22.57
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:40:20",
+                "end_time": "24:17:28",
+                "rating": 4.89,
+                "share": 13.97
+            },
+            {
+                "rank": 3,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:43:38",
+                "end_time": "24:17:44",
+                "rating": 3.96,
+                "share": 11.14
+            },
+            {
+                "rank": 4,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:43:28",
+                "end_time": "20:48:43",
+                "rating": 3.6,
+                "share": 11.4
+            },
+            {
+                "rank": 5,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:00",
+                "rating": 3.16,
+                "share": 12.29
+            },
+            {
+                "rank": 6,
+                "name": "KADER BAGLARI",
+                "channel": "FOX",
+                "start_time": "20:20:05",
+                "end_time": "22:34:01",
+                "rating": 2.53,
+                "share": 7.13
+            },
+            {
+                "rank": 7,
+                "name": "KARDESLERIM (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:40",
+                "end_time": "20:43:38",
+                "rating": 2.43,
+                "share": 7.84
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "20:00:02",
+                "rating": 2.07,
+                "share": 8.06
+            },
+            {
+                "rank": 9,
+                "name": "CENGIZ HAN DESTANI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:11:55",
+                "end_time": "22:37:04",
+                "rating": 2.04,
+                "share": 5.82
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:28",
+                "end_time": "20:00:08",
+                "rating": 1.99,
+                "share": 7.63
+            }
+        ]
+    }
+}
