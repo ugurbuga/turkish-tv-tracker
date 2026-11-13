@@ -1,0 +1,282 @@
+{
+    "date": "2024-01-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:45:46",
+                "end_time": "24:16:57",
+                "rating": 6.53,
+                "share": 16.85
+            },
+            {
+                "rank": 2,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:21:26",
+                "end_time": "24:17:22",
+                "rating": 5.76,
+                "share": 14.7
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:44",
+                "end_time": "18:44:04",
+                "rating": 5.51,
+                "share": 22.24
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:47",
+                "rating": 5.02,
+                "share": 14.19
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:52",
+                "end_time": "12:59:48",
+                "rating": 4.81,
+                "share": 33.22
+            },
+            {
+                "rank": 6,
+                "name": "SAFIR",
+                "channel": "ATV",
+                "start_time": "20:57:16",
+                "end_time": "24:18:58",
+                "rating": 4.08,
+                "share": 10.41
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:02",
+                "end_time": "19:50:59",
+                "rating": 3.71,
+                "share": 10.48
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:28",
+                "end_time": "20:00:00",
+                "rating": 3.36,
+                "share": 9.5
+            },
+            {
+                "rank": 9,
+                "name": "HIZLI VE OFKELI HOBBS VE SHAW (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:34",
+                "end_time": "22:42:04",
+                "rating": 3.14,
+                "share": 7.5
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:16",
+                "end_time": "20:00:01",
+                "rating": 3.09,
+                "share": 8.68
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:21:26",
+                "end_time": "24:17:22",
+                "rating": 5.81,
+                "share": 16.28
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:45:46",
+                "end_time": "24:16:57",
+                "rating": 5.14,
+                "share": 14.4
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:47",
+                "rating": 4.64,
+                "share": 16.49
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:52",
+                "end_time": "12:59:48",
+                "rating": 3.56,
+                "share": 33.46
+            },
+            {
+                "rank": 5,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:58:15",
+                "end_time": "20:21:26",
+                "rating": 3.23,
+                "share": 10.03
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:44",
+                "end_time": "18:44:04",
+                "rating": 2.7,
+                "share": 15.62
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:16",
+                "end_time": "20:00:01",
+                "rating": 2.55,
+                "share": 8.95
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:59:50",
+                "end_time": "20:45:46",
+                "rating": 2.29,
+                "share": 7.34
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:28",
+                "end_time": "20:00:00",
+                "rating": 2.2,
+                "share": 7.82
+            },
+            {
+                "rank": 10,
+                "name": "HIZLI VE OFKELI HOBBS VE SHAW (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:34",
+                "end_time": "22:42:04",
+                "rating": 2.12,
+                "share": 5.7
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:21:26",
+                "end_time": "24:17:22",
+                "rating": 7.02,
+                "share": 17.29
+            },
+            {
+                "rank": 2,
+                "name": "SURVIVOR ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:45:46",
+                "end_time": "24:16:57",
+                "rating": 6.52,
+                "share": 16.13
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:47",
+                "rating": 5.1,
+                "share": 15.22
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:52",
+                "end_time": "12:59:48",
+                "rating": 4.67,
+                "share": 33.22
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:44",
+                "end_time": "18:44:04",
+                "rating": 4.42,
+                "share": 20.11
+            },
+            {
+                "rank": 6,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:58:15",
+                "end_time": "20:21:26",
+                "rating": 3.65,
+                "share": 9.62
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:28",
+                "end_time": "20:00:00",
+                "rating": 3.03,
+                "share": 9.06
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:16",
+                "end_time": "20:00:01",
+                "rating": 3.01,
+                "share": 8.92
+            },
+            {
+                "rank": 9,
+                "name": "HIZLI VE OFKELI HOBBS VE SHAW (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:34",
+                "end_time": "22:42:04",
+                "rating": 2.81,
+                "share": 6.62
+            },
+            {
+                "rank": 10,
+                "name": "SAFIR",
+                "channel": "ATV",
+                "start_time": "20:57:16",
+                "end_time": "24:18:58",
+                "rating": 2.8,
+                "share": 6.86
+            }
+        ]
+    }
+}
