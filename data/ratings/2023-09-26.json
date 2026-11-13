@@ -1,0 +1,282 @@
+{
+    "date": "2023-09-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "YABANI",
+                "channel": "FOX",
+                "start_time": "20:54:51",
+                "end_time": "23:32:37",
+                "rating": 6.02,
+                "share": 17.68
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "13:00:06",
+                "rating": 4.27,
+                "share": 33.89
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:36:09",
+                "end_time": "24:22:33",
+                "rating": 4.21,
+                "share": 13.32
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:23:05",
+                "end_time": "18:44:10",
+                "rating": 3.64,
+                "share": 22.45
+            },
+            {
+                "rank": 5,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:35:33",
+                "end_time": "24:18:14",
+                "rating": 3.25,
+                "share": 10.06
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "19:59:50",
+                "rating": 3.04,
+                "share": 12.16
+            },
+            {
+                "rank": 7,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:50:19",
+                "end_time": "24:16:11",
+                "rating": 3.03,
+                "share": 9.41
+            },
+            {
+                "rank": 8,
+                "name": "YABANI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:01",
+                "end_time": "20:54:46",
+                "rating": 2.84,
+                "share": 8.81
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:08",
+                "end_time": "19:55:29",
+                "rating": 2.76,
+                "share": 11.02
+            },
+            {
+                "rank": 10,
+                "name": "MEVLID GECESI",
+                "channel": "TRT 1",
+                "start_time": "19:04:34",
+                "end_time": "21:11:23",
+                "rating": 2.51,
+                "share": 8.47
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:36:09",
+                "end_time": "24:22:33",
+                "rating": 5.56,
+                "share": 19.13
+            },
+            {
+                "rank": 2,
+                "name": "YABANI",
+                "channel": "FOX",
+                "start_time": "20:54:51",
+                "end_time": "23:32:37",
+                "rating": 4.55,
+                "share": 14.49
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "13:00:06",
+                "rating": 3.72,
+                "share": 33.96
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "19:59:50",
+                "rating": 2.96,
+                "share": 14.44
+            },
+            {
+                "rank": 5,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:50:19",
+                "end_time": "24:16:11",
+                "rating": 2.51,
+                "share": 8.42
+            },
+            {
+                "rank": 6,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:35:33",
+                "end_time": "24:18:14",
+                "rating": 2.39,
+                "share": 8.02
+            },
+            {
+                "rank": 7,
+                "name": "MUJDEMI ISTERIM (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:45",
+                "end_time": "22:25:32",
+                "rating": 2.11,
+                "share": 6.91
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:45:09",
+                "end_time": "20:36:05",
+                "rating": 2.1,
+                "share": 8.88
+            },
+            {
+                "rank": 9,
+                "name": "MEVLID GECESI",
+                "channel": "TRT 1",
+                "start_time": "19:04:34",
+                "end_time": "21:11:23",
+                "rating": 1.94,
+                "share": 7.5
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:53",
+                "end_time": "20:00:01",
+                "rating": 1.82,
+                "share": 8.7
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YABANI",
+                "channel": "FOX",
+                "start_time": "20:54:51",
+                "end_time": "23:32:37",
+                "rating": 5.94,
+                "share": 16.69
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:36:09",
+                "end_time": "24:22:33",
+                "rating": 5.65,
+                "share": 17.05
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:08",
+                "end_time": "13:00:06",
+                "rating": 4.72,
+                "share": 34.17
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "19:59:50",
+                "rating": 3.26,
+                "share": 13.46
+            },
+            {
+                "rank": 5,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:35:33",
+                "end_time": "24:18:14",
+                "rating": 3.14,
+                "share": 9.27
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:23:05",
+                "end_time": "18:44:10",
+                "rating": 2.92,
+                "share": 19.25
+            },
+            {
+                "rank": 7,
+                "name": "YABANI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:01",
+                "end_time": "20:54:46",
+                "rating": 2.78,
+                "share": 8.75
+            },
+            {
+                "rank": 8,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:50:19",
+                "end_time": "24:16:11",
+                "rating": 2.56,
+                "share": 7.58
+            },
+            {
+                "rank": 9,
+                "name": "MUJDEMI ISTERIM (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:45",
+                "end_time": "22:25:32",
+                "rating": 2.36,
+                "share": 6.99
+            },
+            {
+                "rank": 10,
+                "name": "MEVLID GECESI",
+                "channel": "TRT 1",
+                "start_time": "19:04:34",
+                "end_time": "21:11:23",
+                "rating": 2.33,
+                "share": 8.06
+            }
+        ]
+    }
+}

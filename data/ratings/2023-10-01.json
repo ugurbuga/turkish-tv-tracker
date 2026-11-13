@@ -1,0 +1,282 @@
+{
+    "date": "2023-10-01",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:58:51",
+                "end_time": "24:19:52",
+                "rating": 4.97,
+                "share": 15.12
+            },
+            {
+                "rank": 2,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:40:28",
+                "end_time": "23:18:14",
+                "rating": 4.93,
+                "share": 13.6
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:50:45",
+                "end_time": "24:26:01",
+                "rating": 4.28,
+                "share": 13.48
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:59",
+                "rating": 3.72,
+                "share": 12.08
+            },
+            {
+                "rank": 5,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:20",
+                "end_time": "20:58:40",
+                "rating": 3.31,
+                "share": 9.18
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "20:33:34",
+                "rating": 3.27,
+                "share": 9.4
+            },
+            {
+                "rank": 7,
+                "name": "KIRLI SEPETI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:09",
+                "end_time": "20:40:23",
+                "rating": 3.26,
+                "share": 9.29
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:33:34",
+                "end_time": "24:17:09",
+                "rating": 3.17,
+                "share": 9.53
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:46",
+                "end_time": "20:00:35",
+                "rating": 2.94,
+                "share": 9.5
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:55",
+                "end_time": "19:59:43",
+                "rating": 2.78,
+                "share": 9.06
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:58:51",
+                "end_time": "24:19:52",
+                "rating": 6.34,
+                "share": 19.45
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:50:45",
+                "end_time": "24:26:01",
+                "rating": 5.52,
+                "share": 17.46
+            },
+            {
+                "rank": 3,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:20",
+                "end_time": "20:58:40",
+                "rating": 4.15,
+                "share": 13.02
+            },
+            {
+                "rank": 4,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "20:33:34",
+                "rating": 3.07,
+                "share": 10.32
+            },
+            {
+                "rank": 5,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:40:28",
+                "end_time": "23:18:14",
+                "rating": 3.03,
+                "share": 8.74
+            },
+            {
+                "rank": 6,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:59",
+                "rating": 2.87,
+                "share": 10.68
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:33:34",
+                "end_time": "24:17:09",
+                "rating": 2.86,
+                "share": 8.71
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:46",
+                "end_time": "20:00:35",
+                "rating": 2.57,
+                "share": 9.55
+            },
+            {
+                "rank": 9,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:44:02",
+                "end_time": "23:38:09",
+                "rating": 2.26,
+                "share": 6.68
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:54:47",
+                "rating": 2.02,
+                "share": 7.53
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:58:51",
+                "end_time": "24:19:52",
+                "rating": 6.8,
+                "share": 18.56
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:50:45",
+                "end_time": "24:26:01",
+                "rating": 5.73,
+                "share": 16.19
+            },
+            {
+                "rank": 3,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:20",
+                "end_time": "20:58:40",
+                "rating": 4.63,
+                "share": 12.45
+            },
+            {
+                "rank": 4,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:40:28",
+                "end_time": "23:18:14",
+                "rating": 4.52,
+                "share": 11.55
+            },
+            {
+                "rank": 5,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:59",
+                "rating": 3.83,
+                "share": 12.28
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:46",
+                "end_time": "20:00:35",
+                "rating": 3.27,
+                "share": 10.41
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "20:33:34",
+                "rating": 3.12,
+                "share": 8.75
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:33:34",
+                "end_time": "24:17:09",
+                "rating": 3.07,
+                "share": 8.33
+            },
+            {
+                "rank": 9,
+                "name": "KIRLI SEPETI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:09",
+                "end_time": "20:40:23",
+                "rating": 2.9,
+                "share": 8.05
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:55",
+                "end_time": "19:59:43",
+                "rating": 2.6,
+                "share": 8.34
+            }
+        ]
+    }
+}
