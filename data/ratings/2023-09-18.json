@@ -1,0 +1,282 @@
+{
+    "date": "2023-09-18",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:53:34",
+                "end_time": "24:20:45",
+                "rating": 4.65,
+                "share": 15.33
+            },
+            {
+                "rank": 2,
+                "name": "BAMBASKA BIRI",
+                "channel": "FOX",
+                "start_time": "20:34:44",
+                "end_time": "23:18:16",
+                "rating": 4.53,
+                "share": 13.2
+            },
+            {
+                "rank": 3,
+                "name": "SAFIR",
+                "channel": "ATV",
+                "start_time": "20:36:13",
+                "end_time": "23:16:56",
+                "rating": 4.43,
+                "share": 13.0
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:16",
+                "end_time": "13:00:02",
+                "rating": 3.83,
+                "share": 32.49
+            },
+            {
+                "rank": 5,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "21:00:12",
+                "end_time": "24:16:24",
+                "rating": 3.38,
+                "share": 10.85
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:52",
+                "end_time": "18:44:18",
+                "rating": 3.17,
+                "share": 19.71
+            },
+            {
+                "rank": 7,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:03",
+                "rating": 2.98,
+                "share": 12.41
+            },
+            {
+                "rank": 8,
+                "name": "BAMBASKA BIRI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:13",
+                "end_time": "20:34:39",
+                "rating": 2.84,
+                "share": 9.15
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:54:28",
+                "rating": 2.78,
+                "share": 11.53
+            },
+            {
+                "rank": 10,
+                "name": "YEDI BELA HUSNU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "21:49:22",
+                "rating": 2.7,
+                "share": 8.16
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:53:34",
+                "end_time": "24:20:45",
+                "rating": 5.15,
+                "share": 17.19
+            },
+            {
+                "rank": 2,
+                "name": "BAMBASKA BIRI",
+                "channel": "FOX",
+                "start_time": "20:34:44",
+                "end_time": "23:18:16",
+                "rating": 4.91,
+                "share": 14.76
+            },
+            {
+                "rank": 3,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "21:00:12",
+                "end_time": "24:16:24",
+                "rating": 4.25,
+                "share": 13.82
+            },
+            {
+                "rank": 4,
+                "name": "SAFIR",
+                "channel": "ATV",
+                "start_time": "20:36:13",
+                "end_time": "23:16:56",
+                "rating": 2.95,
+                "share": 8.91
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:03",
+                "rating": 2.91,
+                "share": 13.78
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:50",
+                "end_time": "20:00:27",
+                "rating": 2.9,
+                "share": 13.38
+            },
+            {
+                "rank": 7,
+                "name": "BAMBASKA BIRI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:13",
+                "end_time": "20:34:39",
+                "rating": 2.6,
+                "share": 9.24
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:16",
+                "end_time": "13:00:02",
+                "rating": 2.52,
+                "share": 25.99
+            },
+            {
+                "rank": 9,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:58:12",
+                "end_time": "21:00:12",
+                "rating": 2.35,
+                "share": 7.92
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:46:03",
+                "end_time": "20:53:34",
+                "rating": 1.97,
+                "share": 7.75
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:53:34",
+                "end_time": "24:20:45",
+                "rating": 5.57,
+                "share": 17.11
+            },
+            {
+                "rank": 2,
+                "name": "BAMBASKA BIRI",
+                "channel": "FOX",
+                "start_time": "20:34:44",
+                "end_time": "23:18:16",
+                "rating": 5.31,
+                "share": 14.72
+            },
+            {
+                "rank": 3,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "21:00:12",
+                "end_time": "24:16:24",
+                "rating": 4.25,
+                "share": 12.67
+            },
+            {
+                "rank": 4,
+                "name": "SAFIR",
+                "channel": "ATV",
+                "start_time": "20:36:13",
+                "end_time": "23:16:56",
+                "rating": 3.79,
+                "share": 10.54
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:16",
+                "end_time": "13:00:02",
+                "rating": 3.78,
+                "share": 30.71
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:03",
+                "rating": 3.61,
+                "share": 14.64
+            },
+            {
+                "rank": 7,
+                "name": "BAMBASKA BIRI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:13",
+                "end_time": "20:34:39",
+                "rating": 3.39,
+                "share": 10.83
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:52",
+                "end_time": "18:44:18",
+                "rating": 2.71,
+                "share": 16.41
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:50",
+                "end_time": "20:00:27",
+                "rating": 2.59,
+                "share": 10.27
+            },
+            {
+                "rank": 10,
+                "name": "YEDI BELA HUSNU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "21:49:22",
+                "rating": 2.34,
+                "share": 6.91
+            }
+        ]
+    }
+}
