@@ -1,0 +1,282 @@
+{
+    "date": "2023-08-29",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:31:16",
+                "end_time": "24:19:34",
+                "rating": 4.21,
+                "share": 15.88
+            },
+            {
+                "rank": 2,
+                "name": "COPCULER KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "21:45:00",
+                "rating": 2.92,
+                "share": 11.24
+            },
+            {
+                "rank": 3,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:17",
+                "end_time": "23:33:29",
+                "rating": 2.73,
+                "share": 9.84
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:01",
+                "end_time": "18:44:05",
+                "rating": 2.46,
+                "share": 16.95
+            },
+            {
+                "rank": 5,
+                "name": "DONENCE",
+                "channel": "KANAL D",
+                "start_time": "21:00:26",
+                "end_time": "24:16:15",
+                "rating": 2.34,
+                "share": 8.68
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:01",
+                "end_time": "24:18:08",
+                "rating": 2.27,
+                "share": 8.35
+            },
+            {
+                "rank": 7,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:59",
+                "end_time": "20:00:06",
+                "rating": 2.19,
+                "share": 11.63
+            },
+            {
+                "rank": 8,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:59:18",
+                "end_time": "23:28:01",
+                "rating": 2.08,
+                "share": 7.39
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:02",
+                "end_time": "20:00:17",
+                "rating": 1.84,
+                "share": 9.61
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:00",
+                "end_time": "19:54:59",
+                "rating": 1.74,
+                "share": 9.27
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:31:16",
+                "end_time": "24:19:34",
+                "rating": 5.11,
+                "share": 20.35
+            },
+            {
+                "rank": 2,
+                "name": "DONENCE",
+                "channel": "KANAL D",
+                "start_time": "21:00:26",
+                "end_time": "24:16:15",
+                "rating": 2.42,
+                "share": 9.44
+            },
+            {
+                "rank": 3,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:01",
+                "end_time": "24:18:08",
+                "rating": 2.31,
+                "share": 8.93
+            },
+            {
+                "rank": 4,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:17",
+                "end_time": "23:33:29",
+                "rating": 2.19,
+                "share": 8.22
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:59",
+                "end_time": "20:00:06",
+                "rating": 2.01,
+                "share": 11.77
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:02",
+                "end_time": "20:00:17",
+                "rating": 1.72,
+                "share": 9.97
+            },
+            {
+                "rank": 7,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:59:18",
+                "end_time": "23:28:01",
+                "rating": 1.64,
+                "share": 6.25
+            },
+            {
+                "rank": 8,
+                "name": "DONENCE (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:02",
+                "end_time": "21:00:15",
+                "rating": 1.53,
+                "share": 6.96
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:45:14",
+                "end_time": "20:31:16",
+                "rating": 1.5,
+                "share": 8.01
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D HABER GUN ARASI",
+                "channel": "KANAL D",
+                "start_time": "12:00:13",
+                "end_time": "13:00:29",
+                "rating": 1.4,
+                "share": 14.18
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:31:16",
+                "end_time": "24:19:34",
+                "rating": 5.51,
+                "share": 19.98
+            },
+            {
+                "rank": 2,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:43:01",
+                "end_time": "24:18:08",
+                "rating": 2.46,
+                "share": 8.71
+            },
+            {
+                "rank": 3,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:45:17",
+                "end_time": "23:33:29",
+                "rating": 2.36,
+                "share": 8.1
+            },
+            {
+                "rank": 4,
+                "name": "DONENCE",
+                "channel": "KANAL D",
+                "start_time": "21:00:26",
+                "end_time": "24:16:15",
+                "rating": 2.3,
+                "share": 8.19
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:59",
+                "end_time": "20:00:06",
+                "rating": 2.26,
+                "share": 12.44
+            },
+            {
+                "rank": 6,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:59:18",
+                "end_time": "23:28:01",
+                "rating": 2.04,
+                "share": 7.05
+            },
+            {
+                "rank": 7,
+                "name": "COPCULER KRALI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:56",
+                "end_time": "21:45:00",
+                "rating": 1.83,
+                "share": 7.34
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:02",
+                "end_time": "20:00:17",
+                "rating": 1.57,
+                "share": 8.56
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:01",
+                "end_time": "18:44:05",
+                "rating": 1.52,
+                "share": 12.58
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:45:14",
+                "end_time": "20:31:16",
+                "rating": 1.51,
+                "share": 7.53
+            }
+        ]
+    }
+}

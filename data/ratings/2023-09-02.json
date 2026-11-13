@@ -1,0 +1,282 @@
+{
+    "date": "2023-09-02",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:45:20",
+                "end_time": "24:17:31",
+                "rating": 4.35,
+                "share": 17.55
+            },
+            {
+                "rank": 2,
+                "name": "MALEFIZ KOTULUGUN GUCU (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:11",
+                "end_time": "22:30:10",
+                "rating": 2.38,
+                "share": 9.74
+            },
+            {
+                "rank": 3,
+                "name": "YA COK SEVERSEN",
+                "channel": "KANAL D",
+                "start_time": "20:59:10",
+                "end_time": "24:18:41",
+                "rating": 1.94,
+                "share": 7.8
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "24:16:13",
+                "rating": 1.92,
+                "share": 7.82
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:53",
+                "rating": 1.9,
+                "share": 10.52
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:58",
+                "end_time": "19:59:50",
+                "rating": 1.84,
+                "share": 10.17
+            },
+            {
+                "rank": 7,
+                "name": "JACK REACHER 2 ASLA GERI DONME (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:30:31",
+                "end_time": "24:44:37",
+                "rating": 1.59,
+                "share": 7.35
+            },
+            {
+                "rank": 8,
+                "name": "AILE HUKUMETI (T.S)",
+                "channel": "FOX",
+                "start_time": "19:59:58",
+                "end_time": "22:22:17",
+                "rating": 1.42,
+                "share": 5.84
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:50",
+                "end_time": "20:00:16",
+                "rating": 1.4,
+                "share": 7.7
+            },
+            {
+                "rank": 10,
+                "name": "YA COK SEVERSEN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:01",
+                "end_time": "20:58:59",
+                "rating": 1.36,
+                "share": 5.82
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:45:20",
+                "end_time": "24:17:31",
+                "rating": 5.65,
+                "share": 24.33
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "24:16:13",
+                "rating": 1.81,
+                "share": 8.03
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:53",
+                "rating": 1.76,
+                "share": 10.73
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:50",
+                "end_time": "20:00:16",
+                "rating": 1.59,
+                "share": 9.7
+            },
+            {
+                "rank": 5,
+                "name": "MALEFIZ KOTULUGUN GUCU (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:11",
+                "end_time": "22:30:10",
+                "rating": 1.58,
+                "share": 7.25
+            },
+            {
+                "rank": 6,
+                "name": "YA COK SEVERSEN",
+                "channel": "KANAL D",
+                "start_time": "20:59:10",
+                "end_time": "24:18:41",
+                "rating": 1.32,
+                "share": 5.73
+            },
+            {
+                "rank": 7,
+                "name": "AILE HUKUMETI (T.S)",
+                "channel": "FOX",
+                "start_time": "19:59:58",
+                "end_time": "22:22:17",
+                "rating": 1.27,
+                "share": 5.87
+            },
+            {
+                "rank": 8,
+                "name": "JACK REACHER 2 ASLA GERI DONME (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:30:31",
+                "end_time": "24:44:37",
+                "rating": 1.23,
+                "share": 5.9
+            },
+            {
+                "rank": 9,
+                "name": "EKONOMI ARASI",
+                "channel": "FOX",
+                "start_time": "10:01:26",
+                "end_time": "10:04:50",
+                "rating": 1.08,
+                "share": 14.48
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:14",
+                "end_time": "18:57:50",
+                "rating": 1.04,
+                "share": 7.7
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:45:20",
+                "end_time": "24:17:31",
+                "rating": 5.94,
+                "share": 22.89
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:53",
+                "rating": 2.24,
+                "share": 12.07
+            },
+            {
+                "rank": 3,
+                "name": "MALEFIZ KOTULUGUN GUCU (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:11",
+                "end_time": "22:30:10",
+                "rating": 1.91,
+                "share": 7.9
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:01",
+                "end_time": "24:16:13",
+                "rating": 1.83,
+                "share": 7.28
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:50",
+                "end_time": "20:00:16",
+                "rating": 1.7,
+                "share": 9.24
+            },
+            {
+                "rank": 6,
+                "name": "YA COK SEVERSEN",
+                "channel": "KANAL D",
+                "start_time": "20:59:10",
+                "end_time": "24:18:41",
+                "rating": 1.64,
+                "share": 6.3
+            },
+            {
+                "rank": 7,
+                "name": "AILE HUKUMETI (T.S)",
+                "channel": "FOX",
+                "start_time": "19:59:58",
+                "end_time": "22:22:17",
+                "rating": 1.47,
+                "share": 6.13
+            },
+            {
+                "rank": 8,
+                "name": "JACK REACHER 2 ASLA GERI DONME (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:30:31",
+                "end_time": "24:44:37",
+                "rating": 1.41,
+                "share": 6.02
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:58",
+                "end_time": "19:59:50",
+                "rating": 1.33,
+                "share": 7.18
+            },
+            {
+                "rank": 10,
+                "name": "YA COK SEVERSEN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:01",
+                "end_time": "20:58:59",
+                "rating": 1.3,
+                "share": 5.78
+            }
+        ]
+    }
+}

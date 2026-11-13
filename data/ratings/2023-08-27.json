@@ -1,0 +1,282 @@
+{
+    "date": "2023-08-27",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:43:34",
+                "end_time": "24:32:34",
+                "rating": 4.56,
+                "share": 18.77
+            },
+            {
+                "rank": 2,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "22:22:29",
+                "rating": 2.8,
+                "share": 11.21
+            },
+            {
+                "rank": 3,
+                "name": "YAZ SARKISI",
+                "channel": "FOX",
+                "start_time": "20:58:11",
+                "end_time": "23:46:09",
+                "rating": 2.38,
+                "share": 9.18
+            },
+            {
+                "rank": 4,
+                "name": "SARK BULBULU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:45",
+                "end_time": "24:16:55",
+                "rating": 2.35,
+                "share": 9.77
+            },
+            {
+                "rank": 5,
+                "name": "AVCI KATILI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:07",
+                "end_time": "22:30:26",
+                "rating": 2.29,
+                "share": 8.96
+            },
+            {
+                "rank": 6,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:02",
+                "rating": 2.25,
+                "share": 12.09
+            },
+            {
+                "rank": 7,
+                "name": "ANKA (T.S)",
+                "channel": "ATV",
+                "start_time": "20:00:07",
+                "end_time": "22:45:32",
+                "rating": 1.62,
+                "share": 6.4
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:57",
+                "end_time": "19:59:58",
+                "rating": 1.61,
+                "share": 8.65
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:48",
+                "end_time": "19:59:59",
+                "rating": 1.55,
+                "share": 8.22
+            },
+            {
+                "rank": 10,
+                "name": "YAZ SARKISI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:07",
+                "end_time": "20:58:06",
+                "rating": 1.54,
+                "share": 6.44
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:43:34",
+                "end_time": "24:32:34",
+                "rating": 5.63,
+                "share": 24.75
+            },
+            {
+                "rank": 2,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "22:22:29",
+                "rating": 2.14,
+                "share": 9.75
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:02",
+                "rating": 2.11,
+                "share": 12.77
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:48",
+                "end_time": "19:59:59",
+                "rating": 1.78,
+                "share": 10.59
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:32:57",
+                "end_time": "20:43:29",
+                "rating": 1.6,
+                "share": 9.01
+            },
+            {
+                "rank": 6,
+                "name": "SARK BULBULU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:45",
+                "end_time": "24:16:55",
+                "rating": 1.49,
+                "share": 6.45
+            },
+            {
+                "rank": 7,
+                "name": "AVCI KATILI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:07",
+                "end_time": "22:30:26",
+                "rating": 1.38,
+                "share": 6.1
+            },
+            {
+                "rank": 8,
+                "name": "ANKA (T.S)",
+                "channel": "ATV",
+                "start_time": "20:00:07",
+                "end_time": "22:45:32",
+                "rating": 1.29,
+                "share": 5.79
+            },
+            {
+                "rank": 9,
+                "name": "YAZ SARKISI",
+                "channel": "FOX",
+                "start_time": "20:58:11",
+                "end_time": "23:46:09",
+                "rating": 1.23,
+                "share": 5.15
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:57",
+                "end_time": "19:59:58",
+                "rating": 1.21,
+                "share": 7.34
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:43:34",
+                "end_time": "24:32:34",
+                "rating": 5.83,
+                "share": 22.86
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:02",
+                "rating": 2.37,
+                "share": 12.96
+            },
+            {
+                "rank": 3,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "22:22:29",
+                "rating": 2.25,
+                "share": 9.12
+            },
+            {
+                "rank": 4,
+                "name": "AVCI KATILI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:07",
+                "end_time": "22:30:26",
+                "rating": 2.24,
+                "share": 8.8
+            },
+            {
+                "rank": 5,
+                "name": "SARK BULBULU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:22:45",
+                "end_time": "24:16:55",
+                "rating": 1.9,
+                "share": 7.31
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:32:57",
+                "end_time": "20:43:29",
+                "rating": 1.72,
+                "share": 8.64
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:48",
+                "end_time": "19:59:59",
+                "rating": 1.71,
+                "share": 9.18
+            },
+            {
+                "rank": 8,
+                "name": "YAZ SARKISI",
+                "channel": "FOX",
+                "start_time": "20:58:11",
+                "end_time": "23:46:09",
+                "rating": 1.68,
+                "share": 6.27
+            },
+            {
+                "rank": 9,
+                "name": "ANKA (T.S)",
+                "channel": "ATV",
+                "start_time": "20:00:07",
+                "end_time": "22:45:32",
+                "rating": 1.39,
+                "share": 5.55
+            },
+            {
+                "rank": 10,
+                "name": "KOSEYI DONEN ADAM (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "14:53:08",
+                "end_time": "16:29:34",
+                "rating": 1.35,
+                "share": 10.14
+            }
+        ]
+    }
+}
