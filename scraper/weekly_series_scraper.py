@@ -1,15 +1,14 @@
-import base64
 import json
 import re
 import unicodedata
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from crypto_utils import xor_encrypt, xor_decrypt
 
 import requests
 from bs4 import BeautifulSoup
 
-SECRET_KEY = "turkish-tv-tracker-2026"
 ENCRYPTED_URL = "HAEGGxpJRwJFRh1FFggZAkscSEYfXxsfFBwKBR8JXw=="
 
 ENCRYPTED_ATV_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsTFRVFFRxK"
@@ -73,32 +72,6 @@ MONTHS = {
     "Kasım": 11,
     "Aralık": 12
 }
-
-
-def xor_encrypt(value):
-    if value is None:
-        return None
-
-    key = SECRET_KEY.encode("utf-8")
-    payload = value.encode("utf-8")
-    encrypted = bytes(
-        byte ^ key[index % len(key)]
-        for index, byte in enumerate(payload)
-    )
-    return base64.b64encode(encrypted).decode("ascii")
-
-
-def xor_decrypt(value):
-    if value is None:
-        return None
-
-    key = SECRET_KEY.encode("utf-8")
-    encrypted = base64.b64decode(value.encode("ascii"))
-    decrypted = bytes(
-        byte ^ key[index % len(key)]
-        for index, byte in enumerate(encrypted)
-    )
-    return decrypted.decode("utf-8")
 
 
 def normalize_text(value):
