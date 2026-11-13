@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-22",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:41",
+                "end_time": "24:18:29",
+                "rating": 3.15,
+                "share": 14.85
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:38:10",
+                "end_time": "23:44:48",
+                "rating": 2.53,
+                "share": 11.6
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:47",
+                "rating": 1.97,
+                "share": 13.19
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "19:59:46",
+                "rating": 1.82,
+                "share": 12.23
+            },
+            {
+                "rank": 5,
+                "name": "BUZ DEVRI 2 ERIME BASLIYOR (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:51:31",
+                "rating": 1.77,
+                "share": 9.3
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "20:38:10",
+                "rating": 1.67,
+                "share": 9.95
+            },
+            {
+                "rank": 7,
+                "name": "LOS ANGELES'TA GIZLI GOREV (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:51:52",
+                "end_time": "23:34:16",
+                "rating": 1.33,
+                "share": 5.93
+            },
+            {
+                "rank": 8,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:59:03",
+                "rating": 1.19,
+                "share": 8.23
+            },
+            {
+                "rank": 9,
+                "name": "YA COK SEVERSEN (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:03",
+                "end_time": "23:15:11",
+                "rating": 1.19,
+                "share": 5.67
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:53:02",
+                "rating": 1.18,
+                "share": 7.89
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:41",
+                "end_time": "24:18:29",
+                "rating": 3.24,
+                "share": 17.26
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:38:10",
+                "end_time": "23:44:48",
+                "rating": 2.38,
+                "share": 12.48
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:47",
+                "rating": 1.69,
+                "share": 12.51
+            },
+            {
+                "rank": 4,
+                "name": "BUZ DEVRI 2 ERIME BASLIYOR (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:51:31",
+                "rating": 1.58,
+                "share": 9.01
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "19:59:46",
+                "rating": 1.13,
+                "share": 8.43
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "20:38:10",
+                "rating": 1.06,
+                "share": 6.79
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:28",
+                "end_time": "20:00:13",
+                "rating": 1.0,
+                "share": 7.33
+            },
+            {
+                "rank": 8,
+                "name": "YA COK SEVERSEN (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:01:03",
+                "end_time": "23:15:11",
+                "rating": 0.91,
+                "share": 4.88
+            },
+            {
+                "rank": 9,
+                "name": "GOREVIMIZ TEHLIKE 4 HAYALET PROTOKOL (Y.S)",
+                "channel": "BEYAZ TV",
+                "start_time": "19:26:27",
+                "end_time": "21:49:02",
+                "rating": 0.81,
+                "share": 4.86
+            },
+            {
+                "rank": 10,
+                "name": "VEDA MEKTUBU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "13:00:26",
+                "end_time": "16:09:07",
+                "rating": 0.81,
+                "share": 7.6
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:41",
+                "end_time": "24:18:29",
+                "rating": 4.07,
+                "share": 19.44
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:38:10",
+                "end_time": "23:44:48",
+                "rating": 2.83,
+                "share": 13.33
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:47",
+                "rating": 2.22,
+                "share": 14.21
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "20:38:10",
+                "rating": 2.04,
+                "share": 11.73
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "19:59:46",
+                "rating": 1.67,
+                "share": 10.69
+            },
+            {
+                "rank": 6,
+                "name": "BUZ DEVRI 2 ERIME BASLIYOR (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:51:31",
+                "rating": 1.6,
+                "share": 8.39
+            },
+            {
+                "rank": 7,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:59:03",
+                "rating": 1.25,
+                "share": 8.3
+            },
+            {
+                "rank": 8,
+                "name": "LOS ANGELES'TA GIZLI GOREV (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:51:52",
+                "end_time": "23:34:16",
+                "rating": 1.11,
+                "share": 5.13
+            },
+            {
+                "rank": 9,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:07",
+                "end_time": "18:57:28",
+                "rating": 1.05,
+                "share": 6.96
+            },
+            {
+                "rank": 10,
+                "name": "MAGAZIN D CUMARTESI",
+                "channel": "KANAL D",
+                "start_time": "09:44:18",
+                "end_time": "12:59:31",
+                "rating": 1.04,
+                "share": 9.07
+            }
+        ]
+    }
+}

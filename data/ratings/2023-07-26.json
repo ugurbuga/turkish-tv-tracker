@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:40:54",
+                "end_time": "24:19:02",
+                "rating": 3.72,
+                "share": 15.64
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:56:49",
+                "end_time": "24:19:23",
+                "rating": 2.53,
+                "share": 10.5
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "20:00:04",
+                "rating": 2.37,
+                "share": 13.51
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "20:00:00",
+                "rating": 1.82,
+                "share": 10.36
+            },
+            {
+                "rank": 5,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:21",
+                "end_time": "20:56:49",
+                "rating": 1.74,
+                "share": 7.96
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:52",
+                "end_time": "20:00:05",
+                "rating": 1.7,
+                "share": 9.63
+            },
+            {
+                "rank": 7,
+                "name": "VENOM ZEHIRLI OFKE (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "21:57:37",
+                "rating": 1.63,
+                "share": 7.17
+            },
+            {
+                "rank": 8,
+                "name": "AY'IN DUSUSU (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:45",
+                "end_time": "22:38:15",
+                "rating": 1.4,
+                "share": 5.84
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:03:15",
+                "end_time": "18:14:49",
+                "rating": 1.36,
+                "share": 9.83
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:09",
+                "end_time": "18:57:52",
+                "rating": 1.33,
+                "share": 8.75
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:40:54",
+                "end_time": "24:19:02",
+                "rating": 4.32,
+                "share": 18.71
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:56:49",
+                "end_time": "24:19:23",
+                "rating": 2.59,
+                "share": 11.11
+            },
+            {
+                "rank": 3,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:21",
+                "end_time": "20:56:49",
+                "rating": 2.49,
+                "share": 11.57
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:52",
+                "end_time": "20:00:05",
+                "rating": 1.83,
+                "share": 10.88
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "19:06:24",
+                "end_time": "20:40:54",
+                "rating": 1.55,
+                "share": 8.16
+            },
+            {
+                "rank": 6,
+                "name": "AY'IN DUSUSU (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:45",
+                "end_time": "22:38:15",
+                "rating": 1.53,
+                "share": 6.57
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "20:00:00",
+                "rating": 1.46,
+                "share": 8.82
+            },
+            {
+                "rank": 8,
+                "name": "RUHUN DUYMAZ (TKR)",
+                "channel": "FOX",
+                "start_time": "20:00:14",
+                "end_time": "22:49:02",
+                "rating": 1.45,
+                "share": 6.21
+            },
+            {
+                "rank": 9,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "20:00:04",
+                "rating": 1.42,
+                "share": 8.59
+            },
+            {
+                "rank": 10,
+                "name": "VENOM ZEHIRLI OFKE (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "21:57:37",
+                "rating": 1.23,
+                "share": 5.53
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:40:54",
+                "end_time": "24:19:02",
+                "rating": 4.82,
+                "share": 18.85
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:56:49",
+                "end_time": "24:19:23",
+                "rating": 2.92,
+                "share": 11.29
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "20:00:04",
+                "rating": 2.39,
+                "share": 13.37
+            },
+            {
+                "rank": 4,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:21",
+                "end_time": "20:56:49",
+                "rating": 2.11,
+                "share": 9.18
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "20:00:00",
+                "rating": 1.85,
+                "share": 10.34
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:52",
+                "end_time": "20:00:05",
+                "rating": 1.81,
+                "share": 9.96
+            },
+            {
+                "rank": 7,
+                "name": "VENOM ZEHIRLI OFKE (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "21:57:37",
+                "rating": 1.76,
+                "share": 7.4
+            },
+            {
+                "rank": 8,
+                "name": "AY'IN DUSUSU (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:45",
+                "end_time": "22:38:15",
+                "rating": 1.53,
+                "share": 6.06
+            },
+            {
+                "rank": 9,
+                "name": "RUHUN DUYMAZ (TKR)",
+                "channel": "FOX",
+                "start_time": "20:00:14",
+                "end_time": "22:49:02",
+                "rating": 1.51,
+                "share": 6.0
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "19:06:24",
+                "end_time": "20:40:54",
+                "rating": 1.45,
+                "share": 7.08
+            }
+        ]
+    }
+}

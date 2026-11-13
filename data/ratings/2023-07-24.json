@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-24",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:15",
+                "end_time": "24:20:15",
+                "rating": 3.53,
+                "share": 14.18
+            },
+            {
+                "rank": 2,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "20:59:50",
+                "end_time": "24:17:42",
+                "rating": 2.71,
+                "share": 10.67
+            },
+            {
+                "rank": 3,
+                "name": "RUHUN DUYMAZ",
+                "channel": "FOX",
+                "start_time": "19:59:55",
+                "end_time": "22:22:38",
+                "rating": 2.67,
+                "share": 10.77
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "19:59:45",
+                "rating": 2.55,
+                "share": 14.08
+            },
+            {
+                "rank": 5,
+                "name": "UVEY ANNE",
+                "channel": "ATV",
+                "start_time": "20:39:43",
+                "end_time": "24:18:10",
+                "rating": 2.08,
+                "share": 8.15
+            },
+            {
+                "rank": 6,
+                "name": "KOYDEN INDIM SEHRE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:45",
+                "end_time": "23:30:53",
+                "rating": 2.01,
+                "share": 7.64
+            },
+            {
+                "rank": 7,
+                "name": "SAHTE KABADAYI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:44:29",
+                "rating": 1.95,
+                "share": 8.19
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:04",
+                "end_time": "19:59:58",
+                "rating": 1.84,
+                "share": 10.46
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:53",
+                "end_time": "20:00:00",
+                "rating": 1.66,
+                "share": 9.25
+            },
+            {
+                "rank": 10,
+                "name": "ORGANIZASYON BIZIM ISIMIZ",
+                "channel": "TRT 1",
+                "start_time": "20:18:02",
+                "end_time": "21:42:42",
+                "rating": 1.42,
+                "share": 5.82
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:15",
+                "end_time": "24:20:15",
+                "rating": 4.27,
+                "share": 18.22
+            },
+            {
+                "rank": 2,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "20:59:50",
+                "end_time": "24:17:42",
+                "rating": 2.23,
+                "share": 9.4
+            },
+            {
+                "rank": 3,
+                "name": "RUHUN DUYMAZ",
+                "channel": "FOX",
+                "start_time": "19:59:55",
+                "end_time": "22:22:38",
+                "rating": 2.13,
+                "share": 9.23
+            },
+            {
+                "rank": 4,
+                "name": "KOYU BEYAZ",
+                "channel": "TRT 1",
+                "start_time": "21:43:32",
+                "end_time": "22:36:33",
+                "rating": 1.67,
+                "share": 6.59
+            },
+            {
+                "rank": 5,
+                "name": "ORGANIZASYON BIZIM ISIMIZ",
+                "channel": "TRT 1",
+                "start_time": "20:18:02",
+                "end_time": "21:42:42",
+                "rating": 1.47,
+                "share": 6.6
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:04",
+                "end_time": "19:59:58",
+                "rating": 1.47,
+                "share": 8.76
+            },
+            {
+                "rank": 7,
+                "name": "KOYDEN INDIM SEHRE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:45",
+                "end_time": "23:30:53",
+                "rating": 1.43,
+                "share": 5.84
+            },
+            {
+                "rank": 8,
+                "name": "SAHTE KABADAYI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:44:29",
+                "rating": 1.38,
+                "share": 6.18
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:53",
+                "end_time": "20:00:00",
+                "rating": 1.32,
+                "share": 7.75
+            },
+            {
+                "rank": 10,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "19:59:45",
+                "rating": 1.29,
+                "share": 7.41
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:46:15",
+                "end_time": "24:20:15",
+                "rating": 4.77,
+                "share": 18.19
+            },
+            {
+                "rank": 2,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "20:59:50",
+                "end_time": "24:17:42",
+                "rating": 3.41,
+                "share": 12.74
+            },
+            {
+                "rank": 3,
+                "name": "RUHUN DUYMAZ",
+                "channel": "FOX",
+                "start_time": "19:59:55",
+                "end_time": "22:22:38",
+                "rating": 2.86,
+                "share": 11.19
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "19:59:45",
+                "rating": 2.68,
+                "share": 14.23
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:04",
+                "end_time": "19:59:58",
+                "rating": 1.69,
+                "share": 9.18
+            },
+            {
+                "rank": 6,
+                "name": "SAHTE KABADAYI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:44:29",
+                "rating": 1.66,
+                "share": 6.74
+            },
+            {
+                "rank": 7,
+                "name": "VEDA MEKTUBU (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:44",
+                "end_time": "20:59:39",
+                "rating": 1.59,
+                "share": 6.79
+            },
+            {
+                "rank": 8,
+                "name": "ORGANIZASYON BIZIM ISIMIZ",
+                "channel": "TRT 1",
+                "start_time": "20:18:02",
+                "end_time": "21:42:42",
+                "rating": 1.58,
+                "share": 6.32
+            },
+            {
+                "rank": 9,
+                "name": "UVEY ANNE",
+                "channel": "ATV",
+                "start_time": "20:39:43",
+                "end_time": "24:18:10",
+                "rating": 1.57,
+                "share": 5.87
+            },
+            {
+                "rank": 10,
+                "name": "KOYDEN INDIM SEHRE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:44:45",
+                "end_time": "23:30:53",
+                "rating": 1.56,
+                "share": 5.68
+            }
+        ]
+    }
+}

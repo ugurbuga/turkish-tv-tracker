@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-20",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KENDI DUSEN AGLAMAZ",
+                "channel": "TRT 1",
+                "start_time": "20:58:12",
+                "end_time": "23:46:11",
+                "rating": 3.66,
+                "share": 14.43
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:42:02",
+                "end_time": "24:23:41",
+                "rating": 3.25,
+                "share": 13.54
+            },
+            {
+                "rank": 3,
+                "name": "YA COK SEVERSEN",
+                "channel": "KANAL D",
+                "start_time": "20:57:57",
+                "end_time": "23:46:33",
+                "rating": 2.48,
+                "share": 9.85
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:08",
+                "rating": 2.15,
+                "share": 12.55
+            },
+            {
+                "rank": 5,
+                "name": "KENDI DUSEN AGLAMAZ (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:30",
+                "end_time": "20:58:12",
+                "rating": 1.72,
+                "share": 7.84
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:02",
+                "end_time": "20:00:15",
+                "rating": 1.56,
+                "share": 9.12
+            },
+            {
+                "rank": 7,
+                "name": "ESARET",
+                "channel": "KANAL 7",
+                "start_time": "19:33:35",
+                "end_time": "21:17:40",
+                "rating": 1.49,
+                "share": 7.31
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:42:46",
+                "end_time": "24:17:49",
+                "rating": 1.46,
+                "share": 5.92
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:26",
+                "end_time": "24:17:30",
+                "rating": 1.46,
+                "share": 6.11
+            },
+            {
+                "rank": 10,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:02",
+                "end_time": "18:59:02",
+                "rating": 1.43,
+                "share": 9.48
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:42:02",
+                "end_time": "24:23:41",
+                "rating": 3.68,
+                "share": 16.11
+            },
+            {
+                "rank": 2,
+                "name": "YA COK SEVERSEN",
+                "channel": "KANAL D",
+                "start_time": "20:57:57",
+                "end_time": "23:46:33",
+                "rating": 2.82,
+                "share": 11.97
+            },
+            {
+                "rank": 3,
+                "name": "KENDI DUSEN AGLAMAZ",
+                "channel": "TRT 1",
+                "start_time": "20:58:12",
+                "end_time": "23:46:11",
+                "rating": 2.46,
+                "share": 10.25
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:08",
+                "rating": 1.93,
+                "share": 12.16
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:26",
+                "end_time": "24:17:30",
+                "rating": 1.8,
+                "share": 8.17
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:02",
+                "end_time": "20:00:15",
+                "rating": 1.53,
+                "share": 9.61
+            },
+            {
+                "rank": 7,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:42:46",
+                "end_time": "24:17:49",
+                "rating": 1.36,
+                "share": 5.79
+            },
+            {
+                "rank": 8,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:44:01",
+                "end_time": "18:14:17",
+                "rating": 1.23,
+                "share": 10.5
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:51:29",
+                "end_time": "20:41:57",
+                "rating": 1.18,
+                "share": 7.1
+            },
+            {
+                "rank": 10,
+                "name": "YA COK SEVERSEN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:32",
+                "end_time": "20:57:46",
+                "rating": 1.18,
+                "share": 6.4
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:42:02",
+                "end_time": "24:23:41",
+                "rating": 4.0,
+                "share": 15.73
+            },
+            {
+                "rank": 2,
+                "name": "KENDI DUSEN AGLAMAZ",
+                "channel": "TRT 1",
+                "start_time": "20:58:12",
+                "end_time": "23:46:11",
+                "rating": 3.45,
+                "share": 12.89
+            },
+            {
+                "rank": 3,
+                "name": "YA COK SEVERSEN",
+                "channel": "KANAL D",
+                "start_time": "20:57:57",
+                "end_time": "23:46:33",
+                "rating": 2.96,
+                "share": 11.23
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:08",
+                "rating": 2.6,
+                "share": 15.03
+            },
+            {
+                "rank": 5,
+                "name": "KENDI DUSEN AGLAMAZ (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:30",
+                "end_time": "20:58:12",
+                "rating": 1.79,
+                "share": 8.38
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:02",
+                "end_time": "20:00:15",
+                "rating": 1.67,
+                "share": 9.66
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:26",
+                "end_time": "24:17:30",
+                "rating": 1.63,
+                "share": 6.57
+            },
+            {
+                "rank": 8,
+                "name": "YA COK SEVERSEN (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:32",
+                "end_time": "20:57:46",
+                "rating": 1.52,
+                "share": 7.15
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:42:46",
+                "end_time": "24:17:49",
+                "rating": 1.24,
+                "share": 4.76
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:06",
+                "end_time": "19:59:48",
+                "rating": 1.24,
+                "share": 7.11
+            }
+        ]
+    }
+}
