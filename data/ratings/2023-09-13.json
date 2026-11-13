@@ -1,0 +1,282 @@
+{
+    "date": "2023-09-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:57:18",
+                "end_time": "24:33:26",
+                "rating": 4.81,
+                "share": 18.39
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:29",
+                "end_time": "12:59:57",
+                "rating": 4.33,
+                "share": 36.43
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:26",
+                "end_time": "18:44:04",
+                "rating": 3.22,
+                "share": 21.01
+            },
+            {
+                "rank": 4,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:59",
+                "end_time": "19:55:00",
+                "rating": 2.74,
+                "share": 12.11
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:49",
+                "end_time": "19:59:55",
+                "rating": 2.68,
+                "share": 11.87
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:30",
+                "end_time": "19:59:58",
+                "rating": 2.47,
+                "share": 10.91
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "24:18:06",
+                "rating": 2.28,
+                "share": 8.03
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:20",
+                "end_time": "19:59:54",
+                "rating": 2.2,
+                "share": 9.61
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:46:59",
+                "end_time": "20:57:18",
+                "rating": 2.15,
+                "share": 8.15
+            },
+            {
+                "rank": 10,
+                "name": "SAFIR (TKR)",
+                "channel": "ATV",
+                "start_time": "19:59:50",
+                "end_time": "23:29:13",
+                "rating": 2.11,
+                "share": 6.98
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:57:18",
+                "end_time": "24:33:26",
+                "rating": 6.14,
+                "share": 23.82
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:29",
+                "end_time": "12:59:57",
+                "rating": 3.56,
+                "share": 35.46
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:49",
+                "end_time": "19:59:55",
+                "rating": 2.71,
+                "share": 13.46
+            },
+            {
+                "rank": 4,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:56:44",
+                "end_time": "24:18:32",
+                "rating": 2.25,
+                "share": 8.11
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "24:18:06",
+                "rating": 2.24,
+                "share": 8.21
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:46:59",
+                "end_time": "20:57:18",
+                "rating": 2.21,
+                "share": 9.4
+            },
+            {
+                "rank": 7,
+                "name": "COP ADAM",
+                "channel": "STAR TV",
+                "start_time": "20:59:07",
+                "end_time": "23:43:32",
+                "rating": 2.17,
+                "share": 7.57
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:59",
+                "end_time": "19:55:00",
+                "rating": 1.98,
+                "share": 9.81
+            },
+            {
+                "rank": 9,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:20",
+                "end_time": "20:56:44",
+                "rating": 1.9,
+                "share": 7.13
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:30",
+                "end_time": "19:59:58",
+                "rating": 1.84,
+                "share": 9.13
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:57:18",
+                "end_time": "24:33:26",
+                "rating": 6.28,
+                "share": 22.18
+            },
+            {
+                "rank": 2,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:29",
+                "end_time": "12:59:57",
+                "rating": 4.89,
+                "share": 36.96
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:49",
+                "end_time": "19:59:55",
+                "rating": 3.25,
+                "share": 14.55
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:46:59",
+                "end_time": "20:57:18",
+                "rating": 2.65,
+                "share": 10.11
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "24:18:06",
+                "rating": 2.52,
+                "share": 8.36
+            },
+            {
+                "rank": 6,
+                "name": "COP ADAM",
+                "channel": "STAR TV",
+                "start_time": "20:59:07",
+                "end_time": "23:43:32",
+                "rating": 2.37,
+                "share": 7.56
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:26",
+                "end_time": "18:44:04",
+                "rating": 2.33,
+                "share": 15.4
+            },
+            {
+                "rank": 8,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:56:44",
+                "end_time": "24:18:32",
+                "rating": 2.23,
+                "share": 7.34
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:59",
+                "end_time": "19:55:00",
+                "rating": 2.21,
+                "share": 9.88
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:30",
+                "end_time": "19:59:58",
+                "rating": 2.14,
+                "share": 9.59
+            }
+        ]
+    }
+}
