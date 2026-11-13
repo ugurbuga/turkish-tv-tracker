@@ -1,0 +1,282 @@
+{
+    "date": "2023-08-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:59:42",
+                "end_time": "24:16:01",
+                "rating": 4.06,
+                "share": 17.53
+            },
+            {
+                "rank": 2,
+                "name": "HAYATIMIN NESESI",
+                "channel": "TRT 1",
+                "start_time": "21:00:11",
+                "end_time": "23:30:38",
+                "rating": 2.12,
+                "share": 8.6
+            },
+            {
+                "rank": 3,
+                "name": "KISMET",
+                "channel": "FOX",
+                "start_time": "20:58:10",
+                "end_time": "23:48:45",
+                "rating": 2.03,
+                "share": 8.5
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:58",
+                "end_time": "20:00:02",
+                "rating": 1.94,
+                "share": 11.62
+            },
+            {
+                "rank": 5,
+                "name": "SABAN OGLU SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:15",
+                "end_time": "21:56:12",
+                "rating": 1.77,
+                "share": 8.18
+            },
+            {
+                "rank": 6,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:32",
+                "end_time": "22:26:18",
+                "rating": 1.64,
+                "share": 7.35
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:30",
+                "end_time": "20:00:00",
+                "rating": 1.45,
+                "share": 8.66
+            },
+            {
+                "rank": 8,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:26:41",
+                "end_time": "24:38:03",
+                "rating": 1.44,
+                "share": 7.01
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:59",
+                "end_time": "20:00:04",
+                "rating": 1.4,
+                "share": 8.39
+            },
+            {
+                "rank": 10,
+                "name": "TOMB RAIDER (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "22:31:10",
+                "rating": 1.4,
+                "share": 6.3
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:59:42",
+                "end_time": "24:16:01",
+                "rating": 4.36,
+                "share": 20.48
+            },
+            {
+                "rank": 2,
+                "name": "HAYATIMIN NESESI",
+                "channel": "TRT 1",
+                "start_time": "21:00:11",
+                "end_time": "23:30:38",
+                "rating": 2.29,
+                "share": 10.2
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:58",
+                "end_time": "20:00:02",
+                "rating": 2.14,
+                "share": 13.71
+            },
+            {
+                "rank": 4,
+                "name": "HAYATIMIN NESESI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:15",
+                "end_time": "21:00:11",
+                "rating": 2.11,
+                "share": 11.56
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:30",
+                "end_time": "20:00:00",
+                "rating": 2.0,
+                "share": 12.8
+            },
+            {
+                "rank": 6,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:56",
+                "end_time": "18:14:21",
+                "rating": 1.83,
+                "share": 17.23
+            },
+            {
+                "rank": 7,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:12",
+                "end_time": "18:57:30",
+                "rating": 1.77,
+                "share": 13.2
+            },
+            {
+                "rank": 8,
+                "name": "KISMET",
+                "channel": "FOX",
+                "start_time": "20:58:10",
+                "end_time": "23:48:45",
+                "rating": 1.57,
+                "share": 7.2
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:59",
+                "end_time": "20:00:04",
+                "rating": 1.28,
+                "share": 8.18
+            },
+            {
+                "rank": 10,
+                "name": "SABAN OGLU SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:15",
+                "end_time": "21:56:12",
+                "rating": 1.25,
+                "share": 6.44
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:59:42",
+                "end_time": "24:16:01",
+                "rating": 5.12,
+                "share": 20.73
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:58",
+                "end_time": "20:00:02",
+                "rating": 2.51,
+                "share": 14.31
+            },
+            {
+                "rank": 3,
+                "name": "HAYATIMIN NESESI",
+                "channel": "TRT 1",
+                "start_time": "21:00:11",
+                "end_time": "23:30:38",
+                "rating": 2.27,
+                "share": 8.75
+            },
+            {
+                "rank": 4,
+                "name": "KISMET",
+                "channel": "FOX",
+                "start_time": "20:58:10",
+                "end_time": "23:48:45",
+                "rating": 2.08,
+                "share": 8.24
+            },
+            {
+                "rank": 5,
+                "name": "HAYATIMIN NESESI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:15",
+                "end_time": "21:00:11",
+                "rating": 1.74,
+                "share": 8.34
+            },
+            {
+                "rank": 6,
+                "name": "KISMET (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:12",
+                "end_time": "20:58:05",
+                "rating": 1.69,
+                "share": 8.14
+            },
+            {
+                "rank": 7,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:32",
+                "end_time": "22:26:18",
+                "rating": 1.69,
+                "share": 7.26
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:30",
+                "end_time": "20:00:00",
+                "rating": 1.66,
+                "share": 9.44
+            },
+            {
+                "rank": 9,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "15:59:56",
+                "end_time": "18:14:21",
+                "rating": 1.56,
+                "share": 13.13
+            },
+            {
+                "rank": 10,
+                "name": "SABAN OGLU SABAN (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:15",
+                "end_time": "21:56:12",
+                "rating": 1.47,
+                "share": 6.54
+            }
+        ]
+    }
+}
