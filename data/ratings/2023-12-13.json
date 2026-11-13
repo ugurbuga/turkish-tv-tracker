@@ -1,0 +1,282 @@
+{
+    "date": "2023-12-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:44:26",
+                "end_time": "24:18:07",
+                "rating": 8.36,
+                "share": 21.22
+            },
+            {
+                "rank": 2,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:29:17",
+                "end_time": "23:00:06",
+                "rating": 5.71,
+                "share": 13.61
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:20",
+                "end_time": "18:44:16",
+                "rating": 5.59,
+                "share": 24.87
+            },
+            {
+                "rank": 4,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:03",
+                "end_time": "20:44:26",
+                "rating": 4.74,
+                "share": 12.18
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:58",
+                "rating": 4.45,
+                "share": 31.78
+            },
+            {
+                "rank": 6,
+                "name": "SAHANE HAYATIM",
+                "channel": "FOX",
+                "start_time": "20:52:04",
+                "end_time": "23:43:36",
+                "rating": 4.38,
+                "share": 10.68
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:00",
+                "end_time": "19:51:27",
+                "rating": 4.35,
+                "share": 13.01
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "19:59:48",
+                "rating": 4.06,
+                "share": 12.15
+            },
+            {
+                "rank": 9,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:54:10",
+                "end_time": "24:25:38",
+                "rating": 3.56,
+                "share": 9.29
+            },
+            {
+                "rank": 10,
+                "name": "SANDIK KOKUSU (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "20:29:17",
+                "rating": 3.55,
+                "share": 9.29
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:29:17",
+                "end_time": "23:00:06",
+                "rating": 6.47,
+                "share": 17.57
+            },
+            {
+                "rank": 2,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:44:26",
+                "end_time": "24:18:07",
+                "rating": 5.74,
+                "share": 16.2
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:54:10",
+                "end_time": "24:25:38",
+                "rating": 4.58,
+                "share": 13.28
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "19:59:48",
+                "rating": 3.68,
+                "share": 14.98
+            },
+            {
+                "rank": 5,
+                "name": "SAHANE HAYATIM",
+                "channel": "FOX",
+                "start_time": "20:52:04",
+                "end_time": "23:43:36",
+                "rating": 3.63,
+                "share": 9.89
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:58",
+                "rating": 3.27,
+                "share": 29.57
+            },
+            {
+                "rank": 7,
+                "name": "SANDIK KOKUSU (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "20:29:17",
+                "rating": 3.2,
+                "share": 10.01
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:20",
+                "end_time": "18:44:16",
+                "rating": 2.58,
+                "share": 16.37
+            },
+            {
+                "rank": 9,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:03",
+                "end_time": "20:44:26",
+                "rating": 2.44,
+                "share": 7.44
+            },
+            {
+                "rank": 10,
+                "name": "DILEK TASI",
+                "channel": "KANAL D",
+                "start_time": "20:55:11",
+                "end_time": "24:18:24",
+                "rating": 2.44,
+                "share": 6.95
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:44:26",
+                "end_time": "24:18:07",
+                "rating": 8.26,
+                "share": 19.84
+            },
+            {
+                "rank": 2,
+                "name": "SANDIK KOKUSU",
+                "channel": "SHOW TV",
+                "start_time": "20:29:17",
+                "end_time": "23:00:06",
+                "rating": 6.93,
+                "share": 15.91
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:58",
+                "rating": 4.68,
+                "share": 32.11
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:54:10",
+                "end_time": "24:25:38",
+                "rating": 4.54,
+                "share": 11.21
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:20",
+                "end_time": "18:44:16",
+                "rating": 4.33,
+                "share": 21.37
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "19:59:48",
+                "rating": 4.32,
+                "share": 13.79
+            },
+            {
+                "rank": 7,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:03",
+                "end_time": "20:44:26",
+                "rating": 4.19,
+                "share": 10.83
+            },
+            {
+                "rank": 8,
+                "name": "SANDIK KOKUSU (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:17",
+                "end_time": "20:29:17",
+                "rating": 3.93,
+                "share": 10.42
+            },
+            {
+                "rank": 9,
+                "name": "SAHANE HAYATIM",
+                "channel": "FOX",
+                "start_time": "20:52:04",
+                "end_time": "23:43:36",
+                "rating": 3.79,
+                "share": 8.8
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:00",
+                "end_time": "19:51:27",
+                "rating": 3.47,
+                "share": 11.06
+            }
+        ]
+    }
+}
