@@ -26,7 +26,7 @@ REPORT_TYPES = {
     "ABC1": "Top10 20+ABC1"
 }
 
-REQUEST_INTERVAL = 5
+REQUEST_INTERVAL = 3
 
 
 def main():

@@ -1,5 +1,6 @@
 from weekly_series_scraper import main as update_weekly_series
 from update_ratings import main as update_ratings
+from update_tv_series import main as update_tv_series
 from update_youtube_videos import main as update_youtube_videos
 
 
@@ -17,6 +18,12 @@ def main():
         update_ratings()
     except Exception as error:
         print(f"Reyting verileri güncellenemedi: {error}")
+
+    print("\n========== TV SERIES METADATA ==========")
+    try:
+        update_tv_series()
+    except Exception as error:
+        print(f"Dizi detayları güncellenemedi: {error}")
 
     print("\n========== YOUTUBE VIDEOS ==========")
 

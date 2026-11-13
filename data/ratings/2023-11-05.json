@@ -1,0 +1,282 @@
+{
+    "date": "2023-11-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:59:54",
+                "end_time": "24:19:01",
+                "rating": 6.04,
+                "share": 16.65
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:58",
+                "end_time": "23:48:59",
+                "rating": 5.8,
+                "share": 15.53
+            },
+            {
+                "rank": 3,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:58:26",
+                "end_time": "24:01:35",
+                "rating": 4.35,
+                "share": 11.83
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:23",
+                "end_time": "24:31:38",
+                "rating": 4.18,
+                "share": 12.08
+            },
+            {
+                "rank": 5,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:15",
+                "rating": 4.14,
+                "share": 12.52
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:51",
+                "end_time": "20:58:58",
+                "rating": 3.62,
+                "share": 9.42
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:29",
+                "end_time": "20:00:04",
+                "rating": 3.38,
+                "share": 10.18
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:46",
+                "rating": 3.34,
+                "share": 10.14
+            },
+            {
+                "rank": 9,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "20:59:43",
+                "rating": 3.26,
+                "share": 8.49
+            },
+            {
+                "rank": 10,
+                "name": "KIRLI SEPETI (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:26",
+                "end_time": "20:58:21",
+                "rating": 3.05,
+                "share": 7.94
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:59:54",
+                "end_time": "24:19:01",
+                "rating": 7.33,
+                "share": 20.31
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:58",
+                "end_time": "23:48:59",
+                "rating": 6.52,
+                "share": 17.52
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:23",
+                "end_time": "24:31:38",
+                "rating": 5.25,
+                "share": 15.24
+            },
+            {
+                "rank": 4,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "20:59:43",
+                "rating": 3.79,
+                "share": 11.03
+            },
+            {
+                "rank": 5,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:15",
+                "rating": 3.62,
+                "share": 13.27
+            },
+            {
+                "rank": 6,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:58:26",
+                "end_time": "24:01:35",
+                "rating": 3.07,
+                "share": 8.41
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:51",
+                "end_time": "20:58:58",
+                "rating": 3.0,
+                "share": 8.71
+            },
+            {
+                "rank": 8,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:09",
+                "end_time": "20:44:08",
+                "rating": 2.67,
+                "share": 7.99
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:29",
+                "end_time": "20:00:04",
+                "rating": 2.64,
+                "share": 9.6
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:46",
+                "rating": 2.36,
+                "share": 8.66
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:59:54",
+                "end_time": "24:19:01",
+                "rating": 7.79,
+                "share": 19.17
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:58:58",
+                "end_time": "23:48:59",
+                "rating": 6.87,
+                "share": 16.46
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:56:23",
+                "end_time": "24:31:38",
+                "rating": 5.22,
+                "share": 13.53
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:15",
+                "rating": 4.55,
+                "share": 13.7
+            },
+            {
+                "rank": 5,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:49",
+                "end_time": "20:59:43",
+                "rating": 4.2,
+                "share": 10.58
+            },
+            {
+                "rank": 6,
+                "name": "KIRLI SEPETI",
+                "channel": "FOX",
+                "start_time": "20:58:26",
+                "end_time": "24:01:35",
+                "rating": 3.84,
+                "share": 9.36
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:51",
+                "end_time": "20:58:58",
+                "rating": 3.84,
+                "share": 9.65
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:27",
+                "end_time": "19:59:46",
+                "rating": 3.13,
+                "share": 9.44
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:29",
+                "end_time": "20:00:04",
+                "rating": 3.05,
+                "share": 9.13
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "20:00:09",
+                "end_time": "20:44:08",
+                "rating": 2.62,
+                "share": 6.78
+            }
+        ]
+    }
+}

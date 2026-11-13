@@ -4,153 +4,1282 @@
     "handle": "@AnneYarısıDizi",
     "channelId": "UCp3nEM_gpoEY6yhYXPZEIOQ",
     "uploadsPlaylistId": "UUp3nEM_gpoEY6yhYXPZEIOQ",
-    "videosPath": "data/youtubevideos/UCp3nEM_gpoEY6yhYXPZEIOQ.json"
+    "videosPath": "data/youtubevideos/UCp3nEM_gpoEY6yhYXPZEIOQ.json",
+    "posterPath": "assets/series/anne-yarisi.jpg",
+    "seasonCount": 1,
+    "productionCompany": "NTC Medya",
+    "director": [
+      "Semih Bağcı"
+    ],
+    "writers": [
+      "Melis Civelek",
+      "Zeynep Gür",
+      "Merve Göntem"
+    ],
+    "history": [
+      "Anne Yarısı dizisi 22 Eylül 2026 Salı NOW'da başladı."
+    ],
+    "synopsis": "Anne Yarısı; sekiz yıl önce yaşanan büyük bir kaybın ardından yolları aynı çocuğun etrafında kesişen Ali ve Zeynep’in hikayesini ekrana taşıyacak.",
+    "genre": "Dram",
+    "cast": [
+      {
+        "character": "Zeynep Aksoy",
+        "actor": "Burcu Özberk"
+      },
+      {
+        "character": "Ali Altay",
+        "actor": "Cihangir Ceyhan"
+      },
+      {
+        "character": "Meryem Altay",
+        "actor": "Esra Dermancıoğlu"
+      },
+      {
+        "character": "Ege Altay",
+        "actor": "Melisa Duru Ünal"
+      },
+      {
+        "character": "Altın Bayındır",
+        "actor": "Selen Uçer"
+      },
+      {
+        "character": "Kadir Bayındır",
+        "actor": "Fatih Gühan"
+      }
+    ]
   },
   {
     "name": "Haysiyet",
     "handle": "@HaysiyetKANALD",
     "channelId": "UCanW_SEi5cD77JRf4v2w6MA",
     "uploadsPlaylistId": "UUanW_SEi5cD77JRf4v2w6MA",
-    "videosPath": "data/youtubevideos/UCanW_SEi5cD77JRf4v2w6MA.json"
+    "videosPath": "data/youtubevideos/UCanW_SEi5cD77JRf4v2w6MA.json",
+    "posterPath": "assets/series/haysiyet.jpg",
+    "seasonCount": 1,
+    "productionCompany": "Süreç Film",
+    "director": [
+      "Eda Teksöz"
+    ],
+    "writers": [
+      "Leyla Uslu Oter",
+      "Cem Akyoldaş"
+    ],
+    "history": [
+      "Haysiyet dizisi 8 Eylül 2026 Salı, Kanal D'de başladı."
+    ],
+    "synopsis": "Haysiyet, emekçi bir ailenin onur mücadelesini, zengin ve güçlü bir ailenin dünyasıyla karşı karşıya getirecek. Hikâye, farklı yaşamların içinden gelen Mehmet ile Simay’ın yollarının kesişmesiyle başlayacak.",
+    "genre": "Dram",
+    "cast": [
+      {
+        "character": "Sadık Karlıova",
+        "actor": "Kerem Alışık"
+      },
+      {
+        "character": "Mehmet Karlıova",
+        "actor": "Doğukan Güngör"
+      },
+      {
+        "character": "Haluk Tarman",
+        "actor": "Reha Özcan"
+      },
+      {
+        "character": "Simay Tarman",
+        "actor": "Merih Öztürk"
+      },
+      {
+        "character": "Tarık Tarman",
+        "actor": "Burak Çelik"
+      },
+      {
+        "character": "Tufan Karlıova",
+        "actor": "Gökberk Yıldırım"
+      },
+      {
+        "character": "Ahmet Karlıova",
+        "actor": "Orkuncan İzan"
+      },
+      {
+        "character": "Aziz Karlıova",
+        "actor": "Asır Gündoğdu"
+      },
+      {
+        "character": "Suzan Karlıova",
+        "actor": "Elifcan Ongurlar"
+      },
+      {
+        "character": "Yıldız Karlıova",
+        "actor": "Aybüke Yılmaz"
+      },
+      {
+        "character": "Hülya Sürmene",
+        "actor": "Berfin Kıymaz"
+      },
+      {
+        "character": "Şehnaz Tarman",
+        "actor": "Ayça Varlıer"
+      },
+      {
+        "character": "Nimet Karlıova",
+        "actor": "Nergis Öztürk"
+      }
+    ]
   },
   {
     "name": "Tuzlu Kahve",
     "handle": "@TuzluKahveStarTV",
     "channelId": "UCVrIsj8UiYCHfauVmlI05IA",
     "uploadsPlaylistId": "UUVrIsj8UiYCHfauVmlI05IA",
-    "videosPath": "data/youtubevideos/UCVrIsj8UiYCHfauVmlI05IA.json"
+    "videosPath": "data/youtubevideos/UCVrIsj8UiYCHfauVmlI05IA.json",
+    "posterPath": "assets/series/tuzlu-kahve.jpg",
+    "seasonCount": 1,
+    "productionCompany": "Poll Films",
+    "director": [
+      "Mustafa Kotan"
+    ],
+    "writers": [],
+    "history": [
+      "Tuzlu Kahve 1 Eylül 2026'da Star TV'de başladı."
+    ],
+    "synopsis": "Tuzlu Kahve, İstanbul'un köklü ve varlıklı ailelerinden birinin kızı Gözde ile Amerika'dan dönen holding veliahdı Mehmet'in yollarının kesişmesiyle başlıyor. Evlenmek isteyen genç çift, aynı masada buluşması bile imkânsız görünen iki aileyi karşı karşıya getiriyor.\r\n \r\n\r\nDizi; aşkın yalnızca iki insan arasında değil, aileler, gelenekler ve kuşaklar arasında da sınandığını sıcak, eğlenceli ve duygusal bir dille anlatıyor.",
+    "genre": "Romantik Komedi",
+    "cast": [
+      {
+        "character": "Feryal İpekli",
+        "actor": "Nebahat Çehre"
+      },
+      {
+        "character": "Hatun Aydınoğlu",
+        "actor": "Binnur Kaya"
+      },
+      {
+        "character": "Derin Kutaygil",
+        "actor": "Eda Ece"
+      },
+      {
+        "character": "Candan Aydınoğlu",
+        "actor": "Şevval Sam"
+      },
+      {
+        "character": "Mehmet Aydınoğlu",
+        "actor": "Buğra Gülsoy"
+      },
+      {
+        "character": "Osman Aydınoğlu",
+        "actor": "Settar Tanrıöğen"
+      },
+      {
+        "character": "Ünver İpekli",
+        "actor": "Cengiz Bozkurt"
+      },
+      {
+        "character": "Murat Aydınoğlu",
+        "actor": "Sarp Apak"
+      },
+      {
+        "character": "Elit İpekli",
+        "actor": "Yasemin Ergene"
+      }
+    ]
   },
   {
     "name": "Mehmed: Fetihler Sultanı",
     "handle": "@mehmedfetihlersultani",
     "channelId": "UC9KLY6Eftv__Ml3EQVbVasA",
     "uploadsPlaylistId": "UU9KLY6Eftv__Ml3EQVbVasA",
-    "videosPath": "data/youtubevideos/UC9KLY6Eftv__Ml3EQVbVasA.json"
+    "videosPath": "data/youtubevideos/UC9KLY6Eftv__Ml3EQVbVasA.json",
+    "posterPath": "assets/series/mehmed-fetihler-sultani.jpg",
+    "seasonCount": 4,
+    "productionCompany": "Miray Yapım",
+    "director": [
+      "Selahattin Sancaklı",
+      "Yıldıray Yıldırım"
+    ],
+    "writers": [
+      "Ozan Bodur"
+    ],
+    "history": [
+      "Mehmed Fetihler Sultanı dizisi 15 Eylül 2026 Salı 4. sezonuna başlayacak.",
+      "Mehmed Fetihler Sultanı dizisi 9 Haziran 2025 Salı günü yayınlanan 63. bölümüyle 3. sezon finalini yaptı.",
+      "Mehmed Fetihler Sultanı dizisi 16 Eylül 2024 Salı günü yayınlanan 50. bölümüyle 3. sezonuna başladı.",
+      "Mehmed Fetihler Sultanı dizisi 10 Haziran 2025 Salı günü yayınlanan 49. bölümüyle 2. sezon finalini yaptı.",
+      "Mehmed Fetihler Sultanı dizisi 24 Eylül 2024 Salı günü yayınlanan 16. bölümüyle 2. sezonuna başladı.",
+      "Mehmed Fetihler Sultanı dizisi 11 Haziran 2024 Salı günü yayınlanan 15. bölümüyle 1. sezon finalini yaptı.",
+      "Mehmed: Fetihler Sultanı dizisinin ilk tanıtımı 11 Ocak 2024'te yayınlandı."
+    ],
+    "synopsis": "İstanbul'u fetheden büyük kumandan Fatih Sultan Mehmed'in destansı hikayesi",
+    "genre": "Tarihi, Dram, Biyografi",
+    "cast": [
+      {
+        "character": "Fatih Sultan Mehmed",
+        "actor": "Serkan Çayoğlu"
+      },
+      {
+        "character": "Uzun Hasan",
+        "actor": "Rüzgar Aksoy"
+      },
+      {
+        "character": "Gülbahar Hatun",
+        "actor": "Aslı Tandoğan"
+      },
+      {
+        "character": "Mara Hatun",
+        "actor": "Tuba Ünsal"
+      },
+      {
+        "character": "Çandarlı",
+        "actor": "Selim Bayraktar"
+      },
+      {
+        "character": "Has Murad Paşa",
+        "actor": "Hilmi Cem İntepe"
+      }
+    ]
   },
   {
     "name": "Sevdan Bir Ateş",
     "handle": "@SevdanBirAtesDizi",
     "channelId": "UCZImCN5KcM17JwnyyoOt74w",
     "uploadsPlaylistId": "UUZImCN5KcM17JwnyyoOt74w",
-    "videosPath": "data/youtubevideos/UCZImCN5KcM17JwnyyoOt74w.json"
+    "videosPath": "data/youtubevideos/UCZImCN5KcM17JwnyyoOt74w.json",
+    "posterPath": "assets/series/sevdan-bir-ates.jpg",
+    "seasonCount": 1,
+    "productionCompany": "CNP Film",
+    "director": [
+      "Murat Saraçoğlu"
+    ],
+    "writers": [
+      "Eda Tezcan",
+      "Selda Akın"
+    ],
+    "history": [
+      "Sevdan Bir Ateş dizisi 9 Eylül 2026 Çarşamba Show TV'de başladı."
+    ],
+    "synopsis": "Mirza ve Leyla’nın yıllara meydan okuyan hikâyesi",
+    "genre": "Dram, romantik",
+    "cast": [
+      {
+        "character": "Mirza",
+        "actor": "Murat Ünalmış"
+      },
+      {
+        "character": "Leyla",
+        "actor": "Özge Özacar"
+      },
+      {
+        "character": "Vuslat",
+        "actor": "Yeşim Gül"
+      },
+      {
+        "character": "Destan Kızılırmak",
+        "actor": "Sitare Akbaş"
+      },
+      {
+        "character": "Mihre Kozaklı",
+        "actor": "Gökçe Eyüboğlu"
+      },
+      {
+        "character": "Yaman Ganioğlu",
+        "actor": "Taner Rumeli"
+      },
+      {
+        "character": "Macide Kızılırmak",
+        "actor": "Sezin Bozacı"
+      },
+      {
+        "character": "İrfan",
+        "actor": "Beyti Engin"
+      },
+      {
+        "character": "Cici",
+        "actor": "İsmail Hakkı"
+      },
+      {
+        "character": "Miray Kozaklı",
+        "actor": "Hande Canpolat"
+      },
+      {
+        "character": "Hüma",
+        "actor": "Beyza Karabacak"
+      },
+      {
+        "character": "Mukaddes",
+        "actor": "Evren Duyal"
+      }
+    ]
   },
   {
     "name": "Halef: Köklerin Çağrısı",
     "handle": "@HalefKoklerinCagrisiDizisi",
     "channelId": "UCsVJDy6KueIEQ89-rQ1PF-w",
     "uploadsPlaylistId": "UUsVJDy6KueIEQ89-rQ1PF-w",
-    "videosPath": "data/youtubevideos/UCsVJDy6KueIEQ89-rQ1PF-w.json"
+    "videosPath": "data/youtubevideos/UCsVJDy6KueIEQ89-rQ1PF-w.json",
+    "seasonCount": 2,
+    "productionCompany": "Most Production",
+    "director": [
+      "Deniz Çelebi Dikilitaş"
+    ],
+    "writers": [
+      "Ercan Uğur"
+    ],
+    "history": [
+      "Halef: Köklerin Çağrısı dizisi 24 Eylül 2026 Perşembe 2. sezonuna başladı.",
+      "Halef: Köklerin Çağrısı dizisi 11 Haziran 2026 Perşembe yayınlanan 35. bölümüyle 1. sezon finalini yaptı.",
+      "Halef: Köklerin Çağrısı dizisi 18 Eylül 2025' Perşembe, NOW'da başladı."
+    ],
+    "synopsis": "Doğduğu toprakların ona\r\nbiçtiği kadere meydan okuyarak başarılı bir cerrah olan Serhat, sevdiği kadın Melek’le\r\nailesinden gizlice evlenir. Ancak kısa süre sonra, Urfa’ya dönmek zorunda kalır ve yöredeki iki\r\nköklü aile arasındaki kan davası nedeniyle Yıldız’la da imam nikahı kıymaya zorlanır.\r\nBir cerrahken ağaya dönüşen Serhat’ın yalnızca gücü değil, aşkı da büyük bir sınavdan\r\ngeçecektir. Melek’in konağa gelişiyle birlikte Serhat, iki kadının ailesi ve geçmişlerinden gelen\r\nsırlarla yüzleşmek zorunda kalır. Çünkü bu konakta hiç kimse masum değildir. Herkesin\r\nsakladığı bir geçmişi, gömdüğü bir sırrı vardır...",
+    "genre": "Dram",
+    "cast": [
+      {
+        "character": "Serhat Yelduran",
+        "actor": "İlhan Şen"
+      },
+      {
+        "character": "Melek Özdel",
+        "actor": "Aybüke Pusat"
+      },
+      {
+        "character": "Yıldız Kordağlı",
+        "actor": "Biran Damla Yılmaz"
+      }
+    ]
   },
   {
     "name": "Muhtemel Aşk",
     "handle": "@muhtemelaskdizi",
     "channelId": "UCr7HZRKiCB6pga9oG52dHmA",
     "uploadsPlaylistId": "UUr7HZRKiCB6pga9oG52dHmA",
-    "videosPath": "data/youtubevideos/UCr7HZRKiCB6pga9oG52dHmA.json"
+    "videosPath": "data/youtubevideos/UCr7HZRKiCB6pga9oG52dHmA.json",
+    "posterPath": "assets/series/muhtemel-ask.jpg",
+    "seasonCount": 1,
+    "productionCompany": "MF Yapım",
+    "director": [
+      "Altan Dönmez"
+    ],
+    "writers": [],
+    "history": [
+      "Muhtemel Aşk dizisi 18 Haziran 2026 Perşembe Show TV'de başladı."
+    ],
+    "synopsis": "30’lu yaşlarında, kariyer basamaklarını kendi emeğiyle tırmanan Defne, annesinin ona öğrettiği gibi hayatını hep kendi ayakları üzerinde kurmuştur. Güçlü, kontrollü ve alıştığı düzenden vazgeçmeyen Defne, bir gün aslında ne kadar yorulduğunu ve yalnızlaştığını fark eder. Belki de artık hayatında ilk kez gerçekten âşık olmanın zamanı gelmiştir. Ancak karşısına çıkan iki adam, her şeyi altüst edecektir. Kadir’in doğrudan ve sarsıcı tavrı ile Tolga’nın dengeleri değiştiren oyunları arasında kalan Defne için artık hiçbir şey eskisi gibi olmayacaktır.",
+    "genre": "Dram, romantik",
+    "cast": [
+      {
+        "character": "Defne",
+        "actor": "Ayça Ayşin Turan"
+      },
+      {
+        "character": "Kadir",
+        "actor": "Ekin Koç"
+      },
+      {
+        "character": "Tolga",
+        "actor": "Feyyaz Şerifoğlu"
+      },
+      {
+        "character": "Levent",
+        "actor": "Cansel Elçin"
+      },
+      {
+        "character": "Mine",
+        "actor": "Evrim Doğan"
+      },
+      {
+        "character": "Melis",
+        "actor": "Hayal Köseoğlu"
+      },
+      {
+        "character": "Özlem",
+        "actor": "Müge Bayramoğlu"
+      },
+      {
+        "character": "Yiğit",
+        "actor": "Ege Erkal"
+      },
+      {
+        "character": "Selim",
+        "actor": "Bahtiyar Memili"
+      },
+      {
+        "character": "Zeynep",
+        "actor": "Melis Minkari"
+      },
+      {
+        "character": "Suzan",
+        "actor": "Selen Domaç"
+      },
+      {
+        "character": "Leyla",
+        "actor": "Melisa Berberoğlu"
+      },
+      {
+        "character": "Yavuz",
+        "actor": "Tugay Erdoğan"
+      }
+    ]
   },
   {
     "name": "Taşacak Bu Deniz",
     "handle": "@tasacakbudeniztrt",
     "channelId": "UCx7gLo8iS4ofgNfBENUxWDA",
     "uploadsPlaylistId": "UUx7gLo8iS4ofgNfBENUxWDA",
-    "videosPath": "data/youtubevideos/UCx7gLo8iS4ofgNfBENUxWDA.json"
+    "videosPath": "data/youtubevideos/UCx7gLo8iS4ofgNfBENUxWDA.json",
+    "posterPath": "assets/series/tasacak-bu-deniz.jpg",
+    "seasonCount": 2,
+    "productionCompany": "OGM Pictures",
+    "director": [
+      "Çağrı Bayrak"
+    ],
+    "writers": [
+      "Ayşe Ferda Eryılmaz",
+      "Nehir Erdem"
+    ],
+    "history": [
+      "Taşacak Bu Deniz dizisi 2 Ekim Cuma yayınlanacak 32. bölümüyle 2. sezonuna başlayacak.",
+      "Taşacak Bu Deniz dizisi 5 Haziran 2026 Cuma yayınlanan 31.bölümüyle 1. sezon finalini yaptı.",
+      "Taşacak Bu Deniz dizisi 10 Ekim Cuma, TRT 1'de başladı."
+    ],
+    "synopsis": "Dizi, can düşmanı iki ailenin bitmeyen savaşının ortasında kendini bulan bir yabancının gözünden; dağların, denizin ve insan ruhunun iniş çıkışlarını anlatıyor. İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil’i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna’yı ele vermez ve “Ben kendimi vurdum” der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil’in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum’u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon’a gelmiştir. Eleni’nin gelişinden sonra ne Adil için ne de Esme için hayat aynı olmayacaktır.",
+    "genre": "Dram, romantik",
+    "cast": [
+      {
+        "character": "Adil Koçari",
+        "actor": "Ulaş Tuna Astepe"
+      },
+      {
+        "character": "Esme Furtuna",
+        "actor": "Deniz Baysal"
+      }
+    ]
   },
   {
     "name": "Güller ve Günahlar",
     "handle": "@GüllerveGünahlar",
     "channelId": "UCalPDcmRPlpaaXgNg8csL5w",
     "uploadsPlaylistId": "UUalPDcmRPlpaaXgNg8csL5w",
-    "videosPath": "data/youtubevideos/UCalPDcmRPlpaaXgNg8csL5w.json"
+    "videosPath": "data/youtubevideos/UCalPDcmRPlpaaXgNg8csL5w.json",
+    "posterPath": "assets/series/guller-ve-gunahlar.jpg",
+    "seasonCount": 2,
+    "productionCompany": "NGM",
+    "director": [
+      "Deniz Can Çelik"
+    ],
+    "writers": [
+      "Yelda Eroğlu"
+    ],
+    "history": [
+      "Güller ve Günahlar dizisi 12 Eylül 2026 Cumartesi  yayınlanan 33. bölümüyle 2. sezonuna başladı.",
+      "Güller ve Günahlar dizisi 13 Haziran 2026 Cumartesi  yayınlanan 32. bölümüyle 1. sezon finalini yaptı.",
+      "Güller ve Günahlar dizisi 11 Ekim 2025 Cumartesi  Kanal D'de başladı."
+    ],
+    "synopsis": "Güller ve Günahlar dizisinde, Serhat ve Zeynep başta olmak üzere, sırların açığa çıkmasıyla yolları kesişen ailelerin hikayeleri anlatılıyor. Eşi ve kızlarıyla mutlu bir hayat süren, oteller zinciri sahibi iş insanı Serhat Tecer’in dünyası, beklenmedik bir gerçekle altüst olur: Hayatının en büyük aşkı, eşi Berrak'ın evlilik dışı küçük bir çocuğu vardır: Kader. Gerçeğin peşine düşen Serhat, adım adım iz sürerken eşi Berrak'ın kızı Kader'i bulacak, bu sırada atanmayı beklerken bir yandan çiçekçilik yaparak geçimini sağlayan öğretmen Zeynep'in hayatına girecektir. Açık sözlü, cesur ve yardımsever Zeynep, Kader'e destek olmak isterken Serhat'ın da en büyük destekçisi olacak,  Berrak'ın sırlarla örülü geçmişinin anahtarı ise Serhat'ın karşısına hiç beklemediği bir yerden çıkacaktır.",
+    "genre": "Dram",
+    "cast": [
+      {
+        "character": "Serhat Tecer",
+        "actor": "Murat Yıldırım"
+      },
+      {
+        "character": "Zeynep Candan",
+        "actor": "Cemre Baysel"
+      },
+      {
+        "character": "Berrak",
+        "actor": "Oya Unustası"
+      },
+      {
+        "character": "Cihan",
+        "actor": "Serdar Orçin"
+      },
+      {
+        "character": "Sevim",
+        "actor": "Gülenay Kalkan"
+      },
+      {
+        "character": "Kader",
+        "actor": "Yade Arayıcı"
+      },
+      {
+        "character": "İlkim",
+        "actor": "Mina Akdin"
+      },
+      {
+        "character": "Hayal",
+        "actor": "Beren Gençalp"
+      },
+      {
+        "character": "Can",
+        "actor": "Serdar Özer"
+      },
+      {
+        "character": "Refika",
+        "actor": "Emel Çölgeçen"
+      },
+      {
+        "character": "Ebru",
+        "actor": "Gizem Sevim"
+      },
+      {
+        "character": "Sedef",
+        "actor": "Merve Nur Bengi"
+      }
+    ]
   },
   {
     "name": "Başkalarının Hayatı",
     "handle": "@BaşkalarınınHayatıResmi",
     "channelId": "UCBPji4yBwHYvOmJYyXMfThQ",
     "uploadsPlaylistId": "UUBPji4yBwHYvOmJYyXMfThQ",
-    "videosPath": "data/youtubevideos/UCBPji4yBwHYvOmJYyXMfThQ.json"
+    "videosPath": "data/youtubevideos/UCBPji4yBwHYvOmJYyXMfThQ.json",
+    "posterPath": "assets/series/baskalarinin-hayati.jpg",
+    "seasonCount": 1,
+    "productionCompany": "Ay Yapım",
+    "director": [
+      "Burak Müjdeci"
+    ],
+    "writers": [
+      "Banu Kiremitçi Bozkurt"
+    ],
+    "history": [
+      "Başkalarının Hayatı dizisi 26 Eylül 2026 Cumartesi Star TV'de başladı."
+    ],
+    "synopsis": "Dizi, Hülya’nın  üniversitede tanıştığı Neslihan sayesinde, hayalini kurduğu ihtişamlı dünyaya adım atmasıyla kesişen farklı hayatları  konu alıyor.",
+    "genre": "Dram, romantik",
+    "cast": [
+      {
+        "character": "Hülya",
+        "actor": "Eylül Lize Kandemir"
+      },
+      {
+        "character": "Sarp",
+        "actor": "Burak Berkay Akgül"
+      },
+      {
+        "character": "Neslihan",
+        "actor": "Doğa Bayram"
+      },
+      {
+        "character": "Erim",
+        "actor": "Demirhan Demircioğlu"
+      },
+      {
+        "character": "Fikret",
+        "actor": "Mehmet Aslantuğ"
+      },
+      {
+        "character": "Jale",
+        "actor": "Oya Okar"
+      },
+      {
+        "character": "Haluk",
+        "actor": "Tolga Tekin"
+      },
+      {
+        "character": "Mediha",
+        "actor": "Sezin Akbaşoğulları"
+      }
+    ]
   },
   {
     "name": "Gönül Dağı",
     "handle": "@GonulDagiTRT",
     "channelId": "UC6zAMy6boneCLJzRKiiwzmQ",
     "uploadsPlaylistId": "UU6zAMy6boneCLJzRKiiwzmQ",
-    "videosPath": "data/youtubevideos/UC6zAMy6boneCLJzRKiiwzmQ.json"
+    "videosPath": "data/youtubevideos/UC6zAMy6boneCLJzRKiiwzmQ.json",
+    "posterPath": "assets/series/gonul-dagi.jpg",
+    "seasonCount": 7,
+    "productionCompany": "Köprü Film",
+    "director": [
+      "Yahya Samancı"
+    ],
+    "writers": [
+      "Ali Asaf Elmas",
+      "Mustafa Becit ve Teoman Gök",
+      "Mustafa Çiftçi (Hikaye)"
+    ],
+    "history": [
+      "Gönül Dağı dizisi 5 Eylül 2025 Cumartesi günü yayınlanacak 221. Bölümüyle 7. sezonuna başladı.",
+      "Gönül Dağı dizisi 6 Haziran 2026 Cumartesi günü yayınlanan 220. Bölümüyle 6. Sezon finalini yaptı.",
+      "Gönül Dağı dizisi 6 Eylül 2025 Cumartesi günü yayınlanan 183. Bölümüyle 6. sezonuna başladı..",
+      "Gönül Dağı dizisi 14 Haziran 2025 Cumartesi günü yayınlanan 182. Bölümüyle 5. Sezon finalini yaptı.",
+      "Gönül Dağı dizisi 7 Eylül 2024 Cumartesi günü yayınlanacak 143. Bölümüyle 5. Sezonuna başlayacak.",
+      "Gönül Dağı dizisi 8 Haziran 2024 Cumartesi günü yayınlanan 142. Bölümüyle 4. Sezon finalini yaptı.",
+      "Gönül Dağı dizisi 09 Eylül 2023 Cumartesi günü yayınlanacak 104. Bölümüyle 4. Sezonuna başlayacak.",
+      "Gönül Dağı dizisi 24 Haziran 2023 Cumartesi günü yayınlanan 103. Bölümüyle 3. Sezon finalini yaptı.",
+      "Gönül Dağı dizisi 3 Eylül 2022 Cumartesi günü yayınlanacak 66. Bölümüyle 3. Sezonuna başlayacak.",
+      "Gönül Dağı dizisi 28 Mayıs 2022 Cumartesi günü yayınlanan 65. Bölümüyle 2. Sezon finalini yaptı.",
+      "Gönül Dağı dizisi 11 Eylül 2021 Cumartesi günü yayınlanacak 32. bölümüyle 2. sezonuna başlayacak.",
+      "Gönül Dağı dizisi 20 Temmuz 2021 Salı günü bayram özel filmi ile ekrana gelecek.",
+      "Gönül Dağı dizisi 29 Mayıs 2021 Cumartesi günü yayınlanan 30. Bölümü ile 1. sezon finalini yaptı.",
+      "Gönül Dağı dizisi 17 Ekim 2020 Cumartesi günü TRT1'de ekrana gelmeye başlayacak."
+    ],
+    "synopsis": "Sevdiklerine kavuşamayan aşıklara, savurduğu taşlarla kol kanat geren Gönül Dağı.. Nerede bir aşığın, bir yetimin kalbi kırılsa Gönül Dağından bir parça taş kopar derler ama büyük ama küçük... Gönül Dağı dizisi, bozkırın ortasında yer alan şirin bir kasabada yaşayan sıcakkanlı, sevecen Anadolu insanının öyküsünü anlatıyor. Çocukluk aşkı Dilek'le (Gülsim Ali İlhan) bir gün buluşma hayali kuran Taner'in (Berk Atan) kuzenleriyle yaptığı müthiş icat nelere sebep olacak?",
+    "genre": "Aile, Dram, komedi, Aşk",
+    "cast": [
+      {
+        "character": "Taner",
+        "actor": "Berk Atan"
+      },
+      {
+        "character": "Ramazan",
+        "actor": "Cihat Süvarioğlu"
+      },
+      {
+        "character": "Veysel",
+        "actor": "Semih Ertürk"
+      },
+      {
+        "character": "Ciritçi Abdullah",
+        "actor": "Yavuz Sepetçi"
+      },
+      {
+        "character": "Ağıtçı Hüseyin",
+        "actor": "Erdal Cindoruk"
+      },
+      {
+        "character": "Selami",
+        "actor": "Eser Eyüboğlu"
+      },
+      {
+        "character": "Sefer",
+        "actor": "Ferdi Sancar"
+      },
+      {
+        "character": "Cemile",
+        "actor": "Nazlı Pınar Kaya"
+      },
+      {
+        "character": "Asuman",
+        "actor": "Hazal Çağlar"
+      },
+      {
+        "character": "Dişçi Musa",
+        "actor": "Nuri Gökaşan"
+      },
+      {
+        "character": "Düğüncü Muammer",
+        "actor": "Ali Düşenkalkar"
+      },
+      {
+        "character": "Halime",
+        "actor": "Şebnem Dilligil"
+      }
+    ]
   },
   {
     "name": "Ömür Usta",
     "handle": "@ÖmürUstaDizi",
     "channelId": "UCkoOmxdvb53TMs37oqFO68Q",
     "uploadsPlaylistId": "UUkoOmxdvb53TMs37oqFO68Q",
-    "videosPath": "data/youtubevideos/UCkoOmxdvb53TMs37oqFO68Q.json"
+    "videosPath": "data/youtubevideos/UCkoOmxdvb53TMs37oqFO68Q.json",
+    "posterPath": "assets/series/omur-usta.webp",
+    "seasonCount": 1,
+    "productionCompany": "Ay Yapım",
+    "director": [
+      "Hilal Saral"
+    ],
+    "writers": [
+      "Çağla Kızılelma"
+    ],
+    "history": [
+      "Ömür Usta dizisi 27 Eylül 2026 Pazar, NOW'da başladı."
+    ],
+    "synopsis": "Dizi; yoksulluk içinde tamirat yaparak yaşam\r\nmücadelesi veren Ömür'ün, üç çocuğu ve kayınvalidesiyle birlikte sürdürdüğü zorlu hayatını konu alıyor. Çocuklarının geleceği için yılmadan mücadele eden Ömür'ün hikayesi; ekonomik adaletsizlikler, toplumsal baskılar, aile bağları ve hayata tutunma çabası ekseninde anlatılacak.",
+    "genre": "Dram",
+    "cast": [
+      {
+        "character": "Ömür Uçar",
+        "actor": "Nurgül Yeşilçay"
+      },
+      {
+        "character": "Tunç Arıkan",
+        "actor": "Bülent İnal"
+      },
+      {
+        "character": "Nevra Arıkan",
+        "actor": "Gonca Vuslateri"
+      },
+      {
+        "character": "Mete Uçar",
+        "actor": "Enes Koçak"
+      },
+      {
+        "character": "Gülsüm Karaca",
+        "actor": "Gülçin Kültür Şahin"
+      },
+      {
+        "character": "Halil İbrahim Eren",
+        "actor": "İbrahim Selim"
+      },
+      {
+        "character": "Müzeyyen Uçar",
+        "actor": "Zerrin Sümer"
+      },
+      {
+        "character": "Yıldız Aydın",
+        "actor": "Pınar Çağlar Gençtürk"
+      },
+      {
+        "character": "İpek Arıkan",
+        "actor": "Sude Zülal Güler"
+      },
+      {
+        "character": "Nazlı Uçar",
+        "actor": "Cemre Arda"
+      }
+    ]
   },
   {
     "name": "Daha On Yedi",
     "handle": "@DahaOnYediDizisi",
     "channelId": "UC9qIbva82rrHzSM1kI7Cb6g",
     "uploadsPlaylistId": "UU9qIbva82rrHzSM1kI7Cb6g",
-    "videosPath": "data/youtubevideos/UC9qIbva82rrHzSM1kI7Cb6g.json"
+    "videosPath": "data/youtubevideos/UC9qIbva82rrHzSM1kI7Cb6g.json",
+    "posterPath": "assets/series/daha-on-yedi.jpg",
+    "seasonCount": 1,
+    "productionCompany": "Pastel Film",
+    "director": [
+      "Emre Kabakuşak"
+    ],
+    "writers": [
+      "Gökhan Korkusuz ve Redife Zerener"
+    ],
+    "history": [
+      "Daha 17 dizisi 31 Mayıs 2026 Pazar, Kanal D'de başladı."
+    ],
+    "synopsis": "Beş yaşında kaybettiği ailesinden geride kalan tek kişi olan kardeşini aramak için Bodrum’a gelen Aras, on yedi yaşında gözü kara bir delikanlıdır. Bodrum’da başladığı yeni hayatı şehrin en güçlü ailesi Akkayalarla yolunun kesişmesiyle zorlu bir mücadeleye dönüşecektir.",
+    "genre": "Dram, Gençlik",
+    "cast": [
+      {
+        "character": "Aras",
+        "actor": "Çağan Efe Ak"
+      },
+      {
+        "character": "Şebnem",
+        "actor": "Nesrin Cavadzade"
+      },
+      {
+        "character": "Hakan",
+        "actor": "Armağan Oğuz"
+      },
+      {
+        "character": "Leyla",
+        "actor": "Ceren Ayruk"
+      },
+      {
+        "character": "Teoman",
+        "actor": "Ata Yaşat"
+      },
+      {
+        "character": "Nuray",
+        "actor": "Dilara Aksüyek"
+      },
+      {
+        "character": "Deniz",
+        "actor": "Helin Elveren"
+      },
+      {
+        "character": "Barış",
+        "actor": "Deniz Ali Cankorur"
+      },
+      {
+        "character": "Ezgi",
+        "actor": "Berra Ahsen Uslu"
+      }
+    ]
   },
   {
     "name": "Kod Adı: Kırlangıç",
     "handle": "@kodadikirlangic",
     "channelId": "UCluhV4XA-ZYg5BxoCgvphiA",
     "uploadsPlaylistId": "UUluhV4XA-ZYg5BxoCgvphiA",
-    "videosPath": "data/youtubevideos/UCluhV4XA-ZYg5BxoCgvphiA.json"
+    "videosPath": "data/youtubevideos/UCluhV4XA-ZYg5BxoCgvphiA.json",
+    "posterPath": "assets/series/kod-adi-kirlangic.jpg",
+    "seasonCount": 4,
+    "productionCompany": "Zera Medya",
+    "director": [
+      "Emir Khalilzadeh"
+    ],
+    "writers": [],
+    "history": [
+      "Kod Adı Kırlangıç dizisi 27 Eylül 2026 Pazar ekrana gelen 87. bölümü ile 4. sezonuna başladı.",
+      "Kod Adı Kırlangıç dizisi 30 Mayıs 2026 Pazar günü ekrana gelen bölümüyle 3. sezon finalini yaptı.",
+      "Kod Adı Kırlangıç dizisi 1 Haziran 2025 Pazar günü ekrana gelen bölümüyle 2. sezon finali yaptı.",
+      "Kod Adı Kırlangıç dizisi 9 Haziran 2024 Pazar günü ekrana gelen bölümüyle sezon finali yaptı.",
+      "Kod Adı Kırlangıç dizisi 12 Kasım 2023 Pazar, TRT 1'de başladı."
+    ],
+    "synopsis": "Kod Adı Kırlangıç dizisi, teknoloji meraklısı çocukların heyecan dolu hikayelerini ekrana taşıyacak. Aynı mahallede yaşayan ve ortak merakı teknoloji olan çocuklar drone tasarlamak için bir araya gelirler. Bu uğurda onlara yardım edenler de olacaktır, engellemeye çalışanlar da...",
+    "genre": "Aile, gençlik, okul",
+    "cast": []
   },
   {
     "name": "Teşkilat",
     "handle": "@TeskilatTRT",
     "channelId": "UCt8FO3MT1fWD-UI7hnutj8A",
     "uploadsPlaylistId": "UUt8FO3MT1fWD-UI7hnutj8A",
-    "videosPath": "data/youtubevideos/UCt8FO3MT1fWD-UI7hnutj8A.json"
+    "videosPath": "data/youtubevideos/UCt8FO3MT1fWD-UI7hnutj8A.json",
+    "posterPath": "assets/series/teskilat.jpg",
+    "seasonCount": 7,
+    "productionCompany": "TİMSBİ",
+    "director": [
+      "Burak Arlıel"
+    ],
+    "writers": [
+      "Teşkilat Yazı Grubu"
+    ],
+    "history": [
+      "Teşkliat dizisi 20 Eylül 2026 Pazar günü yayınlanan 185. bölümüyle 7. sezonuna başladı.",
+      "Teşkilat dizisi 7 Haziran 2026 Pazar yayınlanan 184. bölümüyle 6. sezon finalini yaptı.",
+      "Teşkliat dizisi 21 Eylül 2025 Pazar günü yayınlanan 149. bölümüyle 6. sezonuna başladı.",
+      "Teşkliat dizisi 22 Eylül 2024 Pazar günü yayınlanan 112. bölümüyle 5. sezonuna başladı.",
+      "Teşkilat dizisi 9 Haziran 2024 Pazar günü yayınlanan 111. Bölümüyle 4. Sezon finalini yaptı.",
+      "Teşkilat dizisi 22 Ekim 2023 Pazar günü yayınlanacak 80. Bölümüyle 4. Sezonuna başlayacak.",
+      "Teşkilat dizisi 25 Haziran 2023 Pazar günü yayınlanan 79. Bölümüyle 3. Sezon finalini yaptı.",
+      "Teşkilat dizisi 02 Ekim 2022 Pazar günü yayınlanacak 49. Bölümüyle 3. Sezonuna başlayacak.",
+      "Teşkilat dizisi 29 Mayıs 2022 Pazar günü yayınlanan 48. Bölümüyle 2. Sezon finalini yaptı.",
+      "Teşkilat dizisi 06 Haziran 2021 Pazar günü yayınlanan 14. bölümüyle 1. Sezon finalini yaptı.",
+      "Teşkilat dizisi 07 Mart 2021 Pazar günü Trt1'de başlayacak."
+    ],
+    "synopsis": "Teşkilat dizisi, ülkesi için kendi hayatlarından vazgeçip kalabalıkların içinde görünmez olmaları gereken bir görevi kabul ederek, \"yer altına” inen yedi vatan sevdalısının hikayesini ekrana getirecek... Ankara'daki SİHA fabrikasına terör saldırısı düzenlenir. Saldırının yabancı istihbarat servisleri tarafından organize edildiği tespit edilir. Bunun üzerine MİT içinde gizli bir tim kurulur. Bu timin amacı saldırının arkasındaki güçleri tespit etmek ve ortadan kaldırmaktır.",
+    "genre": "Aksiyon, polisiye",
+    "cast": [
+      {
+        "character": "Altay",
+        "actor": "Tolga Sarıtaş"
+      },
+      {
+        "character": "Kate",
+        "actor": "Tuvana Türkay"
+      },
+      {
+        "character": "Korkut",
+        "actor": "Yunus Emre Yıldırımer"
+      },
+      {
+        "character": "Uzay",
+        "actor": "Serdar Yeğin"
+      },
+      {
+        "character": "Akif",
+        "actor": "Adnan Biricik"
+      },
+      {
+        "character": "Hamdi",
+        "actor": "Murat Han"
+      },
+      {
+        "character": "Nazlı",
+        "actor": "Melisa Akman"
+      },
+      {
+        "character": "Tufan",
+        "actor": "Murat Aygen"
+      }
+    ]
   },
   {
     "name": "Altı Üstü İstanbul",
     "handle": "@AltıÜstüİstanbul",
     "channelId": "UCpMth28h0W_ycDlZ5KxABDw",
     "uploadsPlaylistId": "UUpMth28h0W_ycDlZ5KxABDw",
-    "videosPath": "data/youtubevideos/UCpMth28h0W_ycDlZ5KxABDw.json"
+    "videosPath": "data/youtubevideos/UCpMth28h0W_ycDlZ5KxABDw.json",
+    "posterPath": "assets/series/alti-ustu-istanbul.jpg",
+    "seasonCount": 1,
+    "productionCompany": "NTC Medya",
+    "director": [
+      "Müge Uğurlar"
+    ],
+    "writers": [
+      "Yekta Torun",
+      "Hilal Yıldız"
+    ],
+    "history": [
+      "Altı Üstü istanbul dizisi 15 Haziran 2026 Pazartesi, atv'de başladı."
+    ],
+    "synopsis": "Dizi; İstanbul’un kenar mahallesinde yaşayan Emir’in\r\n(Rahimcan Kapkap) bir grup arkadaşıyla birlikte hayallerine ulaşma mücadelesini konu alıyor. Güç, para ve ihanetin gölgesinde yolları kesişen gençler, attıkları her adımla birbirlerinin kaderini değiştirecek geri dönüşü\r\nolmayan seçimlerle yüzleşecek.",
+    "genre": "Dram, Gençlik",
+    "cast": [
+      {
+        "character": "Tarık Dirlik",
+        "actor": "Feyyaz Duman"
+      },
+      {
+        "character": "Zehra Cankaya",
+        "actor": "Nehir Erdoğan"
+      },
+      {
+        "character": "Bayram Cankaya",
+        "actor": "İlker Aksum"
+      },
+      {
+        "character": "Emir Cankaya",
+        "actor": "Rahimcan Kapkap"
+      },
+      {
+        "character": "Naz Başer",
+        "actor": "Elçin Zehra İrem"
+      },
+      {
+        "character": "Galip Sultan",
+        "actor": "Kaan Çakır"
+      },
+      {
+        "character": "Nihal Cankaya",
+        "actor": "Yüsra Geyik"
+      },
+      {
+        "character": "Fahriye Toprak",
+        "actor": "Öykü Gürman"
+      },
+      {
+        "character": "Uzay Sultan",
+        "actor": "Berk Ali Çatal"
+      },
+      {
+        "character": "Pamuk Cankaya",
+        "actor": "Sacide Taşaner"
+      }
+    ]
   },
   {
     "name": "Uzak Şehir",
     "handle": "@UzakSehirDizi",
     "channelId": "UCBmIU28lqzGn_7ehXaJuzhA",
     "uploadsPlaylistId": "UUBmIU28lqzGn_7ehXaJuzhA",
-    "videosPath": "data/youtubevideos/UCBmIU28lqzGn_7ehXaJuzhA.json"
+    "videosPath": "data/youtubevideos/UCBmIU28lqzGn_7ehXaJuzhA.json",
+    "posterPath": "assets/series/uzak-sehir.jpg",
+    "seasonCount": 3,
+    "productionCompany": "AyNa Yapım",
+    "director": [
+      "Ahmet Katıksız"
+    ],
+    "writers": [
+      "Gülizar Irmak"
+    ],
+    "history": [
+      "Uzak Şehir dizisi 14 Eylül 2026 Pazartesi akşamı ekrana gelen 64. bölümüyle 3. sezonuna başladı.",
+      "Uzak Şehir 1 Haziran 2026 Pazartesi yayınlanan 63. bölümüyle 2. sezon finalini yaptı.",
+      "Uzak Şehir dizisi 15 Eylül 2025 Pazartesi akşamı ekrana gelen 29. bölümüyle 2. sezonuna başladı",
+      "Uzak Şehir dizisi 2 Haziran 2025 Pazartesi akşamı ekrana gelen 28. bölümüyle 1. sezon finalini yaptı.",
+      "Uzak Şehir dizisi 11 Kasım 2024 Pazartesi Kanal D'de başladı."
+    ],
+    "synopsis": "Alya Albora, vefat eden eşinin vasiyetini yerine getirmek için cenazesi ve beş yaşındaki oğluyla Kanada’dan Mardin’deki Albora topraklarına gelir. Ancak bu gelişin bir dönüşü ve Albora’dan çıkışı yoktur. Albora ailesinin başı Cihan Albora, Alya’nın çırpınışlarına kayıtsız kalmasa da çocuğunu alıp gitmesine izin vermez. Geçmişin karanlığı, saklanan sırlar ve bölgenin gerçeği ile yüzleşen Alya Albora, kendini kocasının ailesiyle büyük bir mücadele içinde bulur.",
+    "genre": "Dram",
+    "cast": [
+      {
+        "character": "Cihan Albora",
+        "actor": "Ozan Akbaba"
+      },
+      {
+        "character": "Alya Albora",
+        "actor": "Sinem Ünsal"
+      },
+      {
+        "character": "Sadakat Albora",
+        "actor": "Gonca Cilasun"
+      },
+      {
+        "character": "Deniz Cihan Albora",
+        "actor": "Kuzey Gezer"
+      },
+      {
+        "character": "Ecmel Albora",
+        "actor": "Müfit Kayacan"
+      },
+      {
+        "character": "Şahin Albora",
+        "actor": "Alper Çankaya"
+      },
+      {
+        "character": "Demir Baybars",
+        "actor": "Ferit Kaya"
+      },
+      {
+        "character": "Nare Albora",
+        "actor": "Sahra Şaş"
+      },
+      {
+        "character": "Kaya Albora",
+        "actor": "Atakan Özkaya"
+      },
+      {
+        "character": null,
+        "actor": "Barış Yalçın"
+      }
+    ]
   },
   {
     "name": "Evlilik Güzeldir",
     "handle": "@evlilikgüzeldirtrt",
     "channelId": "UCIBdf7Z62h_jYDNptT0DhUQ",
     "uploadsPlaylistId": "UUIBdf7Z62h_jYDNptT0DhUQ",
-    "videosPath": "data/youtubevideos/UCIBdf7Z62h_jYDNptT0DhUQ.json"
+    "videosPath": "data/youtubevideos/UCIBdf7Z62h_jYDNptT0DhUQ.json",
+    "posterPath": "assets/series/evlilik-guzeldir.jpg",
+    "seasonCount": 1,
+    "productionCompany": "Greative Film",
+    "director": [
+      "Şafak Bal",
+      "Serap Danış Koçak"
+    ],
+    "writers": [
+      "Baykut Badem",
+      "Hasan Tolga Pulat",
+      "Hazan Toma",
+      "Seçil Çömlekçi"
+    ],
+    "history": [
+      "Evlilik Güzeldir dizisi 7 Eylül 2026 Pazartesi TRT 1'de başladı."
+    ],
+    "synopsis": "Dizinin merkezinde, İstanbul’un en özel semtlerinden birinde beş kızı, yaşlı annesiyle yaşayan ‘evlendirne rekortmeni’ nikâh memuru Mesut Bahtiyar yer alıyor. Yıllardır binlerce çiftin nikâhını kıyan Mesut için evlilik yalnızca atılan bir imza değil; sevgi, emek ve fedakârlıkla kurulan kıymetli bir yuvadır. En büyük hayali ise birbirinden farklı karakterlere sahip beş kızını mutlu birer yuva kurarken görebilmektir.",
+    "genre": "Komedi, Aile, Romantik",
+    "cast": [
+      {
+        "character": "Mesut Bahtiyar",
+        "actor": "Fikret Kuşkan"
+      },
+      {
+        "character": "Yasemin",
+        "actor": "İlayda Alişan"
+      },
+      {
+        "character": "Zeynep",
+        "actor": "Hande Soral"
+      }
+    ]
   },
   {
     "name": "Güneşin Doğduğu Yer",
     "handle": "@GüneşinDoğduğuYeratv",
     "channelId": "UCIwMJS36WnQUyJnC3slgK-g",
     "uploadsPlaylistId": "UUIwMJS36WnQUyJnC3slgK-g",
-    "videosPath": "data/youtubevideos/UCIwMJS36WnQUyJnC3slgK-g.json"
+    "videosPath": "data/youtubevideos/UCIwMJS36WnQUyJnC3slgK-g.json",
+    "posterPath": "assets/series/gunesin-dogdugu-yer.jpg",
+    "seasonCount": 1,
+    "productionCompany": "TİMSBİ",
+    "director": [
+      "Çağrı Vila Lostuvalı",
+      "Çiğdem Bozali"
+    ],
+    "writers": [
+      "Yıldız Tunç"
+    ],
+    "history": [
+      "Güneşin Doğduğu Yer dizisi 17 Eylül 2026 Perşembe atv'de başladı."
+    ],
+    "synopsis": "Berlin Duvarı’nın yıkıldığı gün Leyla ile Kenan’ın yolları kesişir ve ikili arasında güçlü bir aşk başlar. Kenan, Adana’ya döndüğünde Leyla’yı da hayatına dahil etmek ister ancak ailesinin beklentileri ve annesi Celadet’in planları bu aşkın önüne geçer. Kenan, ailesiyle Leyla arasında zor bir seçim yapmakla karşı karşıya kalır. Güneşin Doğduğu Yer, Almanya’da tanışıp birbirlerine âşık olan Kenan ve Leyla’nın hikâyesini anlatıyor. Kenan’ın Adana’nın köklü ve güçlü Kozan ailesinin oğlu olması, Leyla’nın ise farklı bir dünyadan gelmesi bu aşkı zorlaştırıyor. Kenan’ın ailesiyle aşkı arasında kalması, iki güçlü aile arasındaki ilişkiler ve geçmişten gelen hesaplaşmalar hikâyenin temelini oluşturuyor.",
+    "genre": "Dram",
+    "cast": [
+      {
+        "character": "Kenan Kozan",
+        "actor": "Burak Özçivit"
+      },
+      {
+        "character": "Celadet Kozan",
+        "actor": "Sibel Taşçıoğlu"
+      },
+      {
+        "character": "Ceyhun Atahanlı",
+        "actor": "Görkem Sevindik"
+      },
+      {
+        "character": "Leyla Breger",
+        "actor": "Beyza Gümülcine"
+      },
+      {
+        "character": "Devran Atahanlı",
+        "actor": "Devrim Yakut"
+      },
+      {
+        "character": "Hanzade Atahanlı",
+        "actor": "Hilal Anay"
+      }
+    ]
   },
   {
     "name": "Sevdiğim Sensin",
     "handle": "@sevdigimsensinresmi",
     "channelId": "UCX8d_tK-HjGDQkAWUADy9sw",
     "uploadsPlaylistId": "UUX8d_tK-HjGDQkAWUADy9sw",
-    "videosPath": "data/youtubevideos/UCX8d_tK-HjGDQkAWUADy9sw.json"
+    "videosPath": "data/youtubevideos/UCX8d_tK-HjGDQkAWUADy9sw.json",
+    "posterPath": "assets/series/sevdigim-sensin.jpg",
+    "seasonCount": 2,
+    "productionCompany": "Ay Yapım",
+    "director": [
+      "Gökçen Usta"
+    ],
+    "writers": [
+      "Coşkun Irmak (hikaye)",
+      "Yeşim Aslan"
+    ],
+    "history": [
+      "Sevdiğim Sensin dizisi 10 Eylül 2026 Perşembe 2. sezonun başladı.",
+      "Sevdiğim Sensin dizisi 4 Haziran 2026 Perşembe günü yayınlanan15. bölümüyle 1. sezon finalini yaptı.",
+      "Sevdiğim Sensin dizisi 12 Şubat 2026 Perşembe günü Star TV'de başladı."
+    ],
+    "synopsis": "Sevdiğim Sensin, askerlik görevi sırasında yaşanan deprem felaketinde köy halkını yağmacılardan koruyan Erkan ve köylü kızı Dicle’nin tanışmalarıyla değişen kaderlerini konu alıyor.",
+    "genre": "Dram, romantik",
+    "cast": [
+      {
+        "character": "Erkan Aldur",
+        "actor": "Aytaç Şaşmaz"
+      },
+      {
+        "character": "Dicle Demir",
+        "actor": "Helin Kandemir"
+      },
+      {
+        "character": "Esat Aldur",
+        "actor": "Hüseyin Avni Danyal"
+      },
+      {
+        "character": "İnci Aldur",
+        "actor": "Esra Ronabar"
+      },
+      {
+        "character": "Nilüfer Aldur",
+        "actor": "Deniz Işın"
+      },
+      {
+        "character": "Tahir Aldur",
+        "actor": "Cihat Süvarioğlu"
+      },
+      {
+        "character": "Fatoş Parsoğlu",
+        "actor": "Özlem Conker"
+      }
+    ]
   },
   {
     "name": "Kızılcık Şerbeti",
     "handle": "@kizilcikserbetidizi",
     "channelId": "UCRfLDCtkSwmTdwHrbmC78Xg",
     "uploadsPlaylistId": "UURfLDCtkSwmTdwHrbmC78Xg",
-    "videosPath": "data/youtubevideos/UCRfLDCtkSwmTdwHrbmC78Xg.json"
+    "videosPath": "data/youtubevideos/UCRfLDCtkSwmTdwHrbmC78Xg.json",
+    "posterPath": "assets/series/kizilcik-serbeti.jpg",
+    "seasonCount": 5,
+    "productionCompany": "Gold Film",
+    "director": [
+      "Abdulah Bulut (2025)",
+      "Ketche (Hakan Kırvavaç)"
+    ],
+    "writers": [
+      "Melis Civelek"
+    ],
+    "history": [
+      "Kızılcık Şerbeti dizisi 18 Eylül 2026 Cuma ekrana gelen 139. bölümüyle 5. sezonuna başladı.",
+      "Kızılcık Şerbeti dizisi 22 Mayıs 2026 Cuma ekrana gelen 138. bölümüyle 4. sezon finalini yaptı.",
+      "Kızılcık Şerbeti dizisi 30 Mayıs 2025 Cuma ekrana gelen 103. bölümüyle 3. sezon finalini yaptı.",
+      "Kızılcık Şerbeti dizisi 7 Haziran 2024 Cuma günü sezon finali yaptı.",
+      "Kızılcık Şerbeti dizisi 15 Eylül 2023 Cuma günü yayınlanacak 30. Bölümü ile 2. Sezonuna başlayacak.",
+      "Kızılcık Şerbeti dizisi 09 Haziran 2023 Cuma günü yayınlanan 29. Bölümü ile 1.Sezon finalini yaptı.",
+      "Kızılcık Şerbeti dizisi 28 Ekim 2022 Cuma günü Show Tv'de yayınlanacak."
+    ],
+    "synopsis": "İyi eğitimli bir kadın olan Kıvılcım (Evrim Alasya), eşinden boşandıktan sonra iki kızını tek başına ve inandığı değerler doğrultusunda yetiştirmiştir. Küçük kızı Çimen (Selin Türkmen) liseye devam etmekte, büyük kızı Doğa (Sıla Türkoğlu) ise üniversitede diş hekimliği okumaktadır. Kıvılcım'ın tek isteği çocuklarının ileride başarılı ve mutlu olmalarıdır. Fakat Doğa'nın daha üniversiteye girdiği ilk yıl hamile kalarak erkek arkadaşıyla evlenmeye karar vermesiyle hayal kırıklığı yaşayan Kıvılcım, kızının kocasının ailesiyle tanıştığında daha da şaşkına döner. Doğa'nın sevgilisi Fatih'in (Doğukan Güngör) ailesi oldukça muhafazakar bir ailedir. Kıvılcım, kızının hayata farklı bakan bir aileyle yapamayacağını düşünürken, Doğa ise Fatih ile aşklarının her türlü farklılığın üstesinden geleceğini inanır. Kızılcık Şerbeti; doğruları aynı, yöntemleri farklı olan iki uç aile arasında kalan bir aşk hikayesidir.",
+    "genre": "Dram",
+    "cast": [
+      {
+        "character": "Ömer Ünal",
+        "actor": "Barış Kılıç"
+      },
+      {
+        "character": "Kıvılcım Arslan",
+        "actor": "Evrim Alasya"
+      },
+      {
+        "character": "Abdullah Ünal",
+        "actor": "Ahmet Mümtaz Taylan"
+      },
+      {
+        "character": "Başak",
+        "actor": "Seray Kaya"
+      },
+      {
+        "character": "Asil",
+        "actor": "Erkan Avcı"
+      },
+      {
+        "character": "Salkım",
+        "actor": "Özge Borak"
+      },
+      {
+        "character": "Fatih",
+        "actor": "Emre Dinler"
+      },
+      {
+        "character": "Asude",
+        "actor": "Servet Pandur"
+      },
+      {
+        "character": "Lider",
+        "actor": "Murat Aygen"
+      },
+      {
+        "character": "Çimen",
+        "actor": "Asena Keskinci"
+      },
+      {
+        "character": "Emir",
+        "actor": "Yalçın Hafızoğlu"
+      },
+      {
+        "character": "Elif",
+        "actor": "Zeynep Parla"
+      }
+    ]
   },
   {
     "name": "Yeraltı",
     "handle": "@Yeraltidizisi",
     "channelId": "UC9hZO00do4SZHaJRU-xkyEg",
     "uploadsPlaylistId": "UU9hZO00do4SZHaJRU-xkyEg",
-    "videosPath": "data/youtubevideos/UC9hZO00do4SZHaJRU-xkyEg.json"
+    "videosPath": "data/youtubevideos/UC9hZO00do4SZHaJRU-xkyEg.json",
+    "posterPath": "assets/series/yeralti.jpg",
+    "seasonCount": 2,
+    "productionCompany": "Medyapım",
+    "director": [
+      "Murat Öztürk"
+    ],
+    "writers": [
+      "Berna Aruz"
+    ],
+    "history": [
+      "Yeraltı dizisi 7 Ekim 2026 Çarşamba yaınlanan 17. bölümüyle 2. sezonuna başladı..",
+      "Yeraltı dizisi 20 Mayıs 2026 Çarşamba yayınlanan 16. bölümüyle 1. sezon finalini yaptı.",
+      "Yeraltı dizisi, 28 Ocak 2026 Çarşamba, NOW'da başladı."
+    ],
+    "synopsis": "Ailesinin katilini öldürerek intikamını alan Haydar Ali (Deniz Can Aktaş), cezaevine\r\ndüştüğünde kendini Türkiye’nin en tehlikeli yeraltı kartellerinden birinin ortasında bulur.\r\nAncak asıl ölümcül yüzleşme üç yıl sonra özgürlüğüne kavuştuğunda başlar: Haydar Ali’nin\r\nhâlâ unutamadığı kadın, artık onun en yakınındaki adamın karısıdır.",
+    "genre": "Dram, romantik, gerilim",
+    "cast": [
+      {
+        "character": "Haydar Ali Aslan",
+        "actor": "Deniz Can Aktaş"
+      },
+      {
+        "character": "Halide Ceylan",
+        "actor": "Devrim Özkan"
+      },
+      {
+        "character": "Bozkurt Hanoğlu",
+        "actor": "Uraz Kaygılaroğlu"
+      },
+      {
+        "character": "Sultan Hanoğlu",
+        "actor": "Sümeyye Aydoğan"
+      },
+      {
+        "character": "Yılmaz Doğan",
+        "actor": "Mehmet Yılmaz Ak"
+      },
+      {
+        "character": "Merdan Hanoğlu",
+        "actor": "Burak Sevinç"
+      },
+      {
+        "character": "Melek Aslan",
+        "actor": "Ülkü Hilal Çiftçi"
+      },
+      {
+        "character": "Ferhat Hanoğlu",
+        "actor": "Ekin Mert Daymaz"
+      }
+    ]
   }
 ]
