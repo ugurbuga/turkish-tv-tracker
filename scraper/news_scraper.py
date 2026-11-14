@@ -22,7 +22,6 @@ from crypto_utils import xor_encrypt, xor_decrypt
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 DATA_FILE = DATA_DIR / "news.json"
-TEMP_FILE = DATA_DIR / "news.rebuild.json"
 
 ENCRYPTED_CATEGORY_URL = "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhcXWREVDhESShZESFkd"
 ENCRYPTED_DOMAINS = (
@@ -596,47 +595,167 @@ def encode_news_record(item):
     return item
 
 
-def save_temp_news(news):
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    encrypted_news = [encode_news_record(item) for item in news]
+def get_news_day(item):
+    published_at = item.get("publishedAt")
 
-    with TEMP_FILE.open("w", encoding="utf-8") as file:
-        json.dump(encrypted_news, file, ensure_ascii=False, indent=2)
+    if not published_at or len(published_at) < 10:
+        raise ValueError(
+            f"Geçersiz publishedAt: {item.get('sourceTitle')}"
+        )
+
+    day = published_at[:10]
+
+    datetime.strptime(day, "%Y-%m-%d")
+
+    return day
+
+
+def load_daily_news():
+    news_dir = DATA_DIR / "news"
+    records = []
+
+    if not news_dir.exists():
+        return records
+
+    for path in sorted(news_dir.glob("*.json")):
+        with path.open("r", encoding="utf-8") as file:
+            daily_records = json.load(file)
+
+        if not isinstance(daily_records, list):
+            raise ValueError(f"Geçersiz günlük arşiv: {path}")
+
+        records.extend(
+            decode_news_record(item) for item in daily_records
+        )
+
+    return records
+
+
+def save_daily_news(news):
+    if not news:
+        print("Boş arşiv kaydedilmedi; mevcut günlük dosyalar korundu.")
+        return
+
+    news_dir = DATA_DIR / "news"
+    news_dir.mkdir(parents=True, exist_ok=True)
+
+    deduplicated = {}
+
+    for item in news:
+        source_url = normalize_url(item["sourceUrl"])
+        item["sourceUrl"] = source_url
+        previous = deduplicated.get(source_url)
+
+        if previous is None:
+            deduplicated[source_url] = item
+            continue
+
+        current_completed = item.get("aiStatus") == "completed"
+        previous_completed = previous.get("aiStatus") == "completed"
+
+        if current_completed and not previous_completed:
+            deduplicated[source_url] = item
+        elif current_completed == previous_completed:
+            if (item.get("publishedAt") or "") > (
+                previous.get("publishedAt") or ""
+            ):
+                deduplicated[source_url] = item
+
+    grouped = {}
+
+    for item in deduplicated.values():
+        day = get_news_day(item)
+        grouped.setdefault(day, []).append(item)
+
+    for day, items in grouped.items():
+        ordered = sorted(
+            items,
+            key=lambda item: item.get("publishedAt") or "",
+            reverse=True,
+        )
+
+        destination = news_dir / f"{day}.json"
+        temp = destination.with_suffix(".json.tmp")
+
+        with temp.open("w", encoding="utf-8") as file:
+            json.dump(
+                [encode_news_record(item) for item in ordered],
+                file,
+                ensure_ascii=False,
+                indent=2,
+            )
+
+        os.replace(temp, destination)
+
+    # Arşivden çıkarılmış veya tarihi değişmiş kayıtların eski dosyalarını temizle.
+    valid_days = {f"{day}.json" for day in grouped}
+
+    for path in news_dir.glob("*.json"):
+        if path.name not in valid_days:
+            path.unlink()
+
+
+def load_news_archive():
+    daily_news = load_daily_news()
+
+    if daily_news:
+        return daily_news
+
+    if not DATA_FILE.exists():
+        return []
+
+    with DATA_FILE.open("r", encoding="utf-8") as file:
+        legacy_news = json.load(file)
+
+    if not isinstance(legacy_news, list):
+        raise ValueError("news.json beklenen liste formatında değil.")
+
+    return [
+        decode_news_record(item) for item in legacy_news
+    ]
+
+
+
+def backup_news_archive(prefix):
+    news_dir = DATA_DIR / "news"
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    if news_dir.exists():
+        backup_dir = DATA_DIR / f"news.backup.{prefix}.{timestamp}"
+        shutil.copytree(news_dir, backup_dir)
+        return backup_dir
+
+    if DATA_FILE.exists():
+        backup_file = DATA_DIR / f"news.backup.{prefix}.{timestamp}.json"
+        shutil.copy2(DATA_FILE, backup_file)
+        return backup_file
+
+    return None
+
 
 def rebuild_and_merge():
-    """Rescan the first PAGE_COUNT listing pages and merge into news.json.
+    """Mevcut haberleri günlük arşivde korur ve yeni/bekleyen kayıtları işler."""
 
-    Completed AI records are preserved. Pending records are retried, and
-    previously unseen source URLs are added. The JSON is atomically saved
-    after each processed article.
-    """
     print("\n========== NEWS REBUILD & MERGE ==========")
 
     gemini_key = os.getenv("GEMINI_API_KEY")
     if not gemini_key:
         raise SystemExit("GEMINI_API_KEY bulunamadı.")
 
-    if not DATA_FILE.exists():
-        raise SystemExit("Mevcut news.json bulunamadı; merge işlemi iptal edildi.")
+    news = load_news_archive()
+    if not news:
+        raise SystemExit("Mevcut haber arşivi bulunamadı; merge işlemi iptal edildi.")
 
-    with DATA_FILE.open("r", encoding="utf-8") as file:
-        news = json.load(file)
-
-    if not isinstance(news, list):
-        raise SystemExit("news.json beklenen liste formatında değil.")
-
-    news = [decode_news_record(item) for item in news]
-
-    # Normalize and deduplicate existing URLs. If duplicates exist, prefer
-    # a completed record so a successful AI result is never discarded.
     deduplicated = {}
     for item in news:
         source_url = item.get("sourceUrl")
         if not source_url:
             continue
+
         normalized = normalize_url(source_url)
         item["sourceUrl"] = normalized
         previous = deduplicated.get(normalized)
+
         if previous is None or (
             previous.get("aiStatus") != "completed"
             and item.get("aiStatus") == "completed"
@@ -644,26 +763,25 @@ def rebuild_and_merge():
             deduplicated[normalized] = item
 
     news = list(deduplicated.values())
-    existing = {normalize_url(item["sourceUrl"]): item for item in news}
+    existing = {
+        normalize_url(item["sourceUrl"]): item
+        for item in news
+    }
 
     pending_before = sum(
         1 for item in news if item.get("aiStatus") == "pending"
     )
+
     print("Mevcut benzersiz kayıt:", len(news))
     print("Bekleyen kayıt:", pending_before)
 
     articles = fetch_all_articles()
     if not articles:
-        raise SystemExit("Kaynak taramasında haber bulunamadı; news.json korunuyor.")
+        raise SystemExit("Kaynak taramasında haber bulunamadı; arşiv korundu.")
 
-    # Take one backup before the first possible modification.
-    backup_file = DATA_DIR / (
-        "news.backup.merge."
-        + datetime.now().strftime("%Y%m%d_%H%M%S")
-        + ".json"
-    )
-    shutil.copy2(DATA_FILE, backup_file)
-    print("Yedek:", backup_file)
+    backup_file = backup_news_archive("merge")
+    if backup_file:
+        print("Yedek:", backup_file)
 
     added = 0
     retried = 0
@@ -698,6 +816,7 @@ def rebuild_and_merge():
             )
 
         article = dict(listing_article)
+
         try:
             article = fetch_article_detail(article)
             print("İçerik karakteri:", len(article.get("articleText", "")))
@@ -706,8 +825,10 @@ def rebuild_and_merge():
 
         generated = None
         last_result = None
+
         for attempt in range(5):
             last_result = process_article(article, gemini_key)
+
             if last_result.get("aiStatus") == "completed":
                 generated = last_result
                 break
@@ -720,6 +841,7 @@ def rebuild_and_merge():
                 "HTTP 503:",
                 "HTTP 504:",
             )
+
             if not any(error in error_text for error in retryable_errors):
                 break
 
@@ -728,6 +850,7 @@ def rebuild_and_merge():
                     f"Geçici Gemini hatası. 5 saniye sonra tekrar denenecek "
                     f"(deneme {attempt + 2}/5)."
                 )
+                time.sleep(5)
 
         if generated:
             ai_fields = generated
@@ -744,14 +867,22 @@ def rebuild_and_merge():
             failed += 1
 
         if current:
-            # Keep stable identity/source fields and update the AI result.
             current.update(ai_fields)
-            current["sourceTitle"] = article.get("sourceTitle") or current.get("sourceTitle")
+            current["sourceTitle"] = (
+                article.get("sourceTitle") or current.get("sourceTitle")
+            )
             current["source"] = current.get("source") or SOURCE_NAME
-            current["imageUrl"] = article.get("imageUrl") or current.get("imageUrl")
-            current["publishedAt"] = article.get("publishedAt") or current.get("publishedAt")
+            current["sourceUrl"] = url
+            current["imageUrl"] = (
+                article.get("imageUrl") or current.get("imageUrl")
+            )
+            current["publishedAt"] = (
+                article.get("publishedAt") or current.get("publishedAt")
+            )
             current["fetchedAt"] = datetime.now(timezone.utc).isoformat()
-            current.pop("aiError", None) if current.get("aiStatus") == "completed" else None
+
+            if current.get("aiStatus") == "completed":
+                current.pop("aiError", None)
         else:
             current = {
                 "id": article_id(url),
@@ -771,14 +902,13 @@ def rebuild_and_merge():
             key=lambda item: item.get("publishedAt") or "",
             reverse=True,
         )
-        save_temp_news(news)
-        os.replace(TEMP_FILE, DATA_FILE)
+
+        save_daily_news(news)
 
         print(
             f"İlerleme: {completed} Gemini başarılı, {failed} başarısız, "
             f"{added} yeni haber."
         )
-
 
     print("\n========== MERGE SUMMARY ==========")
     print("Yeni haber:", added)
@@ -787,114 +917,127 @@ def rebuild_and_merge():
     print("Bu çalışmada Gemini başarılı:", completed)
     print("Bu çalışmada başarısız:", failed)
     print("Toplam benzersiz arşiv:", len(news))
-    print("Dosya:", DATA_FILE)
+    print("Arşiv klasörü:", DATA_DIR / "news")
 
 
 def main():
     print("\n========== NEWS FULL REBUILD ==========")
 
     gemini_key = os.getenv("GEMINI_API_KEY")
-
     if not gemini_key:
         raise SystemExit("GEMINI_API_KEY bulunamadı.")
 
     articles = fetch_all_articles()
-
     if not articles:
-        raise SystemExit(
-            "Hiç haber bulunamadı. Mevcut news.json korunuyor."
-        )
+        raise SystemExit("Hiç haber bulunamadı. Mevcut arşiv korundu.")
+
+    news = load_news_archive()
+
+    deduplicated = {}
+    for item in news:
+        source_url = item.get("sourceUrl")
+        if not source_url:
+            continue
+
+        normalized = normalize_url(source_url)
+        item["sourceUrl"] = normalized
+        previous = deduplicated.get(normalized)
+
+        if previous is None or (
+            previous.get("aiStatus") != "completed"
+            and item.get("aiStatus") == "completed"
+        ):
+            deduplicated[normalized] = item
+
+    news = list(deduplicated.values())
+    existing = {
+        normalize_url(item["sourceUrl"]): item
+        for item in news
+    }
+
+    backup_file = backup_news_archive("full")
+    if backup_file:
+        print("Yedek:", backup_file)
+
+    articles.sort(
+        key=lambda item: item.get("publishedAt") or "",
+        reverse=True,
+    )
 
     print("\n========== ARTICLE DETAILS ==========")
-    print("Detayları alınacak haber:", len(articles))
+    print("Tarama sonucu haber:", len(articles))
 
-    detailed_articles = []
+    completed = 0
+    pending = 0
+    skipped_completed = 0
+    added = 0
 
-    for index, article in enumerate(articles, 1):
+    for index, listing_article in enumerate(articles, 1):
+        url = normalize_url(listing_article["sourceUrl"])
+        listing_article["sourceUrl"] = url
+        current = existing.get(url)
+
+        if current and current.get("aiStatus") == "completed":
+            skipped_completed += 1
+            print(
+                f"\n[{index}/{len(articles)}] Tamamlanmış kayıt korunuyor:",
+                listing_article["sourceTitle"],
+            )
+            continue
+
         print(
-            f"\nDetay {index}/{len(articles)}:",
-            article["sourceTitle"]
+            f"\n[{index}/{len(articles)}] Haber:",
+            listing_article["sourceTitle"],
         )
+
+        article = dict(listing_article)
 
         try:
             article = fetch_article_detail(article)
-            detailed_articles.append(article)
-            print("İçerik karakteri:", len(article["articleText"]))
-
+            print("İçerik karakteri:", len(article.get("articleText", "")))
         except requests.RequestException as error:
-            print("Detay sayfası alınamadı:", type(error).__name__)
-
-            # RSS/kategori kartındaki bilgilerle yine de işlemeyi dene.
-            detailed_articles.append(article)
-
-        time.sleep(0.7)
-
-    # Yayın tarihine göre yeni haberler önce.
-    detailed_articles.sort(
-        key=lambda item: item.get("publishedAt") or "",
-        reverse=True
-    )
-
-    print("\n========== GEMINI PROCESSING ==========")
-    print("Toplam haber:", len(detailed_articles))
-
-    news = []
-    completed = 0
-    pending = 0
-
-    if TEMP_FILE.exists():
-        TEMP_FILE.unlink()
-
-    for index, article in enumerate(detailed_articles, 1):
-        print(f"\nHaber {index}/{len(detailed_articles)}")
+            print("Detay sayfası alınamadı; kart bilgileri kullanılacak:", str(error)[:300])
 
         generated = process_article(article, gemini_key)
 
         item = {
-            "id": article_id(article["sourceUrl"]),
+            "id": article_id(url),
             **generated,
             "sourceTitle": article["sourceTitle"],
             "source": SOURCE_NAME,
-            "sourceUrl": article["sourceUrl"],
+            "sourceUrl": url,
             "imageUrl": article.get("imageUrl") or None,
             "publishedAt": article.get("publishedAt"),
             "fetchedAt": datetime.now(timezone.utc).isoformat(),
         }
 
-        news.append(item)
+        if current:
+            current.update(item)
+        else:
+            news.append(item)
+            existing[url] = item
+            added += 1
 
-        if item["aiStatus"] == "completed":
+        if item.get("aiStatus") == "completed":
             completed += 1
         else:
             pending += 1
 
-        # İşlem yarıda kesilirse yeni arşiv geçici dosyada kalır.
-        save_temp_news(news)
-
-
-    if not news:
-        raise SystemExit("Yeni haber arşivi boş. Mevcut dosya korunuyor.")
-
-    # Eski dosyanın yedeğini al.
-    if DATA_FILE.exists():
-        backup_file = DATA_DIR / (
-            "news.backup."
-            + datetime.now().strftime("%Y%m%d_%H%M%S")
-            + ".json"
+        news.sort(
+            key=lambda record: record.get("publishedAt") or "",
+            reverse=True,
         )
 
-        shutil.copy2(DATA_FILE, backup_file)
-        print("\nEski haberlerin yedeği:", backup_file)
-
-    # Yeni arşivi atomik olarak devreye al.
-    os.replace(TEMP_FILE, DATA_FILE)
+        save_daily_news(news)
 
     print("\n========== REBUILD SUMMARY ==========")
-    print("Toplam haber:", len(news))
+    print("Toplam benzersiz haber:", len(news))
     print("Gemini başarılı:", completed)
     print("Gemini bekleyen:", pending)
+    print("Korunan tamamlanmış kayıt:", skipped_completed)
+    print("Yeni haber:", added)
     print("AI sağlayıcı: Yalnızca Gemini")
-    print("Dosya:", DATA_FILE)
+    print("Arşiv klasörü:", DATA_DIR / "news")
 
 
 if __name__ == "__main__":
