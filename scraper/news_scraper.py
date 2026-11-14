@@ -4,7 +4,6 @@ import html
 import json
 import os
 import re
-import shutil
 import time
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -899,23 +898,6 @@ def save_daily_news(records):
         os.replace(temp_file, target_file)
 
 
-def backup_news_archive(label="backup"):
-    if not NEWS_DIR.exists():
-        return None
-
-    files = list(NEWS_DIR.glob("*.json"))
-
-    if not files:
-        return None
-
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    backup_dir = DATA_DIR / f"news.backup.{label}.{timestamp}"
-
-    shutil.copytree(NEWS_DIR, backup_dir)
-
-    return backup_dir
-
-
 def load_state():
     if not STATE_FILE.exists():
         return {
@@ -1176,11 +1158,6 @@ def main():
         "Bekleyen kayıt:",
         sum(1 for item in records if item.get("aiStatus") == "pending")
     )
-
-    backup = backup_news_archive("before_scrape")
-
-    if backup:
-        print("Arşiv yedeği:", backup)
 
     # Her çalışmada ilk güncel liste sayfasını tara.
     print("\n========== GÜNCEL HABERLER ==========")

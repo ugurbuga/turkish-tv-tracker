@@ -33,6 +33,6 @@ jobs:
         run: |
           git config user.name "ugurbuga"
           git config user.email "47065142+ugurbuga@users.noreply.github.com"
-          git add data/weekly_calendar.json data/ratings/ data/tv_series.json data/series_images.json data/youtubevideos/
+          git add data/weekly_calendar.json data/ratings/ data/tv_series.json data/series_images.json data/youtubevideos/ data/news/ data/news_scraper_state.json
           git diff --cached --quiet || git commit -m "Update TV tracker data"
           git push
