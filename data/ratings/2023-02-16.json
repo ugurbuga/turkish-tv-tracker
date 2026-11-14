@@ -1,0 +1,282 @@
+{
+    "date": "2023-02-16",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "channel": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "start_time": "02:00:00",
+                "end_time": "02:54:22",
+                "rating": 7.98,
+                "share": 68.7
+            },
+            {
+                "rank": 2,
+                "name": "TRABZONSPOR-BASEL UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "20:25:36",
+                "end_time": "22:49:12",
+                "rating": 5.66,
+                "share": 13.28
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:04",
+                "end_time": "20:20:17",
+                "rating": 4.8,
+                "share": 13.26
+            },
+            {
+                "rank": 4,
+                "name": "ANNEM (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:10",
+                "end_time": "21:42:26",
+                "rating": 3.51,
+                "share": 8.49
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:18",
+                "end_time": "20:00:40",
+                "rating": 3.5,
+                "share": 9.89
+            },
+            {
+                "rank": 6,
+                "name": "IP MAN 2 (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "21:38:33",
+                "end_time": "23:19:08",
+                "rating": 3.44,
+                "share": 8.28
+            },
+            {
+                "rank": 7,
+                "name": "BUYUK YIKIM 11. GUN",
+                "channel": "FOX",
+                "start_time": "20:20:22",
+                "end_time": "21:00:37",
+                "rating": 3.37,
+                "share": 8.28
+            },
+            {
+                "rank": 8,
+                "name": "MUCIZE (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:52",
+                "end_time": "21:41:55",
+                "rating": 2.77,
+                "share": 6.69
+            },
+            {
+                "rank": 9,
+                "name": "FETIH 1453 (T.S)",
+                "channel": "FOX",
+                "start_time": "21:00:42",
+                "end_time": "23:34:40",
+                "rating": 2.76,
+                "share": 6.68
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:59:44",
+                "end_time": "19:59:56",
+                "rating": 2.62,
+                "share": 7.42
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "channel": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "start_time": "02:00:00",
+                "end_time": "02:54:22",
+                "rating": 7.94,
+                "share": 71.48
+            },
+            {
+                "rank": 2,
+                "name": "TRABZONSPOR-BASEL UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "20:25:36",
+                "end_time": "22:49:12",
+                "rating": 6.43,
+                "share": 17.31
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:04",
+                "end_time": "20:20:17",
+                "rating": 4.62,
+                "share": 14.65
+            },
+            {
+                "rank": 4,
+                "name": "FETIH 1453 (T.S)",
+                "channel": "FOX",
+                "start_time": "21:00:42",
+                "end_time": "23:34:40",
+                "rating": 3.25,
+                "share": 9.02
+            },
+            {
+                "rank": 5,
+                "name": "MUCIZE (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:52",
+                "end_time": "21:41:55",
+                "rating": 3.15,
+                "share": 8.69
+            },
+            {
+                "rank": 6,
+                "name": "BUYUK YIKIM 11. GUN",
+                "channel": "FOX",
+                "start_time": "20:20:22",
+                "end_time": "21:00:37",
+                "rating": 3.15,
+                "share": 8.81
+            },
+            {
+                "rank": 7,
+                "name": "IP MAN 2 (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "21:38:33",
+                "end_time": "23:19:08",
+                "rating": 2.58,
+                "share": 7.15
+            },
+            {
+                "rank": 8,
+                "name": "ANNEM (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:10",
+                "end_time": "21:42:26",
+                "rating": 2.08,
+                "share": 5.74
+            },
+            {
+                "rank": 9,
+                "name": "UEFA AVRUPA KONFERANS LIGI OZEL",
+                "channel": "TV8",
+                "start_time": "22:49:22",
+                "end_time": "23:14:48",
+                "rating": 1.92,
+                "share": 5.65
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:00",
+                "end_time": "19:58:51",
+                "rating": 1.82,
+                "share": 5.95
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "channel": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "start_time": "02:00:00",
+                "end_time": "02:54:22",
+                "rating": 8.92,
+                "share": 71.6
+            },
+            {
+                "rank": 2,
+                "name": "TRABZONSPOR-BASEL UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "20:25:36",
+                "end_time": "22:49:12",
+                "rating": 7.23,
+                "share": 16.28
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:04",
+                "end_time": "20:20:17",
+                "rating": 5.98,
+                "share": 16.61
+            },
+            {
+                "rank": 4,
+                "name": "BUYUK YIKIM 11. GUN",
+                "channel": "FOX",
+                "start_time": "20:20:22",
+                "end_time": "21:00:37",
+                "rating": 4.59,
+                "share": 10.87
+            },
+            {
+                "rank": 5,
+                "name": "FETIH 1453 (T.S)",
+                "channel": "FOX",
+                "start_time": "21:00:42",
+                "end_time": "23:34:40",
+                "rating": 4.37,
+                "share": 10.07
+            },
+            {
+                "rank": 6,
+                "name": "ANNEM (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:00:10",
+                "end_time": "21:42:26",
+                "rating": 3.35,
+                "share": 7.78
+            },
+            {
+                "rank": 7,
+                "name": "MUCIZE (Y.S)",
+                "channel": "ATV",
+                "start_time": "20:00:52",
+                "end_time": "21:41:55",
+                "rating": 3.19,
+                "share": 7.4
+            },
+            {
+                "rank": 8,
+                "name": "IP MAN 2 (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "21:38:33",
+                "end_time": "23:19:08",
+                "rating": 2.96,
+                "share": 6.78
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:18",
+                "end_time": "20:00:40",
+                "rating": 2.83,
+                "share": 8.13
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:59:44",
+                "end_time": "19:59:56",
+                "rating": 2.42,
+                "share": 6.98
+            }
+        ]
+    }
+}

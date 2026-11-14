@@ -1,0 +1,282 @@
+{
+    "date": "2023-02-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "channel": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "start_time": "20:00:15",
+                "end_time": "26:00:00",
+                "rating": 28.25,
+                "share": 74.1
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:09",
+                "rating": 4.41,
+                "share": 12.22
+            },
+            {
+                "rank": 3,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:58",
+                "end_time": "20:00:15",
+                "rating": 3.5,
+                "share": 9.71
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "19:00:38",
+                "end_time": "19:59:47",
+                "rating": 2.4,
+                "share": 6.66
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:55:44",
+                "end_time": "19:59:43",
+                "rating": 1.98,
+                "share": 5.54
+            },
+            {
+                "rank": 6,
+                "name": "DEPREM OZEL YAYIN",
+                "channel": "ATV",
+                "start_time": "16:19:14",
+                "end_time": "18:59:53",
+                "rating": 1.97,
+                "share": 8.03
+            },
+            {
+                "rank": 7,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "18:59:38",
+                "end_time": "20:00:16",
+                "rating": 1.81,
+                "share": 5.02
+            },
+            {
+                "rank": 8,
+                "name": "HAYATA TUTUNANLAR",
+                "channel": "FOX",
+                "start_time": "18:40:19",
+                "end_time": "18:59:20",
+                "rating": 1.77,
+                "share": 5.7
+            },
+            {
+                "rank": 9,
+                "name": "A HABER-ATV DEPREM BOLGESINDE",
+                "channel": "ATV",
+                "start_time": "10:01:00",
+                "end_time": "12:59:19",
+                "rating": 1.51,
+                "share": 8.98
+            },
+            {
+                "rank": 10,
+                "name": "6 SUBAT DEPREMI OZEL",
+                "channel": "KANAL D",
+                "start_time": "17:58:29",
+                "end_time": "19:00:33",
+                "rating": 1.5,
+                "share": 5.22
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "channel": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "start_time": "20:00:15",
+                "end_time": "26:00:00",
+                "rating": 25.81,
+                "share": 72.71
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:09",
+                "rating": 4.06,
+                "share": 13.81
+            },
+            {
+                "rank": 3,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:58",
+                "end_time": "20:00:15",
+                "rating": 1.89,
+                "share": 6.44
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "19:00:38",
+                "end_time": "19:59:47",
+                "rating": 1.65,
+                "share": 5.61
+            },
+            {
+                "rank": 5,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "18:59:38",
+                "end_time": "20:00:16",
+                "rating": 1.25,
+                "share": 4.27
+            },
+            {
+                "rank": 6,
+                "name": "DEPREM OZEL",
+                "channel": "TRT 1",
+                "start_time": "17:56:28",
+                "end_time": "18:55:00",
+                "rating": 1.23,
+                "share": 5.83
+            },
+            {
+                "rank": 7,
+                "name": "RAFADAN TAYFA",
+                "channel": "TRT COCUK",
+                "start_time": "15:31:41",
+                "end_time": "16:00:27",
+                "rating": 1.17,
+                "share": 8.95
+            },
+            {
+                "rank": 8,
+                "name": "HAYATA TUTUNANLAR",
+                "channel": "FOX",
+                "start_time": "18:40:19",
+                "end_time": "18:59:20",
+                "rating": 1.17,
+                "share": 4.99
+            },
+            {
+                "rank": 9,
+                "name": "FOX HABER DEPREM BOLGESINDE 10. GUN",
+                "channel": "FOX",
+                "start_time": "16:00:24",
+                "end_time": "18:40:15",
+                "rating": 1.16,
+                "share": 6.76
+            },
+            {
+                "rank": 10,
+                "name": "TURKCE BENIM EVIM",
+                "channel": "TRT COCUK",
+                "start_time": "18:00:33",
+                "end_time": "18:04:23",
+                "rating": 1.14,
+                "share": 5.9
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "channel": "TURKIYE TEK YUREK ORTAK YAYIN",
+                "start_time": "20:00:15",
+                "end_time": "26:00:00",
+                "rating": 29.68,
+                "share": 74.66
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:09",
+                "rating": 5.86,
+                "share": 17.05
+            },
+            {
+                "rank": 3,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:58",
+                "end_time": "20:00:15",
+                "rating": 3.11,
+                "share": 9.04
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "19:00:38",
+                "end_time": "19:59:47",
+                "rating": 2.23,
+                "share": 6.49
+            },
+            {
+                "rank": 5,
+                "name": "HAYATA TUTUNANLAR",
+                "channel": "FOX",
+                "start_time": "18:40:19",
+                "end_time": "18:59:20",
+                "rating": 2.1,
+                "share": 7.49
+            },
+            {
+                "rank": 6,
+                "name": "ANA HABER",
+                "channel": "TRT 1",
+                "start_time": "18:59:38",
+                "end_time": "20:00:16",
+                "rating": 1.59,
+                "share": 4.62
+            },
+            {
+                "rank": 7,
+                "name": "DEPREM OZEL YAYIN",
+                "channel": "ATV",
+                "start_time": "16:19:14",
+                "end_time": "18:59:53",
+                "rating": 1.54,
+                "share": 7.19
+            },
+            {
+                "rank": 8,
+                "name": "IDDIALARIN AKSINE",
+                "channel": "TRT 1",
+                "start_time": "18:55:56",
+                "end_time": "18:59:38",
+                "rating": 1.49,
+                "share": 5.16
+            },
+            {
+                "rank": 9,
+                "name": "6 SUBAT DEPREMI OZEL",
+                "channel": "KANAL D",
+                "start_time": "17:58:29",
+                "end_time": "19:00:33",
+                "rating": 1.43,
+                "share": 5.55
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:55:44",
+                "end_time": "19:59:43",
+                "rating": 1.39,
+                "share": 4.09
+            }
+        ]
+    }
+}

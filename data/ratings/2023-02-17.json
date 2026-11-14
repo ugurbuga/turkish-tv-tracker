@@ -1,0 +1,282 @@
+{
+    "date": "2023-02-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:29:42",
+                "rating": 4.86,
+                "share": 13.97
+            },
+            {
+                "rank": 2,
+                "name": "MIRAC KANDILI DUA",
+                "channel": "KANAL 7",
+                "start_time": "21:27:05",
+                "end_time": "21:50:56",
+                "rating": 3.97,
+                "share": 9.56
+            },
+            {
+                "rank": 3,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE MIRAC KANDILI",
+                "channel": "ATV",
+                "start_time": "21:02:40",
+                "end_time": "22:42:12",
+                "rating": 3.47,
+                "share": 8.51
+            },
+            {
+                "rank": 4,
+                "name": "HZ. MUHAMMED ALLAH'IN ELCISI (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:42:33",
+                "end_time": "25:24:58",
+                "rating": 3.3,
+                "share": 11.82
+            },
+            {
+                "rank": 5,
+                "name": "MIRAC GECESI",
+                "channel": "TRT 1",
+                "start_time": "20:18:51",
+                "end_time": "22:06:07",
+                "rating": 3.18,
+                "share": 7.95
+            },
+            {
+                "rank": 6,
+                "name": "BUYUK YIKIM 12.GUN",
+                "channel": "FOX",
+                "start_time": "20:29:47",
+                "end_time": "21:30:36",
+                "rating": 3.02,
+                "share": 7.6
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:51",
+                "end_time": "20:30:28",
+                "rating": 2.87,
+                "share": 8.26
+            },
+            {
+                "rank": 8,
+                "name": "SON UMUT (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:44:15",
+                "end_time": "22:19:12",
+                "rating": 2.84,
+                "share": 6.98
+            },
+            {
+                "rank": 9,
+                "name": "MIRAC KANDILI OZEL",
+                "channel": "KANAL 7",
+                "start_time": "19:20:33",
+                "end_time": "21:26:30",
+                "rating": 2.72,
+                "share": 7.26
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:13",
+                "end_time": "21:02:19",
+                "rating": 2.5,
+                "share": 6.96
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:29:42",
+                "rating": 4.52,
+                "share": 17.14
+            },
+            {
+                "rank": 2,
+                "name": "BUYUK YIKIM 12.GUN",
+                "channel": "FOX",
+                "start_time": "20:29:47",
+                "end_time": "21:30:36",
+                "rating": 3.75,
+                "share": 11.51
+            },
+            {
+                "rank": 3,
+                "name": "HZ. MUHAMMED ALLAH'IN ELCISI (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:42:33",
+                "end_time": "25:24:58",
+                "rating": 2.91,
+                "share": 12.38
+            },
+            {
+                "rank": 4,
+                "name": "MIRAC GECESI",
+                "channel": "TRT 1",
+                "start_time": "20:18:51",
+                "end_time": "22:06:07",
+                "rating": 2.77,
+                "share": 8.51
+            },
+            {
+                "rank": 5,
+                "name": "ORTA SAYFA",
+                "channel": "FOX",
+                "start_time": "22:00:44",
+                "end_time": "24:28:55",
+                "rating": 2.74,
+                "share": 9.27
+            },
+            {
+                "rank": 6,
+                "name": "HABERCI GOZUYLE",
+                "channel": "FOX",
+                "start_time": "21:30:41",
+                "end_time": "22:00:39",
+                "rating": 2.68,
+                "share": 8.02
+            },
+            {
+                "rank": 7,
+                "name": "SON UMUT (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:44:15",
+                "end_time": "22:19:12",
+                "rating": 2.65,
+                "share": 7.99
+            },
+            {
+                "rank": 8,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE MIRAC KANDILI",
+                "channel": "ATV",
+                "start_time": "21:02:40",
+                "end_time": "22:42:12",
+                "rating": 2.2,
+                "share": 6.63
+            },
+            {
+                "rank": 9,
+                "name": "MIRACIYYE SAKLI MIRAS (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:06:15",
+                "end_time": "23:08:56",
+                "rating": 1.85,
+                "share": 5.71
+            },
+            {
+                "rank": 10,
+                "name": "SON UMUT (Y.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:19:25",
+                "end_time": "23:54:21",
+                "rating": 1.81,
+                "share": 5.89
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:29:42",
+                "rating": 5.76,
+                "share": 17.14
+            },
+            {
+                "rank": 2,
+                "name": "BUYUK YIKIM 12.GUN",
+                "channel": "FOX",
+                "start_time": "20:29:47",
+                "end_time": "21:30:36",
+                "rating": 3.93,
+                "share": 9.58
+            },
+            {
+                "rank": 3,
+                "name": "MIRAC GECESI",
+                "channel": "TRT 1",
+                "start_time": "20:18:51",
+                "end_time": "22:06:07",
+                "rating": 3.91,
+                "share": 9.47
+            },
+            {
+                "rank": 4,
+                "name": "SON UMUT (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:44:15",
+                "end_time": "22:19:12",
+                "rating": 3.38,
+                "share": 8.04
+            },
+            {
+                "rank": 5,
+                "name": "MIRAC KANDILI DUA",
+                "channel": "KANAL 7",
+                "start_time": "21:27:05",
+                "end_time": "21:50:56",
+                "rating": 3.28,
+                "share": 7.67
+            },
+            {
+                "rank": 6,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE MIRAC KANDILI",
+                "channel": "ATV",
+                "start_time": "21:02:40",
+                "end_time": "22:42:12",
+                "rating": 2.97,
+                "share": 7.08
+            },
+            {
+                "rank": 7,
+                "name": "ORTA SAYFA",
+                "channel": "FOX",
+                "start_time": "22:00:44",
+                "end_time": "24:28:55",
+                "rating": 2.95,
+                "share": 8.26
+            },
+            {
+                "rank": 8,
+                "name": "HZ. MUHAMMED ALLAH'IN ELCISI (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:42:33",
+                "end_time": "25:24:58",
+                "rating": 2.91,
+                "share": 10.34
+            },
+            {
+                "rank": 9,
+                "name": "HABERCI GOZUYLE",
+                "channel": "FOX",
+                "start_time": "21:30:41",
+                "end_time": "22:00:39",
+                "rating": 2.69,
+                "share": 6.31
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:51",
+                "end_time": "20:30:28",
+                "rating": 2.57,
+                "share": 7.67
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2023-02-14",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:06",
+                "end_time": "21:01:39",
+                "rating": 4.39,
+                "share": 11.97
+            },
+            {
+                "rank": 2,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:41",
+                "end_time": "21:40:37",
+                "rating": 3.46,
+                "share": 9.22
+            },
+            {
+                "rank": 3,
+                "name": "AKIL CEMBERI",
+                "channel": "KANAL D",
+                "start_time": "20:45:00",
+                "end_time": "25:00:36",
+                "rating": 3.43,
+                "share": 10.32
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "19:00:14",
+                "end_time": "20:00:55",
+                "rating": 2.98,
+                "share": 8.55
+            },
+            {
+                "rank": 5,
+                "name": "EN BUYUK AFET",
+                "channel": "KANAL D",
+                "start_time": "20:01:26",
+                "end_time": "20:45:00",
+                "rating": 2.66,
+                "share": 6.95
+            },
+            {
+                "rank": 6,
+                "name": "BUYUK YIKIM 9. GUN",
+                "channel": "FOX",
+                "start_time": "21:02:29",
+                "end_time": "22:29:20",
+                "rating": 2.54,
+                "share": 6.35
+            },
+            {
+                "rank": 7,
+                "name": "DEPREM OZEL YAYIN",
+                "channel": "ATV",
+                "start_time": "16:22:56",
+                "end_time": "19:00:36",
+                "rating": 2.1,
+                "share": 9.15
+            },
+            {
+                "rank": 8,
+                "name": "HAYATA TUTUNANLAR",
+                "channel": "FOX",
+                "start_time": "22:29:24",
+                "end_time": "23:00:01",
+                "rating": 2.04,
+                "share": 5.41
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:56:52",
+                "end_time": "19:59:13",
+                "rating": 2.0,
+                "share": 5.78
+            },
+            {
+                "rank": 10,
+                "name": "HAYATA TUTUNANLAR",
+                "channel": "FOX",
+                "start_time": "18:41:08",
+                "end_time": "18:59:20",
+                "rating": 1.99,
+                "share": 6.76
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:06",
+                "end_time": "21:01:39",
+                "rating": 5.12,
+                "share": 16.84
+            },
+            {
+                "rank": 2,
+                "name": "BUYUK YIKIM 9. GUN",
+                "channel": "FOX",
+                "start_time": "21:02:29",
+                "end_time": "22:29:20",
+                "rating": 2.64,
+                "share": 7.34
+            },
+            {
+                "rank": 3,
+                "name": "AKIL CEMBERI",
+                "channel": "KANAL D",
+                "start_time": "20:45:00",
+                "end_time": "25:00:36",
+                "rating": 2.46,
+                "share": 8.13
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "19:00:14",
+                "end_time": "20:00:55",
+                "rating": 2.43,
+                "share": 8.82
+            },
+            {
+                "rank": 5,
+                "name": "EN BUYUK AFET",
+                "channel": "KANAL D",
+                "start_time": "20:01:26",
+                "end_time": "20:45:00",
+                "rating": 2.21,
+                "share": 6.8
+            },
+            {
+                "rank": 6,
+                "name": "DEPREM OZEL",
+                "channel": "TRT 1",
+                "start_time": "21:02:17",
+                "end_time": "23:00:43",
+                "rating": 1.84,
+                "share": 5.2
+            },
+            {
+                "rank": 7,
+                "name": "DEPREM OZEL",
+                "channel": "TRT 1",
+                "start_time": "19:59:52",
+                "end_time": "21:01:30",
+                "rating": 1.77,
+                "share": 5.34
+            },
+            {
+                "rank": 8,
+                "name": "TEKE TEK DEPREM OZEL",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "22:37:55",
+                "rating": 1.74,
+                "share": 5.0
+            },
+            {
+                "rank": 9,
+                "name": "HAYATA TUTUNANLAR",
+                "channel": "FOX",
+                "start_time": "18:41:08",
+                "end_time": "18:59:20",
+                "rating": 1.67,
+                "share": 7.07
+            },
+            {
+                "rank": 10,
+                "name": "HAYATA TUTUNANLAR",
+                "channel": "FOX",
+                "start_time": "22:29:24",
+                "end_time": "23:00:01",
+                "rating": 1.59,
+                "share": 4.69
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:06",
+                "end_time": "21:01:39",
+                "rating": 5.9,
+                "share": 16.41
+            },
+            {
+                "rank": 2,
+                "name": "AKIL CEMBERI",
+                "channel": "KANAL D",
+                "start_time": "20:45:00",
+                "end_time": "25:00:36",
+                "rating": 3.53,
+                "share": 10.23
+            },
+            {
+                "rank": 3,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "19:00:14",
+                "end_time": "20:00:55",
+                "rating": 3.14,
+                "share": 9.44
+            },
+            {
+                "rank": 4,
+                "name": "BUYUK YIKIM 9. GUN",
+                "channel": "FOX",
+                "start_time": "21:02:29",
+                "end_time": "22:29:20",
+                "rating": 2.95,
+                "share": 7.16
+            },
+            {
+                "rank": 5,
+                "name": "EN BUYUK AFET",
+                "channel": "KANAL D",
+                "start_time": "20:01:26",
+                "end_time": "20:45:00",
+                "rating": 2.83,
+                "share": 7.41
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:41",
+                "end_time": "21:40:37",
+                "rating": 2.68,
+                "share": 7.19
+            },
+            {
+                "rank": 7,
+                "name": "HAYATA TUTUNANLAR",
+                "channel": "FOX",
+                "start_time": "22:29:24",
+                "end_time": "23:00:01",
+                "rating": 2.38,
+                "share": 6.05
+            },
+            {
+                "rank": 8,
+                "name": "HAYATA TUTUNANLAR",
+                "channel": "FOX",
+                "start_time": "18:41:08",
+                "end_time": "18:59:20",
+                "rating": 2.35,
+                "share": 8.56
+            },
+            {
+                "rank": 9,
+                "name": "TEKE TEK DEPREM OZEL",
+                "channel": "SHOW TV",
+                "start_time": "20:00:05",
+                "end_time": "22:37:55",
+                "rating": 2.24,
+                "share": 5.59
+            },
+            {
+                "rank": 10,
+                "name": "6 SUBAT DEPREMI OZEL",
+                "channel": "KANAL D",
+                "start_time": "17:00:30",
+                "end_time": "19:00:10",
+                "rating": 2.01,
+                "share": 9.42
+            }
+        ]
+    }
+}
