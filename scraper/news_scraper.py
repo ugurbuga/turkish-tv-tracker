@@ -34,6 +34,9 @@ ENCRYPTED_SOURCE_NAME = "NhwAGAwdSGwYAlgaBgCm9A=="
 CATEGORY_URL = xor_decrypt(ENCRYPTED_CATEGORY_URL)
 ALLOWED_DOMAINS = tuple(xor_decrypt(value) for value in ENCRYPTED_DOMAINS)
 SOURCE_NAME = xor_decrypt(ENCRYPTED_SOURCE_NAME)
+
+ENCRYPTED_RELATED_CARD_CLASS = "FhwAGAwdRV8RGkwAFwVOCAQASQ=="
+RELATED_CARD_CLASS = xor_decrypt(ENCRYPTED_RELATED_CARD_CLASS)
 PAGE_COUNT = 5
 
 PREFERRED_MODELS = [
@@ -245,10 +248,7 @@ def fetch_article_detail(article):
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Open Graph görseli
-    image_meta = soup.select_one(
-        'meta[property="og:image"]'
-    )
+    image_meta = soup.select_one('meta[property="og:image"]')
 
     if image_meta and image_meta.get("content"):
         article["imageUrl"] = urljoin(
@@ -256,7 +256,6 @@ def fetch_article_detail(article):
             image_meta["content"]
         )
 
-    # Yayın tarihi
     for selector in (
         'meta[property="article:published_time"]',
         'meta[name="date"]',
@@ -267,11 +266,11 @@ def fetch_article_detail(article):
         if element and element.get("content"):
             article["publishedAt"] = (
                 parse_date(element["content"])
-                or article["publishedAt"]
+                or article.get("publishedAt")
             )
             break
 
-    if not article["publishedAt"]:
+    if not article.get("publishedAt"):
         time_element = soup.find("time")
 
         if time_element:
@@ -280,8 +279,8 @@ def fetch_article_detail(article):
                 or time_element.get_text(" ", strip=True)
             )
 
-    # Makale gövdesi
     selectors = [
+        ".ba-entry-content",
         ".entry-content",
         ".jeg_post_content",
         ".post-content",
@@ -307,36 +306,88 @@ def fetch_article_detail(article):
                 content = candidate
                 break
 
+    article["images"] = []
+
     if content:
-        for unwanted in content.select(
+        cover = content.select_one("img.wp-post-image")
+
+        if not article.get("imageUrl") and cover:
+            cover_url = (
+                cover.get("data-src")
+                or cover.get("data-lazy-src")
+                or cover.get("data-original")
+                or cover.get("src")
+            )
+
+            if not cover_url and cover.get("srcset"):
+                cover_url = cover["srcset"].split(",")[0].strip().split(" ")[0]
+
+            if cover_url:
+                article["imageUrl"] = urljoin(
+                    article["sourceUrl"],
+                    cover_url
+                )
+
+        seen_images = set()
+
+        for image in content.find_all("img"):
+            if image.find_parent(class_=RELATED_CARD_CLASS):
+                continue
+
+            image_url = (
+                image.get("data-src")
+                or image.get("data-lazy-src")
+                or image.get("data-original")
+                or image.get("src")
+            )
+
+            if not image_url and image.get("srcset"):
+                image_url = image["srcset"].split(",")[0].strip().split(" ")[0]
+
+            if not image_url:
+                continue
+
+            image_url = urljoin(article["sourceUrl"], image_url)
+
+            if image_url == article.get("imageUrl"):
+                continue
+
+            if image_url in seen_images:
+                continue
+
+            seen_images.add(image_url)
+            article["images"].append(image_url)
+
+        text_content = BeautifulSoup(str(content), "html.parser")
+
+        for unwanted in text_content.select(
             "script, style, nav, footer, iframe, "
             ".sharedaddy, .jp-relatedposts, .related-posts, "
-            ".ads, .advertisement, .social-share"
+            ".ads, .advertisement, .social-share, "
+            f".{RELATED_CARD_CLASS}"
         ):
             unwanted.decompose()
 
         paragraphs = [
             clean_text(p.get_text(" ", strip=True))
-            for p in content.find_all("p")
+            for p in text_content.find_all("p")
         ]
 
-        paragraphs = [
-            p for p in paragraphs
-            if len(p) > 30
-        ]
+        paragraphs = [p for p in paragraphs if len(p) > 30]
 
         article_text = "\n".join(paragraphs)
 
         if not article_text:
-            article_text = clean_text(content.get_text(" ", strip=True))
+            article_text = clean_text(
+                text_content.get_text(" ", strip=True)
+            )
 
         article["articleText"] = article_text[:12000]
 
-    if not article["sourceDescription"] and article["articleText"]:
+    if not article.get("sourceDescription") and article.get("articleText"):
         article["sourceDescription"] = article["articleText"][:1200]
 
     return article
-
 
 def get_gemini_model(api_key):
     global GEMINI_MODEL
@@ -433,26 +484,29 @@ def parse_ai_json(value):
 def generate_with_gemini(article, api_key):
     model = get_gemini_model(api_key)
 
-    response = SESSION.post(
-        f"https://generativelanguage.googleapis.com/v1beta/{model}:generateContent",
-        headers={
-            "x-goog-api-key": api_key,
-            "Content-Type": "application/json",
-        },
-        json={
-            "contents": [{
-                "parts": [{
-                    "text": build_prompt(article)
-                }]
-            }],
-            "generationConfig": {
-                "temperature": 0.3,
-                "responseMimeType": "application/json",
-                "maxOutputTokens": 1024,
+    try:
+        response = SESSION.post(
+            f"https://generativelanguage.googleapis.com/v1beta/{model}:generateContent",
+            headers={
+                "x-goog-api-key": api_key,
+                "Content-Type": "application/json",
             },
-        },
-        timeout=(15, 90)
-    )
+            json={
+                "contents": [{
+                    "parts": [{
+                        "text": build_prompt(article)
+                    }]
+                }],
+                "generationConfig": {
+                    "temperature": 0.3,
+                    "responseMimeType": "application/json",
+                    "maxOutputTokens": 1024,
+                },
+            },
+            timeout=(15, 90)
+        )
+    finally:
+        time.sleep(5)
 
     if not response.ok:
         raise RuntimeError(
@@ -652,23 +706,28 @@ def rebuild_and_merge():
 
         generated = None
         last_result = None
-        for attempt in range(4):
+        for attempt in range(5):
             last_result = process_article(article, gemini_key)
             if last_result.get("aiStatus") == "completed":
                 generated = last_result
                 break
 
             error_text = last_result.get("aiError", "")
-            if "HTTP 429" not in error_text:
+            retryable_errors = (
+                "HTTP 429:",
+                "HTTP 500:",
+                "HTTP 502:",
+                "HTTP 503:",
+                "HTTP 504:",
+            )
+            if not any(error in error_text for error in retryable_errors):
                 break
 
-            if attempt < 3:
-                wait_seconds = 60 * (2 ** attempt)
+            if attempt < 4:
                 print(
-                    f"Gemini 429 limiti. {wait_seconds} saniye bekleniyor "
-                    f"(deneme {attempt + 1}/4)."
+                    f"Geçici Gemini hatası. 5 saniye sonra tekrar denenecek "
+                    f"(deneme {attempt + 2}/5)."
                 )
-                time.sleep(wait_seconds)
 
         if generated:
             ai_fields = generated
@@ -720,8 +779,6 @@ def rebuild_and_merge():
             f"{added} yeni haber."
         )
 
-        if index < len(articles):
-            time.sleep(20)
 
     print("\n========== MERGE SUMMARY ==========")
     print("Yeni haber:", added)
@@ -814,7 +871,6 @@ def main():
         # İşlem yarıda kesilirse yeni arşiv geçici dosyada kalır.
         save_temp_news(news)
 
-        time.sleep(2)
 
     if not news:
         raise SystemExit("Yeni haber arşivi boş. Mevcut dosya korunuyor.")
