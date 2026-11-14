@@ -1,0 +1,282 @@
+{
+    "date": "2023-01-22",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:09",
+                "end_time": "23:57:32",
+                "rating": 7.53,
+                "share": 17.93
+            },
+            {
+                "rank": 2,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:59:57",
+                "end_time": "24:17:07",
+                "rating": 6.4,
+                "share": 15.49
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:44:11",
+                "end_time": "24:19:57",
+                "rating": 5.43,
+                "share": 13.29
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:24",
+                "rating": 5.17,
+                "share": 14.71
+            },
+            {
+                "rank": 5,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:58:40",
+                "end_time": "24:18:03",
+                "rating": 3.77,
+                "share": 9.11
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:49",
+                "end_time": "20:00:00",
+                "rating": 3.76,
+                "share": 10.75
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:31",
+                "end_time": "21:00:09",
+                "rating": 3.71,
+                "share": 9.14
+            },
+            {
+                "rank": 8,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "20:59:46",
+                "rating": 3.58,
+                "share": 8.83
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:55:41",
+                "end_time": "20:00:10",
+                "rating": 3.4,
+                "share": 9.69
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:56:56",
+                "end_time": "24:16:57",
+                "rating": 3.3,
+                "share": 7.94
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:59:57",
+                "end_time": "24:17:07",
+                "rating": 7.64,
+                "share": 20.06
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:09",
+                "end_time": "23:57:32",
+                "rating": 7.3,
+                "share": 18.89
+            },
+            {
+                "rank": 3,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:24",
+                "rating": 4.28,
+                "share": 15.37
+            },
+            {
+                "rank": 4,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "20:59:46",
+                "rating": 3.9,
+                "share": 11.09
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:44:11",
+                "end_time": "24:19:57",
+                "rating": 3.48,
+                "share": 9.27
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:31",
+                "end_time": "21:00:09",
+                "rating": 3.36,
+                "share": 9.52
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:55:41",
+                "end_time": "20:00:10",
+                "rating": 3.18,
+                "share": 11.44
+            },
+            {
+                "rank": 8,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:58:40",
+                "end_time": "24:18:03",
+                "rating": 3.01,
+                "share": 7.89
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:56:56",
+                "end_time": "24:16:57",
+                "rating": 2.41,
+                "share": 6.31
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:49",
+                "end_time": "20:00:00",
+                "rating": 2.41,
+                "share": 8.7
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:59:57",
+                "end_time": "24:17:07",
+                "rating": 8.16,
+                "share": 18.8
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:09",
+                "end_time": "23:57:32",
+                "rating": 7.7,
+                "share": 17.45
+            },
+            {
+                "rank": 3,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:44:11",
+                "end_time": "24:19:57",
+                "rating": 5.42,
+                "share": 12.64
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:24",
+                "rating": 5.31,
+                "share": 15.91
+            },
+            {
+                "rank": 5,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:55",
+                "end_time": "20:59:46",
+                "rating": 4.3,
+                "share": 10.48
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:55:41",
+                "end_time": "20:00:10",
+                "rating": 3.87,
+                "share": 11.6
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:31",
+                "end_time": "21:00:09",
+                "rating": 3.63,
+                "share": 8.81
+            },
+            {
+                "rank": 8,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:58:40",
+                "end_time": "24:18:03",
+                "rating": 3.53,
+                "share": 8.12
+            },
+            {
+                "rank": 9,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:56:56",
+                "end_time": "24:16:57",
+                "rating": 3.2,
+                "share": 7.33
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER OZEL",
+                "channel": "ATV",
+                "start_time": "19:59:42",
+                "end_time": "20:56:56",
+                "rating": 3.08,
+                "share": 7.54
+            }
+        ]
+    }
+}
