@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-03",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:52:42",
+                "end_time": "24:19:31",
+                "rating": 2.95,
+                "share": 11.7
+            },
+            {
+                "rank": 2,
+                "name": "UVEY ANNE",
+                "channel": "ATV",
+                "start_time": "20:59:11",
+                "end_time": "23:25:12",
+                "rating": 2.57,
+                "share": 9.64
+            },
+            {
+                "rank": 3,
+                "name": "DELIHA 2 (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:11",
+                "end_time": "22:07:00",
+                "rating": 2.27,
+                "share": 9.12
+            },
+            {
+                "rank": 4,
+                "name": "DELIHA 2 (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:07:23",
+                "end_time": "24:26:41",
+                "rating": 2.21,
+                "share": 9.25
+            },
+            {
+                "rank": 5,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "20:51:29",
+                "end_time": "24:01:21",
+                "rating": 2.18,
+                "share": 8.53
+            },
+            {
+                "rank": 6,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:07",
+                "rating": 1.98,
+                "share": 10.53
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:49",
+                "end_time": "19:59:59",
+                "rating": 1.84,
+                "share": 9.83
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:43",
+                "end_time": "20:00:05",
+                "rating": 1.55,
+                "share": 8.15
+            },
+            {
+                "rank": 9,
+                "name": "ESARET",
+                "channel": "KANAL 7",
+                "start_time": "19:35:07",
+                "end_time": "21:16:29",
+                "rating": 1.51,
+                "share": 6.82
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:55:02",
+                "rating": 1.43,
+                "share": 7.6
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "UVEY ANNE",
+                "channel": "ATV",
+                "start_time": "20:59:11",
+                "end_time": "23:25:12",
+                "rating": 2.47,
+                "share": 10.13
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:52:42",
+                "end_time": "24:19:31",
+                "rating": 2.32,
+                "share": 10.04
+            },
+            {
+                "rank": 3,
+                "name": "DELIHA 2 (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:11",
+                "end_time": "22:07:00",
+                "rating": 2.09,
+                "share": 9.65
+            },
+            {
+                "rank": 4,
+                "name": "DELIHA 2 (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:07:23",
+                "end_time": "24:26:41",
+                "rating": 1.87,
+                "share": 8.4
+            },
+            {
+                "rank": 5,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "20:51:29",
+                "end_time": "24:01:21",
+                "rating": 1.79,
+                "share": 7.68
+            },
+            {
+                "rank": 6,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:05",
+                "end_time": "18:57:43",
+                "rating": 1.66,
+                "share": 12.29
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:43",
+                "end_time": "20:00:05",
+                "rating": 1.62,
+                "share": 9.99
+            },
+            {
+                "rank": 8,
+                "name": "VEDA MEKTUBU (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:50",
+                "end_time": "20:51:18",
+                "rating": 1.57,
+                "share": 8.3
+            },
+            {
+                "rank": 9,
+                "name": "MAVIYE SURGUN",
+                "channel": "SHOW TV",
+                "start_time": "21:02:30",
+                "end_time": "24:08:42",
+                "rating": 1.54,
+                "share": 6.51
+            },
+            {
+                "rank": 10,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:07",
+                "rating": 1.39,
+                "share": 8.68
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:52:42",
+                "end_time": "24:19:31",
+                "rating": 3.35,
+                "share": 12.96
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:07",
+                "rating": 2.44,
+                "share": 13.17
+            },
+            {
+                "rank": 3,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "20:51:29",
+                "end_time": "24:01:21",
+                "rating": 2.33,
+                "share": 8.93
+            },
+            {
+                "rank": 4,
+                "name": "UVEY ANNE",
+                "channel": "ATV",
+                "start_time": "20:59:11",
+                "end_time": "23:25:12",
+                "rating": 2.26,
+                "share": 8.3
+            },
+            {
+                "rank": 5,
+                "name": "DELIHA 2 (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:07:23",
+                "end_time": "24:26:41",
+                "rating": 2.22,
+                "share": 8.97
+            },
+            {
+                "rank": 6,
+                "name": "DELIHA 2 (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:11",
+                "end_time": "22:07:00",
+                "rating": 1.93,
+                "share": 7.8
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:43",
+                "end_time": "20:00:05",
+                "rating": 1.68,
+                "share": 8.94
+            },
+            {
+                "rank": 8,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:03",
+                "end_time": "18:58:49",
+                "rating": 1.5,
+                "share": 9.84
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:49",
+                "end_time": "19:59:59",
+                "rating": 1.5,
+                "share": 8.07
+            },
+            {
+                "rank": 10,
+                "name": "VEDA MEKTUBU (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:50",
+                "end_time": "20:51:18",
+                "rating": 1.47,
+                "share": 6.54
+            }
+        ]
+    }
+}

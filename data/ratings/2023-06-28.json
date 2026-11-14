@@ -1,0 +1,282 @@
+{
+    "date": "2023-06-28",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:55:29",
+                "end_time": "24:21:43",
+                "rating": 2.28,
+                "share": 11.62
+            },
+            {
+                "rank": 2,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:18:59",
+                "end_time": "23:53:17",
+                "rating": 1.83,
+                "share": 8.92
+            },
+            {
+                "rank": 3,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:49",
+                "end_time": "19:59:46",
+                "rating": 1.42,
+                "share": 9.64
+            },
+            {
+                "rank": 4,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "22:18:43",
+                "rating": 1.41,
+                "share": 7.8
+            },
+            {
+                "rank": 5,
+                "name": "JUMANJI YENI SEVIYE (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "22:34:22",
+                "rating": 1.34,
+                "share": 7.38
+            },
+            {
+                "rank": 6,
+                "name": "PETROL SEVDASI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:13:36",
+                "end_time": "22:32:03",
+                "rating": 1.3,
+                "share": 7.09
+            },
+            {
+                "rank": 7,
+                "name": "JOHN WICK 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:34:43",
+                "end_time": "24:50:18",
+                "rating": 1.29,
+                "share": 7.22
+            },
+            {
+                "rank": 8,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:00",
+                "rating": 1.26,
+                "share": 8.53
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:29",
+                "end_time": "20:00:09",
+                "rating": 1.16,
+                "share": 7.89
+            },
+            {
+                "rank": 10,
+                "name": "CAPKIN HIRSIZ (T.S)",
+                "channel": "KANAL D",
+                "start_time": "15:26:48",
+                "end_time": "17:00:01",
+                "rating": 1.13,
+                "share": 9.88
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:55:29",
+                "end_time": "24:21:43",
+                "rating": 2.53,
+                "share": 16.71
+            },
+            {
+                "rank": 2,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:49",
+                "end_time": "19:59:46",
+                "rating": 1.44,
+                "share": 11.2
+            },
+            {
+                "rank": 3,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "22:18:43",
+                "rating": 1.32,
+                "share": 8.94
+            },
+            {
+                "rank": 4,
+                "name": "HABER ONU",
+                "channel": "SHOW TV",
+                "start_time": "18:25:04",
+                "end_time": "18:58:49",
+                "rating": 1.27,
+                "share": 10.6
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:00",
+                "rating": 1.16,
+                "share": 9.04
+            },
+            {
+                "rank": 6,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:14:45",
+                "end_time": "23:41:38",
+                "rating": 1.13,
+                "share": 7.46
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:53:44",
+                "rating": 0.98,
+                "share": 7.65
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "19:10:33",
+                "end_time": "20:55:24",
+                "rating": 0.93,
+                "share": 7.07
+            },
+            {
+                "rank": 9,
+                "name": "SAGUN",
+                "channel": "TRT COCUK",
+                "start_time": "11:38:34",
+                "end_time": "11:51:17",
+                "rating": 0.89,
+                "share": 9.16
+            },
+            {
+                "rank": 10,
+                "name": "BENIM GUZEL AILEM (TKR)",
+                "channel": "TRT 1",
+                "start_time": "19:59:36",
+                "end_time": "22:54:26",
+                "rating": 0.85,
+                "share": 5.63
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:55:29",
+                "end_time": "24:21:43",
+                "rating": 2.98,
+                "share": 16.39
+            },
+            {
+                "rank": 2,
+                "name": "SUT KARDESLER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:18:59",
+                "end_time": "23:53:17",
+                "rating": 1.71,
+                "share": 8.92
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:00",
+                "rating": 1.55,
+                "share": 10.98
+            },
+            {
+                "rank": 4,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:49",
+                "end_time": "19:59:46",
+                "rating": 1.53,
+                "share": 10.84
+            },
+            {
+                "rank": 5,
+                "name": "HABABAM SINIFI TATILDE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "22:18:43",
+                "rating": 1.38,
+                "share": 8.38
+            },
+            {
+                "rank": 6,
+                "name": "JUMANJI YENI SEVIYE (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:58",
+                "end_time": "22:34:22",
+                "rating": 1.26,
+                "share": 7.61
+            },
+            {
+                "rank": 7,
+                "name": "JOHN WICK 2 (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:34:43",
+                "end_time": "24:50:18",
+                "rating": 1.21,
+                "share": 7.12
+            },
+            {
+                "rank": 8,
+                "name": "SARKILAR BIZI SOYLER (TKR)",
+                "channel": "KANAL D",
+                "start_time": "20:14:45",
+                "end_time": "23:41:38",
+                "rating": 1.02,
+                "share": 5.73
+            },
+            {
+                "rank": 9,
+                "name": "GONUL DAGI KURBAN (T.S)",
+                "channel": "TRT 1",
+                "start_time": "22:54:39",
+                "end_time": "25:36:04",
+                "rating": 1.0,
+                "share": 7.28
+            },
+            {
+                "rank": 10,
+                "name": "PETROL SEVDASI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:13:36",
+                "end_time": "22:32:03",
+                "rating": 1.0,
+                "share": 6.02
+            }
+        ]
+    }
+}

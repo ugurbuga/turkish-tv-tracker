@@ -1,0 +1,282 @@
+{
+    "date": "2023-06-30",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:37:54",
+                "end_time": "24:25:05",
+                "rating": 2.42,
+                "share": 12.22
+            },
+            {
+                "rank": 2,
+                "name": "JOHN WICK 3 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:48:28",
+                "end_time": "24:04:36",
+                "rating": 1.61,
+                "share": 7.87
+            },
+            {
+                "rank": 3,
+                "name": "GULEN GOZLER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:52:45",
+                "end_time": "23:52:16",
+                "rating": 1.61,
+                "share": 7.74
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "20:00:12",
+                "rating": 1.49,
+                "share": 10.47
+            },
+            {
+                "rank": 5,
+                "name": "TOSUN PASA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "21:52:28",
+                "rating": 1.44,
+                "share": 7.85
+            },
+            {
+                "rank": 6,
+                "name": "SIRINLER 3 KAYIP KOY (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:48:06",
+                "rating": 1.43,
+                "share": 7.92
+            },
+            {
+                "rank": 7,
+                "name": "ALI KUNDILLI 2 (T.S)",
+                "channel": "FOX",
+                "start_time": "22:41:59",
+                "end_time": "24:42:01",
+                "rating": 1.25,
+                "share": 6.65
+            },
+            {
+                "rank": 8,
+                "name": "GONUL DAGI KURBAN 2 (T.S)",
+                "channel": "TRT 1",
+                "start_time": "22:25:26",
+                "end_time": "25:11:22",
+                "rating": 1.23,
+                "share": 7.18
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:51",
+                "end_time": "19:59:55",
+                "rating": 1.2,
+                "share": 8.45
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:49",
+                "end_time": "20:00:13",
+                "rating": 1.18,
+                "share": 8.2
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:37:54",
+                "end_time": "24:25:05",
+                "rating": 2.09,
+                "share": 12.82
+            },
+            {
+                "rank": 2,
+                "name": "SIRINLER 3 KAYIP KOY (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:48:06",
+                "rating": 1.59,
+                "share": 10.26
+            },
+            {
+                "rank": 3,
+                "name": "BREZILYA-TURKIYE 2023 FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "16:24:35",
+                "end_time": "17:54:54",
+                "rating": 1.49,
+                "share": 14.64
+            },
+            {
+                "rank": 4,
+                "name": "GULEN GOZLER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:52:45",
+                "end_time": "23:52:16",
+                "rating": 1.25,
+                "share": 7.54
+            },
+            {
+                "rank": 5,
+                "name": "JOHN WICK 3 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:48:28",
+                "end_time": "24:04:36",
+                "rating": 1.21,
+                "share": 7.39
+            },
+            {
+                "rank": 6,
+                "name": "KISMET (TKR)",
+                "channel": "FOX",
+                "start_time": "20:00:22",
+                "end_time": "22:41:49",
+                "rating": 1.19,
+                "share": 7.35
+            },
+            {
+                "rank": 7,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "20:00:12",
+                "rating": 1.17,
+                "share": 10.21
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:51",
+                "end_time": "19:59:55",
+                "rating": 1.05,
+                "share": 9.11
+            },
+            {
+                "rank": 9,
+                "name": "SET SAYISI",
+                "channel": "TRT SPOR",
+                "start_time": "17:59:58",
+                "end_time": "18:20:23",
+                "rating": 1.03,
+                "share": 9.37
+            },
+            {
+                "rank": 10,
+                "name": "TOSUN PASA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "21:52:28",
+                "rating": 1.0,
+                "share": 6.36
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:37:54",
+                "end_time": "24:25:05",
+                "rating": 2.35,
+                "share": 13.01
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "20:00:12",
+                "rating": 1.73,
+                "share": 14.23
+            },
+            {
+                "rank": 3,
+                "name": "JOHN WICK 3 (Y.S)",
+                "channel": "ATV",
+                "start_time": "21:48:28",
+                "end_time": "24:04:36",
+                "rating": 1.67,
+                "share": 9.13
+            },
+            {
+                "rank": 4,
+                "name": "BREZILYA-TURKIYE 2023 FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "16:24:35",
+                "end_time": "17:54:54",
+                "rating": 1.6,
+                "share": 14.11
+            },
+            {
+                "rank": 5,
+                "name": "GULEN GOZLER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:52:45",
+                "end_time": "23:52:16",
+                "rating": 1.48,
+                "share": 8.0
+            },
+            {
+                "rank": 6,
+                "name": "TOSUN PASA (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "21:52:28",
+                "rating": 1.35,
+                "share": 8.06
+            },
+            {
+                "rank": 7,
+                "name": "GIRGIRIYE'DE CUMBUS (T.S)",
+                "channel": "KANAL D",
+                "start_time": "13:18:14",
+                "end_time": "15:15:05",
+                "rating": 1.19,
+                "share": 11.26
+            },
+            {
+                "rank": 8,
+                "name": "SIRINLER 3 KAYIP KOY (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:44",
+                "end_time": "21:48:06",
+                "rating": 1.08,
+                "share": 6.59
+            },
+            {
+                "rank": 9,
+                "name": "SET SAYISI",
+                "channel": "TRT SPOR",
+                "start_time": "17:59:58",
+                "end_time": "18:20:23",
+                "rating": 1.03,
+                "share": 8.79
+            },
+            {
+                "rank": 10,
+                "name": "KISMET (TKR)",
+                "channel": "FOX",
+                "start_time": "20:00:22",
+                "end_time": "22:41:49",
+                "rating": 1.02,
+                "share": 5.85
+            }
+        ]
+    }
+}

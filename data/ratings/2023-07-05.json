@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GALATASARAY-HULL CITY HAZIRLIK KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "20:17:50",
+                "end_time": "22:39:01",
+                "rating": 3.73,
+                "share": 14.45
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:59:40",
+                "end_time": "23:31:31",
+                "rating": 3.55,
+                "share": 13.59
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:43",
+                "rating": 2.33,
+                "share": 12.87
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "22:39:16",
+                "end_time": "25:37:46",
+                "rating": 2.08,
+                "share": 13.0
+            },
+            {
+                "rank": 5,
+                "name": "BIZIM AILE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:54:40",
+                "end_time": "23:55:49",
+                "rating": 1.79,
+                "share": 7.13
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:57",
+                "end_time": "19:56:04",
+                "rating": 1.56,
+                "share": 8.63
+            },
+            {
+                "rank": 7,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:02:14",
+                "end_time": "20:59:40",
+                "rating": 1.51,
+                "share": 6.59
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:03",
+                "end_time": "19:59:54",
+                "rating": 1.47,
+                "share": 8.18
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:10",
+                "end_time": "20:00:08",
+                "rating": 1.44,
+                "share": 7.86
+            },
+            {
+                "rank": 10,
+                "name": "MAYMUNLAR CEHENNEMI SAFAK VAKTI (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:40:56",
+                "rating": 1.39,
+                "share": 5.62
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GALATASARAY-HULL CITY HAZIRLIK KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "20:17:50",
+                "end_time": "22:39:01",
+                "rating": 2.95,
+                "share": 12.77
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:59:40",
+                "end_time": "23:31:31",
+                "rating": 2.53,
+                "share": 10.81
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:43",
+                "rating": 2.01,
+                "share": 12.61
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "22:39:16",
+                "end_time": "25:37:46",
+                "rating": 1.8,
+                "share": 12.53
+            },
+            {
+                "rank": 5,
+                "name": "ASK-I MEMNU (TKR)",
+                "channel": "KANAL D",
+                "start_time": "16:00:11",
+                "end_time": "18:13:44",
+                "rating": 1.73,
+                "share": 15.57
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:10",
+                "end_time": "20:00:08",
+                "rating": 1.45,
+                "share": 9.05
+            },
+            {
+                "rank": 7,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "16:01:17",
+                "end_time": "19:18:59",
+                "rating": 1.43,
+                "share": 12.28
+            },
+            {
+                "rank": 8,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:02:14",
+                "end_time": "20:59:40",
+                "rating": 1.37,
+                "share": 6.56
+            },
+            {
+                "rank": 9,
+                "name": "KAPTAN AMERIKA KIS ASKERI (Y.S)",
+                "channel": "FOX",
+                "start_time": "20:15:29",
+                "end_time": "22:48:10",
+                "rating": 1.33,
+                "share": 5.93
+            },
+            {
+                "rank": 10,
+                "name": "BIZIM AILE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:54:40",
+                "end_time": "23:55:49",
+                "rating": 1.33,
+                "share": 5.76
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "20:59:40",
+                "end_time": "23:31:31",
+                "rating": 4.04,
+                "share": 14.83
+            },
+            {
+                "rank": 2,
+                "name": "GALATASARAY-HULL CITY HAZIRLIK KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "20:17:50",
+                "end_time": "22:39:01",
+                "rating": 3.72,
+                "share": 13.82
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "19:59:43",
+                "rating": 2.59,
+                "share": 14.65
+            },
+            {
+                "rank": 4,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "22:39:16",
+                "end_time": "25:37:46",
+                "rating": 2.3,
+                "share": 13.52
+            },
+            {
+                "rank": 5,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:02:14",
+                "end_time": "20:59:40",
+                "rating": 1.89,
+                "share": 7.79
+            },
+            {
+                "rank": 6,
+                "name": "CHARLIE'NIN MELEKLERI (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:41:18",
+                "end_time": "24:57:48",
+                "rating": 1.6,
+                "share": 7.7
+            },
+            {
+                "rank": 7,
+                "name": "KAPTAN AMERIKA KIS ASKERI (Y.S)",
+                "channel": "FOX",
+                "start_time": "20:15:29",
+                "end_time": "22:48:10",
+                "rating": 1.59,
+                "share": 6.03
+            },
+            {
+                "rank": 8,
+                "name": "BIZIM AILE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:54:40",
+                "end_time": "23:55:49",
+                "rating": 1.52,
+                "share": 5.72
+            },
+            {
+                "rank": 9,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "16:01:17",
+                "end_time": "19:18:59",
+                "rating": 1.5,
+                "share": 11.61
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:10",
+                "end_time": "20:00:08",
+                "rating": 1.43,
+                "share": 7.91
+            }
+        ]
+    }
+}
