@@ -40,7 +40,7 @@ PAGE_COUNT = 1
 BACKFILL_START_PAGE = 6
 RETRY_ATTEMPTS = 5
 RETRY_DELAY = 5
-ARTICLE_DELAY = 5
+GEMINI_DELAY = 5
 
 PREFERRED_MODELS = [
     "models/gemini-3.5-flash-lite",
@@ -725,6 +725,9 @@ def process_article(article, api_key):
         try:
             result = generate_with_gemini(article, api_key)
 
+            print(f"Gemini sonrası bekleme: {GEMINI_DELAY} saniye.")
+            time.sleep(GEMINI_DELAY)
+
             title = clean_text(result.get("title"))
             content = result.get("content")
             series = result.get("series")
@@ -1145,8 +1148,6 @@ def process_listing_page(page_number, articles, records, existing, api_key):
                     error
                 )
 
-        print(f"Haber sonrası bekleme: {ARTICLE_DELAY} saniye.")
-        time.sleep(ARTICLE_DELAY)
 
     return all_success
 
