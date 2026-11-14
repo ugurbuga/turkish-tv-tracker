@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:50:05",
+                "end_time": "24:21:50",
+                "rating": 3.01,
+                "share": 12.24
+            },
+            {
+                "rank": 2,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:37:21",
+                "end_time": "23:38:49",
+                "rating": 2.84,
+                "share": 11.19
+            },
+            {
+                "rank": 3,
+                "name": "POSTACI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:15:10",
+                "end_time": "21:49:48",
+                "rating": 2.25,
+                "share": 9.45
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:02",
+                "rating": 2.13,
+                "share": 11.6
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:23",
+                "end_time": "20:37:21",
+                "rating": 2.05,
+                "share": 9.49
+            },
+            {
+                "rank": 6,
+                "name": "ORUMCEK ADAM EVE DONUS (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:42:43",
+                "rating": 1.99,
+                "share": 8.23
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:15",
+                "end_time": "20:00:12",
+                "rating": 1.7,
+                "share": 9.27
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:07",
+                "end_time": "20:00:30",
+                "rating": 1.62,
+                "share": 8.74
+            },
+            {
+                "rank": 9,
+                "name": "KENDI DUSEN AGLAMAZ (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:18:48",
+                "end_time": "24:52:27",
+                "rating": 1.47,
+                "share": 6.87
+            },
+            {
+                "rank": 10,
+                "name": "BLOODSHOT DURDURULAMAZ GUC (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:43:03",
+                "end_time": "24:49:59",
+                "rating": 1.41,
+                "share": 6.68
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:37:21",
+                "end_time": "23:38:49",
+                "rating": 3.21,
+                "share": 14.65
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:50:05",
+                "end_time": "24:21:50",
+                "rating": 2.66,
+                "share": 12.61
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:02",
+                "rating": 1.82,
+                "share": 12.35
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:23",
+                "end_time": "20:37:21",
+                "rating": 1.27,
+                "share": 7.55
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:15",
+                "end_time": "20:00:12",
+                "rating": 1.15,
+                "share": 7.82
+            },
+            {
+                "rank": 6,
+                "name": "ORUMCEK ADAM EVE DONUS (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:42:43",
+                "rating": 1.09,
+                "share": 5.5
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:07",
+                "end_time": "20:00:30",
+                "rating": 1.08,
+                "share": 7.18
+            },
+            {
+                "rank": 8,
+                "name": "KENDI DUSEN AGLAMAZ (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:18:48",
+                "end_time": "24:52:27",
+                "rating": 1.04,
+                "share": 5.55
+            },
+            {
+                "rank": 9,
+                "name": "HAYATIMIN NESESI (TKR)",
+                "channel": "TRT 1",
+                "start_time": "19:58:20",
+                "end_time": "22:18:30",
+                "rating": 1.04,
+                "share": 5.26
+            },
+            {
+                "rank": 10,
+                "name": "AMACI OLMAYAN GRUP (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:15:03",
+                "end_time": "21:48:18",
+                "rating": 1.04,
+                "share": 5.43
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:37:21",
+                "end_time": "23:38:49",
+                "rating": 3.57,
+                "share": 14.46
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:50:05",
+                "end_time": "24:21:50",
+                "rating": 3.5,
+                "share": 14.64
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:02",
+                "rating": 2.32,
+                "share": 13.53
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:23",
+                "end_time": "20:37:21",
+                "rating": 2.13,
+                "share": 10.58
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:15",
+                "end_time": "20:00:12",
+                "rating": 1.62,
+                "share": 9.43
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:07",
+                "end_time": "20:00:30",
+                "rating": 1.61,
+                "share": 9.25
+            },
+            {
+                "rank": 7,
+                "name": "POSTACI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:15:10",
+                "end_time": "21:49:48",
+                "rating": 1.55,
+                "share": 6.95
+            },
+            {
+                "rank": 8,
+                "name": "ORUMCEK ADAM EVE DONUS (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:42:43",
+                "rating": 1.37,
+                "share": 5.97
+            },
+            {
+                "rank": 9,
+                "name": "KENDI DUSEN AGLAMAZ (TKR)",
+                "channel": "TRT 1",
+                "start_time": "22:18:48",
+                "end_time": "24:52:27",
+                "rating": 1.33,
+                "share": 6.21
+            },
+            {
+                "rank": 10,
+                "name": "BLOODSHOT DURDURULAMAZ GUC (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:43:03",
+                "end_time": "24:49:59",
+                "rating": 1.26,
+                "share": 5.96
+            }
+        ]
+    }
+}

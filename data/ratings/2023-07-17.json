@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-17",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:39:53",
+                "end_time": "24:38:37",
+                "rating": 3.59,
+                "share": 14.82
+            },
+            {
+                "rank": 2,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:07",
+                "end_time": "24:17:29",
+                "rating": 2.69,
+                "share": 10.48
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "19:59:50",
+                "rating": 2.09,
+                "share": 11.67
+            },
+            {
+                "rank": 4,
+                "name": "UVEY ANNE",
+                "channel": "ATV",
+                "start_time": "20:45:03",
+                "end_time": "24:16:01",
+                "rating": 2.06,
+                "share": 8.0
+            },
+            {
+                "rank": 5,
+                "name": "RECEP IVEDIK (T.S)",
+                "channel": "FOX",
+                "start_time": "19:59:55",
+                "end_time": "22:20:44",
+                "rating": 1.89,
+                "share": 7.73
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "19:59:28",
+                "rating": 1.74,
+                "share": 9.73
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:01",
+                "end_time": "20:00:18",
+                "rating": 1.49,
+                "share": 8.23
+            },
+            {
+                "rank": 8,
+                "name": "PATLAT KAZAN",
+                "channel": "STAR TV",
+                "start_time": "20:00:39",
+                "end_time": "21:47:03",
+                "rating": 1.35,
+                "share": 5.63
+            },
+            {
+                "rank": 9,
+                "name": "SON GUN",
+                "channel": "TRT 1",
+                "start_time": "21:15:08",
+                "end_time": "22:41:17",
+                "rating": 1.28,
+                "share": 4.73
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:53:19",
+                "rating": 1.27,
+                "share": 7.1
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:39:53",
+                "end_time": "24:38:37",
+                "rating": 4.0,
+                "share": 17.73
+            },
+            {
+                "rank": 2,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:07",
+                "end_time": "24:17:29",
+                "rating": 2.09,
+                "share": 8.72
+            },
+            {
+                "rank": 3,
+                "name": "TURKIYE-CIN 2023 FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "02:00:00",
+                "end_time": "03:48:42",
+                "rating": 1.84,
+                "share": 38.23
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "19:59:50",
+                "rating": 1.82,
+                "share": 10.25
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:01",
+                "end_time": "20:00:18",
+                "rating": 1.65,
+                "share": 9.07
+            },
+            {
+                "rank": 6,
+                "name": "RECEP IVEDIK (T.S)",
+                "channel": "FOX",
+                "start_time": "19:59:55",
+                "end_time": "22:20:44",
+                "rating": 1.57,
+                "share": 6.78
+            },
+            {
+                "rank": 7,
+                "name": "UVEY ANNE",
+                "channel": "ATV",
+                "start_time": "20:45:03",
+                "end_time": "24:16:01",
+                "rating": 1.37,
+                "share": 5.7
+            },
+            {
+                "rank": 8,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:07",
+                "end_time": "18:58:01",
+                "rating": 1.31,
+                "share": 9.3
+            },
+            {
+                "rank": 9,
+                "name": "PATLAT KAZAN",
+                "channel": "STAR TV",
+                "start_time": "20:00:39",
+                "end_time": "21:47:03",
+                "rating": 1.21,
+                "share": 5.35
+            },
+            {
+                "rank": 10,
+                "name": "YANGIN GUNLERI INDEPENDENTA",
+                "channel": "TRT 1",
+                "start_time": "20:01:24",
+                "end_time": "21:15:00",
+                "rating": 1.19,
+                "share": 5.28
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:39:53",
+                "end_time": "24:38:37",
+                "rating": 5.11,
+                "share": 19.56
+            },
+            {
+                "rank": 2,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:07",
+                "end_time": "24:17:29",
+                "rating": 3.16,
+                "share": 11.35
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "19:59:50",
+                "rating": 2.64,
+                "share": 13.78
+            },
+            {
+                "rank": 4,
+                "name": "UVEY ANNE",
+                "channel": "ATV",
+                "start_time": "20:45:03",
+                "end_time": "24:16:01",
+                "rating": 1.86,
+                "share": 6.69
+            },
+            {
+                "rank": 5,
+                "name": "RECEP IVEDIK (T.S)",
+                "channel": "FOX",
+                "start_time": "19:59:55",
+                "end_time": "22:20:44",
+                "rating": 1.77,
+                "share": 6.88
+            },
+            {
+                "rank": 6,
+                "name": "TURKIYE-CIN 2023 FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "02:00:00",
+                "end_time": "03:48:42",
+                "rating": 1.69,
+                "share": 30.19
+            },
+            {
+                "rank": 7,
+                "name": "VEDA MEKTUBU (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:01:02",
+                "end_time": "20:59:56",
+                "rating": 1.57,
+                "share": 6.56
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:01",
+                "end_time": "20:00:18",
+                "rating": 1.52,
+                "share": 7.8
+            },
+            {
+                "rank": 9,
+                "name": "PATLAT KAZAN",
+                "channel": "STAR TV",
+                "start_time": "20:00:39",
+                "end_time": "21:47:03",
+                "rating": 1.49,
+                "share": 5.97
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "19:59:28",
+                "rating": 1.49,
+                "share": 7.76
+            }
+        ]
+    }
+}

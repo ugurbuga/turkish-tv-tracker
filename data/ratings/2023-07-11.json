@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-11",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "DONENCE",
+                "channel": "KANAL D",
+                "start_time": "20:59:40",
+                "end_time": "23:14:40",
+                "rating": 3.93,
+                "share": 14.04
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:44:41",
+                "end_time": "24:39:42",
+                "rating": 3.21,
+                "share": 12.95
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "20:00:00",
+                "rating": 2.1,
+                "share": 12.12
+            },
+            {
+                "rank": 4,
+                "name": "KOLOMBIYALI INTIKAM MELEGI (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:03:07",
+                "end_time": "22:19:05",
+                "rating": 1.76,
+                "share": 7.05
+            },
+            {
+                "rank": 5,
+                "name": "DURUST HIRSIZ (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "22:19:28",
+                "end_time": "24:14:21",
+                "rating": 1.74,
+                "share": 6.83
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:22",
+                "end_time": "24:20:04",
+                "rating": 1.72,
+                "share": 6.73
+            },
+            {
+                "rank": 7,
+                "name": "DONENCE (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:05",
+                "end_time": "20:59:29",
+                "rating": 1.67,
+                "share": 7.32
+            },
+            {
+                "rank": 8,
+                "name": "RECEP IVEDIK 4 (T.S)",
+                "channel": "FOX",
+                "start_time": "20:00:05",
+                "end_time": "22:32:59",
+                "rating": 1.65,
+                "share": 6.58
+            },
+            {
+                "rank": 9,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "22:42:43",
+                "rating": 1.64,
+                "share": 6.22
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:33",
+                "end_time": "19:59:52",
+                "rating": 1.62,
+                "share": 9.25
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:44:41",
+                "end_time": "24:39:42",
+                "rating": 3.52,
+                "share": 15.17
+            },
+            {
+                "rank": 2,
+                "name": "DONENCE",
+                "channel": "KANAL D",
+                "start_time": "20:59:40",
+                "end_time": "23:14:40",
+                "rating": 3.48,
+                "share": 13.41
+            },
+            {
+                "rank": 3,
+                "name": "DONENCE (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:05",
+                "end_time": "20:59:29",
+                "rating": 2.2,
+                "share": 10.31
+            },
+            {
+                "rank": 4,
+                "name": "KOLOMBIYALI INTIKAM MELEGI (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:03:07",
+                "end_time": "22:19:05",
+                "rating": 1.9,
+                "share": 8.15
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:33",
+                "end_time": "19:59:52",
+                "rating": 1.88,
+                "share": 11.19
+            },
+            {
+                "rank": 6,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:04",
+                "end_time": "18:57:33",
+                "rating": 1.84,
+                "share": 12.39
+            },
+            {
+                "rank": 7,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "22:42:43",
+                "rating": 1.78,
+                "share": 7.26
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:22",
+                "end_time": "24:20:04",
+                "rating": 1.75,
+                "share": 7.32
+            },
+            {
+                "rank": 9,
+                "name": "DURUST HIRSIZ (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "22:19:28",
+                "end_time": "24:14:21",
+                "rating": 1.69,
+                "share": 7.08
+            },
+            {
+                "rank": 10,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "20:00:00",
+                "rating": 1.62,
+                "share": 9.75
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:44:41",
+                "end_time": "24:39:42",
+                "rating": 4.2,
+                "share": 15.99
+            },
+            {
+                "rank": 2,
+                "name": "DONENCE",
+                "channel": "KANAL D",
+                "start_time": "20:59:40",
+                "end_time": "23:14:40",
+                "rating": 4.08,
+                "share": 13.93
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "20:00:00",
+                "rating": 2.46,
+                "share": 13.42
+            },
+            {
+                "rank": 4,
+                "name": "DONENCE (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:05",
+                "end_time": "20:59:29",
+                "rating": 2.13,
+                "share": 8.92
+            },
+            {
+                "rank": 5,
+                "name": "KOLOMBIYALI INTIKAM MELEGI (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "20:03:07",
+                "end_time": "22:19:05",
+                "rating": 2.02,
+                "share": 7.77
+            },
+            {
+                "rank": 6,
+                "name": "DURUST HIRSIZ (Y.S)",
+                "channel": "STAR TV",
+                "start_time": "22:19:28",
+                "end_time": "24:14:21",
+                "rating": 2.0,
+                "share": 7.31
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:22",
+                "end_time": "24:20:04",
+                "rating": 1.99,
+                "share": 7.38
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:33",
+                "end_time": "19:59:52",
+                "rating": 1.94,
+                "share": 10.56
+            },
+            {
+                "rank": 9,
+                "name": "SEN TURKULERINI SOYLE",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "22:42:43",
+                "rating": 1.89,
+                "share": 6.9
+            },
+            {
+                "rank": 10,
+                "name": "MASTERCHEF TURKIYE ALL STAR OZET",
+                "channel": "TV8",
+                "start_time": "18:52:08",
+                "end_time": "20:44:36",
+                "rating": 1.61,
+                "share": 7.96
+            }
+        ]
+    }
+}

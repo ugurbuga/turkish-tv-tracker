@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-13",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KENDI DUSEN AGLAMAZ",
+                "channel": "TRT 1",
+                "start_time": "20:58:42",
+                "end_time": "23:34:36",
+                "rating": 3.44,
+                "share": 13.0
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:54:49",
+                "end_time": "24:43:06",
+                "rating": 3.1,
+                "share": 13.15
+            },
+            {
+                "rank": 3,
+                "name": "GULCEMAL",
+                "channel": "FOX",
+                "start_time": "20:57:52",
+                "end_time": "23:42:37",
+                "rating": 2.53,
+                "share": 9.63
+            },
+            {
+                "rank": 4,
+                "name": "YA COK SEVERSEN",
+                "channel": "KANAL D",
+                "start_time": "20:59:49",
+                "end_time": "23:17:32",
+                "rating": 2.24,
+                "share": 8.44
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:06",
+                "rating": 1.97,
+                "share": 10.82
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:45",
+                "end_time": "20:00:02",
+                "rating": 1.65,
+                "share": 8.92
+            },
+            {
+                "rank": 7,
+                "name": "KENDI DUSEN AGLAMAZ (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:41",
+                "end_time": "20:58:42",
+                "rating": 1.63,
+                "share": 7.19
+            },
+            {
+                "rank": 8,
+                "name": "ESARET",
+                "channel": "KANAL 7",
+                "start_time": "19:42:14",
+                "end_time": "21:18:35",
+                "rating": 1.57,
+                "share": 7.28
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "24:16:02",
+                "rating": 1.57,
+                "share": 6.35
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:00",
+                "end_time": "19:59:41",
+                "rating": 1.42,
+                "share": 7.76
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:54:49",
+                "end_time": "24:43:06",
+                "rating": 3.52,
+                "share": 16.59
+            },
+            {
+                "rank": 2,
+                "name": "KENDI DUSEN AGLAMAZ",
+                "channel": "TRT 1",
+                "start_time": "20:58:42",
+                "end_time": "23:34:36",
+                "rating": 2.52,
+                "share": 10.39
+            },
+            {
+                "rank": 3,
+                "name": "YA COK SEVERSEN",
+                "channel": "KANAL D",
+                "start_time": "20:59:49",
+                "end_time": "23:17:32",
+                "rating": 2.11,
+                "share": 8.83
+            },
+            {
+                "rank": 4,
+                "name": "GULCEMAL",
+                "channel": "FOX",
+                "start_time": "20:57:52",
+                "end_time": "23:42:37",
+                "rating": 1.97,
+                "share": 8.2
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:06",
+                "rating": 1.85,
+                "share": 11.3
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "24:16:02",
+                "rating": 1.55,
+                "share": 6.99
+            },
+            {
+                "rank": 7,
+                "name": "GULCEMAL (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:11",
+                "end_time": "20:57:47",
+                "rating": 1.45,
+                "share": 7.66
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:45",
+                "end_time": "20:00:02",
+                "rating": 1.42,
+                "share": 8.76
+            },
+            {
+                "rank": 9,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:10",
+                "end_time": "18:57:45",
+                "rating": 1.4,
+                "share": 9.73
+            },
+            {
+                "rank": 10,
+                "name": "YA COK SEVERSEN OZET",
+                "channel": "KANAL D",
+                "start_time": "20:00:15",
+                "end_time": "20:59:38",
+                "rating": 1.32,
+                "share": 6.98
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:54:49",
+                "end_time": "24:43:06",
+                "rating": 4.33,
+                "share": 17.79
+            },
+            {
+                "rank": 2,
+                "name": "KENDI DUSEN AGLAMAZ",
+                "channel": "TRT 1",
+                "start_time": "20:58:42",
+                "end_time": "23:34:36",
+                "rating": 2.98,
+                "share": 10.97
+            },
+            {
+                "rank": 3,
+                "name": "GULCEMAL",
+                "channel": "FOX",
+                "start_time": "20:57:52",
+                "end_time": "23:42:37",
+                "rating": 2.64,
+                "share": 9.78
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:06",
+                "rating": 2.53,
+                "share": 13.4
+            },
+            {
+                "rank": 5,
+                "name": "YA COK SEVERSEN",
+                "channel": "KANAL D",
+                "start_time": "20:59:49",
+                "end_time": "23:17:32",
+                "rating": 2.25,
+                "share": 8.33
+            },
+            {
+                "rank": 6,
+                "name": "GULCEMAL (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:11",
+                "end_time": "20:57:47",
+                "rating": 1.83,
+                "share": 8.21
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:52",
+                "end_time": "24:16:02",
+                "rating": 1.75,
+                "share": 6.93
+            },
+            {
+                "rank": 8,
+                "name": "KENDI DUSEN AGLAMAZ (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:58:41",
+                "end_time": "20:58:42",
+                "rating": 1.55,
+                "share": 6.94
+            },
+            {
+                "rank": 9,
+                "name": "TURKIYE-ITALYA FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:54:15",
+                "end_time": "23:13:36",
+                "rating": 1.52,
+                "share": 5.51
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:45",
+                "end_time": "20:00:02",
+                "rating": 1.52,
+                "share": 8.05
+            }
+        ]
+    }
+}

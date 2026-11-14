@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:24:14",
+                "end_time": "24:26:24",
+                "rating": 3.18,
+                "share": 13.05
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "21:00:00",
+                "end_time": "23:31:23",
+                "rating": 3.17,
+                "share": 11.97
+            },
+            {
+                "rank": 3,
+                "name": "HABABAM SINIFI GULE GULE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:46:36",
+                "end_time": "23:34:38",
+                "rating": 2.46,
+                "share": 9.23
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:10",
+                "rating": 2.34,
+                "share": 12.73
+            },
+            {
+                "rank": 5,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:46:19",
+                "rating": 2.05,
+                "share": 8.64
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:44",
+                "end_time": "20:00:03",
+                "rating": 1.7,
+                "share": 9.27
+            },
+            {
+                "rank": 7,
+                "name": "BABASININ KIZI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:14:16",
+                "end_time": "22:23:11",
+                "rating": 1.55,
+                "share": 6.26
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:10",
+                "end_time": "20:00:10",
+                "rating": 1.53,
+                "share": 8.25
+            },
+            {
+                "rank": 9,
+                "name": "ESARET",
+                "channel": "KANAL 7",
+                "start_time": "19:33:18",
+                "end_time": "21:18:09",
+                "rating": 1.53,
+                "share": 7.03
+            },
+            {
+                "rank": 10,
+                "name": "SHAZAM 6 GUC (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "22:41:07",
+                "rating": 1.38,
+                "share": 5.54
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:24:14",
+                "end_time": "24:26:24",
+                "rating": 3.1,
+                "share": 14.31
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "21:00:00",
+                "end_time": "23:31:23",
+                "rating": 2.94,
+                "share": 12.43
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:10",
+                "rating": 1.8,
+                "share": 9.99
+            },
+            {
+                "rank": 4,
+                "name": "SHAZAM 6 GUC (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:48",
+                "end_time": "22:41:07",
+                "rating": 1.65,
+                "share": 7.38
+            },
+            {
+                "rank": 5,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:10",
+                "end_time": "20:00:10",
+                "rating": 1.49,
+                "share": 8.33
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:44",
+                "end_time": "20:00:03",
+                "rating": 1.4,
+                "share": 7.78
+            },
+            {
+                "rank": 7,
+                "name": "HABABAM SINIFI GULE GULE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:46:36",
+                "end_time": "23:34:38",
+                "rating": 1.36,
+                "share": 5.68
+            },
+            {
+                "rank": 8,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:46:19",
+                "rating": 1.35,
+                "share": 6.4
+            },
+            {
+                "rank": 9,
+                "name": "BENIM GUZEL AILEM (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:00",
+                "end_time": "21:00:00",
+                "rating": 1.29,
+                "share": 6.36
+            },
+            {
+                "rank": 10,
+                "name": "SICAK GELISME",
+                "channel": "KANAL D",
+                "start_time": "18:30:07",
+                "end_time": "18:58:10",
+                "rating": 1.27,
+                "share": 8.63
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:24:14",
+                "end_time": "24:26:24",
+                "rating": 4.03,
+                "share": 16.27
+            },
+            {
+                "rank": 2,
+                "name": "BENIM GUZEL AILEM",
+                "channel": "TRT 1",
+                "start_time": "21:00:00",
+                "end_time": "23:31:23",
+                "rating": 3.39,
+                "share": 12.59
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:10",
+                "rating": 2.72,
+                "share": 14.59
+            },
+            {
+                "rank": 4,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:10",
+                "end_time": "20:00:10",
+                "rating": 1.7,
+                "share": 9.17
+            },
+            {
+                "rank": 5,
+                "name": "HABABAM SINIFI GULE GULE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:46:36",
+                "end_time": "23:34:38",
+                "rating": 1.62,
+                "share": 5.97
+            },
+            {
+                "rank": 6,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:46:19",
+                "rating": 1.59,
+                "share": 6.78
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:44",
+                "end_time": "20:00:03",
+                "rating": 1.57,
+                "share": 8.49
+            },
+            {
+                "rank": 8,
+                "name": "YARINDAN SONRA (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:15:58",
+                "end_time": "22:33:15",
+                "rating": 1.49,
+                "share": 5.88
+            },
+            {
+                "rank": 9,
+                "name": "BABASININ KIZI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:14:16",
+                "end_time": "22:23:11",
+                "rating": 1.47,
+                "share": 5.95
+            },
+            {
+                "rank": 10,
+                "name": "QUANTUM OF SOLACE (Y.S)",
+                "channel": "ATV",
+                "start_time": "22:41:28",
+                "end_time": "24:45:34",
+                "rating": 1.41,
+                "share": 6.55
+            }
+        ]
+    }
+}

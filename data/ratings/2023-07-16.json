@@ -1,0 +1,282 @@
+{
+    "date": "2023-07-16",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:53",
+                "end_time": "24:27:19",
+                "rating": 3.29,
+                "share": 14.02
+            },
+            {
+                "rank": 2,
+                "name": "YAZ SARKISI",
+                "channel": "FOX",
+                "start_time": "20:46:25",
+                "end_time": "23:16:40",
+                "rating": 2.41,
+                "share": 9.75
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:49",
+                "rating": 2.33,
+                "share": 13.16
+            },
+            {
+                "rank": 4,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "20:38:56",
+                "end_time": "24:17:39",
+                "rating": 2.25,
+                "share": 9.35
+            },
+            {
+                "rank": 5,
+                "name": "TARZAN RIFKI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:48:55",
+                "end_time": "23:36:34",
+                "rating": 1.97,
+                "share": 7.87
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "20:00:12",
+                "rating": 1.81,
+                "share": 10.2
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:21",
+                "end_time": "20:00:03",
+                "rating": 1.56,
+                "share": 8.74
+            },
+            {
+                "rank": 8,
+                "name": "SABANIYE (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "16:18:58",
+                "end_time": "18:18:27",
+                "rating": 1.52,
+                "share": 10.57
+            },
+            {
+                "rank": 9,
+                "name": "SALAK MILYONER (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:23",
+                "end_time": "21:48:39",
+                "rating": 1.43,
+                "share": 6.49
+            },
+            {
+                "rank": 10,
+                "name": "YIRMISEKIZ (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:41",
+                "end_time": "22:13:26",
+                "rating": 1.4,
+                "share": 6.08
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:53",
+                "end_time": "24:27:19",
+                "rating": 3.71,
+                "share": 16.33
+            },
+            {
+                "rank": 2,
+                "name": "YAZ SARKISI",
+                "channel": "FOX",
+                "start_time": "20:46:25",
+                "end_time": "23:16:40",
+                "rating": 1.99,
+                "share": 8.38
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:49",
+                "rating": 1.89,
+                "share": 11.67
+            },
+            {
+                "rank": 4,
+                "name": "TURKIYE-CIN 2023 FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "25:24:42",
+                "end_time": "26:00:00",
+                "rating": 1.74,
+                "share": 23.43
+            },
+            {
+                "rank": 5,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "20:38:56",
+                "end_time": "24:17:39",
+                "rating": 1.6,
+                "share": 6.88
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "20:00:12",
+                "rating": 1.5,
+                "share": 9.27
+            },
+            {
+                "rank": 7,
+                "name": "YIRMISEKIZ (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:16:41",
+                "end_time": "22:13:26",
+                "rating": 1.45,
+                "share": 6.46
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:21",
+                "end_time": "20:00:03",
+                "rating": 1.44,
+                "share": 8.69
+            },
+            {
+                "rank": 9,
+                "name": "ESKI EVDEKI BUYULU SAAT (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:01",
+                "end_time": "22:17:26",
+                "rating": 1.43,
+                "share": 6.45
+            },
+            {
+                "rank": 10,
+                "name": "HUKUMET KADIN (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:19:46",
+                "end_time": "24:23:43",
+                "rating": 1.41,
+                "share": 6.32
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:38:53",
+                "end_time": "24:27:19",
+                "rating": 4.13,
+                "share": 17.06
+            },
+            {
+                "rank": 2,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "19:59:49",
+                "rating": 2.25,
+                "share": 12.56
+            },
+            {
+                "rank": 3,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "20:38:56",
+                "end_time": "24:17:39",
+                "rating": 2.0,
+                "share": 8.09
+            },
+            {
+                "rank": 4,
+                "name": "TARZAN RIFKI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:48:55",
+                "end_time": "23:36:34",
+                "rating": 1.94,
+                "share": 7.44
+            },
+            {
+                "rank": 5,
+                "name": "YAZ SARKISI",
+                "channel": "FOX",
+                "start_time": "20:46:25",
+                "end_time": "23:16:40",
+                "rating": 1.88,
+                "share": 7.46
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:03",
+                "end_time": "20:00:12",
+                "rating": 1.8,
+                "share": 10.05
+            },
+            {
+                "rank": 7,
+                "name": "TURKIYE-CIN 2023 FIVB KADINLAR VOLEYBOL MILLETLER LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "25:24:42",
+                "end_time": "26:00:00",
+                "rating": 1.75,
+                "share": 19.88
+            },
+            {
+                "rank": 8,
+                "name": "ESKI EVDEKI BUYULU SAAT (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:01",
+                "end_time": "22:17:26",
+                "rating": 1.57,
+                "share": 6.89
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:21",
+                "end_time": "20:00:03",
+                "rating": 1.49,
+                "share": 8.23
+            },
+            {
+                "rank": 10,
+                "name": "HUKUMET KADIN (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:09",
+                "end_time": "22:19:23",
+                "rating": 1.46,
+                "share": 6.39
+            }
+        ]
+    }
+}
