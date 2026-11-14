@@ -1,0 +1,282 @@
+{
+    "date": "2023-02-21",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:45:55",
+                "end_time": "23:08:43",
+                "rating": 5.83,
+                "share": 14.51
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:05",
+                "end_time": "20:00:11",
+                "rating": 4.54,
+                "share": 13.5
+            },
+            {
+                "rank": 3,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:22",
+                "end_time": "12:59:49",
+                "rating": 3.83,
+                "share": 24.66
+            },
+            {
+                "rank": 4,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:58:01",
+                "rating": 3.81,
+                "share": 11.38
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:44:40",
+                "end_time": "22:48:09",
+                "rating": 3.8,
+                "share": 9.32
+            },
+            {
+                "rank": 6,
+                "name": "LIVERPOOL-REAL MADRID UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "22:48:19",
+                "end_time": "24:56:58",
+                "rating": 3.6,
+                "share": 13.86
+            },
+            {
+                "rank": 7,
+                "name": "MUCIZE ASK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "22:01:55",
+                "rating": 3.44,
+                "share": 8.58
+            },
+            {
+                "rank": 8,
+                "name": "TACSIZ PRENSES",
+                "channel": "FOX",
+                "start_time": "20:41:51",
+                "end_time": "22:56:49",
+                "rating": 3.09,
+                "share": 7.62
+            },
+            {
+                "rank": 9,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TV8",
+                "start_time": "23:53:17",
+                "end_time": "23:58:27",
+                "rating": 2.91,
+                "share": 11.57
+            },
+            {
+                "rank": 10,
+                "name": "UC KIZ KARDES (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:48",
+                "end_time": "20:45:49",
+                "rating": 2.86,
+                "share": 7.46
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:05",
+                "end_time": "20:00:11",
+                "rating": 5.22,
+                "share": 17.07
+            },
+            {
+                "rank": 2,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:45:55",
+                "end_time": "23:08:43",
+                "rating": 5.22,
+                "share": 13.82
+            },
+            {
+                "rank": 3,
+                "name": "LIVERPOOL-REAL MADRID UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "22:48:19",
+                "end_time": "24:56:58",
+                "rating": 4.91,
+                "share": 19.34
+            },
+            {
+                "rank": 4,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TV8",
+                "start_time": "23:53:17",
+                "end_time": "23:58:27",
+                "rating": 3.38,
+                "share": 13.53
+            },
+            {
+                "rank": 5,
+                "name": "MUCIZE ASK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "22:01:55",
+                "rating": 3.08,
+                "share": 8.23
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:22",
+                "end_time": "12:59:49",
+                "rating": 2.92,
+                "share": 22.14
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:44:40",
+                "end_time": "22:48:09",
+                "rating": 2.8,
+                "share": 7.32
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:58:01",
+                "rating": 2.56,
+                "share": 8.43
+            },
+            {
+                "rank": 9,
+                "name": "TACSIZ PRENSES (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:16",
+                "end_time": "20:41:46",
+                "rating": 2.56,
+                "share": 7.29
+            },
+            {
+                "rank": 10,
+                "name": "BAKIS ACISI (Y.S)",
+                "channel": "TRT 1",
+                "start_time": "19:59:52",
+                "end_time": "21:20:18",
+                "rating": 2.41,
+                "share": 6.61
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:45:55",
+                "end_time": "23:08:43",
+                "rating": 6.74,
+                "share": 15.98
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:05",
+                "end_time": "20:00:11",
+                "rating": 6.29,
+                "share": 18.45
+            },
+            {
+                "rank": 3,
+                "name": "LIVERPOOL-REAL MADRID UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "22:48:19",
+                "end_time": "24:56:58",
+                "rating": 4.68,
+                "share": 16.36
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:22",
+                "end_time": "12:59:49",
+                "rating": 3.99,
+                "share": 25.84
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:44:40",
+                "end_time": "22:48:09",
+                "rating": 3.98,
+                "share": 9.33
+            },
+            {
+                "rank": 6,
+                "name": "UEFA SAMPIYONLAR LIGI OZETLERI (TKR)",
+                "channel": "TV8",
+                "start_time": "23:53:17",
+                "end_time": "23:58:27",
+                "rating": 3.84,
+                "share": 13.81
+            },
+            {
+                "rank": 7,
+                "name": "MUCIZE ASK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:06",
+                "end_time": "22:01:55",
+                "rating": 3.81,
+                "share": 9.13
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:58:01",
+                "rating": 3.48,
+                "share": 10.28
+            },
+            {
+                "rank": 9,
+                "name": "UC KIZ KARDES (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:48",
+                "end_time": "20:45:49",
+                "rating": 3.21,
+                "share": 8.03
+            },
+            {
+                "rank": 10,
+                "name": "TACSIZ PRENSES (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:16",
+                "end_time": "20:41:46",
+                "rating": 3.08,
+                "share": 7.75
+            }
+        ]
+    }
+}
