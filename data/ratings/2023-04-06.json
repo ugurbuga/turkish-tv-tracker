@@ -1,0 +1,282 @@
+{
+    "date": "2023-04-06",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "CAMDAKI KIZ",
+                "channel": "KANAL D",
+                "start_time": "20:59:18",
+                "end_time": "24:16:27",
+                "rating": 5.61,
+                "share": 14.35
+            },
+            {
+                "rank": 2,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:45:00",
+                "end_time": "19:29:00",
+                "rating": 5.02,
+                "share": 15.59
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:47",
+                "end_time": "19:59:37",
+                "rating": 4.79,
+                "share": 13.77
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:33",
+                "end_time": "18:44:55",
+                "rating": 4.73,
+                "share": 20.85
+            },
+            {
+                "rank": 5,
+                "name": "AL SANCAK",
+                "channel": "TRT 1",
+                "start_time": "20:35:14",
+                "end_time": "23:32:01",
+                "rating": 4.43,
+                "share": 10.89
+            },
+            {
+                "rank": 6,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:36:18",
+                "end_time": "24:18:56",
+                "rating": 4.34,
+                "share": 11.06
+            },
+            {
+                "rank": 7,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE IFTAR",
+                "channel": "ATV",
+                "start_time": "19:30:17",
+                "end_time": "20:09:50",
+                "rating": 4.15,
+                "share": 11.35
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:10",
+                "end_time": "13:00:00",
+                "rating": 3.71,
+                "share": 30.87
+            },
+            {
+                "rank": 9,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:29:37",
+                "end_time": "24:36:26",
+                "rating": 3.6,
+                "share": 9.74
+            },
+            {
+                "rank": 10,
+                "name": "GULCEMAL",
+                "channel": "FOX",
+                "start_time": "19:59:42",
+                "end_time": "22:30:11",
+                "rating": 3.15,
+                "share": 7.8
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "CAMDAKI KIZ",
+                "channel": "KANAL D",
+                "start_time": "20:59:18",
+                "end_time": "24:16:27",
+                "rating": 6.46,
+                "share": 17.77
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:47",
+                "end_time": "19:59:37",
+                "rating": 5.04,
+                "share": 18.36
+            },
+            {
+                "rank": 3,
+                "name": "GULCEMAL",
+                "channel": "FOX",
+                "start_time": "19:59:42",
+                "end_time": "22:30:11",
+                "rating": 3.66,
+                "share": 10.0
+            },
+            {
+                "rank": 4,
+                "name": "AL SANCAK",
+                "channel": "TRT 1",
+                "start_time": "20:35:14",
+                "end_time": "23:32:01",
+                "rating": 3.66,
+                "share": 9.71
+            },
+            {
+                "rank": 5,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:36:18",
+                "end_time": "24:18:56",
+                "rating": 3.56,
+                "share": 9.77
+            },
+            {
+                "rank": 6,
+                "name": "YUZ YILLIK MUCIZE",
+                "channel": "STAR TV",
+                "start_time": "20:51:59",
+                "end_time": "23:18:26",
+                "rating": 2.93,
+                "share": 7.68
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:10",
+                "end_time": "13:00:00",
+                "rating": 2.8,
+                "share": 30.29
+            },
+            {
+                "rank": 8,
+                "name": "CAMDAKI KIZ (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:34",
+                "end_time": "20:59:07",
+                "rating": 2.76,
+                "share": 7.78
+            },
+            {
+                "rank": 9,
+                "name": "AL SANCAK (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:01:14",
+                "end_time": "20:35:14",
+                "rating": 2.33,
+                "share": 7.07
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:45:00",
+                "end_time": "19:29:00",
+                "rating": 2.33,
+                "share": 9.37
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "CAMDAKI KIZ",
+                "channel": "KANAL D",
+                "start_time": "20:59:18",
+                "end_time": "24:16:27",
+                "rating": 6.94,
+                "share": 16.58
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:47",
+                "end_time": "19:59:37",
+                "rating": 5.56,
+                "share": 16.51
+            },
+            {
+                "rank": 3,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:36:18",
+                "end_time": "24:18:56",
+                "rating": 4.19,
+                "share": 9.99
+            },
+            {
+                "rank": 4,
+                "name": "AL SANCAK",
+                "channel": "TRT 1",
+                "start_time": "20:35:14",
+                "end_time": "23:32:01",
+                "rating": 4.01,
+                "share": 9.22
+            },
+            {
+                "rank": 5,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:29:37",
+                "end_time": "24:36:26",
+                "rating": 3.73,
+                "share": 9.44
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:10",
+                "end_time": "13:00:00",
+                "rating": 3.61,
+                "share": 30.7
+            },
+            {
+                "rank": 7,
+                "name": "CAMDAKI KIZ (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:34",
+                "end_time": "20:59:07",
+                "rating": 3.43,
+                "share": 8.33
+            },
+            {
+                "rank": 8,
+                "name": "YUZ YILLIK MUCIZE",
+                "channel": "STAR TV",
+                "start_time": "20:51:59",
+                "end_time": "23:18:26",
+                "rating": 3.42,
+                "share": 7.77
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:45:00",
+                "end_time": "19:29:00",
+                "rating": 3.4,
+                "share": 11.28
+            },
+            {
+                "rank": 10,
+                "name": "GULCEMAL",
+                "channel": "FOX",
+                "start_time": "19:59:42",
+                "end_time": "22:30:11",
+                "rating": 3.2,
+                "share": 7.53
+            }
+        ]
+    }
+}

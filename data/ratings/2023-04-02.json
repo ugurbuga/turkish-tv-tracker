@@ -1,0 +1,282 @@
+{
+    "date": "2023-04-02",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:58:29",
+                "end_time": "24:18:44",
+                "rating": 5.5,
+                "share": 14.29
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:30:23",
+                "end_time": "23:32:08",
+                "rating": 5.13,
+                "share": 12.96
+            },
+            {
+                "rank": 3,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "20:00:07",
+                "rating": 5.01,
+                "share": 14.28
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:30:04",
+                "end_time": "24:34:52",
+                "rating": 3.55,
+                "share": 9.79
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:45:06",
+                "end_time": "19:25:11",
+                "rating": 3.48,
+                "share": 10.4
+            },
+            {
+                "rank": 6,
+                "name": "PROF. DR. NIHAT HATIPOGLU ILE IFTAR",
+                "channel": "ATV",
+                "start_time": "19:26:25",
+                "end_time": "20:19:09",
+                "rating": 3.41,
+                "share": 9.42
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:56:43",
+                "end_time": "20:30:23",
+                "rating": 3.34,
+                "share": 9.1
+            },
+            {
+                "rank": 8,
+                "name": "EGO",
+                "channel": "FOX",
+                "start_time": "21:00:09",
+                "end_time": "24:17:35",
+                "rating": 3.05,
+                "share": 7.87
+            },
+            {
+                "rank": 9,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "18:14:34",
+                "end_time": "19:56:24",
+                "rating": 3.04,
+                "share": 9.17
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:26",
+                "end_time": "19:59:48",
+                "rating": 2.86,
+                "share": 8.15
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:58:29",
+                "end_time": "24:18:44",
+                "rating": 7.28,
+                "share": 19.82
+            },
+            {
+                "rank": 2,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "20:00:07",
+                "rating": 4.75,
+                "share": 15.05
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:30:23",
+                "end_time": "23:32:08",
+                "rating": 4.09,
+                "share": 10.87
+            },
+            {
+                "rank": 4,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:50",
+                "end_time": "20:58:18",
+                "rating": 3.44,
+                "share": 9.61
+            },
+            {
+                "rank": 5,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "18:14:34",
+                "end_time": "19:56:24",
+                "rating": 2.9,
+                "share": 9.86
+            },
+            {
+                "rank": 6,
+                "name": "EGO",
+                "channel": "FOX",
+                "start_time": "21:00:09",
+                "end_time": "24:17:35",
+                "rating": 2.73,
+                "share": 7.38
+            },
+            {
+                "rank": 7,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:59:15",
+                "end_time": "24:18:54",
+                "rating": 2.67,
+                "share": 7.24
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:56:43",
+                "end_time": "20:30:23",
+                "rating": 2.59,
+                "share": 7.6
+            },
+            {
+                "rank": 9,
+                "name": "EGO (OZET)",
+                "channel": "FOX",
+                "start_time": "20:02:40",
+                "end_time": "21:00:04",
+                "rating": 2.42,
+                "share": 6.72
+            },
+            {
+                "rank": 10,
+                "name": "GUZEL GUNLER (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:59",
+                "end_time": "20:59:15",
+                "rating": 2.4,
+                "share": 6.71
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YARGI",
+                "channel": "KANAL D",
+                "start_time": "20:58:29",
+                "end_time": "24:18:44",
+                "rating": 7.11,
+                "share": 17.29
+            },
+            {
+                "rank": 2,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:01",
+                "end_time": "20:00:07",
+                "rating": 5.63,
+                "share": 16.38
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:30:23",
+                "end_time": "23:32:08",
+                "rating": 4.82,
+                "share": 11.41
+            },
+            {
+                "rank": 4,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:30:04",
+                "end_time": "24:34:52",
+                "rating": 3.66,
+                "share": 9.46
+            },
+            {
+                "rank": 5,
+                "name": "YARGI (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:50",
+                "end_time": "20:58:18",
+                "rating": 3.48,
+                "share": 8.9
+            },
+            {
+                "rank": 6,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:56:43",
+                "end_time": "20:30:23",
+                "rating": 3.28,
+                "share": 8.83
+            },
+            {
+                "rank": 7,
+                "name": "RAMAZAN SEVINCI",
+                "channel": "TRT 1",
+                "start_time": "18:14:34",
+                "end_time": "19:56:24",
+                "rating": 3.19,
+                "share": 9.9
+            },
+            {
+                "rank": 8,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:59:15",
+                "end_time": "24:18:54",
+                "rating": 3.05,
+                "share": 7.4
+            },
+            {
+                "rank": 9,
+                "name": "EGO",
+                "channel": "FOX",
+                "start_time": "21:00:09",
+                "end_time": "24:17:35",
+                "rating": 2.96,
+                "share": 7.14
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:45:06",
+                "end_time": "19:25:11",
+                "rating": 2.8,
+                "share": 8.65
+            }
+        ]
+    }
+}
