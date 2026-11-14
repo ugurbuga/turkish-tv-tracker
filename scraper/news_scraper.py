@@ -22,6 +22,7 @@ from crypto_utils import xor_encrypt, xor_decrypt
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 DATA_FILE = DATA_DIR / "news.json"
+STATE_FILE = DATA_DIR / "news_scraper_state.json"
 
 ENCRYPTED_CATEGORY_URL = "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhcXWREVDhESShZESFkd"
 ENCRYPTED_DOMAINS = (
@@ -57,6 +58,61 @@ SESSION.headers.update(HEADERS)
 GEMINI_MODEL = None
 
 load_dotenv(dotenv_path=ROOT_DIR / ".env")
+
+
+def load_scraper_state():
+    default_state = {
+        "nextBackfillPage": 6,
+        "backfillCompleted": False,
+    }
+
+    if not STATE_FILE.exists():
+        save_scraper_state(default_state)
+        return default_state.copy()
+
+    try:
+        with STATE_FILE.open("r", encoding="utf-8") as file:
+            state = json.load(file)
+    except (OSError, json.JSONDecodeError) as error:
+        raise RuntimeError(
+            f"Scraper durum dosyası okunamadı: {STATE_FILE}"
+        ) from error
+
+    if not isinstance(state, dict):
+        raise RuntimeError("Scraper durum dosyası geçersiz.")
+
+    next_page = state.get("nextBackfillPage")
+    completed = state.get("backfillCompleted")
+
+    if (
+        isinstance(next_page, bool)
+        or not isinstance(next_page, int)
+        or next_page < 6
+        or not isinstance(completed, bool)
+    ):
+        raise RuntimeError("Scraper durum dosyasındaki değerler geçersiz.")
+
+    return {
+        "nextBackfillPage": next_page,
+        "backfillCompleted": completed,
+    }
+
+
+def save_scraper_state(state):
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    temporary_file = STATE_FILE.with_suffix(".tmp")
+
+    with temporary_file.open("w", encoding="utf-8") as file:
+        json.dump(
+            state,
+            file,
+            ensure_ascii=False,
+            indent=2,
+        )
+        file.write("\n")
+
+    os.replace(temporary_file, STATE_FILE)
 
 
 def clean_text(value):
@@ -138,6 +194,10 @@ def get_image_from_card(card, page_url):
     return urljoin(page_url, image_url)
 
 
+class PageNotFoundError(requests.RequestException):
+    """Listeleme sayfasının gerçekten bulunamadığını belirtir."""
+
+
 def fetch_listing_page(page_number):
     if page_number == 1:
         url = CATEGORY_URL
@@ -147,8 +207,8 @@ def fetch_listing_page(page_number):
     response = SESSION.get(url, timeout=(15, 40))
 
     if response.status_code == 404:
-        print(f"Sayfa {page_number} bulunamadı.")
-        return []
+        print(f"Sayfa {page_number} bulunamadı (HTTP 404).")
+        raise PageNotFoundError(f"Sayfa {page_number} bulunamadı.")
 
     response.raise_for_status()
 
@@ -920,16 +980,135 @@ def rebuild_and_merge():
     print("Arşiv klasörü:", DATA_DIR / "news")
 
 
+
+def process_listing_articles(articles, news, api_key, label):
+    existing = {
+        normalize_url(item["sourceUrl"]): item
+        for item in news
+        if item.get("sourceUrl")
+    }
+
+    seen = set()
+    page_success = bool(articles)
+
+    stats = {
+        "total": len(articles),
+        "added": 0,
+        "completed": 0,
+        "pending": 0,
+        "skipped": 0,
+        "invalid_date": 0,
+    }
+
+    print(f"\n========== {label} ==========")
+    print("Bulunan haber:", len(articles))
+
+    for index, listing_article in enumerate(articles, 1):
+        url = normalize_url(listing_article["sourceUrl"])
+
+        if url in seen:
+            continue
+
+        seen.add(url)
+        listing_article["sourceUrl"] = url
+
+        current = existing.get(url)
+
+        if current and current.get("aiStatus") == "completed":
+            stats["skipped"] += 1
+            print(
+                f"[{index}/{len(articles)}] Tamamlanmış kayıt atlandı:",
+                listing_article["sourceTitle"],
+            )
+            continue
+
+        print(
+            f"\n[{index}/{len(articles)}] Haber:",
+            listing_article["sourceTitle"],
+        )
+
+        article = dict(listing_article)
+
+        if current:
+            for field in ("publishedAt", "imageUrl", "sourceDescription"):
+                if not article.get(field):
+                    article[field] = current.get(field)
+
+        try:
+            article = fetch_article_detail(article)
+            print(
+                "İçerik karakteri:",
+                len(article.get("articleText", "")),
+            )
+        except requests.RequestException as error:
+            print(
+                "Detay sayfası alınamadı; haber sonraki çalıştırmada denenecek:",
+                str(error)[:300],
+            )
+            stats["pending"] += 1
+            page_success = False
+            continue
+        try:
+            get_news_day(article)
+        except (ValueError, TypeError) as error:
+            print("Haber tarihi geçersiz; kayıt işlenemedi:", str(error))
+            stats["invalid_date"] += 1
+            page_success = False
+            continue
+
+        generated = process_article(article, api_key)
+
+        item = dict(current) if current else {}
+
+        item.update({
+            "id": article_id(url),
+            **generated,
+            "sourceTitle": article["sourceTitle"],
+            "source": SOURCE_NAME,
+            "sourceUrl": url,
+            "imageUrl": article.get("imageUrl") or None,
+            "publishedAt": article.get("publishedAt"),
+            "fetchedAt": datetime.now(timezone.utc).isoformat(),
+        })
+
+        if current:
+            current.update(item)
+        else:
+            news.append(item)
+            existing[url] = item
+            stats["added"] += 1
+
+        if item.get("aiStatus") == "completed":
+            stats["completed"] += 1
+        else:
+            stats["pending"] += 1
+            page_success = False
+
+        news.sort(
+            key=lambda record: record.get("publishedAt") or "",
+            reverse=True,
+        )
+
+        # Her zaman tam arşiv kaydedilir.
+        save_daily_news(news)
+
+    print(f"\n{label} özeti:")
+    print("Yeni haber:", stats["added"])
+    print("Gemini başarılı:", stats["completed"])
+    print("Gemini bekleyen:", stats["pending"])
+    print("Tamamlanmış kayıt atlandı:", stats["skipped"])
+    print("Geçersiz tarih:", stats["invalid_date"])
+    print("Sayfa başarılı:", page_success)
+
+    return page_success, stats
+
+
 def main():
-    print("\n========== NEWS FULL REBUILD ==========")
+    print("\n========== NEWS DAILY + BACKFILL ==========")
 
     gemini_key = os.getenv("GEMINI_API_KEY")
     if not gemini_key:
         raise SystemExit("GEMINI_API_KEY bulunamadı.")
-
-    articles = fetch_all_articles()
-    if not articles:
-        raise SystemExit("Hiç haber bulunamadı. Mevcut arşiv korundu.")
 
     news = load_news_archive()
 
@@ -950,93 +1129,82 @@ def main():
             deduplicated[normalized] = item
 
     news = list(deduplicated.values())
-    existing = {
-        normalize_url(item["sourceUrl"]): item
-        for item in news
-    }
+    print("Mevcut arşiv:", len(news))
 
-    backup_file = backup_news_archive("full")
-    if backup_file:
-        print("Yedek:", backup_file)
+    # Her çalıştırmada önce güncel haberler taranır.
+    print("\n========== LATEST NEWS: PAGE 1 ==========")
 
-    articles.sort(
-        key=lambda item: item.get("publishedAt") or "",
-        reverse=True,
-    )
-
-    print("\n========== ARTICLE DETAILS ==========")
-    print("Tarama sonucu haber:", len(articles))
-
-    completed = 0
-    pending = 0
-    skipped_completed = 0
-    added = 0
-
-    for index, listing_article in enumerate(articles, 1):
-        url = normalize_url(listing_article["sourceUrl"])
-        listing_article["sourceUrl"] = url
-        current = existing.get(url)
-
-        if current and current.get("aiStatus") == "completed":
-            skipped_completed += 1
-            print(
-                f"\n[{index}/{len(articles)}] Tamamlanmış kayıt korunuyor:",
-                listing_article["sourceTitle"],
+    try:
+        latest_articles = fetch_listing_page(1)
+    except requests.RequestException as error:
+        print("Güncel haber sayfası alınamadı:", str(error)[:300])
+    else:
+        if latest_articles:
+            process_listing_articles(
+                latest_articles,
+                news,
+                gemini_key,
+                "LATEST NEWS",
             )
-            continue
+        else:
+            print("Güncel haber sayfasında haber bulunamadı.")
 
+    # Sıradaki tek backfill sayfası.
+    state = load_scraper_state()
+
+    if state["backfillCompleted"]:
+        print("\nBackfill daha önce tamamlanmış.")
+        return
+
+    page_number = state["nextBackfillPage"]
+    print(f"\n========== BACKFILL: PAGE {page_number} ==========")
+
+    try:
+        backfill_articles = fetch_listing_page(page_number)
+
+    except PageNotFoundError:
+        state["backfillCompleted"] = True
+        save_scraper_state(state)
+        print("HTTP 404 doğrulandı. Backfill tamamlandı.")
+
+    except requests.RequestException as error:
         print(
-            f"\n[{index}/{len(articles)}] Haber:",
-            listing_article["sourceTitle"],
+            "Backfill sayfası alınamadı; sonraki çalıştırmada tekrar denenecek:",
+            str(error)[:300],
         )
 
-        article = dict(listing_article)
+    else:
+        if not backfill_articles:
+            print(
+                "Sayfa boş döndü. Durum değiştirilmedi; "
+                "sonraki çalıştırmada tekrar denenecek."
+            )
+            return
 
-        try:
-            article = fetch_article_detail(article)
-            print("İçerik karakteri:", len(article.get("articleText", "")))
-        except requests.RequestException as error:
-            print("Detay sayfası alınamadı; kart bilgileri kullanılacak:", str(error)[:300])
-
-        generated = process_article(article, gemini_key)
-
-        item = {
-            "id": article_id(url),
-            **generated,
-            "sourceTitle": article["sourceTitle"],
-            "source": SOURCE_NAME,
-            "sourceUrl": url,
-            "imageUrl": article.get("imageUrl") or None,
-            "publishedAt": article.get("publishedAt"),
-            "fetchedAt": datetime.now(timezone.utc).isoformat(),
-        }
-
-        if current:
-            current.update(item)
-        else:
-            news.append(item)
-            existing[url] = item
-            added += 1
-
-        if item.get("aiStatus") == "completed":
-            completed += 1
-        else:
-            pending += 1
-
-        news.sort(
-            key=lambda record: record.get("publishedAt") or "",
-            reverse=True,
+        page_success, stats = process_listing_articles(
+            backfill_articles,
+            news,
+            gemini_key,
+            f"BACKFILL PAGE {page_number}",
         )
 
-        save_daily_news(news)
+        if page_success:
+            state["nextBackfillPage"] = page_number + 1
+            save_scraper_state(state)
+            print(
+                f"Backfill sayfası {page_number} tamamlandı. "
+                f"Sıradaki sayfa: {page_number + 1}"
+            )
+        else:
+            print(
+                f"Backfill sayfası {page_number} tamamlanamadı. "
+                "Aynı sayfa sonraki çalıştırmada tekrar denenecek."
+            )
 
-    print("\n========== REBUILD SUMMARY ==========")
-    print("Toplam benzersiz haber:", len(news))
-    print("Gemini başarılı:", completed)
-    print("Gemini bekleyen:", pending)
-    print("Korunan tamamlanmış kayıt:", skipped_completed)
-    print("Yeni haber:", added)
-    print("AI sağlayıcı: Yalnızca Gemini")
+    print("\n========== DAILY SCRAPER SUMMARY ==========")
+    print("Toplam benzersiz arşiv:", len(news))
+    print("Sonraki backfill sayfası:", state["nextBackfillPage"])
+    print("Backfill tamamlandı:", state["backfillCompleted"])
     print("Arşiv klasörü:", DATA_DIR / "news")
 
 
