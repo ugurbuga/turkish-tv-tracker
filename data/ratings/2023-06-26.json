@@ -1,0 +1,282 @@
+{
+    "date": "2023-06-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:42:24",
+                "end_time": "24:22:07",
+                "rating": 3.34,
+                "share": 13.76
+            },
+            {
+                "rank": 2,
+                "name": "SIRINLER (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "22:00:48",
+                "rating": 2.07,
+                "share": 9.21
+            },
+            {
+                "rank": 3,
+                "name": "MAVIYE SURGUN",
+                "channel": "SHOW TV",
+                "start_time": "20:58:24",
+                "end_time": "23:47:18",
+                "rating": 1.84,
+                "share": 7.21
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:06",
+                "rating": 1.73,
+                "share": 9.92
+            },
+            {
+                "rank": 5,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:58",
+                "end_time": "20:00:00",
+                "rating": 1.65,
+                "share": 9.47
+            },
+            {
+                "rank": 6,
+                "name": "SONSUZA DEK NEDIME (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:59",
+                "end_time": "22:16:37",
+                "rating": 1.54,
+                "share": 6.68
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:51:19",
+                "rating": 1.52,
+                "share": 8.73
+            },
+            {
+                "rank": 8,
+                "name": "BENIM GUZEL AILEM (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:41",
+                "end_time": "22:46:27",
+                "rating": 1.49,
+                "share": 6.15
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:23",
+                "end_time": "20:00:02",
+                "rating": 1.46,
+                "share": 8.3
+            },
+            {
+                "rank": 10,
+                "name": "ESARET",
+                "channel": "KANAL 7",
+                "start_time": "19:44:45",
+                "end_time": "21:18:08",
+                "rating": 1.37,
+                "share": 6.73
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:42:24",
+                "end_time": "24:22:07",
+                "rating": 2.87,
+                "share": 14.33
+            },
+            {
+                "rank": 2,
+                "name": "MAVIYE SURGUN",
+                "channel": "SHOW TV",
+                "start_time": "20:58:24",
+                "end_time": "23:47:18",
+                "rating": 2.19,
+                "share": 10.31
+            },
+            {
+                "rank": 3,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:06",
+                "rating": 1.68,
+                "share": 11.77
+            },
+            {
+                "rank": 4,
+                "name": "BENIM GUZEL AILEM (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:41",
+                "end_time": "22:46:27",
+                "rating": 1.44,
+                "share": 7.5
+            },
+            {
+                "rank": 5,
+                "name": "SIRINLER (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "22:00:48",
+                "rating": 1.43,
+                "share": 8.28
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:58",
+                "end_time": "20:00:00",
+                "rating": 1.22,
+                "share": 8.55
+            },
+            {
+                "rank": 7,
+                "name": "PEK YAKINDA (T.S)",
+                "channel": "STAR TV",
+                "start_time": "22:19:53",
+                "end_time": "24:52:03",
+                "rating": 1.2,
+                "share": 6.54
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:51:19",
+                "rating": 1.16,
+                "share": 8.1
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:23",
+                "end_time": "20:00:02",
+                "rating": 1.16,
+                "share": 8.15
+            },
+            {
+                "rank": 10,
+                "name": "SONSUZA DEK NEDIME (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:59",
+                "end_time": "22:16:37",
+                "rating": 1.09,
+                "share": 6.13
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:42:24",
+                "end_time": "24:22:07",
+                "rating": 3.87,
+                "share": 15.96
+            },
+            {
+                "rank": 2,
+                "name": "MAVIYE SURGUN",
+                "channel": "SHOW TV",
+                "start_time": "20:58:24",
+                "end_time": "23:47:18",
+                "rating": 2.08,
+                "share": 8.14
+            },
+            {
+                "rank": 3,
+                "name": "BENIM GUZEL AILEM (TKR)",
+                "channel": "TRT 1",
+                "start_time": "20:00:41",
+                "end_time": "22:46:27",
+                "rating": 1.95,
+                "share": 8.26
+            },
+            {
+                "rank": 4,
+                "name": "SIRINLER (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:56",
+                "end_time": "22:00:48",
+                "rating": 1.85,
+                "share": 8.56
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:06",
+                "rating": 1.74,
+                "share": 10.33
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:23",
+                "end_time": "20:00:02",
+                "rating": 1.47,
+                "share": 8.73
+            },
+            {
+                "rank": 7,
+                "name": "SONSUZA DEK NEDIME (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:59",
+                "end_time": "22:16:37",
+                "rating": 1.47,
+                "share": 6.61
+            },
+            {
+                "rank": 8,
+                "name": "PEK YAKINDA (T.S)",
+                "channel": "STAR TV",
+                "start_time": "22:19:53",
+                "end_time": "24:52:03",
+                "rating": 1.29,
+                "share": 5.88
+            },
+            {
+                "rank": 9,
+                "name": "ZUHAL TOPAL'LA YEMEKTEYIZ",
+                "channel": "TV8",
+                "start_time": "15:59:26",
+                "end_time": "19:09:53",
+                "rating": 1.24,
+                "share": 10.26
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:58",
+                "end_time": "20:00:00",
+                "rating": 1.23,
+                "share": 7.33
+            }
+        ]
+    }
+}

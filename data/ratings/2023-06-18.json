@@ -1,0 +1,282 @@
+{
+    "date": "2023-06-18",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:01",
+                "end_time": "23:53:58",
+                "rating": 4.72,
+                "share": 14.9
+            },
+            {
+                "rank": 2,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "19:59:39",
+                "end_time": "22:34:35",
+                "rating": 3.62,
+                "share": 11.94
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:03:05",
+                "end_time": "24:28:03",
+                "rating": 3.03,
+                "share": 10.13
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:00",
+                "rating": 2.69,
+                "share": 12.35
+            },
+            {
+                "rank": 5,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:56:19",
+                "end_time": "24:18:43",
+                "rating": 2.47,
+                "share": 7.91
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:02",
+                "end_time": "20:00:02",
+                "rating": 2.3,
+                "share": 10.57
+            },
+            {
+                "rank": 7,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:41",
+                "end_time": "21:00:01",
+                "rating": 2.15,
+                "share": 7.71
+            },
+            {
+                "rank": 8,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:47:14",
+                "end_time": "23:23:21",
+                "rating": 2.0,
+                "share": 6.24
+            },
+            {
+                "rank": 9,
+                "name": "LABIRENT OLUMCUL KACIS (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:55",
+                "end_time": "22:25:19",
+                "rating": 1.92,
+                "share": 6.29
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:25",
+                "end_time": "20:00:07",
+                "rating": 1.86,
+                "share": 8.49
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:01",
+                "end_time": "23:53:58",
+                "rating": 3.97,
+                "share": 13.66
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:03:05",
+                "end_time": "24:28:03",
+                "rating": 3.13,
+                "share": 11.39
+            },
+            {
+                "rank": 3,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:56:19",
+                "end_time": "24:18:43",
+                "rating": 2.42,
+                "share": 8.45
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:00",
+                "rating": 2.21,
+                "share": 11.57
+            },
+            {
+                "rank": 5,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "19:59:39",
+                "end_time": "22:34:35",
+                "rating": 1.66,
+                "share": 6.18
+            },
+            {
+                "rank": 6,
+                "name": "HIRVATISTAN-ISPANYA UEFA ULUSLAR LIGI KARSILASMASI",
+                "channel": "TRT SPOR",
+                "start_time": "21:36:44",
+                "end_time": "24:33:13",
+                "rating": 1.54,
+                "share": 5.95
+            },
+            {
+                "rank": 7,
+                "name": "LABIRENT OLUMCUL KACIS (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:55",
+                "end_time": "22:25:19",
+                "rating": 1.49,
+                "share": 5.49
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:41",
+                "end_time": "21:00:01",
+                "rating": 1.46,
+                "share": 6.13
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:59:29",
+                "rating": 1.4,
+                "share": 7.29
+            },
+            {
+                "rank": 10,
+                "name": "KISMET (TKR)",
+                "channel": "FOX",
+                "start_time": "20:00:10",
+                "end_time": "22:33:38",
+                "rating": 1.33,
+                "share": 4.92
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:01",
+                "end_time": "23:53:58",
+                "rating": 4.06,
+                "share": 12.43
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "21:03:05",
+                "end_time": "24:28:03",
+                "rating": 3.85,
+                "share": 12.44
+            },
+            {
+                "rank": 3,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:56:19",
+                "end_time": "24:18:43",
+                "rating": 2.77,
+                "share": 8.6
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:00",
+                "rating": 2.64,
+                "share": 12.31
+            },
+            {
+                "rank": 5,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "19:59:39",
+                "end_time": "22:34:35",
+                "rating": 2.45,
+                "share": 7.98
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:02",
+                "end_time": "20:00:02",
+                "rating": 1.91,
+                "share": 8.92
+            },
+            {
+                "rank": 7,
+                "name": "LABIRENT OLUMCUL KACIS (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:14:55",
+                "end_time": "22:25:19",
+                "rating": 1.8,
+                "share": 5.79
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:41",
+                "end_time": "21:00:01",
+                "rating": 1.78,
+                "share": 6.4
+            },
+            {
+                "rank": 9,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:47:14",
+                "end_time": "23:23:21",
+                "rating": 1.68,
+                "share": 5.1
+            },
+            {
+                "rank": 10,
+                "name": "KISMET (TKR)",
+                "channel": "FOX",
+                "start_time": "20:00:10",
+                "end_time": "22:33:38",
+                "rating": 1.66,
+                "share": 5.37
+            }
+        ]
+    }
+}

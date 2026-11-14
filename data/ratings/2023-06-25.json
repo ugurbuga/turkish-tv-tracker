@@ -1,0 +1,282 @@
+{
+    "date": "2023-06-25",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "21:00:01",
+                "end_time": "23:35:28",
+                "rating": 3.68,
+                "share": 14.05
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:53",
+                "end_time": "24:11:47",
+                "rating": 3.19,
+                "share": 12.38
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:44:11",
+                "end_time": "24:21:08",
+                "rating": 2.96,
+                "share": 11.88
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "20:00:04",
+                "rating": 2.04,
+                "share": 12.41
+            },
+            {
+                "rank": 5,
+                "name": "KORKUSUZ KORKAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:48:34",
+                "end_time": "23:31:56",
+                "rating": 1.99,
+                "share": 7.4
+            },
+            {
+                "rank": 6,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:25:31",
+                "end_time": "24:35:43",
+                "rating": 1.96,
+                "share": 8.23
+            },
+            {
+                "rank": 7,
+                "name": "YEDI BELA HUSNU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "21:48:18",
+                "rating": 1.93,
+                "share": 8.91
+            },
+            {
+                "rank": 8,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:56",
+                "end_time": "22:25:08",
+                "rating": 1.78,
+                "share": 7.68
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:01",
+                "end_time": "20:00:08",
+                "rating": 1.68,
+                "share": 10.2
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:55:00",
+                "rating": 1.42,
+                "share": 8.64
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:44:11",
+                "end_time": "24:21:08",
+                "rating": 2.86,
+                "share": 13.59
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:53",
+                "end_time": "24:11:47",
+                "rating": 2.72,
+                "share": 12.52
+            },
+            {
+                "rank": 3,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "21:00:01",
+                "end_time": "23:35:28",
+                "rating": 2.15,
+                "share": 9.79
+            },
+            {
+                "rank": 4,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "20:00:04",
+                "rating": 1.76,
+                "share": 13.79
+            },
+            {
+                "rank": 5,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:56",
+                "end_time": "22:25:08",
+                "rating": 1.73,
+                "share": 8.67
+            },
+            {
+                "rank": 6,
+                "name": "LABIRENT ALEV DENEYLERI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:52",
+                "end_time": "22:40:02",
+                "rating": 1.28,
+                "share": 6.28
+            },
+            {
+                "rank": 7,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:25:31",
+                "end_time": "24:35:43",
+                "rating": 1.23,
+                "share": 6.26
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:55:00",
+                "rating": 1.12,
+                "share": 8.78
+            },
+            {
+                "rank": 9,
+                "name": "KORKUSUZ KORKAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:48:34",
+                "end_time": "23:31:56",
+                "rating": 1.11,
+                "share": 5.02
+            },
+            {
+                "rank": 10,
+                "name": "YEDI BELA HUSNU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "21:48:18",
+                "rating": 1.08,
+                "share": 5.78
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MASTERCHEF TURKIYE ALL STAR",
+                "channel": "TV8",
+                "start_time": "20:44:11",
+                "end_time": "24:21:08",
+                "rating": 3.21,
+                "share": 13.66
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:56:53",
+                "end_time": "24:11:47",
+                "rating": 3.16,
+                "share": 12.97
+            },
+            {
+                "rank": 3,
+                "name": "VERMEM SENI ELLERE",
+                "channel": "ATV",
+                "start_time": "21:00:01",
+                "end_time": "23:35:28",
+                "rating": 2.42,
+                "share": 9.79
+            },
+            {
+                "rank": 4,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S) (TKR)",
+                "channel": "STAR TV",
+                "start_time": "22:25:31",
+                "end_time": "24:35:43",
+                "rating": 2.12,
+                "share": 9.43
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "18:59:55",
+                "end_time": "20:00:04",
+                "rating": 2.12,
+                "share": 13.6
+            },
+            {
+                "rank": 6,
+                "name": "DUGUN DERNEK 2 SUNNET (T.S)",
+                "channel": "STAR TV",
+                "start_time": "20:01:56",
+                "end_time": "22:25:08",
+                "rating": 1.73,
+                "share": 7.94
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:59:01",
+                "end_time": "20:00:08",
+                "rating": 1.52,
+                "share": 9.78
+            },
+            {
+                "rank": 8,
+                "name": "YEDI BELA HUSNU (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "21:48:18",
+                "rating": 1.5,
+                "share": 7.37
+            },
+            {
+                "rank": 9,
+                "name": "KORKUSUZ KORKAK (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "21:48:34",
+                "end_time": "23:31:56",
+                "rating": 1.49,
+                "share": 5.88
+            },
+            {
+                "rank": 10,
+                "name": "LABIRENT ALEV DENEYLERI (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:52",
+                "end_time": "22:40:02",
+                "rating": 1.44,
+                "share": 6.41
+            }
+        ]
+    }
+}
