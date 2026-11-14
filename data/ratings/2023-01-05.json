@@ -1,0 +1,282 @@
+{
+    "date": "2023-01-05",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:59",
+                "rating": 8.44,
+                "share": 49.35
+            },
+            {
+                "rank": 2,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:06",
+                "end_time": "18:44:22",
+                "rating": 7.66,
+                "share": 29.93
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:54",
+                "end_time": "20:00:27",
+                "rating": 6.17,
+                "share": 16.27
+            },
+            {
+                "rank": 4,
+                "name": "TOMB RAIDER (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:33:15",
+                "rating": 5.67,
+                "share": 13.08
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:00",
+                "end_time": "19:55:22",
+                "rating": 5.02,
+                "share": 13.24
+            },
+            {
+                "rank": 6,
+                "name": "POSTACI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:14:03",
+                "end_time": "21:47:28",
+                "rating": 4.43,
+                "share": 10.16
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:07",
+                "end_time": "20:00:08",
+                "rating": 4.33,
+                "share": 11.46
+            },
+            {
+                "rank": 8,
+                "name": "ELTILERIN SAVASI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "22:33:42",
+                "rating": 4.16,
+                "share": 9.6
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:53:46",
+                "end_time": "19:59:55",
+                "rating": 3.82,
+                "share": 10.11
+            },
+            {
+                "rank": 10,
+                "name": "AILE SEREFI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "22:33:58",
+                "end_time": "24:33:11",
+                "rating": 3.15,
+                "share": 10.47
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:59",
+                "rating": 7.12,
+                "share": 51.77
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:54",
+                "end_time": "20:00:27",
+                "rating": 7.02,
+                "share": 22.34
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:06",
+                "end_time": "18:44:22",
+                "rating": 4.56,
+                "share": 23.04
+            },
+            {
+                "rank": 4,
+                "name": "TOMB RAIDER (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:33:15",
+                "rating": 4.19,
+                "share": 10.39
+            },
+            {
+                "rank": 5,
+                "name": "YASAMAK GUZEL SEY (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:12:26",
+                "end_time": "22:16:28",
+                "rating": 3.57,
+                "share": 8.73
+            },
+            {
+                "rank": 6,
+                "name": "POSTACI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:14:03",
+                "end_time": "21:47:28",
+                "rating": 3.4,
+                "share": 8.35
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:00",
+                "end_time": "19:55:22",
+                "rating": 3.3,
+                "share": 10.52
+            },
+            {
+                "rank": 8,
+                "name": "ELTILERIN SAVASI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "22:33:42",
+                "rating": 3.19,
+                "share": 7.9
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:53:46",
+                "end_time": "19:59:55",
+                "rating": 2.6,
+                "share": 8.27
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:07",
+                "end_time": "20:00:08",
+                "rating": 2.29,
+                "share": 7.31
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:03",
+                "end_time": "12:59:59",
+                "rating": 9.09,
+                "share": 52.05
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:54",
+                "end_time": "20:00:27",
+                "rating": 7.08,
+                "share": 19.67
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:20:06",
+                "end_time": "18:44:22",
+                "rating": 6.27,
+                "share": 26.98
+            },
+            {
+                "rank": 4,
+                "name": "TOMB RAIDER (Y.S)",
+                "channel": "ATV",
+                "start_time": "19:59:52",
+                "end_time": "22:33:15",
+                "rating": 5.66,
+                "share": 12.46
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:00",
+                "end_time": "19:55:22",
+                "rating": 4.49,
+                "share": 12.48
+            },
+            {
+                "rank": 6,
+                "name": "ELTILERIN SAVASI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:19",
+                "end_time": "22:33:42",
+                "rating": 4.43,
+                "share": 9.74
+            },
+            {
+                "rank": 7,
+                "name": "YASAMAK GUZEL SEY (T.S)",
+                "channel": "KANAL D",
+                "start_time": "20:12:26",
+                "end_time": "22:16:28",
+                "rating": 3.77,
+                "share": 8.24
+            },
+            {
+                "rank": 8,
+                "name": "POSTACI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:14:03",
+                "end_time": "21:47:28",
+                "rating": 3.53,
+                "share": 7.73
+            },
+            {
+                "rank": 9,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:04",
+                "end_time": "13:59:09",
+                "rating": 3.5,
+                "share": 21.19
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:53:46",
+                "end_time": "19:59:55",
+                "rating": 3.4,
+                "share": 9.43
+            }
+        ]
+    }
+}

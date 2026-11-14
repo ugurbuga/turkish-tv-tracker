@@ -2,8 +2,8 @@ import json
 import re
 import unicodedata
 from datetime import datetime
-from pathlib import Path
 from zoneinfo import ZoneInfo
+from pathlib import Path
 from crypto_utils import xor_encrypt, xor_decrypt
 
 import requests
@@ -19,7 +19,8 @@ ENCRYPTED_STAR_TV_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsBFQIZEQ
 ENCRYPTED_TRT1_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsGExdaSwJDVQ=="
 ENCRYPTED_TV8_LOGO = "HAEGGxpJRwJFRh1FFggZAkscSEYfW1sVEhcYW1wDTBoXQVsGF1tFFRxK"
 
-OUTPUT = Path("data/weekly_calendar.json")
+ROOT = Path(__file__).resolve().parent.parent
+OUTPUT = ROOT / "data" / "weekly_calendar.json"
 
 CHANNELS = [
     "atv",
@@ -221,7 +222,6 @@ def parse_series(cell, channel, date_info):
 
 def prepare_for_storage(data):
     prepared = {
-        "lastUpdated": data["lastUpdated"],
         "seriesCount": data["seriesCount"],
         "series": []
     }
@@ -275,9 +275,6 @@ def scrape():
         )
 
     return {
-        "lastUpdated": datetime.now(
-            ZoneInfo("Europe/Istanbul")
-        ).isoformat(timespec="seconds"),
         "seriesCount": len(series),
         "series": series
     }

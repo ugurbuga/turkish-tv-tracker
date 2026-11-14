@@ -1,0 +1,282 @@
+{
+    "date": "2023-01-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:02:27",
+                "end_time": "24:19:52",
+                "rating": 7.62,
+                "share": 18.2
+            },
+            {
+                "rank": 2,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "18:59:58",
+                "end_time": "20:00:15",
+                "rating": 4.91,
+                "share": 12.88
+            },
+            {
+                "rank": 3,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:37",
+                "end_time": "19:59:35",
+                "rating": 4.52,
+                "share": 11.94
+            },
+            {
+                "rank": 4,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:59:05",
+                "end_time": "24:11:04",
+                "rating": 4.33,
+                "share": 10.39
+            },
+            {
+                "rank": 5,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:46:33",
+                "end_time": "24:25:17",
+                "rating": 4.13,
+                "share": 10.08
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:56:28",
+                "end_time": "23:59:13",
+                "rating": 4.11,
+                "share": 9.73
+            },
+            {
+                "rank": 7,
+                "name": "DOKTOR CIVANIM (T.S)",
+                "channel": "FOX",
+                "start_time": "20:15:08",
+                "end_time": "21:48:56",
+                "rating": 3.55,
+                "share": 8.04
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "21:02:27",
+                "rating": 3.49,
+                "share": 8.06
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:06",
+                "end_time": "19:50:27",
+                "rating": 3.39,
+                "share": 8.93
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:53:43",
+                "end_time": "20:00:10",
+                "rating": 3.32,
+                "share": 8.75
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:02:27",
+                "end_time": "24:19:52",
+                "rating": 7.17,
+                "share": 19.56
+            },
+            {
+                "rank": 2,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:46:33",
+                "end_time": "24:25:17",
+                "rating": 3.57,
+                "share": 10.03
+            },
+            {
+                "rank": 3,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "18:59:58",
+                "end_time": "20:00:15",
+                "rating": 3.31,
+                "share": 11.43
+            },
+            {
+                "rank": 4,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:59:05",
+                "end_time": "24:11:04",
+                "rating": 3.24,
+                "share": 8.87
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "21:02:27",
+                "rating": 3.0,
+                "share": 8.62
+            },
+            {
+                "rank": 6,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:37",
+                "end_time": "19:59:35",
+                "rating": 2.26,
+                "share": 7.9
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:53:43",
+                "end_time": "20:00:10",
+                "rating": 2.12,
+                "share": 7.39
+            },
+            {
+                "rank": 8,
+                "name": "BELALI TANIK (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:16",
+                "end_time": "22:31:20",
+                "rating": 2.09,
+                "share": 5.62
+            },
+            {
+                "rank": 9,
+                "name": "STAR ANA HABER",
+                "channel": "STAR TV",
+                "start_time": "18:20:12",
+                "end_time": "19:00:12",
+                "rating": 2.07,
+                "share": 8.17
+            },
+            {
+                "rank": 10,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:56:28",
+                "end_time": "23:59:13",
+                "rating": 2.04,
+                "share": 5.52
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:02:27",
+                "end_time": "24:19:52",
+                "rating": 7.71,
+                "share": 17.82
+            },
+            {
+                "rank": 2,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "18:59:58",
+                "end_time": "20:00:15",
+                "rating": 5.8,
+                "share": 15.96
+            },
+            {
+                "rank": 3,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:46:33",
+                "end_time": "24:25:17",
+                "rating": 4.57,
+                "share": 10.86
+            },
+            {
+                "rank": 4,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "20:59:05",
+                "end_time": "24:11:04",
+                "rating": 4.04,
+                "share": 9.35
+            },
+            {
+                "rank": 5,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "20:00:25",
+                "end_time": "21:02:27",
+                "rating": 3.62,
+                "share": 8.58
+            },
+            {
+                "rank": 6,
+                "name": "KIM MILYONER OLMAK ISTER",
+                "channel": "ATV",
+                "start_time": "20:56:28",
+                "end_time": "23:59:13",
+                "rating": 3.45,
+                "share": 7.91
+            },
+            {
+                "rank": 7,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:53:43",
+                "end_time": "20:00:10",
+                "rating": 3.31,
+                "share": 9.21
+            },
+            {
+                "rank": 8,
+                "name": "BELALI TANIK (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:13:16",
+                "end_time": "22:31:20",
+                "rating": 2.97,
+                "share": 6.63
+            },
+            {
+                "rank": 9,
+                "name": "GUZEL GUNLER (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:46",
+                "end_time": "20:59:05",
+                "rating": 2.96,
+                "share": 7.05
+            },
+            {
+                "rank": 10,
+                "name": "DOKTOR CIVANIM (T.S)",
+                "channel": "FOX",
+                "start_time": "20:15:08",
+                "end_time": "21:48:56",
+                "rating": 2.9,
+                "share": 6.6
+            }
+        ]
+    }
+}
