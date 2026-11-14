@@ -6,3 +6,5 @@ page.html
 .DS_Store
 *.bak*
 .env
+
+/data/news.backup.*/

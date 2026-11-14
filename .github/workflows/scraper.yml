@@ -1,8 +1,6 @@
 name: Turkish TV Tracker
 
 on:
-  schedule:
-    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,16 +22,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run all scrapers
+      - name: Run ratings and series scrapers
         run: python scraper/main.py
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
       - name: Commit and push changes
         run: |
           git config user.name "ugurbuga"
           git config user.email "47065142+ugurbuga@users.noreply.github.com"
-          git add data/weekly_calendar.json data/ratings/ data/tv_series.json data/series_images.json data/youtubevideos/ data/news/ data/news_scraper_state.json
+          git add data/weekly_calendar.json data/ratings/ data/tv_series.json data/series_images.json data/youtubevideos/
           git diff --cached --quiet || git commit -m "Update TV tracker data"
           git push
