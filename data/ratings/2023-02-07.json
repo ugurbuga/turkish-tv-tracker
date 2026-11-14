@@ -1,0 +1,282 @@
+{
+    "date": "2023-02-07",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:46",
+                "end_time": "22:59:55",
+                "rating": 5.28,
+                "share": 12.75
+            },
+            {
+                "rank": 2,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "21:02:51",
+                "rating": 3.95,
+                "share": 9.84
+            },
+            {
+                "rank": 3,
+                "name": "ATV - A HABER ORTAK YAYINI DEPREM OZEL",
+                "channel": "ATV",
+                "start_time": "21:02:56",
+                "end_time": "26:00:00",
+                "rating": 3.26,
+                "share": 10.13
+            },
+            {
+                "rank": 4,
+                "name": "ATV - A HABER ORTAK YAYINI DEPREM OZEL",
+                "channel": "ATV",
+                "start_time": "14:00:30",
+                "end_time": "19:00:02",
+                "rating": 2.97,
+                "share": 10.86
+            },
+            {
+                "rank": 5,
+                "name": "6 SUBAT DEPREMI OZEL",
+                "channel": "KANAL D",
+                "start_time": "19:59:58",
+                "end_time": "26:00:00",
+                "rating": 2.92,
+                "share": 8.61
+            },
+            {
+                "rank": 6,
+                "name": "ATV - A HABER ORTAK YAYINI DEPREM OZEL",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "12:59:57",
+                "rating": 2.91,
+                "share": 13.97
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:55:48",
+                "end_time": "20:00:05",
+                "rating": 2.71,
+                "share": 7.04
+            },
+            {
+                "rank": 8,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:13",
+                "end_time": "19:59:58",
+                "rating": 2.71,
+                "share": 7.01
+            },
+            {
+                "rank": 9,
+                "name": "FOX HABER DEPREM BOLGESINDE 2. GUN",
+                "channel": "FOX",
+                "start_time": "16:00:07",
+                "end_time": "18:59:46",
+                "rating": 2.68,
+                "share": 9.21
+            },
+            {
+                "rank": 10,
+                "name": "ATV GUN ORTASI",
+                "channel": "ATV",
+                "start_time": "13:00:02",
+                "end_time": "14:00:25",
+                "rating": 2.4,
+                "share": 9.72
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:46",
+                "end_time": "22:59:55",
+                "rating": 5.79,
+                "share": 15.27
+            },
+            {
+                "rank": 2,
+                "name": "FOX HABER DEPREM BOLGESINDE 2. GUN",
+                "channel": "FOX",
+                "start_time": "16:00:07",
+                "end_time": "18:59:46",
+                "rating": 2.86,
+                "share": 11.85
+            },
+            {
+                "rank": 3,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "21:02:51",
+                "rating": 2.74,
+                "share": 7.59
+            },
+            {
+                "rank": 4,
+                "name": "ATV - A HABER ORTAK YAYINI DEPREM OZEL",
+                "channel": "ATV",
+                "start_time": "21:02:56",
+                "end_time": "26:00:00",
+                "rating": 2.5,
+                "share": 8.24
+            },
+            {
+                "rank": 5,
+                "name": "6 SUBAT DEPREMI OZEL",
+                "channel": "KANAL D",
+                "start_time": "19:59:58",
+                "end_time": "26:00:00",
+                "rating": 2.4,
+                "share": 7.56
+            },
+            {
+                "rank": 6,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:13",
+                "end_time": "19:59:58",
+                "rating": 2.38,
+                "share": 7.01
+            },
+            {
+                "rank": 7,
+                "name": "YUZYILIN FELAKETI 2. GUN",
+                "channel": "FOX",
+                "start_time": "23:00:00",
+                "end_time": "26:00:00",
+                "rating": 2.28,
+                "share": 9.44
+            },
+            {
+                "rank": 8,
+                "name": "DEPREM FELAKETI 2. GUN",
+                "channel": "FOX",
+                "start_time": "12:00:27",
+                "end_time": "16:00:03",
+                "rating": 2.2,
+                "share": 10.76
+            },
+            {
+                "rank": 9,
+                "name": "TEKE TEK DEPREM OZEL",
+                "channel": "SHOW TV",
+                "start_time": "20:00:11",
+                "end_time": "21:59:30",
+                "rating": 2.17,
+                "share": 5.54
+            },
+            {
+                "rank": 10,
+                "name": "ATV - A HABER ORTAK YAYINI DEPREM OZEL",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "12:59:57",
+                "rating": 1.93,
+                "share": 11.59
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:46",
+                "end_time": "22:59:55",
+                "rating": 6.35,
+                "share": 15.09
+            },
+            {
+                "rank": 2,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:13",
+                "end_time": "19:59:58",
+                "rating": 3.3,
+                "share": 8.62
+            },
+            {
+                "rank": 3,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "21:02:51",
+                "rating": 3.06,
+                "share": 7.62
+            },
+            {
+                "rank": 4,
+                "name": "6 SUBAT DEPREMI OZEL",
+                "channel": "KANAL D",
+                "start_time": "19:59:58",
+                "end_time": "26:00:00",
+                "rating": 2.8,
+                "share": 8.0
+            },
+            {
+                "rank": 5,
+                "name": "FOX HABER DEPREM BOLGESINDE 2. GUN",
+                "channel": "FOX",
+                "start_time": "16:00:07",
+                "end_time": "18:59:46",
+                "rating": 2.75,
+                "share": 10.23
+            },
+            {
+                "rank": 6,
+                "name": "ATV - A HABER ORTAK YAYINI DEPREM OZEL",
+                "channel": "ATV",
+                "start_time": "21:02:56",
+                "end_time": "26:00:00",
+                "rating": 2.65,
+                "share": 7.9
+            },
+            {
+                "rank": 7,
+                "name": "DEPREM FELAKETI 2. GUN",
+                "channel": "FOX",
+                "start_time": "12:00:27",
+                "end_time": "16:00:03",
+                "rating": 2.38,
+                "share": 10.69
+            },
+            {
+                "rank": 8,
+                "name": "ATV - A HABER ORTAK YAYINI DEPREM OZEL",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "12:59:57",
+                "rating": 2.33,
+                "share": 11.96
+            },
+            {
+                "rank": 9,
+                "name": "YUZYILIN FELAKETI 2. GUN",
+                "channel": "FOX",
+                "start_time": "23:00:00",
+                "end_time": "26:00:00",
+                "rating": 2.29,
+                "share": 8.57
+            },
+            {
+                "rank": 10,
+                "name": "TEKE TEK DEPREM OZEL",
+                "channel": "SHOW TV",
+                "start_time": "20:00:11",
+                "end_time": "21:59:30",
+                "rating": 2.23,
+                "share": 5.2
+            }
+        ]
+    }
+}

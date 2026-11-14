@@ -1,0 +1,282 @@
+{
+    "date": "2023-02-04",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:59:35",
+                "end_time": "24:18:08",
+                "rating": 10.94,
+                "share": 24.56
+            },
+            {
+                "rank": 2,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:45:03",
+                "end_time": "24:16:28",
+                "rating": 8.29,
+                "share": 18.63
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:34",
+                "end_time": "20:59:35",
+                "rating": 5.47,
+                "share": 12.89
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:54",
+                "rating": 4.91,
+                "share": 13.51
+            },
+            {
+                "rank": 5,
+                "name": "KARDESLERIM (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:01",
+                "end_time": "20:45:03",
+                "rating": 4.87,
+                "share": 11.84
+            },
+            {
+                "rank": 6,
+                "name": "DOKUZ OGUZ",
+                "channel": "FOX",
+                "start_time": "20:12:37",
+                "end_time": "22:40:02",
+                "rating": 4.82,
+                "share": 10.84
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:11",
+                "end_time": "19:59:58",
+                "rating": 3.94,
+                "share": 10.98
+            },
+            {
+                "rank": 8,
+                "name": "DOKUZ OGUZ (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:59",
+                "end_time": "20:12:32",
+                "rating": 3.9,
+                "share": 9.87
+            },
+            {
+                "rank": 9,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:42:20",
+                "end_time": "24:19:47",
+                "rating": 3.66,
+                "share": 8.37
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:01",
+                "end_time": "19:49:18",
+                "rating": 3.63,
+                "share": 10.07
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:59:35",
+                "end_time": "24:18:08",
+                "rating": 10.2,
+                "share": 25.95
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:34",
+                "end_time": "20:59:35",
+                "rating": 5.15,
+                "share": 14.47
+            },
+            {
+                "rank": 3,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:45:03",
+                "end_time": "24:16:28",
+                "rating": 4.27,
+                "share": 10.92
+            },
+            {
+                "rank": 4,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:33:48",
+                "end_time": "23:42:22",
+                "rating": 4.18,
+                "share": 10.66
+            },
+            {
+                "rank": 5,
+                "name": "DOKUZ OGUZ",
+                "channel": "FOX",
+                "start_time": "20:12:37",
+                "end_time": "22:40:02",
+                "rating": 3.87,
+                "share": 10.18
+            },
+            {
+                "rank": 6,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:54",
+                "rating": 3.85,
+                "share": 12.72
+            },
+            {
+                "rank": 7,
+                "name": "DOKUZ OGUZ (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:59",
+                "end_time": "20:12:32",
+                "rating": 3.7,
+                "share": 11.13
+            },
+            {
+                "rank": 8,
+                "name": "SARKILAR BIZI SOYLER",
+                "channel": "KANAL D",
+                "start_time": "20:13:21",
+                "end_time": "24:39:08",
+                "rating": 3.01,
+                "share": 8.23
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "20:33:48",
+                "rating": 2.95,
+                "share": 8.7
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:42:20",
+                "end_time": "24:19:47",
+                "rating": 2.9,
+                "share": 7.56
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:59:35",
+                "end_time": "24:18:08",
+                "rating": 11.98,
+                "share": 27.01
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:34",
+                "end_time": "20:59:35",
+                "rating": 5.52,
+                "share": 13.74
+            },
+            {
+                "rank": 3,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:00",
+                "end_time": "20:00:54",
+                "rating": 5.28,
+                "share": 15.58
+            },
+            {
+                "rank": 4,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:45:03",
+                "end_time": "24:16:28",
+                "rating": 5.21,
+                "share": 11.77
+            },
+            {
+                "rank": 5,
+                "name": "DOKUZ OGUZ (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:59",
+                "end_time": "20:12:32",
+                "rating": 4.26,
+                "share": 11.54
+            },
+            {
+                "rank": 6,
+                "name": "DOKUZ OGUZ",
+                "channel": "FOX",
+                "start_time": "20:12:37",
+                "end_time": "22:40:02",
+                "rating": 4.21,
+                "share": 9.79
+            },
+            {
+                "rank": 7,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:33:48",
+                "end_time": "23:42:22",
+                "rating": 4.05,
+                "share": 9.11
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:42:20",
+                "end_time": "24:19:47",
+                "rating": 3.76,
+                "share": 8.63
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "20:33:48",
+                "rating": 3.43,
+                "share": 9.07
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:11",
+                "end_time": "19:59:58",
+                "rating": 3.13,
+                "share": 9.36
+            }
+        ]
+    }
+}
