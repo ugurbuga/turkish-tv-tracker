@@ -1,0 +1,282 @@
+{
+    "date": "2023-06-10",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "MANCHESTER CITY-INTER UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "22:00:26",
+                "end_time": "23:58:05",
+                "rating": 9.74,
+                "share": 28.56
+            },
+            {
+                "rank": 2,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:02",
+                "end_time": "24:19:36",
+                "rating": 6.85,
+                "share": 20.51
+            },
+            {
+                "rank": 3,
+                "name": "MANCHESTER CITY-INTER UEFA SAMPIYONLAR LIGI KUPA TORENI",
+                "channel": "TV8",
+                "start_time": "24:09:31",
+                "end_time": "24:21:19",
+                "rating": 5.76,
+                "share": 25.18
+            },
+            {
+                "rank": 4,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:44:54",
+                "end_time": "24:16:20",
+                "rating": 5.32,
+                "share": 16.06
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:51",
+                "end_time": "20:57:02",
+                "rating": 2.84,
+                "share": 11.45
+            },
+            {
+                "rank": 6,
+                "name": "KARDESLERIM (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:51",
+                "end_time": "20:44:54",
+                "rating": 2.48,
+                "share": 10.5
+            },
+            {
+                "rank": 7,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:08",
+                "rating": 2.43,
+                "share": 12.52
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "20:39:18",
+                "rating": 2.04,
+                "share": 8.77
+            },
+            {
+                "rank": 9,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:39:18",
+                "end_time": "23:37:00",
+                "rating": 2.0,
+                "share": 6.01
+            },
+            {
+                "rank": 10,
+                "name": "SARKILAR BIZI SOYLER",
+                "channel": "KANAL D",
+                "start_time": "20:29:24",
+                "end_time": "24:18:29",
+                "rating": 1.92,
+                "share": 5.99
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "MANCHESTER CITY-INTER UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "22:00:26",
+                "end_time": "23:58:05",
+                "rating": 13.1,
+                "share": 36.53
+            },
+            {
+                "rank": 2,
+                "name": "MANCHESTER CITY-INTER UEFA SAMPIYONLAR LIGI KUPA TORENI",
+                "channel": "TV8",
+                "start_time": "24:09:31",
+                "end_time": "24:21:19",
+                "rating": 8.7,
+                "share": 34.95
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:02",
+                "end_time": "24:19:36",
+                "rating": 6.41,
+                "share": 18.85
+            },
+            {
+                "rank": 4,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:44:54",
+                "end_time": "24:16:20",
+                "rating": 4.14,
+                "share": 12.31
+            },
+            {
+                "rank": 5,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:39:18",
+                "end_time": "23:37:00",
+                "rating": 2.76,
+                "share": 8.27
+            },
+            {
+                "rank": 6,
+                "name": "MANCHESTER CITY- INTER UEFA SAMPIYONLAR LIGI MAC BASLIYOR",
+                "channel": "TV8",
+                "start_time": "19:58:31",
+                "end_time": "22:00:18",
+                "rating": 2.59,
+                "share": 10.32
+            },
+            {
+                "rank": 7,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:51",
+                "end_time": "20:57:02",
+                "rating": 2.17,
+                "share": 10.06
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "20:39:18",
+                "rating": 1.91,
+                "share": 9.5
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:07",
+                "end_time": "20:00:01",
+                "rating": 1.62,
+                "share": 9.36
+            },
+            {
+                "rank": 10,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:08",
+                "rating": 1.61,
+                "share": 9.25
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "MANCHESTER CITY-INTER UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "22:00:26",
+                "end_time": "23:58:05",
+                "rating": 11.98,
+                "share": 32.84
+            },
+            {
+                "rank": 2,
+                "name": "MANCHESTER CITY-INTER UEFA SAMPIYONLAR LIGI KUPA TORENI",
+                "channel": "TV8",
+                "start_time": "24:09:31",
+                "end_time": "24:21:19",
+                "rating": 7.31,
+                "share": 28.9
+            },
+            {
+                "rank": 3,
+                "name": "GONUL DAGI",
+                "channel": "TRT 1",
+                "start_time": "20:57:02",
+                "end_time": "24:19:36",
+                "rating": 7.24,
+                "share": 20.69
+            },
+            {
+                "rank": 4,
+                "name": "KARDESLERIM",
+                "channel": "ATV",
+                "start_time": "20:44:54",
+                "end_time": "24:16:20",
+                "rating": 3.79,
+                "share": 10.89
+            },
+            {
+                "rank": 5,
+                "name": "GONUL DAGI (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:51",
+                "end_time": "20:57:02",
+                "rating": 2.94,
+                "share": 12.21
+            },
+            {
+                "rank": 6,
+                "name": "GULDUR GULDUR SHOW",
+                "channel": "SHOW TV",
+                "start_time": "20:39:18",
+                "end_time": "23:37:00",
+                "rating": 2.75,
+                "share": 7.95
+            },
+            {
+                "rank": 7,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:08",
+                "rating": 2.42,
+                "share": 12.88
+            },
+            {
+                "rank": 8,
+                "name": "GULDUR GULDUR SHOW OZET",
+                "channel": "SHOW TV",
+                "start_time": "20:00:12",
+                "end_time": "20:39:18",
+                "rating": 2.15,
+                "share": 9.61
+            },
+            {
+                "rank": 9,
+                "name": "MANCHESTER CITY- INTER UEFA SAMPIYONLAR LIGI MAC BASLIYOR",
+                "channel": "TV8",
+                "start_time": "19:58:31",
+                "end_time": "22:00:18",
+                "rating": 2.14,
+                "share": 7.9
+            },
+            {
+                "rank": 10,
+                "name": "SARKILAR BIZI SOYLER",
+                "channel": "KANAL D",
+                "start_time": "20:29:24",
+                "end_time": "24:18:29",
+                "rating": 1.93,
+                "share": 5.79
+            }
+        ]
+    }
+}

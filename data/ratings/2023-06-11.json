@@ -1,0 +1,282 @@
+{
+    "date": "2023-06-11",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-MEDIPOL BASAKSEHIR ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:33:20",
+                "end_time": "22:56:32",
+                "rating": 7.85,
+                "share": 23.32
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:51",
+                "end_time": "24:17:46",
+                "rating": 4.87,
+                "share": 14.78
+            },
+            {
+                "rank": 3,
+                "name": "FENERBAHCE-MEDIPOL BASAKSEHIR ZIRAAT TURKIYE KUPASI KUPA TORENI",
+                "channel": "ATV",
+                "start_time": "22:56:32",
+                "end_time": "23:35:10",
+                "rating": 3.03,
+                "share": 9.47
+            },
+            {
+                "rank": 4,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "21:11:02",
+                "end_time": "24:18:45",
+                "rating": 3.02,
+                "share": 9.21
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:03",
+                "rating": 2.7,
+                "share": 12.46
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:41:41",
+                "end_time": "24:30:32",
+                "rating": 2.53,
+                "share": 8.16
+            },
+            {
+                "rank": 7,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:52",
+                "end_time": "20:00:03",
+                "rating": 2.28,
+                "share": 10.56
+            },
+            {
+                "rank": 8,
+                "name": "JURASSIC WORLD YIKILMIS KRALLIK (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:12:50",
+                "end_time": "22:35:32",
+                "rating": 1.97,
+                "share": 6.15
+            },
+            {
+                "rank": 9,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:41",
+                "end_time": "20:00:02",
+                "rating": 1.95,
+                "share": 8.95
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:04",
+                "end_time": "19:43:59",
+                "rating": 1.93,
+                "share": 8.92
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-MEDIPOL BASAKSEHIR ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:33:20",
+                "end_time": "22:56:32",
+                "rating": 9.3,
+                "share": 26.91
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:51",
+                "end_time": "24:17:46",
+                "rating": 4.4,
+                "share": 13.07
+            },
+            {
+                "rank": 3,
+                "name": "FENERBAHCE-MEDIPOL BASAKSEHIR ZIRAAT TURKIYE KUPASI KUPA TORENI",
+                "channel": "ATV",
+                "start_time": "22:56:32",
+                "end_time": "23:35:10",
+                "rating": 3.4,
+                "share": 10.44
+            },
+            {
+                "rank": 4,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "21:11:02",
+                "end_time": "24:18:45",
+                "rating": 2.99,
+                "share": 8.92
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:03",
+                "rating": 2.55,
+                "share": 11.59
+            },
+            {
+                "rank": 6,
+                "name": "GUZEL GUNLER (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:11:02",
+                "rating": 1.93,
+                "share": 6.71
+            },
+            {
+                "rank": 7,
+                "name": "JURASSIC WORLD YIKILMIS KRALLIK (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:12:50",
+                "end_time": "22:35:32",
+                "rating": 1.68,
+                "share": 5.17
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:41:41",
+                "end_time": "24:30:32",
+                "rating": 1.64,
+                "share": 5.22
+            },
+            {
+                "rank": 9,
+                "name": "COK GUZEL HAREKETLER 2",
+                "channel": "STAR TV",
+                "start_time": "20:47:23",
+                "end_time": "23:24:57",
+                "rating": 1.59,
+                "share": 4.55
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:57:41",
+                "end_time": "20:00:02",
+                "rating": 1.53,
+                "share": 6.97
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "FENERBAHCE-MEDIPOL BASAKSEHIR ZIRAAT TURKIYE KUPASI KARSILASMASI",
+                "channel": "ATV",
+                "start_time": "20:33:20",
+                "end_time": "22:56:32",
+                "rating": 8.64,
+                "share": 23.91
+            },
+            {
+                "rank": 2,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "20:57:51",
+                "end_time": "24:17:46",
+                "rating": 4.79,
+                "share": 13.43
+            },
+            {
+                "rank": 3,
+                "name": "GUZEL GUNLER",
+                "channel": "SHOW TV",
+                "start_time": "21:11:02",
+                "end_time": "24:18:45",
+                "rating": 3.68,
+                "share": 10.33
+            },
+            {
+                "rank": 4,
+                "name": "FENERBAHCE-MEDIPOL BASAKSEHIR ZIRAAT TURKIYE KUPASI KUPA TORENI",
+                "channel": "ATV",
+                "start_time": "22:56:32",
+                "end_time": "23:35:10",
+                "rating": 3.27,
+                "share": 9.39
+            },
+            {
+                "rank": 5,
+                "name": "FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "19:00:03",
+                "end_time": "20:00:03",
+                "rating": 3.12,
+                "share": 14.06
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:41:41",
+                "end_time": "24:30:32",
+                "rating": 2.33,
+                "share": 6.97
+            },
+            {
+                "rank": 7,
+                "name": "GUZEL GUNLER (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:14",
+                "end_time": "21:11:02",
+                "rating": 2.25,
+                "share": 7.43
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:52",
+                "end_time": "20:00:03",
+                "rating": 1.82,
+                "share": 8.24
+            },
+            {
+                "rank": 9,
+                "name": "BENDEN NE OLUR (T.S)",
+                "channel": "FOX",
+                "start_time": "20:12:54",
+                "end_time": "22:24:01",
+                "rating": 1.78,
+                "share": 5.35
+            },
+            {
+                "rank": 10,
+                "name": "JURASSIC WORLD YIKILMIS KRALLIK (Y.S)",
+                "channel": "KANAL D",
+                "start_time": "20:12:50",
+                "end_time": "22:35:32",
+                "rating": 1.76,
+                "share": 5.18
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2023-06-12",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ALPARSLAN BUYUK SELCUKLU",
+                "channel": "TRT 1",
+                "start_time": "20:37:48",
+                "end_time": "24:19:43",
+                "rating": 5.15,
+                "share": 14.88
+            },
+            {
+                "rank": 2,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:54:57",
+                "end_time": "24:17:05",
+                "rating": 4.9,
+                "share": 14.15
+            },
+            {
+                "rank": 3,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:20",
+                "end_time": "18:44:10",
+                "rating": 3.74,
+                "share": 21.88
+            },
+            {
+                "rank": 4,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:56:48",
+                "rating": 3.48,
+                "share": 13.9
+            },
+            {
+                "rank": 5,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:29",
+                "end_time": "24:17:01",
+                "rating": 3.4,
+                "share": 9.75
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "13:00:04",
+                "rating": 3.25,
+                "share": 24.05
+            },
+            {
+                "rank": 7,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:38:06",
+                "end_time": "24:32:00",
+                "rating": 3.15,
+                "share": 9.6
+            },
+            {
+                "rank": 8,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:51",
+                "end_time": "20:00:02",
+                "rating": 3.13,
+                "share": 12.51
+            },
+            {
+                "rank": 9,
+                "name": "RECEP IVEDIK 5 (T.S)",
+                "channel": "FOX",
+                "start_time": "20:00:07",
+                "end_time": "22:23:59",
+                "rating": 2.49,
+                "share": 7.31
+            },
+            {
+                "rank": 10,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:57:53",
+                "end_time": "19:59:26",
+                "rating": 2.39,
+                "share": 9.51
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:54:57",
+                "end_time": "24:17:05",
+                "rating": 6.49,
+                "share": 18.77
+            },
+            {
+                "rank": 2,
+                "name": "ALPARSLAN BUYUK SELCUKLU",
+                "channel": "TRT 1",
+                "start_time": "20:37:48",
+                "end_time": "24:19:43",
+                "rating": 4.91,
+                "share": 14.17
+            },
+            {
+                "rank": 3,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:38",
+                "end_time": "20:54:57",
+                "rating": 3.17,
+                "share": 10.61
+            },
+            {
+                "rank": 4,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:29",
+                "end_time": "24:17:01",
+                "rating": 3.11,
+                "share": 8.91
+            },
+            {
+                "rank": 5,
+                "name": "MAVIYE SURGUN",
+                "channel": "SHOW TV",
+                "start_time": "19:59:37",
+                "end_time": "22:15:45",
+                "rating": 2.76,
+                "share": 8.63
+            },
+            {
+                "rank": 6,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:51",
+                "end_time": "20:00:02",
+                "rating": 2.7,
+                "share": 12.65
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "13:00:04",
+                "rating": 2.64,
+                "share": 23.38
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:20",
+                "end_time": "18:44:10",
+                "rating": 2.32,
+                "share": 16.96
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:56:48",
+                "rating": 2.23,
+                "share": 10.41
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:38:06",
+                "end_time": "24:32:00",
+                "rating": 2.12,
+                "share": 6.45
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:54:57",
+                "end_time": "24:17:05",
+                "rating": 6.11,
+                "share": 16.35
+            },
+            {
+                "rank": 2,
+                "name": "ALPARSLAN BUYUK SELCUKLU",
+                "channel": "TRT 1",
+                "start_time": "20:37:48",
+                "end_time": "24:19:43",
+                "rating": 5.23,
+                "share": 14.0
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:51",
+                "end_time": "20:00:02",
+                "rating": 3.59,
+                "share": 15.43
+            },
+            {
+                "rank": 4,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:29",
+                "end_time": "24:17:01",
+                "rating": 3.56,
+                "share": 9.41
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:00",
+                "end_time": "13:00:04",
+                "rating": 3.09,
+                "share": 25.09
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:38:06",
+                "end_time": "24:32:00",
+                "rating": 2.9,
+                "share": 8.19
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:20",
+                "end_time": "18:44:10",
+                "rating": 2.89,
+                "share": 18.4
+            },
+            {
+                "rank": 8,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:38",
+                "end_time": "20:54:57",
+                "rating": 2.68,
+                "share": 8.37
+            },
+            {
+                "rank": 9,
+                "name": "MAVIYE SURGUN",
+                "channel": "SHOW TV",
+                "start_time": "19:59:37",
+                "end_time": "22:15:45",
+                "rating": 2.58,
+                "share": 7.4
+            },
+            {
+                "rank": 10,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:56:48",
+                "rating": 2.53,
+                "share": 10.83
+            }
+        ]
+    }
+}
