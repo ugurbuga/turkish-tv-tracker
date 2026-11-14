@@ -1,0 +1,282 @@
+{
+    "date": "2023-03-02",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "CAMDAKI KIZ",
+                "channel": "KANAL D",
+                "start_time": "21:00:25",
+                "end_time": "23:22:56",
+                "rating": 6.32,
+                "share": 15.43
+            },
+            {
+                "rank": 2,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:54:03",
+                "end_time": "23:48:42",
+                "rating": 5.63,
+                "share": 14.11
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:06",
+                "rating": 4.92,
+                "share": 14.46
+            },
+            {
+                "rank": 4,
+                "name": "AL SANCAK",
+                "channel": "TRT 1",
+                "start_time": "20:58:17",
+                "end_time": "23:22:57",
+                "rating": 4.91,
+                "share": 11.99
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:30",
+                "end_time": "19:55:42",
+                "rating": 4.59,
+                "share": 13.59
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:50",
+                "end_time": "12:59:55",
+                "rating": 4.53,
+                "share": 31.51
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:13",
+                "end_time": "19:00:25",
+                "rating": 4.24,
+                "share": 19.35
+            },
+            {
+                "rank": 8,
+                "name": "CAMDAKI KIZ (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "21:00:13",
+                "rating": 3.52,
+                "share": 9.06
+            },
+            {
+                "rank": 9,
+                "name": "ALDATMAK (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:07",
+                "end_time": "20:54:03",
+                "rating": 3.35,
+                "share": 8.63
+            },
+            {
+                "rank": 10,
+                "name": "GELSIN HAYAT BILDIGI GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:57:06",
+                "end_time": "23:25:25",
+                "rating": 3.01,
+                "share": 7.35
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "CAMDAKI KIZ",
+                "channel": "KANAL D",
+                "start_time": "21:00:25",
+                "end_time": "23:22:56",
+                "rating": 6.58,
+                "share": 17.97
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:06",
+                "rating": 5.05,
+                "share": 17.45
+            },
+            {
+                "rank": 3,
+                "name": "AL SANCAK",
+                "channel": "TRT 1",
+                "start_time": "20:58:17",
+                "end_time": "23:22:57",
+                "rating": 3.46,
+                "share": 9.45
+            },
+            {
+                "rank": 4,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:54:03",
+                "end_time": "23:48:42",
+                "rating": 3.3,
+                "share": 9.22
+            },
+            {
+                "rank": 5,
+                "name": "CAMDAKI KIZ (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "21:00:13",
+                "rating": 3.06,
+                "share": 9.08
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:50",
+                "end_time": "12:59:55",
+                "rating": 2.92,
+                "share": 25.48
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:30",
+                "end_time": "19:55:42",
+                "rating": 2.6,
+                "share": 9.05
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:13",
+                "end_time": "19:00:25",
+                "rating": 2.58,
+                "share": 15.53
+            },
+            {
+                "rank": 9,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:55:06",
+                "end_time": "24:16:46",
+                "rating": 2.32,
+                "share": 6.93
+            },
+            {
+                "rank": 10,
+                "name": "GELSIN HAYAT BILDIGI GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:57:06",
+                "end_time": "23:25:25",
+                "rating": 1.95,
+                "share": 5.33
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "CAMDAKI KIZ",
+                "channel": "KANAL D",
+                "start_time": "21:00:25",
+                "end_time": "23:22:56",
+                "rating": 7.86,
+                "share": 17.92
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:06",
+                "rating": 6.1,
+                "share": 18.44
+            },
+            {
+                "rank": 3,
+                "name": "ALDATMAK",
+                "channel": "ATV",
+                "start_time": "20:54:03",
+                "end_time": "23:48:42",
+                "rating": 4.93,
+                "share": 11.49
+            },
+            {
+                "rank": 4,
+                "name": "AL SANCAK",
+                "channel": "TRT 1",
+                "start_time": "20:58:17",
+                "end_time": "23:22:57",
+                "rating": 4.88,
+                "share": 11.13
+            },
+            {
+                "rank": 5,
+                "name": "CAMDAKI KIZ (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:54",
+                "end_time": "21:00:13",
+                "rating": 4.54,
+                "share": 11.27
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:50",
+                "end_time": "12:59:55",
+                "rating": 4.3,
+                "share": 30.34
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:13",
+                "end_time": "19:00:25",
+                "rating": 3.5,
+                "share": 16.56
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:55:06",
+                "end_time": "24:16:46",
+                "rating": 3.42,
+                "share": 8.47
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:30",
+                "end_time": "19:55:42",
+                "rating": 3.35,
+                "share": 10.24
+            },
+            {
+                "rank": 10,
+                "name": "GELSIN HAYAT BILDIGI GIBI",
+                "channel": "SHOW TV",
+                "start_time": "20:57:06",
+                "end_time": "23:25:25",
+                "rating": 2.92,
+                "share": 6.68
+            }
+        ]
+    }
+}

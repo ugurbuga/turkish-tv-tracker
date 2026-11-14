@@ -1,0 +1,282 @@
+{
+    "date": "2023-03-08",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:59:37",
+                "end_time": "23:47:37",
+                "rating": 8.77,
+                "share": 22.14
+            },
+            {
+                "rank": 2,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:27",
+                "end_time": "20:59:37",
+                "rating": 5.29,
+                "share": 13.77
+            },
+            {
+                "rank": 3,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:59:11",
+                "rating": 5.09,
+                "share": 15.79
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:04",
+                "rating": 4.85,
+                "share": 14.82
+            },
+            {
+                "rank": 5,
+                "name": "ADIM FARAH",
+                "channel": "FOX",
+                "start_time": "20:00:15",
+                "end_time": "22:34:38",
+                "rating": 4.49,
+                "share": 11.22
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:07",
+                "end_time": "12:59:50",
+                "rating": 4.34,
+                "share": 31.52
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:07",
+                "end_time": "19:00:02",
+                "rating": 4.24,
+                "share": 20.32
+            },
+            {
+                "rank": 8,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:57:59",
+                "end_time": "24:24:04",
+                "rating": 3.31,
+                "share": 8.89
+            },
+            {
+                "rank": 9,
+                "name": "O KIZ",
+                "channel": "KANAL D",
+                "start_time": "21:00:15",
+                "end_time": "24:11:32",
+                "rating": 3.13,
+                "share": 8.14
+            },
+            {
+                "rank": 10,
+                "name": "COP ADAM",
+                "channel": "STAR TV",
+                "start_time": "20:58:29",
+                "end_time": "23:49:55",
+                "rating": 3.08,
+                "share": 7.79
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:59:37",
+                "end_time": "23:47:37",
+                "rating": 6.36,
+                "share": 17.22
+            },
+            {
+                "rank": 2,
+                "name": "ADIM FARAH",
+                "channel": "FOX",
+                "start_time": "20:00:15",
+                "end_time": "22:34:38",
+                "rating": 5.0,
+                "share": 13.36
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:04",
+                "rating": 4.84,
+                "share": 17.17
+            },
+            {
+                "rank": 4,
+                "name": "COP ADAM",
+                "channel": "STAR TV",
+                "start_time": "20:58:29",
+                "end_time": "23:49:55",
+                "rating": 3.41,
+                "share": 9.27
+            },
+            {
+                "rank": 5,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:27",
+                "end_time": "20:59:37",
+                "rating": 3.34,
+                "share": 9.27
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:07",
+                "end_time": "12:59:50",
+                "rating": 3.2,
+                "share": 26.36
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:59:11",
+                "rating": 3.13,
+                "share": 11.38
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:07",
+                "end_time": "19:00:02",
+                "rating": 2.53,
+                "share": 14.51
+            },
+            {
+                "rank": 9,
+                "name": "O KIZ",
+                "channel": "KANAL D",
+                "start_time": "21:00:15",
+                "end_time": "24:11:32",
+                "rating": 2.3,
+                "share": 6.43
+            },
+            {
+                "rank": 10,
+                "name": "AILE (TKR)",
+                "channel": "SHOW TV",
+                "start_time": "19:59:57",
+                "end_time": "22:36:41",
+                "rating": 1.98,
+                "share": 5.32
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:59:37",
+                "end_time": "23:47:37",
+                "rating": 8.12,
+                "share": 19.38
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:04",
+                "rating": 5.79,
+                "share": 18.14
+            },
+            {
+                "rank": 3,
+                "name": "ADIM FARAH",
+                "channel": "FOX",
+                "start_time": "20:00:15",
+                "end_time": "22:34:38",
+                "rating": 5.78,
+                "share": 13.7
+            },
+            {
+                "rank": 4,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:27",
+                "end_time": "20:59:37",
+                "rating": 4.59,
+                "share": 11.38
+            },
+            {
+                "rank": 5,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:07",
+                "end_time": "19:59:11",
+                "rating": 4.48,
+                "share": 14.37
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:07",
+                "end_time": "12:59:50",
+                "rating": 4.1,
+                "share": 28.44
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:22:07",
+                "end_time": "19:00:02",
+                "rating": 3.76,
+                "share": 19.54
+            },
+            {
+                "rank": 8,
+                "name": "COP ADAM",
+                "channel": "STAR TV",
+                "start_time": "20:58:29",
+                "end_time": "23:49:55",
+                "rating": 3.59,
+                "share": 8.59
+            },
+            {
+                "rank": 9,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:57:59",
+                "end_time": "24:24:04",
+                "rating": 2.95,
+                "share": 7.49
+            },
+            {
+                "rank": 10,
+                "name": "O KIZ",
+                "channel": "KANAL D",
+                "start_time": "21:00:15",
+                "end_time": "24:11:32",
+                "rating": 2.82,
+                "share": 6.97
+            }
+        ]
+    }
+}
