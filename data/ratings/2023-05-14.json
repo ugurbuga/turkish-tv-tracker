@@ -1,0 +1,282 @@
+{
+    "date": "2023-05-14",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "FOX'TA ILK YORUMLAR",
+                "channel": "FOX",
+                "start_time": "19:07:41",
+                "end_time": "21:03:57",
+                "rating": 8.78,
+                "share": 20.07
+            },
+            {
+                "rank": 2,
+                "name": "FOX'TA SECIM ANALIZI/SIMDI NE OLACAK/SECIM SONUCLARI/SECIM GECESI",
+                "channel": "FOX",
+                "start_time": "21:04:11",
+                "end_time": "26:00:00",
+                "rating": 8.09,
+                "share": 19.58
+            },
+            {
+                "rank": 3,
+                "name": "FOX SECIM 2023",
+                "channel": "FOX",
+                "start_time": "18:31:35",
+                "end_time": "19:06:25",
+                "rating": 7.56,
+                "share": 21.48
+            },
+            {
+                "rank": 4,
+                "name": "TURKIYE'NIN SECIMI/YUZYILIN SECIMI",
+                "channel": "ATV",
+                "start_time": "21:53:57",
+                "end_time": "23:00:29",
+                "rating": 4.0,
+                "share": 7.85
+            },
+            {
+                "rank": 5,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "17:15:03",
+                "end_time": "18:31:26",
+                "rating": 3.77,
+                "share": 13.11
+            },
+            {
+                "rank": 6,
+                "name": "SONUCLAR NETLESIYOR",
+                "channel": "ATV",
+                "start_time": "19:48:35",
+                "end_time": "20:00:18",
+                "rating": 3.72,
+                "share": 8.75
+            },
+            {
+                "rank": 7,
+                "name": "YUZYILIN SECIMI",
+                "channel": "ATV",
+                "start_time": "20:50:55",
+                "end_time": "21:53:51",
+                "rating": 3.58,
+                "share": 7.15
+            },
+            {
+                "rank": 8,
+                "name": "TURKIYE'NIN SECIMI",
+                "channel": "ATV",
+                "start_time": "20:00:18",
+                "end_time": "20:50:49",
+                "rating": 3.39,
+                "share": 7.39
+            },
+            {
+                "rank": 9,
+                "name": "TURKIYE SECIMINI YAPTI/TURKIYE KARARINI VERDI/YUZYILIN SECIMI",
+                "channel": "ATV",
+                "start_time": "23:00:35",
+                "end_time": "25:00:25",
+                "rating": 3.16,
+                "share": 7.68
+            },
+            {
+                "rank": 10,
+                "name": "SONUCLAR BEKLENIYOR/ISTE ILK SONUCLAR",
+                "channel": "ATV",
+                "start_time": "17:59:57",
+                "end_time": "19:48:35",
+                "rating": 2.93,
+                "share": 8.19
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "FOX'TA ILK YORUMLAR",
+                "channel": "FOX",
+                "start_time": "19:07:41",
+                "end_time": "21:03:57",
+                "rating": 9.68,
+                "share": 22.79
+            },
+            {
+                "rank": 2,
+                "name": "FOX'TA SECIM ANALIZI/SIMDI NE OLACAK/SECIM SONUCLARI/SECIM GECESI",
+                "channel": "FOX",
+                "start_time": "21:04:11",
+                "end_time": "26:00:00",
+                "rating": 9.65,
+                "share": 22.51
+            },
+            {
+                "rank": 3,
+                "name": "FOX SECIM 2023",
+                "channel": "FOX",
+                "start_time": "18:31:35",
+                "end_time": "19:06:25",
+                "rating": 8.57,
+                "share": 24.09
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "17:15:03",
+                "end_time": "18:31:26",
+                "rating": 4.15,
+                "share": 14.84
+            },
+            {
+                "rank": 5,
+                "name": "SECIM 2023 OZEL/ILK SONUCLAR/OYLAR SAYILIYOR",
+                "channel": "KANAL D",
+                "start_time": "16:56:58",
+                "end_time": "25:00:44",
+                "rating": 2.6,
+                "share": 6.29
+            },
+            {
+                "rank": 6,
+                "name": "SECIM 2023",
+                "channel": "TRT 1",
+                "start_time": "19:03:01",
+                "end_time": "21:48:29",
+                "rating": 2.12,
+                "share": 4.81
+            },
+            {
+                "rank": 7,
+                "name": "SECIM 2023",
+                "channel": "TRT 1",
+                "start_time": "21:48:29",
+                "end_time": "22:58:14",
+                "rating": 2.1,
+                "share": 4.22
+            },
+            {
+                "rank": 8,
+                "name": "MERVE YILDIRIM ILE BENDEN SOYLEMESI",
+                "channel": "FOX",
+                "start_time": "11:22:06",
+                "end_time": "13:01:27",
+                "rating": 2.08,
+                "share": 12.17
+            },
+            {
+                "rank": 9,
+                "name": "SECIM 2023",
+                "channel": "TRT 1",
+                "start_time": "22:58:14",
+                "end_time": "24:29:32",
+                "rating": 2.07,
+                "share": 4.26
+            },
+            {
+                "rank": 10,
+                "name": "SECIM 2023",
+                "channel": "TRT 1",
+                "start_time": "24:29:32",
+                "end_time": "25:03:41",
+                "rating": 1.89,
+                "share": 5.25
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "FOX'TA SECIM ANALIZI/SIMDI NE OLACAK/SECIM SONUCLARI/SECIM GECESI",
+                "channel": "FOX",
+                "start_time": "21:04:11",
+                "end_time": "26:00:00",
+                "rating": 10.22,
+                "share": 21.55
+            },
+            {
+                "rank": 2,
+                "name": "FOX'TA ILK YORUMLAR",
+                "channel": "FOX",
+                "start_time": "19:07:41",
+                "end_time": "21:03:57",
+                "rating": 10.2,
+                "share": 21.77
+            },
+            {
+                "rank": 3,
+                "name": "FOX SECIM 2023",
+                "channel": "FOX",
+                "start_time": "18:31:35",
+                "end_time": "19:06:25",
+                "rating": 8.72,
+                "share": 22.51
+            },
+            {
+                "rank": 4,
+                "name": "GULBIN TOSUN ILE FOX ANA HABER HAFTA SONU",
+                "channel": "FOX",
+                "start_time": "17:15:03",
+                "end_time": "18:31:26",
+                "rating": 3.93,
+                "share": 13.11
+            },
+            {
+                "rank": 5,
+                "name": "TURKIYE'NIN SECIMI/YUZYILIN SECIMI",
+                "channel": "ATV",
+                "start_time": "21:53:57",
+                "end_time": "23:00:29",
+                "rating": 3.17,
+                "share": 5.63
+            },
+            {
+                "rank": 6,
+                "name": "SECIM 2023 OZEL/ILK SONUCLAR/OYLAR SAYILIYOR",
+                "channel": "KANAL D",
+                "start_time": "16:56:58",
+                "end_time": "25:00:44",
+                "rating": 2.68,
+                "share": 5.89
+            },
+            {
+                "rank": 7,
+                "name": "SECIM 2023",
+                "channel": "TRT 1",
+                "start_time": "21:48:29",
+                "end_time": "22:58:14",
+                "rating": 2.65,
+                "share": 4.71
+            },
+            {
+                "rank": 8,
+                "name": "SECIM 2023",
+                "channel": "TRT 1",
+                "start_time": "22:58:14",
+                "end_time": "24:29:32",
+                "rating": 2.6,
+                "share": 4.97
+            },
+            {
+                "rank": 9,
+                "name": "YUZYILIN SECIMI",
+                "channel": "ATV",
+                "start_time": "20:50:55",
+                "end_time": "21:53:51",
+                "rating": 2.55,
+                "share": 4.71
+            },
+            {
+                "rank": 10,
+                "name": "TURKIYE'NIN SECIMI",
+                "channel": "ATV",
+                "start_time": "20:00:18",
+                "end_time": "20:50:49",
+                "rating": 2.55,
+                "share": 5.25
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2023-05-09",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:48:40",
+                "end_time": "24:17:15",
+                "rating": 5.26,
+                "share": 13.47
+            },
+            {
+                "rank": 2,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:12",
+                "end_time": "19:57:46",
+                "rating": 5.04,
+                "share": 17.16
+            },
+            {
+                "rank": 3,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:43:00",
+                "end_time": "24:18:09",
+                "rating": 4.91,
+                "share": 12.52
+            },
+            {
+                "rank": 4,
+                "name": "AILE",
+                "channel": "SHOW TV",
+                "start_time": "20:59:02",
+                "end_time": "24:17:15",
+                "rating": 4.62,
+                "share": 11.82
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:02",
+                "rating": 4.22,
+                "share": 14.62
+            },
+            {
+                "rank": 6,
+                "name": "REAL MADRID-MANCHESTER CITY UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "21:53:10",
+                "end_time": "24:24:05",
+                "rating": 4.21,
+                "share": 11.25
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:50",
+                "end_time": "19:00:07",
+                "rating": 4.1,
+                "share": 21.6
+            },
+            {
+                "rank": 8,
+                "name": "BEN BU CIHANA SIGMAZAM (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:36",
+                "end_time": "20:43:00",
+                "rating": 3.36,
+                "share": 9.55
+            },
+            {
+                "rank": 9,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:53",
+                "rating": 3.35,
+                "share": 26.95
+            },
+            {
+                "rank": 10,
+                "name": "YUREK CIKMAZI",
+                "channel": "TRT 1",
+                "start_time": "20:57:42",
+                "end_time": "23:47:57",
+                "rating": 3.11,
+                "share": 7.74
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "AILE",
+                "channel": "SHOW TV",
+                "start_time": "20:59:02",
+                "end_time": "24:17:15",
+                "rating": 7.71,
+                "share": 19.75
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:02",
+                "rating": 4.75,
+                "share": 17.64
+            },
+            {
+                "rank": 3,
+                "name": "REAL MADRID-MANCHESTER CITY UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "21:53:10",
+                "end_time": "24:24:05",
+                "rating": 4.75,
+                "share": 12.56
+            },
+            {
+                "rank": 4,
+                "name": "AILE (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:13",
+                "end_time": "20:59:02",
+                "rating": 4.69,
+                "share": 13.73
+            },
+            {
+                "rank": 5,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:48:40",
+                "end_time": "24:17:15",
+                "rating": 3.81,
+                "share": 9.84
+            },
+            {
+                "rank": 6,
+                "name": "TETIKCININ OGLU",
+                "channel": "FOX",
+                "start_time": "20:58:05",
+                "end_time": "23:46:17",
+                "rating": 3.49,
+                "share": 8.75
+            },
+            {
+                "rank": 7,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:43:00",
+                "end_time": "24:18:09",
+                "rating": 3.43,
+                "share": 8.83
+            },
+            {
+                "rank": 8,
+                "name": "YUREK CIKMAZI",
+                "channel": "TRT 1",
+                "start_time": "20:57:42",
+                "end_time": "23:47:57",
+                "rating": 3.12,
+                "share": 7.78
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:12",
+                "end_time": "19:57:46",
+                "rating": 2.99,
+                "share": 10.91
+            },
+            {
+                "rank": 10,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:53",
+                "rating": 2.91,
+                "share": 25.72
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "AILE",
+                "channel": "SHOW TV",
+                "start_time": "20:59:02",
+                "end_time": "24:17:15",
+                "rating": 7.6,
+                "share": 17.82
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:02",
+                "rating": 5.06,
+                "share": 17.26
+            },
+            {
+                "rank": 3,
+                "name": "AILE (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:13",
+                "end_time": "20:59:02",
+                "rating": 4.76,
+                "share": 12.53
+            },
+            {
+                "rank": 4,
+                "name": "REAL MADRID-MANCHESTER CITY UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "21:53:10",
+                "end_time": "24:24:05",
+                "rating": 4.67,
+                "share": 11.29
+            },
+            {
+                "rank": 5,
+                "name": "UC KIZ KARDES",
+                "channel": "KANAL D",
+                "start_time": "20:48:40",
+                "end_time": "24:17:15",
+                "rating": 4.66,
+                "share": 10.99
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:12",
+                "end_time": "19:57:46",
+                "rating": 4.27,
+                "share": 14.28
+            },
+            {
+                "rank": 7,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:43:00",
+                "end_time": "24:18:09",
+                "rating": 4.27,
+                "share": 10.01
+            },
+            {
+                "rank": 8,
+                "name": "YUREK CIKMAZI",
+                "channel": "TRT 1",
+                "start_time": "20:57:42",
+                "end_time": "23:47:57",
+                "rating": 3.57,
+                "share": 8.16
+            },
+            {
+                "rank": 9,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:02",
+                "end_time": "12:59:53",
+                "rating": 3.33,
+                "share": 24.82
+            },
+            {
+                "rank": 10,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:50",
+                "end_time": "19:00:07",
+                "rating": 3.16,
+                "share": 17.36
+            }
+        ]
+    }
+}

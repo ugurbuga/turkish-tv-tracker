@@ -1,0 +1,282 @@
+{
+    "date": "2023-05-10",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:35:09",
+                "end_time": "24:17:45",
+                "rating": 8.07,
+                "share": 21.0
+            },
+            {
+                "rank": 2,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:59",
+                "end_time": "19:58:21",
+                "rating": 4.79,
+                "share": 16.29
+            },
+            {
+                "rank": 3,
+                "name": "MILAN-INTER UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "21:47:29",
+                "end_time": "24:29:22",
+                "rating": 4.29,
+                "share": 11.78
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:57",
+                "end_time": "20:00:04",
+                "rating": 4.16,
+                "share": 14.4
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:55",
+                "end_time": "18:59:54",
+                "rating": 4.12,
+                "share": 21.7
+            },
+            {
+                "rank": 6,
+                "name": "ADIM FARAH",
+                "channel": "FOX",
+                "start_time": "20:58:15",
+                "end_time": "23:39:03",
+                "rating": 3.86,
+                "share": 9.65
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:07",
+                "end_time": "13:00:12",
+                "rating": 3.8,
+                "share": 28.55
+            },
+            {
+                "rank": 8,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:36",
+                "end_time": "20:35:09",
+                "rating": 3.64,
+                "share": 10.61
+            },
+            {
+                "rank": 9,
+                "name": "COP ADAM",
+                "channel": "STAR TV",
+                "start_time": "20:47:18",
+                "end_time": "24:17:26",
+                "rating": 3.05,
+                "share": 7.96
+            },
+            {
+                "rank": 10,
+                "name": "UC KAGITCI (T.S)",
+                "channel": "SHOW TV",
+                "start_time": "20:00:09",
+                "end_time": "21:46:05",
+                "rating": 2.87,
+                "share": 7.61
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:35:09",
+                "end_time": "24:17:45",
+                "rating": 5.36,
+                "share": 15.21
+            },
+            {
+                "rank": 2,
+                "name": "MILAN-INTER UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "21:47:29",
+                "end_time": "24:29:22",
+                "rating": 4.77,
+                "share": 14.2
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:57",
+                "end_time": "20:00:04",
+                "rating": 3.92,
+                "share": 17.24
+            },
+            {
+                "rank": 4,
+                "name": "ADIM FARAH",
+                "channel": "FOX",
+                "start_time": "20:58:15",
+                "end_time": "23:39:03",
+                "rating": 3.81,
+                "share": 10.43
+            },
+            {
+                "rank": 5,
+                "name": "COP ADAM",
+                "channel": "STAR TV",
+                "start_time": "20:47:18",
+                "end_time": "24:17:26",
+                "rating": 3.71,
+                "share": 10.59
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:59",
+                "end_time": "19:58:21",
+                "rating": 3.36,
+                "share": 14.4
+            },
+            {
+                "rank": 7,
+                "name": "ADIM FARAH (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:14",
+                "end_time": "20:58:10",
+                "rating": 2.8,
+                "share": 8.57
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:07",
+                "end_time": "13:00:12",
+                "rating": 2.5,
+                "share": 23.29
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:55",
+                "end_time": "18:59:54",
+                "rating": 2.33,
+                "share": 16.58
+            },
+            {
+                "rank": 10,
+                "name": "MUSLUM (T.S)",
+                "channel": "TRT 1",
+                "start_time": "20:00:08",
+                "end_time": "22:34:50",
+                "rating": 2.26,
+                "share": 6.48
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "KURULUS OSMAN",
+                "channel": "ATV",
+                "start_time": "20:35:09",
+                "end_time": "24:17:45",
+                "rating": 7.63,
+                "share": 18.26
+            },
+            {
+                "rank": 2,
+                "name": "ADIM FARAH",
+                "channel": "FOX",
+                "start_time": "20:58:15",
+                "end_time": "23:39:03",
+                "rating": 4.98,
+                "share": 11.48
+            },
+            {
+                "rank": 3,
+                "name": "MILAN-INTER UEFA SAMPIYONLAR LIGI KARSILASMASI",
+                "channel": "TV8",
+                "start_time": "21:47:29",
+                "end_time": "24:29:22",
+                "rating": 4.41,
+                "share": 11.07
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:57",
+                "end_time": "20:00:04",
+                "rating": 4.37,
+                "share": 15.37
+            },
+            {
+                "rank": 5,
+                "name": "COP ADAM",
+                "channel": "STAR TV",
+                "start_time": "20:47:18",
+                "end_time": "24:17:26",
+                "rating": 4.07,
+                "share": 9.78
+            },
+            {
+                "rank": 6,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:59",
+                "end_time": "19:58:21",
+                "rating": 3.9,
+                "share": 13.38
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:07",
+                "end_time": "13:00:12",
+                "rating": 3.53,
+                "share": 27.27
+            },
+            {
+                "rank": 8,
+                "name": "KURULUS OSMAN (OZET)",
+                "channel": "ATV",
+                "start_time": "19:59:36",
+                "end_time": "20:35:09",
+                "rating": 3.33,
+                "share": 9.26
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:55",
+                "end_time": "18:59:54",
+                "rating": 3.32,
+                "share": 18.7
+            },
+            {
+                "rank": 10,
+                "name": "ADIM FARAH (OZET)",
+                "channel": "FOX",
+                "start_time": "20:00:14",
+                "end_time": "20:58:10",
+                "rating": 2.94,
+                "share": 7.68
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "date": "2023-05-16",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "YALI CAPKINI",
+                "channel": "STAR TV",
+                "start_time": "20:51:02",
+                "end_time": "24:17:31",
+                "rating": 10.31,
+                "share": 26.04
+            },
+            {
+                "rank": 2,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:19",
+                "end_time": "19:57:51",
+                "rating": 4.13,
+                "share": 15.9
+            },
+            {
+                "rank": 3,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:49:42",
+                "end_time": "24:18:21",
+                "rating": 3.94,
+                "share": 9.95
+            },
+            {
+                "rank": 4,
+                "name": "YALI CAPKINI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:03",
+                "end_time": "20:51:02",
+                "rating": 3.81,
+                "share": 11.07
+            },
+            {
+                "rank": 5,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:24",
+                "rating": 3.71,
+                "share": 14.46
+            },
+            {
+                "rank": 6,
+                "name": "AILE",
+                "channel": "SHOW TV",
+                "start_time": "20:59:14",
+                "end_time": "23:48:49",
+                "rating": 3.66,
+                "share": 8.97
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:14",
+                "end_time": "13:00:01",
+                "rating": 3.45,
+                "share": 27.63
+            },
+            {
+                "rank": 8,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:23",
+                "end_time": "19:00:14",
+                "rating": 3.37,
+                "share": 19.95
+            },
+            {
+                "rank": 9,
+                "name": "DELI DELI KUPELI (T.S)",
+                "channel": "FOX",
+                "start_time": "20:15:14",
+                "end_time": "21:51:31",
+                "rating": 2.84,
+                "share": 7.41
+            },
+            {
+                "rank": 10,
+                "name": "CUMHURBASKANI OZEL YAYINI",
+                "channel": "KANAL D",
+                "start_time": "20:39:20",
+                "end_time": "21:48:29",
+                "rating": 2.73,
+                "share": 6.86
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "YALI CAPKINI",
+                "channel": "STAR TV",
+                "start_time": "20:51:02",
+                "end_time": "24:17:31",
+                "rating": 8.3,
+                "share": 21.08
+            },
+            {
+                "rank": 2,
+                "name": "AILE",
+                "channel": "SHOW TV",
+                "start_time": "20:59:14",
+                "end_time": "23:48:49",
+                "rating": 6.68,
+                "share": 16.28
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:24",
+                "rating": 3.29,
+                "share": 13.95
+            },
+            {
+                "rank": 4,
+                "name": "AILE (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:02",
+                "end_time": "20:59:14",
+                "rating": 3.16,
+                "share": 9.76
+            },
+            {
+                "rank": 5,
+                "name": "YUREK CIKMAZI",
+                "channel": "TRT 1",
+                "start_time": "20:59:06",
+                "end_time": "23:53:52",
+                "rating": 2.97,
+                "share": 7.38
+            },
+            {
+                "rank": 6,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:49:42",
+                "end_time": "24:18:21",
+                "rating": 2.91,
+                "share": 7.4
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:19",
+                "end_time": "19:57:51",
+                "rating": 2.77,
+                "share": 11.57
+            },
+            {
+                "rank": 8,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:14",
+                "end_time": "13:00:01",
+                "rating": 2.45,
+                "share": 24.14
+            },
+            {
+                "rank": 9,
+                "name": "CUMHURBASKANI OZEL YAYINI",
+                "channel": "KANAL D",
+                "start_time": "20:39:20",
+                "end_time": "21:48:29",
+                "rating": 2.35,
+                "share": 6.21
+            },
+            {
+                "rank": 10,
+                "name": "YALI CAPKINI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:03",
+                "end_time": "20:51:02",
+                "rating": 2.33,
+                "share": 7.38
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "YALI CAPKINI",
+                "channel": "STAR TV",
+                "start_time": "20:51:02",
+                "end_time": "24:17:31",
+                "rating": 8.65,
+                "share": 20.48
+            },
+            {
+                "rank": 2,
+                "name": "AILE",
+                "channel": "SHOW TV",
+                "start_time": "20:59:14",
+                "end_time": "23:48:49",
+                "rating": 6.1,
+                "share": 13.97
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:24",
+                "rating": 4.11,
+                "share": 15.98
+            },
+            {
+                "rank": 4,
+                "name": "BEN BU CIHANA SIGMAZAM",
+                "channel": "ATV",
+                "start_time": "20:49:42",
+                "end_time": "24:18:21",
+                "rating": 4.0,
+                "share": 9.46
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:14",
+                "end_time": "13:00:01",
+                "rating": 3.41,
+                "share": 27.58
+            },
+            {
+                "rank": 6,
+                "name": "YUREK CIKMAZI",
+                "channel": "TRT 1",
+                "start_time": "20:59:06",
+                "end_time": "23:53:52",
+                "rating": 3.36,
+                "share": 7.79
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:19",
+                "end_time": "19:57:51",
+                "rating": 3.23,
+                "share": 12.36
+            },
+            {
+                "rank": 8,
+                "name": "AILE (OZET)",
+                "channel": "SHOW TV",
+                "start_time": "20:01:02",
+                "end_time": "20:59:14",
+                "rating": 3.08,
+                "share": 8.45
+            },
+            {
+                "rank": 9,
+                "name": "YALI CAPKINI (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:03",
+                "end_time": "20:51:02",
+                "rating": 3.07,
+                "share": 8.67
+            },
+            {
+                "rank": 10,
+                "name": "CUMHURBASKANI OZEL YAYINI",
+                "channel": "KANAL D",
+                "start_time": "20:39:20",
+                "end_time": "21:48:29",
+                "rating": 2.99,
+                "share": 7.13
+            }
+        ]
+    }
+}

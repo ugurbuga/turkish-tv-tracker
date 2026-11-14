@@ -1,0 +1,282 @@
+{
+    "date": "2023-05-15",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ALPARSLAN BUYUK SELCUKLU",
+                "channel": "TRT 1",
+                "start_time": "20:57:07",
+                "end_time": "23:56:41",
+                "rating": 5.07,
+                "share": 13.21
+            },
+            {
+                "rank": 2,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "21:00:07",
+                "end_time": "24:12:13",
+                "rating": 4.92,
+                "share": 13.06
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:04",
+                "rating": 4.17,
+                "share": 15.81
+            },
+            {
+                "rank": 4,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:09",
+                "end_time": "19:57:22",
+                "rating": 3.47,
+                "share": 13.06
+            },
+            {
+                "rank": 5,
+                "name": "BIR KUCUK GUN ISIGI",
+                "channel": "ATV",
+                "start_time": "20:31:12",
+                "end_time": "24:01:15",
+                "rating": 3.38,
+                "share": 8.95
+            },
+            {
+                "rank": 6,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:53:17",
+                "end_time": "24:29:37",
+                "rating": 3.36,
+                "share": 9.36
+            },
+            {
+                "rank": 7,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:12",
+                "end_time": "19:00:04",
+                "rating": 3.2,
+                "share": 17.53
+            },
+            {
+                "rank": 8,
+                "name": "FOX'TA ERDOGAN ACIKLAMA YAPIYOR",
+                "channel": "FOX",
+                "start_time": "02:02:20",
+                "end_time": "02:23:47",
+                "rating": 3.19,
+                "share": 19.88
+            },
+            {
+                "rank": 9,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:10",
+                "end_time": "13:00:01",
+                "rating": 3.04,
+                "share": 16.89
+            },
+            {
+                "rank": 10,
+                "name": "FOX'TA SINAN OGAN OZEL",
+                "channel": "FOX",
+                "start_time": "02:29:35",
+                "end_time": "02:47:49",
+                "rating": 2.96,
+                "share": 22.8
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "21:00:07",
+                "end_time": "24:12:13",
+                "rating": 5.48,
+                "share": 15.64
+            },
+            {
+                "rank": 2,
+                "name": "ALPARSLAN BUYUK SELCUKLU",
+                "channel": "TRT 1",
+                "start_time": "20:57:07",
+                "end_time": "23:56:41",
+                "rating": 4.85,
+                "share": 13.54
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:04",
+                "rating": 4.4,
+                "share": 18.29
+            },
+            {
+                "rank": 4,
+                "name": "FOX'TA ERDOGAN ACIKLAMA YAPIYOR",
+                "channel": "FOX",
+                "start_time": "02:02:20",
+                "end_time": "02:23:47",
+                "rating": 4.0,
+                "share": 22.7
+            },
+            {
+                "rank": 5,
+                "name": "FOX'TA SINAN OGAN OZEL",
+                "channel": "FOX",
+                "start_time": "02:29:35",
+                "end_time": "02:47:49",
+                "rating": 3.85,
+                "share": 26.79
+            },
+            {
+                "rank": 6,
+                "name": "FOX'TA MILLET ITTIFAKI LIDERLERI ACIKLAMA YAPIYOR",
+                "channel": "FOX",
+                "start_time": "02:59:08",
+                "end_time": "03:01:14",
+                "rating": 3.67,
+                "share": 32.18
+            },
+            {
+                "rank": 7,
+                "name": "FOX'TA SECIM ANALIZI/SIMDI NE OLACAK/SECIM SONUCLARI/SECIM GECESI",
+                "channel": "FOX",
+                "start_time": "02:00:00",
+                "end_time": "03:25:46",
+                "rating": 3.55,
+                "share": 25.55
+            },
+            {
+                "rank": 8,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "20:59:49",
+                "end_time": "24:00:17",
+                "rating": 2.98,
+                "share": 8.38
+            },
+            {
+                "rank": 9,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:29",
+                "end_time": "21:00:07",
+                "rating": 2.91,
+                "share": 9.63
+            },
+            {
+                "rank": 10,
+                "name": "YASAK ELMA (TKR)",
+                "channel": "FOX",
+                "start_time": "20:00:14",
+                "end_time": "22:17:11",
+                "rating": 2.39,
+                "share": 7.19
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "21:00:07",
+                "end_time": "24:12:13",
+                "rating": 6.17,
+                "share": 15.48
+            },
+            {
+                "rank": 2,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "18:59:56",
+                "end_time": "20:00:04",
+                "rating": 4.68,
+                "share": 17.48
+            },
+            {
+                "rank": 3,
+                "name": "FOX'TA ERDOGAN ACIKLAMA YAPIYOR",
+                "channel": "FOX",
+                "start_time": "02:02:20",
+                "end_time": "02:23:47",
+                "rating": 4.63,
+                "share": 23.31
+            },
+            {
+                "rank": 4,
+                "name": "ALPARSLAN BUYUK SELCUKLU",
+                "channel": "TRT 1",
+                "start_time": "20:57:07",
+                "end_time": "23:56:41",
+                "rating": 4.62,
+                "share": 11.37
+            },
+            {
+                "rank": 5,
+                "name": "FOX'TA SINAN OGAN OZEL",
+                "channel": "FOX",
+                "start_time": "02:29:35",
+                "end_time": "02:47:49",
+                "rating": 4.29,
+                "share": 26.56
+            },
+            {
+                "rank": 6,
+                "name": "FOX'TA SECIM ANALIZI/SIMDI NE OLACAK/SECIM SONUCLARI/SECIM GECESI",
+                "channel": "FOX",
+                "start_time": "02:00:00",
+                "end_time": "03:25:46",
+                "rating": 3.89,
+                "share": 24.83
+            },
+            {
+                "rank": 7,
+                "name": "FOX'TA MILLET ITTIFAKI LIDERLERI ACIKLAMA YAPIYOR",
+                "channel": "FOX",
+                "start_time": "02:59:08",
+                "end_time": "03:01:14",
+                "rating": 3.68,
+                "share": 27.67
+            },
+            {
+                "rank": 8,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "20:59:49",
+                "end_time": "24:00:17",
+                "rating": 3.52,
+                "share": 8.71
+            },
+            {
+                "rank": 9,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:29",
+                "end_time": "21:00:07",
+                "rating": 3.41,
+                "share": 9.58
+            },
+            {
+                "rank": 10,
+                "name": "SURVIVOR",
+                "channel": "TV8",
+                "start_time": "20:53:17",
+                "end_time": "24:29:37",
+                "rating": 3.02,
+                "share": 7.93
+            }
+        ]
+    }
+}
