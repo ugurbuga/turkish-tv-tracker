@@ -1,0 +1,282 @@
+{
+    "date": "2023-04-24",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "ALPARSLAN BUYUK SELCUKLU",
+                "channel": "TRT 1",
+                "start_time": "21:00:01",
+                "end_time": "23:52:42",
+                "rating": 5.92,
+                "share": 15.14
+            },
+            {
+                "rank": 2,
+                "name": "YASAK ELMA",
+                "channel": "FOX",
+                "start_time": "20:58:15",
+                "end_time": "23:29:27",
+                "rating": 4.89,
+                "share": 12.14
+            },
+            {
+                "rank": 3,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:03",
+                "rating": 4.45,
+                "share": 15.66
+            },
+            {
+                "rank": 4,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:53",
+                "end_time": "19:56:26",
+                "rating": 4.36,
+                "share": 15.02
+            },
+            {
+                "rank": 5,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:52:51",
+                "end_time": "24:18:02",
+                "rating": 4.27,
+                "share": 11.27
+            },
+            {
+                "rank": 6,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:53",
+                "end_time": "18:59:48",
+                "rating": 3.93,
+                "share": 20.89
+            },
+            {
+                "rank": 7,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "13:00:00",
+                "rating": 3.93,
+                "share": 30.24
+            },
+            {
+                "rank": 8,
+                "name": "BIR KUCUK GUN ISIGI",
+                "channel": "ATV",
+                "start_time": "20:45:23",
+                "end_time": "24:18:07",
+                "rating": 3.45,
+                "share": 9.05
+            },
+            {
+                "rank": 9,
+                "name": "YASAK ELMA (OZET)",
+                "channel": "FOX",
+                "start_time": "20:01:20",
+                "end_time": "20:58:10",
+                "rating": 2.99,
+                "share": 8.11
+            },
+            {
+                "rank": 10,
+                "name": "ALPARSLAN BUYUK SELCUKLU (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:39",
+                "end_time": "21:00:01",
+                "rating": 2.85,
+                "share": 7.68
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "ALPARSLAN BUYUK SELCUKLU",
+                "channel": "TRT 1",
+                "start_time": "21:00:01",
+                "end_time": "23:52:42",
+                "rating": 5.75,
+                "share": 15.83
+            },
+            {
+                "rank": 2,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:52:51",
+                "end_time": "24:18:02",
+                "rating": 5.62,
+                "share": 15.99
+            },
+            {
+                "rank": 3,
+                "name": "YASAK ELMA",
+                "channel": "FOX",
+                "start_time": "20:58:15",
+                "end_time": "23:29:27",
+                "rating": 4.1,
+                "share": 11.07
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:03",
+                "rating": 3.84,
+                "share": 16.47
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "13:00:00",
+                "rating": 3.53,
+                "share": 30.63
+            },
+            {
+                "rank": 6,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:12",
+                "end_time": "20:52:51",
+                "rating": 3.06,
+                "share": 9.68
+            },
+            {
+                "rank": 7,
+                "name": "YASAK ELMA (OZET)",
+                "channel": "FOX",
+                "start_time": "20:01:20",
+                "end_time": "20:58:10",
+                "rating": 2.98,
+                "share": 9.41
+            },
+            {
+                "rank": 8,
+                "name": "ALPARSLAN BUYUK SELCUKLU (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:39",
+                "end_time": "21:00:01",
+                "rating": 2.47,
+                "share": 7.72
+            },
+            {
+                "rank": 9,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:53",
+                "end_time": "19:56:26",
+                "rating": 2.45,
+                "share": 10.39
+            },
+            {
+                "rank": 10,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:53",
+                "end_time": "18:59:48",
+                "rating": 2.25,
+                "share": 15.52
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "ALPARSLAN BUYUK SELCUKLU",
+                "channel": "TRT 1",
+                "start_time": "21:00:01",
+                "end_time": "23:52:42",
+                "rating": 6.2,
+                "share": 15.01
+            },
+            {
+                "rank": 2,
+                "name": "YASAK ELMA",
+                "channel": "FOX",
+                "start_time": "20:58:15",
+                "end_time": "23:29:27",
+                "rating": 5.44,
+                "share": 12.83
+            },
+            {
+                "rank": 3,
+                "name": "OMER",
+                "channel": "STAR TV",
+                "start_time": "20:52:51",
+                "end_time": "24:18:02",
+                "rating": 5.36,
+                "share": 13.43
+            },
+            {
+                "rank": 4,
+                "name": "SELCUK TEPELI ILE FOX ANA HABER",
+                "channel": "FOX",
+                "start_time": "19:00:02",
+                "end_time": "20:00:03",
+                "rating": 4.45,
+                "share": 16.86
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "09:59:57",
+                "end_time": "13:00:00",
+                "rating": 4.45,
+                "share": 32.57
+            },
+            {
+                "rank": 6,
+                "name": "YASAK ELMA (OZET)",
+                "channel": "FOX",
+                "start_time": "20:01:20",
+                "end_time": "20:58:10",
+                "rating": 3.55,
+                "share": 9.77
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "18:59:53",
+                "end_time": "19:56:26",
+                "rating": 3.26,
+                "share": 12.13
+            },
+            {
+                "rank": 8,
+                "name": "OMER (OZET)",
+                "channel": "STAR TV",
+                "start_time": "19:59:12",
+                "end_time": "20:52:51",
+                "rating": 3.16,
+                "share": 8.72
+            },
+            {
+                "rank": 9,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:53",
+                "end_time": "18:59:48",
+                "rating": 2.92,
+                "share": 16.95
+            },
+            {
+                "rank": 10,
+                "name": "VEDA MEKTUBU",
+                "channel": "KANAL D",
+                "start_time": "21:00:11",
+                "end_time": "24:17:14",
+                "rating": 2.79,
+                "share": 6.94
+            }
+        ]
+    }
+}
