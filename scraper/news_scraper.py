@@ -14,6 +14,7 @@ from urllib.parse import urljoin, urlparse, urldefrag
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
+from crypto_utils import xor_encrypt, xor_decrypt
 
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -35,7 +36,8 @@ RELATED_CARD_CLASS = base64.b64decode(
 ).decode("utf-8")
 
 SOURCE_NAME = "News"
-PAGE_COUNT = 5
+PAGE_COUNT = 1
+BACKFILL_START_PAGE = 6
 RETRY_ATTEMPTS = 5
 RETRY_DELAY = 5
 ARTICLE_DELAY = 5
@@ -114,6 +116,76 @@ def normalize_url(url):
         query="",
         fragment=""
     ).geturl().rstrip("/") + "/"
+
+
+
+def decode_url_value(value, field_name="URL", normalize=False):
+    if not value:
+        return value
+
+    value = str(value).strip()
+    parsed = urlparse(value)
+
+    if parsed.scheme in ("http", "https") and parsed.netloc:
+        return normalize_url(value) if normalize else value
+
+    candidates = [value]
+    if value.endswith("/"):
+        candidates.append(value[:-1])
+
+    for candidate in candidates:
+        try:
+            decoded = xor_decrypt(candidate)
+            parsed = urlparse(decoded)
+
+            if parsed.scheme in ("http", "https") and parsed.netloc:
+                return normalize_url(decoded) if normalize else decoded
+        except Exception:
+            continue
+
+    raise ValueError(f"{field_name} çözülemedi.")
+
+
+def decode_source_url(value):
+    if not value:
+        raise ValueError("sourceUrl boş.")
+
+    return decode_url_value(
+        value,
+        field_name="sourceUrl",
+        normalize=True
+    )
+
+
+def encode_url_value(value, field_name="URL", normalize=False):
+    if not value:
+        return value
+
+    decoded = decode_url_value(
+        value,
+        field_name=field_name,
+        normalize=normalize
+    )
+
+    return xor_encrypt(decoded)
+
+
+def decode_image_fields(item):
+    if item.get("imageUrl"):
+        item["imageUrl"] = decode_url_value(
+            item["imageUrl"],
+            field_name="imageUrl"
+        )
+
+    images = item.get("images")
+    if isinstance(images, list):
+        item["images"] = [
+            decode_url_value(image, field_name="images")
+            if image else image
+            for image in images
+        ]
+
+    return item
 
 
 def is_article_url(url):
@@ -740,8 +812,10 @@ def load_news_archive():
         if not source_url:
             continue
 
-        normalized = normalize_url(source_url)
+        normalized = decode_source_url(source_url)
         item["sourceUrl"] = normalized
+
+        decode_image_fields(item)
 
         previous = deduplicated.get(normalized)
 
@@ -782,6 +856,27 @@ def save_daily_news(records):
 
         for item in daily_records:
             saved_item = dict(item)
+            if saved_item.get("sourceUrl"):
+                saved_item["sourceUrl"] = encode_url_value(
+                    saved_item["sourceUrl"],
+                    field_name="sourceUrl",
+                    normalize=True
+                )
+
+            if saved_item.get("imageUrl"):
+                saved_item["imageUrl"] = encode_url_value(
+                    saved_item["imageUrl"],
+                    field_name="imageUrl"
+                )
+
+            images = saved_item.get("images")
+            if isinstance(images, list):
+                saved_item["images"] = [
+                    encode_url_value(image, field_name="images")
+                    if image else image
+                    for image in images
+                ]
+
             saved_item.pop("_archiveDate", None)
             saved_item.pop("summary", None)
             saved_item.pop("articleText", None)
@@ -821,8 +916,8 @@ def backup_news_archive(label="backup"):
 def load_state():
     if not STATE_FILE.exists():
         return {
-            "nextPage": PAGE_COUNT + 1,
-            "completed": False,
+            "nextBackfillPage": BACKFILL_START_PAGE,
+            "backfillCompleted": False,
         }
 
     try:
@@ -833,18 +928,26 @@ def load_state():
             raise ValueError("Durum dosyası nesne değil.")
 
         return {
-            "nextPage": max(
-                PAGE_COUNT + 1,
-                int(state.get("nextPage", PAGE_COUNT + 1))
+            "nextBackfillPage": max(
+                BACKFILL_START_PAGE,
+                int(state.get(
+                    "nextBackfillPage",
+                    state.get("nextPage", BACKFILL_START_PAGE)
+                ))
             ),
-            "completed": bool(state.get("completed", False)),
+            "backfillCompleted": bool(
+                state.get(
+                    "backfillCompleted",
+                    state.get("completed", False)
+                )
+            ),
         }
 
     except (OSError, ValueError, json.JSONDecodeError) as error:
         print("Tarama durumu okunamadı:", str(error))
         return {
-            "nextPage": PAGE_COUNT + 1,
-            "completed": False,
+            "nextBackfillPage": BACKFILL_START_PAGE,
+            "backfillCompleted": False,
         }
 
 
@@ -915,6 +1018,13 @@ def upsert_pending(article, records, existing, error):
 
 
 def process_listing_page(page_number, articles, records, existing, api_key):
+
+    articles = sorted(
+        articles,
+        key=lambda item: item.get("publishedAt") or "",
+        reverse=True
+    )
+
     print(f"\n========== LİSTE SAYFASI {page_number} ==========")
 
     all_success = True
@@ -925,9 +1035,10 @@ def process_listing_page(page_number, articles, records, existing, api_key):
 
         current = existing.get(url)
 
-        if current and current.get("aiStatus") == "completed":
+        if current:
             print(
-                f"\n[{index}/{len(articles)}] Tamamlanmış haber korunuyor:",
+                f"\n[{index}/{len(articles)}] "
+                "Daha önce arşivlenmiş haber atlanıyor:",
                 listing_article["sourceTitle"]
             )
 
@@ -1034,9 +1145,8 @@ def process_listing_page(page_number, articles, records, existing, api_key):
                     error
                 )
 
-        if index < len(articles):
-            print(f"Haber sonrası bekleme: {ARTICLE_DELAY} saniye.")
-            time.sleep(ARTICLE_DELAY)
+        print(f"Haber sonrası bekleme: {ARTICLE_DELAY} saniye.")
+        time.sleep(ARTICLE_DELAY)
 
     return all_success
 
@@ -1071,7 +1181,7 @@ def main():
     if backup:
         print("Arşiv yedeği:", backup)
 
-    # Her çalışmada ilk beş güncel liste sayfasını tara.
+    # Her çalışmada ilk güncel liste sayfasını tara.
     print("\n========== GÜNCEL HABERLER ==========")
 
     for page_number in range(1, PAGE_COUNT + 1):
@@ -1101,12 +1211,12 @@ def main():
     # Her çalışmada sıradaki tek eski sayfayı tara.
     state = load_state()
 
-    if state["completed"]:
+    if state["backfillCompleted"]:
         print("\nEski haber taraması daha önce tamamlanmış.")
-        print("Sonraki sayfa:", state["nextPage"])
+        print("Sonraki sayfa:", state["nextBackfillPage"])
 
     else:
-        page_number = state["nextPage"]
+        page_number = state["nextBackfillPage"]
 
         print("\n========== ESKİ HABER TARAMASI ==========")
         print("Sıradaki eski sayfa:", page_number)
@@ -1115,7 +1225,7 @@ def main():
             articles = request_listing_with_retry(page_number)
 
             if articles is None:
-                state["completed"] = True
+                state["backfillCompleted"] = True
                 save_state(state)
                 print("Eski haberlerin sonuna ulaşıldı.")
 
@@ -1129,12 +1239,12 @@ def main():
                 )
 
                 if page_success:
-                    state["nextPage"] = page_number + 1
+                    state["nextBackfillPage"] = page_number + 1
                     save_state(state)
 
                     print(
                         "Eski sayfa tamamlandı. Sonraki sayfa:",
-                        state["nextPage"]
+                        state["nextBackfillPage"]
                     )
 
                 else:
@@ -1166,8 +1276,8 @@ def main():
     print("Toplam benzersiz haber:", len(records))
     print("Tamamlanan:", completed)
     print("Bekleyen:", pending)
-    print("Eski haber sıradaki sayfa:", state["nextPage"])
-    print("Eski haber taraması tamamlandı:", state["completed"])
+    print("Eski haber sıradaki sayfa:", state["nextBackfillPage"])
+    print("Eski haber taraması tamamlandı:", state["backfillCompleted"])
     print("Arşiv klasörü:", NEWS_DIR)
 
 
