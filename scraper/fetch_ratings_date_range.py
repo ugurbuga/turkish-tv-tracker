@@ -1,6 +1,6 @@
 
 import time
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 
 import requests
 
@@ -17,6 +17,7 @@ from ratings_scraper import (
 
 START_DATE = "2026-10-07"
 END_DATE = "2026-11-05"
+MIN_DATE = date(2023, 1, 1)
 
 # ==================================================
 
@@ -33,6 +34,8 @@ def main():
     start_date = datetime.strptime(START_DATE, "%Y-%m-%d").date()
     end_date = datetime.strptime(END_DATE, "%Y-%m-%d").date()
 
+    if start_date < MIN_DATE:
+        raise ValueError("2023-01-01 öncesi için reyting verisi bulunmuyor!")
     if start_date > end_date:
         raise ValueError("Başlangıç tarihi bitiş tarihinden büyük olamaz!")
 

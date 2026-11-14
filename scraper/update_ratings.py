@@ -1,7 +1,7 @@
 
 import time
 
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -12,6 +12,9 @@ from ratings_scraper import (
     parse_ratings_report,
     save_ratings_report,
 )
+
+
+MIN_DATE = date(2023, 1, 1)
 
 
 REPORT_TYPES = {
@@ -44,9 +47,12 @@ def main():
             continue
         
     if existing_dates:
-        start_date = min(existing_dates) - timedelta(days=10)
+        start_date = max(
+            MIN_DATE,
+            min(existing_dates) - timedelta(days=10)
+        )
     else:
-        start_date = yesterday
+        start_date = max(MIN_DATE, yesterday)
 
     if start_date > yesterday:
         print("Eksik reyting günü bulunmuyor.")
