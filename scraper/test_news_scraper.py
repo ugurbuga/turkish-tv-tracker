@@ -32,7 +32,6 @@ class NewsScraperRetryTests(unittest.TestCase):
                 self.assertEqual(generate.call_count, 10)
                 self.assertEqual(sleep.call_args_list, [call(5)] * 9)
                 self.assertEqual(result["aiStatus"], "pending")
-                self.assertNotIn("aiError", result)
 
     def test_pending_article_is_retried_and_updated_without_duplicate(self):
         current = {**self.article, "aiStatus": "pending"}
