@@ -37,9 +37,8 @@ RELATED_CARD_CLASS = base64.b64decode(
 SOURCE_NAME = "News"
 PAGE_COUNT = 1
 BACKFILL_START_PAGE = 6
-RETRY_ATTEMPTS = 5
+RETRY_ATTEMPTS = 10
 RETRY_DELAY = 5
-GEMINI_DELAY = 5
 
 PREFERRED_MODELS = [
     "models/gemini-3.5-flash-lite",
@@ -718,14 +717,9 @@ def generate_with_gemini(article, api_key):
 def process_article(article, api_key):
     print("\nGemini işliyor:", article["sourceTitle"])
 
-    last_error = None
-
     for attempt in range(1, RETRY_ATTEMPTS + 1):
         try:
             result = generate_with_gemini(article, api_key)
-
-            print(f"Gemini sonrası bekleme: {GEMINI_DELAY} saniye.")
-            time.sleep(GEMINI_DELAY)
 
             title = clean_text(result.get("title"))
             content = result.get("content")
@@ -751,8 +745,6 @@ def process_article(article, api_key):
             }
 
         except Exception as error:
-            last_error = error
-
             print(
                 f"Gemini hatası ({attempt}/{RETRY_ATTEMPTS}):",
                 type(error).__name__,
@@ -763,18 +755,12 @@ def process_article(article, api_key):
                 print(f"{RETRY_DELAY} saniye sonra tekrar denenecek.")
                 time.sleep(RETRY_DELAY)
 
-    message = (
-        f"{type(last_error).__name__}: {last_error}"
-        if last_error else "Gemini işlemi tamamlanamadı."
-    )
-
     return {
         "title": article["sourceTitle"],
         "content": "",
         "series": None,
         "aiProvider": None,
         "aiStatus": "pending",
-        "aiError": message[:1000],
     }
 
 
@@ -947,7 +933,7 @@ def save_state(state):
     os.replace(temp_file, STATE_FILE)
 
 
-def upsert_pending(article, records, existing, error):
+def upsert_pending(article, records, existing):
     url = normalize_url(article["sourceUrl"])
     current = existing.get(url)
 
@@ -973,7 +959,6 @@ def upsert_pending(article, records, existing, error):
         existing[url] = current
 
     current["aiStatus"] = "pending"
-    current["aiError"] = str(error)[:1000]
     current["sourceTitle"] = (
         article.get("sourceTitle")
         or current.get("sourceTitle")
@@ -1002,7 +987,12 @@ def upsert_pending(article, records, existing, error):
     save_daily_news(records)
 
 
-def process_listing_page(page_number, articles, records, existing, api_key):
+def process_listing_page(
+    page_number, articles, records, existing, api_key, attempted_urls=None
+):
+
+    if attempted_urls is None:
+        attempted_urls = set()
 
     articles = sorted(
         articles,
@@ -1020,7 +1010,15 @@ def process_listing_page(page_number, articles, records, existing, api_key):
 
         current = existing.get(url)
 
-        if current:
+        if url in attempted_urls:
+            print("Bu çalışmada daha önce işlenen haber atlanıyor:", url)
+            if not current or current.get("aiStatus") != "completed":
+                all_success = False
+            continue
+
+        attempted_urls.add(url)
+
+        if current and current.get("aiStatus") == "completed":
             print(
                 f"\n[{index}/{len(articles)}] "
                 "Daha önce arşivlenmiş haber atlanıyor:",
@@ -1080,7 +1078,6 @@ def process_listing_page(page_number, articles, records, existing, api_key):
                             datetime.now(timezone.utc).isoformat()
                         )
                         current["_archiveDate"] = archive_date
-                        current.pop("aiError", None)
 
                     else:
                         current = {
@@ -1110,8 +1107,7 @@ def process_listing_page(page_number, articles, records, existing, api_key):
                     upsert_pending(
                         article,
                         records,
-                        existing,
-                        generated.get("aiError", "Gemini başarısız.")
+                        existing
                     )
 
             except Exception as error:
@@ -1126,8 +1122,7 @@ def process_listing_page(page_number, articles, records, existing, api_key):
                 upsert_pending(
                     article,
                     records,
-                    existing,
-                    error
+                    existing
                 )
 
 
@@ -1159,6 +1154,23 @@ def main():
         sum(1 for item in records if item.get("aiStatus") == "pending")
     )
 
+    attempted_urls = set()
+    pending_articles = [
+        dict(item) for item in records
+        if item.get("aiStatus") == "pending"
+    ]
+
+    if pending_articles:
+        print("\n========== BEKLEYEN HABERLER ==========")
+        process_listing_page(
+            "pending",
+            pending_articles,
+            records,
+            existing,
+            gemini_key,
+            attempted_urls
+        )
+
     # Her çalışmada ilk güncel liste sayfasını tara.
     print("\n========== GÜNCEL HABERLER ==========")
 
@@ -1176,7 +1188,8 @@ def main():
                 articles,
                 records,
                 existing,
-                gemini_key
+                gemini_key,
+                attempted_urls
             )
 
         except Exception as error:
@@ -1213,7 +1226,8 @@ def main():
                     articles,
                     records,
                     existing,
-                    gemini_key
+                    gemini_key,
+                    attempted_urls
                 )
 
                 if page_success:

@@ -1,11 +1,11 @@
 [
   {
     "id": "a52b858c291b40e0ab69",
-    "title": "“Kuyu” dizisinin kadrosuna yeni oyuncular",
-    "content": "",
-    "series": null,
-    "aiProvider": null,
-    "aiStatus": "pending",
+    "title": "Tabii'nin Yeni Dizisi 'Kuyu'nun Kadrosuna Ödüllü Oyuncu Dahil Oldu",
+    "content": "<p>tabii platformu için hazırlıkları süren ve yapımcılığını İkinci Yeni Yapım'ın üstlendiği <strong>Kuyu</strong> dizisi, 19 Eylül tarihinde sete çıkmaya hazırlanıyor. Yönetmenliğini Recai Karagöz'ün yaptığı ve 10 bölümden oluşacak olan projenin kadrosuna, başarılı ve ödüllü oyuncu Erdem Şenocak katıldı.</p><p>Dizide <strong>Selçuk</strong> karakterini canlandıracak olan Şenocak, hikaye gereği 18 yıl boyunca komada kaldıktan sonra uyanan <strong>Leyla</strong> karakterinin en büyük destekçisi olarak izleyici karşısına çıkacak.</p><h2>Güçlü Oyuncu Kadrosu Dikkat Çekiyor</h2><p>Volkan Sümbül tarafından kaleme alınan dizinin başrollerini ise şu isimler paylaşıyor:</p><ul><li>Burçin Terzioğlu (Leyla)</li><li>Barış Falay (Tahir)</li><li>Haktan Zavlak (Demir)</li><li>Oğuzhan Karbi (Yiğit)</li><li>Suzan Kardeş (Hanzade)</li><li>Erol Babaoğlu (Uluç)</li></ul><p>Projenin zengin oyuncu kadrosunda ayrıca Arif Pişkin (Rıza), Duygu Kocabıyık (Melek), Özgür Meriç (Aslan), Mazhar Alican Ulu (Poyraz), Ecre Güldrama Bay (Aylin) ve Mustafa Uzunyılmaz (Sinan) gibi isimler de yer alıyor.</p>",
+    "series": "Kuyu",
+    "aiProvider": "gemini",
+    "aiStatus": "completed",
     "sourceTitle": "“Kuyu” dizisinin kadrosuna yeni oyuncular",
     "source": "News",
     "sourceUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhAfVx1dChYSEF9JW0pbRR0bGwVEGAlJBhleARwAThIAHEQfX0tDGhYHBwgBRxpDQhhNXQ==",
@@ -15,8 +15,7 @@
       "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUWyUJAh8WM11CHXtbFRIXRltDWhtZRhRZQ1BOChFfHwEeBgJaQEJFAwMNSg=="
     ],
     "publishedAt": "2026-09-11T23:47:47+03:00",
-    "fetchedAt": "2026-11-15T06:20:20.508789+00:00",
-    "aiError": "RuntimeError: Gemini HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.5-flash-lite, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\\nPlease retry in 1h39m39.534081744s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quot"
+    "fetchedAt": "2026-11-15T07:14:29.097213+00:00"
   },
   {
     "id": "4e3cd03f2073b17a8ea1",
@@ -38,11 +37,11 @@
   },
   {
     "id": "e9d36966de598a5a964a",
-    "title": "“Kızılcık Şerbeti” dizisinin 5. sezon afişi yayınlandı",
-    "content": "",
-    "series": null,
-    "aiProvider": null,
-    "aiStatus": "pending",
+    "title": "Kızılcık Şerbeti'nin 5. Sezon Afişi Görücüye Çıktı",
+    "content": "<p>Show TV ekranlarının büyük bir ilgiyle takip edilen popüler yapımı <strong>Kızılcık Şerbeti</strong>, 18 Eylül Cuma akşamı izleyiciyle buluşmaya hazırlanıyor. Gold Film bünyesinde Faruk Turgut'un yapımcılığını üstlendiği dizinin merakla beklenen yeni sezon afişi nihayet paylaşıldı.</p><p>Senaryosunu Melis Civelek ile Zeynep Gür'ün kaleme aldığı, yönetmen koltuğunda ise Özgür Sevimli'nin oturduğu yapımın afişinde toplam dokuz oyuncu boy gösteriyor.</p><h2>Altı Aylık Zaman Atlaması</h2><p>Ard arda gelen ayrılık haberleriyle adından söz ettiren dizinin 5. sezon afişinde yer alan isimler de netleşti. Yeni sezonda;</p><ul><li>Evrim Alasya</li><li>Barış Kılıç</li><li>Ahmet Mümtaz Taylan</li><li>Erkan Avcı</li><li>Özge Borak</li><li>Seray Kaya</li><li>Emre Dinler</li><li>Servet Pandur</li><li>Murat Aygen</li></ul><p>yer alıyor. Öte yandan, popüler yapımın yeni sezonuna dikkat çeken bir mezarlık sahnesiyle start alacağı ifade ediliyor.</p>",
+    "series": "Kızılcık Şerbeti",
+    "aiProvider": "gemini",
+    "aiStatus": "completed",
     "sourceTitle": "“Kızılcık Şerbeti” dizisinin 5. sezon afişi yayınlandı",
     "source": "News",
     "sourceUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhAfVx1dCgoRDB5OW1sfRREHEA4dGkVJHQxEBxsPCgVIRwBBVUhZGlgTDQAAAQANF1QdHA0CBQEbAgUHBgJGWg==",
@@ -52,16 +51,15 @@
       "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUWzkIGQIJEURZHWFTBhcXHwBdAl0TWEcEFwY="
     ],
     "publishedAt": "2026-09-11T17:03:50+03:00",
-    "fetchedAt": "2026-11-15T06:21:07.216668+00:00",
-    "aiError": "RuntimeError: Gemini HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.5-flash-lite, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\\nPlease retry in 1h38m52.821710534s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quot"
+    "fetchedAt": "2026-11-15T08:02:12.202307+00:00"
   },
   {
     "id": "9321d6372e396640052e",
-    "title": "Çetin Tekindor rahatsızlandı, “Çirkin” dizisindeki rolünü Tamer Levent canlandıracak",
-    "content": "",
-    "series": null,
-    "aiProvider": null,
-    "aiStatus": "pending",
+    "title": "Çetin Tekindor'un Sağlık Sorunu Nedeniyle 'Çirkin' Dizisindeki Rolünü Tamer Levent Üstlenecek",
+    "content": "<p>Usta oyuncu Çetin Tekindor'un sağlık problemleri sebebiyle bir süredir hastanede tedavi altına alındığı öğrenildi. 81 yaşındaki değerli aktörün kan değerlerinin yüksek olması nedeniyle, kadrosunda yer aldığı \"Çirkin\" adlı dizinin çekimlerine katılamadığı ifade edildi.</p><p>Yapım şirketi 25 Film, yaşanan bu durum üzerine usta ismin sahnelerinde gecikmeye gitti. Fakat yapılan değerlendirmelerde, Tekindor'un henüz kameralar karşısına geçebilecek güce ve sağlığa kavuşmadığı netlik kazandı.</p><h2>Tamer Levent Ökkeş Rolünü Devralıyor</h2><p>Gelişmelerin ardından yapım ekibi önemli bir karar alarak, Çetin Tekindor'un canlandırdığı \"Ökkeş\" karakterini bir süre için deneyimli oyuncu Tamer Levent'in oynamasını kararlaştırdı.</p><p>Pazartesi günü itibarıyla set çalışmalarına başlayacak olan Tamer Levent, asıl oyuncu sağlığına kavuşup işinin başına dönene kadar bu karakteri canlandırmayı sürdürecek. Öte yandan, Çetin Tekindor ile Tamer Levent daha önce \"Yalı Çapkını\" dizisinde de birlikte rol almışlardı.</p>",
+    "series": "Çirkin",
+    "aiProvider": "gemini",
+    "aiStatus": "completed",
     "sourceTitle": "Çetin Tekindor rahatsızlandı, “Çirkin” dizisindeki rolünü Tamer Levent canlandıracak",
     "source": "News",
     "sourceUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhAfVx1dAgYfDBwARlVZXxoRHRlEAQlFFQJeHQgNAgUBGwBRWUBdHRtfDwAJAV4dGEkRGQhOGQoeWFxFH0IVGBcZRB8NWxEYWVkRAA0HBBxJW0JTVRUeXVxeR1sUWw==",
@@ -71,16 +69,15 @@
       "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUW0MDChkWF0NTXEZDGgETGDZCXxpATh1EQ1JUNFZKGwEGAANARkVTUERbGUJEGEwtU1FYU0seAAMAA0RbBQ4LAw=="
     ],
     "publishedAt": "2026-09-11T14:51:59+03:00",
-    "fetchedAt": "2026-11-15T06:21:28.879639+00:00",
-    "aiError": "RuntimeError: Gemini HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.5-flash-lite, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\\nPlease retry in 1h38m31.158026062s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quot"
+    "fetchedAt": "2026-11-15T08:02:13.982277+00:00"
   },
   {
     "id": "817a035145ca9cd32264",
-    "title": "Ali Atay, OGM Pictures’ın ilk sinema filmi “Köpek Balıkları”na hazırlanıyor",
-    "content": "",
+    "title": "OGM Pictures'ın İlk Sinema Filmi 'Köpek Balıkları' İçin Ali Atay İle Anlaşma Sağlandı",
+    "content": "<p>Onur Güvenatam'ın liderliğindeki OGM Pictures, sinema salonlarında izleyici karşısına çıkacak ilk film projesi için hazırlıklarına hız kazandırdı. Bu kapsamda şirket, ünlü isim Ali Atay ile ortak bir çalışmaya imza atıyor.</p><p>Komedi türündeki <strong>“Köpek Balıkları”</strong> isimli yapımın senaryosu, Ali Atay ve ekibi tarafından hazırlandı. Oyunculuk kariyerinin yanı sıra yönetmenliği ve yazarlığıyla da tanınan Atay, projede başrol oyuncularından biri olarak da yer alacak.</p><p>Geniş ve sürpriz oyuncu kadrosuyla öne çıkması beklenen filmin hazırlıkları titiz bir şekilde yürütülüyor. Çekimlerine yakın bir zamanda başlanması planlanan yapımın, 2027 yılında vizyona girmesi öngörülüyor.</p>",
     "series": null,
-    "aiProvider": null,
-    "aiStatus": "pending",
+    "aiProvider": "gemini",
+    "aiStatus": "completed",
     "sourceTitle": "Ali Atay, OGM Pictures’ın ilk sinema filmi “Köpek Balıkları”na hazırlanıyor",
     "source": "News",
     "sourceUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhAfVx1dAA8CSBNZU0kfWRMYXxsAEBxYBhNeHRxMCgcOX15bXldbFVgUAgUeAQAfGV0RGUwBCgkbRl5RQF8aFF8DCAkBXxgXQx0LDhFEUkUZAQId",
@@ -91,7 +88,42 @@
       "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUWzMtKkYkJmxrHQMYHgUXDA=="
     ],
     "publishedAt": "2026-09-11T13:34:16+03:00",
-    "fetchedAt": "2026-11-15T06:21:50.614780+00:00",
-    "aiError": "RuntimeError: Gemini HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.5-flash-lite, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\\nPlease retry in 1h38m9.420500921s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quota"
+    "fetchedAt": "2026-11-15T08:02:15.926015+00:00"
+  },
+  {
+    "id": "f1ca61fb0933afb184c5",
+    "title": "Sıla Türkoğlu ve Serkan Çayoğlu'lu The Knot: Gateway to Anatolia Dizisinden Yeni Kareler Yayınlandı",
+    "content": "<p>Go Türkiye serisinin yeni yapımı <strong>“The Knot: Gateway to Anatolia”</strong> izleyicilerin beğenisine sunuldu. Süreç Film imzalı dizinin başrollerini, sanat tarihçisi Bahar karakteriyle <em>Sıla Türkoğlu</em> ve sanat tarihçisi Toprak rolüyle <em>Serkan Çayoğlu</em> paylaşıyor. Bu iki isme, Profesör karakterine hayat veren <em>Levent Özdilek</em> eşlik ediyor. Yönetmenliğini Yunus Ozan Korkut'un üstlendiği projenin senaryosu ise Melih Özyılmaz ve Elif Türker tarafından kaleme alındı.</p>\n\n<h2>Akademik Rekabetten Keşif Yolculuğuna</h2>\n<p>Romantizm, sanat, tarih ve keşif unsurlarını harmanlayan yapım, aynı üniversitede çalışabilmek için mücadele eden Toprak ve Bahar'ın akademik rekabetiyle açılış yapıyor. Türkiye'nin kültürel ve tarihi mirasının peşine düşen ikilinin yolları bir keşif macerasında birleşiyor. Hikayede Ankara ana merkez olarak yer alırken; Eskişehir, Konya ve Çorum'un çeşitli destinasyonları da olayların merkezi haline geliyor.</p>\n\n<h2>Anadolu'nun Binlerce Yıllık Birikimi Ekranda</h2>\n<p>Geçmişin izlerini sürerken birbirlerini de yeniden tanıyan Toprak ve Bahar'ın serüveni, romantik bir anlatıyı Anadolu'nun köklü birikimi ve farklı turizm deneyimleriyle buluşturuyor. Türkiye'nin cazibe merkezlerini özgün anlatılar ve sinematografik projelerle küresel izleyiciye ulaştıran Go Türkiye, bu projede Ankara'dan başlayıp Eskişehir, Konya ve Çorum'a uzanan bir Anadolu rotasını merkeze alıyor.</p>\n\n<p>Gastronomi, doğa, sanat ve tarihi romantik bir macera çerçevesinde buluşturan dizi, ülkenin sadece tarihi zenginliklerini değil, alternatif seyahat deneyimlerini de senaryonun içine dahil ediyor. Böylece Ankara'nın liderliğinde Eskişehir, Konya ve Çorum illerinin turizm potansiyeli etkileyici bir hikaye kurgusuyla uluslararası izleyici kitlesine aktarılıyor.</p>",
+    "series": "The Knot: Gateway to Anatolia",
+    "aiProvider": "gemini",
+    "aiStatus": "completed",
+    "sourceTitle": "Sıla Türkoğlu ve Serkan Çayoğlu’lu “The Knot: Gateway to Anatolia” dizisinden yeni kareler",
+    "source": "News",
+    "sourceUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhAfVx1dEgoHBF9ZR0JZWRMZB0YfFkVeEQRGFRxMAAocHUpeRV5DWQEaDkQYBkIAW0oVBgQUChxfWV0dU1gVAR0HABJFSR0MRAcbDwcOC19UV15bGx8UAA4FFhoCQ0EZRkRO",
+    "sourceDescription": "Go Türkiye serisinin yeni dizisi “The Knot: Gateway to Anatolia” seyirciyle buluştu. Dizinin başrollerinde, sanat tarihçisi Bahar rolüyle Sıla Türkoğlu ile sanat tarihçisi Toprak karakteriyle Serkan Çayoğlu yer alıyor. İkilinin hikayesine Profesör karakterini canlandıran Levent Özdilek eşlik ediyor. Süreç Film imzasını taşıyan “The Knot: Gateway to Anatolia”nın yönetmen koltuğunda Yunus Ozan Korkut otururken, senaryosunu Melih Özyılmaz ve Elif Türker kaleme aldı.\nRomantizm, tarih, sanat ve keşfi aynı hikayede buluşturan “The Knot: Gateway to Anatolia” , aynı üniversitede görev almak isteyen iki sanat tarihçisi Toprak ve Bahar’ın akademik rekabetle başlayan hikayesini konu alıyor. İkilinin yolları, Türkiye’nin tarihi ve kültürel değerlerinin izini sürdükleri bir keşif yolculuğunda kesişirken, ağırlıklı olarak Ankara olmak üzere Eskişehir, Konya ve Çorum’daki farklı destinasyonlar da hikayenin ayrılmaz bir parçası haline geliyor.\nGeçmişin izlerini takip ederken birbirlerini de yeniden keşfeden Toprak ve Bahar’ın yolculuğu, romantik bir hikayeyi Anadolu’nun binlerce yıllık birikimi ve şehirlerin sunduğu farklı turizm deneyimleriyle buluşturuyor. Türkiye’nin destinasyonlarını özgün hik",
+    "imageUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUWzUuMTggPgAEHUFVFRkXD0cZGEo=",
+    "images": [
+      "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUWzUuMTggPgAFHUFVFRkXD0cZGEo=",
+      "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUWzUuMTggPgAHHQMbBxYTBwwXRkcEEQ==",
+      "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUWzUuMTggPgABHQEGRA1AW1ldAl0T"
+    ],
+    "publishedAt": "2026-09-11T13:15:15+03:00",
+    "fetchedAt": "2026-11-15T08:02:18.939519+00:00"
+  },
+  {
+    "id": "3bfd2e2c203f3c54c242",
+    "title": "Merakla Beklenen Anne Yarısı Dizisinin Afişi Görücüye Çıktı",
+    "content": "<p>Sezonun iddialı yapımları arasında gösterilen ve çekimleri Kapadokya'da gerçekleştirilen \"Anne Yarısı\" dizisi için geri sayım başladı. Merakla beklenen yapım, 22 Eylül akşamı ekrana gelecek ilk bölümüyle izleyici karşısına çıkmaya hazırlanıyor. Senaryosu Melis Civelek, Zeynep Gür ve Merve Göntem ortak kalemiyle şekillenen dizinin merakla beklenen resmi afişi de sonunda yayınlandı.</p><h2>Afişteki Detaylar Dikkat Çekiyor</h2><p>Başrollerini Cihangir Ceyhan, Burcu Özberk ve Esra Dermancıoğlu'nun paylaştığı dizinin afişi, izleyicilere tüyolar vermeye başladı. Yayınlanan görselde Ali ile Zeynep'in birbirlerine karşı konumlanan halleri ön plana çıkarken; Altay ailesinin kudretli ismi Meryem ile elinde bavuluyla konağın eşiğinde bekleyen küçük Ege figürleri, yapımda sert hesaplaşmaların yaşanacağının sinyallerini veriyor.</p><h2>Güçlü Oyuncu Kadrosu</h2><p>Yapımcılık koltuğunda Mehmet Yiğit Alp'in oturduğu, yönetmenliğini ise Semih Bağcı'nın üstlendiği projenin geniş oyuncu kadrosu da göz dolduruyor. Cihangir Ceyhan, Burcu Özberk ve Esra Dermancıoğlu üçlüsüne Selen Uçer, Fatih Gühan, Cansu Fırıncı, Mert Denizmen, Merve Şen, Dilşah Demir, İlayda Çevik, Ömer Nadir Civelek, Deniz Gürkan, Berkay Akdemir, Yeliz Korkmaz, Abdurrahman Yunusoğlu, Ürüncan Keskin, Melisa Duru Ünal, Umut Kaplıca ve Murat Balcı gibi başarılı isimler eşlik ediyor.</p>",
+    "series": "Anne Yarısı",
+    "aiProvider": "gemini",
+    "aiStatus": "completed",
+    "sourceTitle": "Anne Yarısı’nın afişi yayınlandı",
+    "source": "News",
+    "sourceUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhAfVx1dAA0FAF9UU0JbRR0bGwVEEg5EBx8ADRMYCgUJE0NWWR0BQ0FAWUY=",
+    "sourceDescription": "“ Anne Yarısı ” dizisi 22 Eylül akşamı ilk bölümüyle seyirciyle buluşacak. Melis Civelek, Zeynep Gür ve Merve Göntem’in yazdığı, Kapadokya’da çekilen dizinin afişi yayınlandı. Cihangir Ceyhan, Burcu Özberk ve Esra Dermancıoğlu ’nu buluşturan afişte, Ali ve Zeynep’in karşı karşıya duran görüntüsü dikkat çekerken, Altay ailesinin güçlü figürü Meryem ile bavuluyla konağın kapısında duran küçük Ege, yaşanacak hesaplaşmaların habercisi oluyor.\nYapımcılığını Mehmet Yiğit Alp ’in üstlendiği, Semih Bağcı ’nın yönettiği dizide Cihangir Ceyhan, Burcu Özberk ve Esra Dermancıoğlu ’na Selen Uçer, Fatih Gühan, Cansu Fırıncı, Mert Denizmen, Merve Şen, Dilşah Demir, İlayda Çevik, Ömer Nadir Civelek, Deniz Gürkan, Berkay Akdemir, Yeliz Korkmaz, Abdurrahman Yunusoğlu, Ürüncan Keskin, Melisa Duru Ünal, Umut Kaplıca ve Murat Balcı eşlik ediyor.",
+    "imageUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUWzMPDQ5IK0xAWUFfWRcbGRoWBgAfH18EHwBOWlJKFAMBBAdFTVwBGRQ=",
+    "images": [],
+    "publishedAt": "2026-09-11T11:46:28+03:00",
+    "fetchedAt": "2026-11-15T08:02:21.010787+00:00"
   }
 ]

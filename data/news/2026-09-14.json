@@ -39,11 +39,11 @@
   },
   {
     "id": "02f515254df8bdbebabb",
-    "title": "Uzak Şehir’in reytingleri kritik önem taşıyor",
-    "content": "",
-    "series": null,
-    "aiProvider": null,
-    "aiStatus": "pending",
+    "title": "Uzak Şehir'in Yeni Sezon Açılışı Dizi Sektörü İçin Kritik Eşik Oldu",
+    "content": "<p>Ekranların reyting rekorları kıran fenomen yapımı <strong>Uzak Şehir</strong>, bu akşam ekrana gelecek 64. bölümüyle izleyici karşısına çıkarak 3. sezonunu açıyor. Yapım, iki sezon boyunca elde ettiği yüksek izlenme oranlarıyla zirvedeki yerini sağlamlaştırırken, yeni sezonun startı bu kez sektörel açıdan ayrı bir önem taşıyor.</p><p>Son dönemde hem yeni başlayan hem de ekran macerasını sürdüren projelerin sezon açılışlarında beklenenin altında reytingler alması dikkat çekti. Bu durum, gözlerin tamamen Uzak Şehir'in alacağı oranlara çevrilmesine neden oldu. Yarın açıklanacak olan reyting sonuçlarının, genel olarak televizyon sektörüne moral depolayıp depolamayacağı merakla bekleniyor.</p>",
+    "series": "Uzak Şehir",
+    "aiProvider": "gemini",
+    "aiStatus": "completed",
     "sourceTitle": "Uzak Şehir’in reytingleri kritik önem taşıyor",
     "source": "News",
     "sourceUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhAfVx1dFBkKDl9eV1hbRB0bXxkMChxEGhFBEQAITgAXG1lbWx9ZGhAfRh0SG0QNGV9bRVZWWFFd",
@@ -53,8 +53,7 @@
       "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YVWwcbAgAWF0VbQlZfDhwtWl5LWBxHRBRERT5QUlVKHgQAAAJBQ0BSXUteHkROckJLVlJeUUsbAgUHGB4FFQ=="
     ],
     "publishedAt": "2026-09-14T17:29:05+03:00",
-    "fetchedAt": "2026-11-15T04:19:06.789496+00:00",
-    "aiError": "RuntimeError: Gemini HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.5-flash-lite, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\\nPlease retry in 3h40m53.216089711s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quot"
+    "fetchedAt": "2026-11-15T07:13:05.840707+00:00"
   },
   {
     "id": "85203cbb3b34b53aefbd",
@@ -95,11 +94,11 @@
   },
   {
     "id": "54db8c4d08cdc7e76a52",
-    "title": "Fatoş Güney’in isyanı: Çatlasınız da patlasanız da Yılmaz Güney büyük bir sinemacı ve halkının efsanesidir",
-    "content": "",
+    "title": "Fatoş Güney'den Yılmaz Güney Tepkisi: Çatlasanız da Patlasanız da Efsanedir",
+    "content": "<p>Türk sinemasının usta ismi Yılmaz Güney, vefatının 42. yıl dönümünde Atlas Sineması'nda gerçekleştirilen özel bir programla yâd edildi.</p><p>Yönetmen Yüksel Aksu ile tanınmış oyuncular Nur Sürer ve Necmettin Çobanoğlu'nun yanı sıra sanatçının eşi Fatoş Güney'in de katıldığı etkinlik, 'Arkadaş' film gösterimi öncesindeki konuşmalarla başladı.</p><h3>Karalama Kampanyalarına Sert Tepki</h3><p>Kürsüye çıktığı sırada ellerinin titrediği görülen Fatoş Güney, usta sinemacı hedef alınarak yürütülen karalama kampanyalarına karşı büyük bir tepki gösterdi.</p><p>Fatoş Güney, yaptığı konuşmada sert ifadeler kullanarak, \"Faşist trollere sesleniyorum; çatlasanız da patlasanız da Yılmaz Güney büyük bir sinemacı ve halkının efsanesi olarak yaşamaya devam edecek\" sözleriyle duruşunu dile getirdi.</p>",
     "series": null,
-    "aiProvider": null,
-    "aiStatus": "pending",
+    "aiProvider": "gemini",
+    "aiStatus": "completed",
     "sourceTitle": "Fatoş Güney’in isyanı: Çatlasınız da patlasanız da Yılmaz Güney büyük bir sinemacı ve halkının efsanesidir",
     "source": "News",
     "sourceUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAhAfVx1dBwIfCgEAVUVcUw0cHEYAABFMGh8AFxMVDwoWG0NbSh9SFVgCCh0fCV4VGEQOXwUCRhwbQV9RSBsTABwOEF4KWA0DRlkQCBFGFhtDV11TVR1YBA5EGwlBHx9DHRxMBg0WE0NXQ1tSHQddXF5HURhb",
@@ -107,8 +106,7 @@
     "imageUrl": "HAEGGxpJRwIDAVpaEAgRGAAcTF5ER1gAFAFFChwFAgMGABcdDxcOCwYCR0BeWRURAURbQ1obW0YUWxQAFwQWX1RbXF9XWRcbGRoWBgAfH18EHwBOWlJKFAAGAg5ER1wcDBEY",
     "images": [],
     "publishedAt": "2026-09-14T04:53:18+03:00",
-    "fetchedAt": "2026-11-15T04:20:02.688166+00:00",
-    "aiError": "RuntimeError: Gemini HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.5-flash-lite, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\\nPlease retry in 3h39m57.317523842s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quot"
+    "fetchedAt": "2026-11-15T08:02:08.238042+00:00"
   },
   {
     "id": "38fbab2396fbfdb31bc2",
