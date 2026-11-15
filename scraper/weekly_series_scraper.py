@@ -92,8 +92,8 @@ def detect_status(text):
         return "Bu hafta yok"
     if "YENI BOLUM" in normalized:
         return "Yeni Bölüm"
-    if "YENI" in normalized and "BOLUM" in normalized:
-        return "Yeni Bölüm"
+    if "OZETSIZ" in normalized:
+        return "Özetsiz"
 
     return None
 
@@ -289,19 +289,6 @@ def main():
         parents=True,
         exist_ok=True
     )
-
-    if OUTPUT.exists():
-        existing = json.loads(
-            OUTPUT.read_text(encoding="utf-8")
-        )
-
-        if (
-            existing.get("seriesCount") == payload["seriesCount"]
-            and existing.get("series") == payload["series"]
-        ):
-            print(f"Toplam {len(payload['series'])} yayın kaydı bulundu.")
-            print("Veriler değişmedi, JSON güncellenmedi.")
-            return
 
     OUTPUT.write_text(
         json.dumps(
