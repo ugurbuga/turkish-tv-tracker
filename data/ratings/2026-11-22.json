@@ -1,0 +1,282 @@
+{
+    "date": "2026-11-22",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "OMUR USTA",
+                "channel": "NOW",
+                "start_time": "20:45:02",
+                "end_time": "23:42:07",
+                "rating": 7.96,
+                "share": 21.38
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:47:39",
+                "end_time": "24:11:08",
+                "rating": 6.44,
+                "share": 17.86
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:12",
+                "end_time": "23:30:58",
+                "rating": 5.03,
+                "share": 13.57
+            },
+            {
+                "rank": 4,
+                "name": "OMUR USTA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:00",
+                "end_time": "20:44:57",
+                "rating": 4.83,
+                "share": 13.46
+            },
+            {
+                "rank": 5,
+                "name": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:55",
+                "rating": 4.3,
+                "share": 13.21
+            },
+            {
+                "rank": 6,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:46",
+                "end_time": "20:47:28",
+                "rating": 3.71,
+                "share": 10.32
+            },
+            {
+                "rank": 7,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:17",
+                "end_time": "24:28:57",
+                "rating": 3.02,
+                "share": 8.77
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:54",
+                "rating": 2.81,
+                "share": 8.67
+            },
+            {
+                "rank": 9,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:37",
+                "end_time": "21:00:12",
+                "rating": 2.59,
+                "share": 7.09
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:14",
+                "end_time": "20:00:02",
+                "rating": 2.42,
+                "share": 7.44
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "OMUR USTA",
+                "channel": "NOW",
+                "start_time": "20:45:02",
+                "end_time": "23:42:07",
+                "rating": 6.66,
+                "share": 20.49
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:47:39",
+                "end_time": "24:11:08",
+                "rating": 4.88,
+                "share": 15.57
+            },
+            {
+                "rank": 3,
+                "name": "OMUR USTA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:00",
+                "end_time": "20:44:57",
+                "rating": 3.91,
+                "share": 12.56
+            },
+            {
+                "rank": 4,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:12",
+                "end_time": "23:30:58",
+                "rating": 3.66,
+                "share": 11.33
+            },
+            {
+                "rank": 5,
+                "name": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:55",
+                "rating": 3.41,
+                "share": 12.62
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:17",
+                "end_time": "24:28:57",
+                "rating": 2.77,
+                "share": 9.26
+            },
+            {
+                "rank": 7,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:46",
+                "end_time": "20:47:28",
+                "rating": 2.66,
+                "share": 8.49
+            },
+            {
+                "rank": 8,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:37",
+                "end_time": "21:00:12",
+                "rating": 2.1,
+                "share": 6.59
+            },
+            {
+                "rank": 9,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:54",
+                "rating": 1.87,
+                "share": 6.97
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:14",
+                "end_time": "20:00:02",
+                "rating": 1.72,
+                "share": 6.37
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "OMUR USTA",
+                "channel": "NOW",
+                "start_time": "20:45:02",
+                "end_time": "23:42:07",
+                "rating": 7.92,
+                "share": 21.46
+            },
+            {
+                "rank": 2,
+                "name": "DAHA 17",
+                "channel": "KANAL D",
+                "start_time": "20:47:39",
+                "end_time": "24:11:08",
+                "rating": 5.63,
+                "share": 15.7
+            },
+            {
+                "rank": 3,
+                "name": "TESKILAT",
+                "channel": "TRT 1",
+                "start_time": "21:00:12",
+                "end_time": "23:30:58",
+                "rating": 4.76,
+                "share": 12.89
+            },
+            {
+                "rank": 4,
+                "name": "OMUR USTA (OZET)",
+                "channel": "NOW",
+                "start_time": "20:00:00",
+                "end_time": "20:44:57",
+                "rating": 4.71,
+                "share": 13.72
+            },
+            {
+                "rank": 5,
+                "name": "DENIZ URAS ILE NOW ANA HABER HAFTA SONU",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "19:59:55",
+                "rating": 4.22,
+                "share": 13.98
+            },
+            {
+                "rank": 6,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:42:17",
+                "end_time": "24:28:57",
+                "rating": 3.36,
+                "share": 9.82
+            },
+            {
+                "rank": 7,
+                "name": "DAHA 17 (OZET)",
+                "channel": "KANAL D",
+                "start_time": "20:00:46",
+                "end_time": "20:47:28",
+                "rating": 2.99,
+                "share": 8.67
+            },
+            {
+                "rank": 8,
+                "name": "SHOW ANA HABER",
+                "channel": "SHOW TV",
+                "start_time": "18:58:24",
+                "end_time": "19:59:54",
+                "rating": 2.33,
+                "share": 7.75
+            },
+            {
+                "rank": 9,
+                "name": "TESKILAT (OZET)",
+                "channel": "TRT 1",
+                "start_time": "19:59:37",
+                "end_time": "21:00:12",
+                "rating": 2.27,
+                "share": 6.46
+            },
+            {
+                "rank": 10,
+                "name": "KANAL D ANA HABER",
+                "channel": "KANAL D",
+                "start_time": "18:58:14",
+                "end_time": "20:00:02",
+                "rating": 1.96,
+                "share": 6.49
+            }
+        ]
+    }
+}
