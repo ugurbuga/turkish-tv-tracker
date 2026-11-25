@@ -1199,58 +1199,60 @@ def main():
                 str(error)[:300]
             )
 
+    # Geriye dönük haber taraması geçici olarak kapalıdır.
+    # Aşağıdaki blok yeniden etkinleştirilmek istenirse yorum satırlarını kaldırın.
     # Her çalışmada sıradaki tek eski sayfayı tara.
-    state = load_state()
-
-    if state["backfillCompleted"]:
-        print("\nEski haber taraması daha önce tamamlanmış.")
-        print("Sonraki sayfa:", state["nextBackfillPage"])
-
-    else:
-        page_number = state["nextBackfillPage"]
-
-        print("\n========== ESKİ HABER TARAMASI ==========")
-        print("Sıradaki eski sayfa:", page_number)
-
-        try:
-            articles = request_listing_with_retry(page_number)
-
-            if articles is None:
-                state["backfillCompleted"] = True
-                save_state(state)
-                print("Eski haberlerin sonuna ulaşıldı.")
-
-            else:
-                page_success = process_listing_page(
-                    page_number,
-                    articles,
-                    records,
-                    existing,
-                    gemini_key,
-                    attempted_urls
-                )
-
-                if page_success:
-                    state["nextBackfillPage"] = page_number + 1
-                    save_state(state)
-
-                    print(
-                        "Eski sayfa tamamlandı. Sonraki sayfa:",
-                        state["nextBackfillPage"]
-                    )
-
-                else:
-                    print(
-                        "Eski sayfada başarısız haber var. "
-                        "Sayfa imleci ilerletilmedi."
-                    )
-
-        except Exception as error:
-            print(
-                "Eski sayfa tamamlanamadı; aynı sayfa korunacak:",
-                type(error).__name__,
-                str(error)[:300]
-            )
+    # state = load_state()
+    #
+    # if state["backfillCompleted"]:
+    #     print("\nEski haber taraması daha önce tamamlanmış.")
+    #     print("Sonraki sayfa:", state["nextBackfillPage"])
+    #
+    # else:
+    #     page_number = state["nextBackfillPage"]
+    #
+    #     print("\n========== ESKİ HABER TARAMASI ==========")
+    #     print("Sıradaki eski sayfa:", page_number)
+    #
+    #     try:
+    #         articles = request_listing_with_retry(page_number)
+    #
+    #         if articles is None:
+    #             state["backfillCompleted"] = True
+    #             save_state(state)
+    #             print("Eski haberlerin sonuna ulaşıldı.")
+    #
+    #         else:
+    #             page_success = process_listing_page(
+    #                 page_number,
+    #                 articles,
+    #                 records,
+    #                 existing,
+    #                 gemini_key,
+    #                 attempted_urls
+    #             )
+    #
+    #             if page_success:
+    #                 state["nextBackfillPage"] = page_number + 1
+    #                 save_state(state)
+    #
+    #                 print(
+    #                     "Eski sayfa tamamlandı. Sonraki sayfa:",
+    #                     state["nextBackfillPage"]
+    #                 )
+    #
+    #             else:
+    #                 print(
+    #                     "Eski sayfada başarısız haber var. "
+    #                     "Sayfa imleci ilerletilmedi."
+    #                 )
+    #
+    #     except Exception as error:
+    #         print(
+    #             "Eski sayfa tamamlanamadı; aynı sayfa korunacak:",
+    #             type(error).__name__,
+    #             str(error)[:300]
+    #         )
 
     save_daily_news(records)
 
@@ -1268,8 +1270,8 @@ def main():
     print("Toplam benzersiz haber:", len(records))
     print("Tamamlanan:", completed)
     print("Bekleyen:", pending)
-    print("Eski haber sıradaki sayfa:", state["nextBackfillPage"])
-    print("Eski haber taraması tamamlandı:", state["backfillCompleted"])
+    # print("Eski haber sıradaki sayfa:", state["nextBackfillPage"])
+    # print("Eski haber taraması tamamlandı:", state["backfillCompleted"])
     print("Arşiv klasörü:", NEWS_DIR)
 
 

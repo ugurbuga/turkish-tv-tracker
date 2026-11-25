@@ -94,12 +94,9 @@ class NewsScraperRetryTests(unittest.TestCase):
                 with patch.dict(os.environ, {"GEMINI_API_KEY": "test-key"}), patch(
                     "news_scraper.DATA_DIR", root
                 ), patch("news_scraper.NEWS_DIR", root), patch(
-                    "news_scraper.load_state",
-                    return_value={"nextBackfillPage": 24, "backfillCompleted": False},
-                ), patch("news_scraper.save_state") as save_state, patch(
                     "news_scraper.request_listing_with_retry",
                     side_effect=lambda _page: [dict(pending)],
-                ), patch(
+                ) as listing, patch(
                     "news_scraper.fetch_article_detail",
                     side_effect=lambda article: {
                         **article, "articleText": "Article text " * 10
@@ -120,10 +117,10 @@ class NewsScraperRetryTests(unittest.TestCase):
                     2 if fail else 0,
                 )
                 self.assertEqual(len(saved), 3)
-                if fail:
-                    save_state.assert_not_called()
-                else:
-                    self.assertEqual(save_state.call_count, 2)
+                self.assertEqual(
+                    listing.call_args_list,
+                    [call(1), call(1)],
+                )
 
     def test_completed_article_is_not_reprocessed(self):
         current = {**self.article, "aiStatus": "completed"}
