@@ -1,0 +1,282 @@
+{
+    "date": "2026-11-26",
+    "source": "Ratings",
+    "audiences": {
+        "TOTAL": [
+            {
+                "rank": 1,
+                "name": "BESIKTAS-HAPOEL BEER SHEVA UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:34:18",
+                "end_time": "23:17:27",
+                "rating": 13.2,
+                "share": 32.82
+            },
+            {
+                "rank": 2,
+                "name": "CSKA SOFYA-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:17:27",
+                "end_time": "25:05:06",
+                "rating": 8.32,
+                "share": 34.53
+            },
+            {
+                "rank": 3,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:56",
+                "end_time": "24:01:31",
+                "rating": 5.32,
+                "share": 13.62
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:19",
+                "end_time": "18:50:11",
+                "rating": 5.11,
+                "share": 21.64
+            },
+            {
+                "rank": 5,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:55",
+                "rating": 4.74,
+                "share": 33.26
+            },
+            {
+                "rank": 6,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 4.41,
+                "share": 13.25
+            },
+            {
+                "rank": 7,
+                "name": "GUNESIN DOGDUGU YER",
+                "channel": "ATV",
+                "start_time": "21:00:08",
+                "end_time": "24:16:40",
+                "rating": 4.33,
+                "share": 11.08
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:56:07",
+                "rating": 4.27,
+                "share": 12.83
+            },
+            {
+                "rank": 9,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:36",
+                "end_time": "20:59:56",
+                "rating": 3.76,
+                "share": 9.98
+            },
+            {
+                "rank": 10,
+                "name": "GUNESIN DOGDUGU YER (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "21:00:08",
+                "rating": 3.53,
+                "share": 9.41
+            }
+        ],
+        "AB": [
+            {
+                "rank": 1,
+                "name": "BESIKTAS-HAPOEL BEER SHEVA UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:34:18",
+                "end_time": "23:17:27",
+                "rating": 15.78,
+                "share": 42.2
+            },
+            {
+                "rank": 2,
+                "name": "CSKA SOFYA-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:17:27",
+                "end_time": "25:05:06",
+                "rating": 8.9,
+                "share": 39.66
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 5.0,
+                "share": 17.5
+            },
+            {
+                "rank": 4,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:19",
+                "end_time": "18:50:11",
+                "rating": 3.44,
+                "share": 18.05
+            },
+            {
+                "rank": 5,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:56",
+                "end_time": "24:01:31",
+                "rating": 3.21,
+                "share": 8.79
+            },
+            {
+                "rank": 6,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:55",
+                "rating": 3.06,
+                "share": 28.6
+            },
+            {
+                "rank": 7,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:56:07",
+                "rating": 2.61,
+                "share": 9.13
+            },
+            {
+                "rank": 8,
+                "name": "MASTERCHEF TURKIYE",
+                "channel": "TV8",
+                "start_time": "20:52:38",
+                "end_time": "24:23:55",
+                "rating": 2.6,
+                "share": 7.51
+            },
+            {
+                "rank": 9,
+                "name": "GUNESIN DOGDUGU YER",
+                "channel": "ATV",
+                "start_time": "21:00:08",
+                "end_time": "24:16:40",
+                "rating": 2.53,
+                "share": 6.92
+            },
+            {
+                "rank": 10,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:36",
+                "end_time": "20:59:56",
+                "rating": 2.5,
+                "share": 7.36
+            }
+        ],
+        "ABC1": [
+            {
+                "rank": 1,
+                "name": "BESIKTAS-HAPOEL BEER SHEVA UEFA AVRUPA LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "20:34:18",
+                "end_time": "23:17:27",
+                "rating": 16.22,
+                "share": 38.95
+            },
+            {
+                "rank": 2,
+                "name": "CSKA SOFYA-TRABZONSPOR UEFA AVRUPA KONFERANS LIGI KARSILASMASI",
+                "channel": "TRT 1",
+                "start_time": "23:17:27",
+                "end_time": "25:05:06",
+                "rating": 9.67,
+                "share": 37.41
+            },
+            {
+                "rank": 3,
+                "name": "OZAN GUNDOGDU ILE NOW ANA HABER",
+                "channel": "NOW",
+                "start_time": "19:00:08",
+                "end_time": "20:00:06",
+                "rating": 5.49,
+                "share": 17.15
+            },
+            {
+                "rank": 4,
+                "name": "MUGE ANLI ILE TATLI SERT",
+                "channel": "ATV",
+                "start_time": "10:00:05",
+                "end_time": "12:59:55",
+                "rating": 4.66,
+                "share": 34.32
+            },
+            {
+                "rank": 5,
+                "name": "ESRA EROL'DA",
+                "channel": "ATV",
+                "start_time": "16:21:19",
+                "end_time": "18:50:11",
+                "rating": 4.33,
+                "share": 20.7
+            },
+            {
+                "rank": 6,
+                "name": "SEVDIGIM SENSIN",
+                "channel": "STAR TV",
+                "start_time": "20:59:56",
+                "end_time": "24:01:31",
+                "rating": 4.24,
+                "share": 10.34
+            },
+            {
+                "rank": 7,
+                "name": "GUNESIN DOGDUGU YER",
+                "channel": "ATV",
+                "start_time": "21:00:08",
+                "end_time": "24:16:40",
+                "rating": 3.71,
+                "share": 9.03
+            },
+            {
+                "rank": 8,
+                "name": "ATV ANA HABER",
+                "channel": "ATV",
+                "start_time": "19:00:05",
+                "end_time": "19:56:07",
+                "rating": 3.59,
+                "share": 11.24
+            },
+            {
+                "rank": 9,
+                "name": "GUNESIN DOGDUGU YER (OZET)",
+                "channel": "ATV",
+                "start_time": "20:00:05",
+                "end_time": "21:00:08",
+                "rating": 3.2,
+                "share": 8.66
+            },
+            {
+                "rank": 10,
+                "name": "SEVDIGIM SENSIN (OZET)",
+                "channel": "STAR TV",
+                "start_time": "20:00:36",
+                "end_time": "20:59:56",
+                "rating": 3.17,
+                "share": 8.55
+            }
+        ]
+    }
+}
